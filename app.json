@@ -23,7 +23,8 @@
     },
     "web": {
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+      "favicon": "./assets/images/favicon.png",
+      "bundler": "metro"
     },
     "plugins": [
       "expo-router",
@@ -43,6 +44,15 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
-  }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "2a64adae-6bee-432f-9c6b-6761733538e8"
+      }
+    },
+    "owner": "jardarr",
+    "sdkVersion": "54.0.0"
+  },
+  "name": "gjallarbru"
 }
