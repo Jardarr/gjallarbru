@@ -1,24 +1,26 @@
-import { Image } from 'expo-image';
+import "../../src/i18n"
 import { Platform, StyleSheet } from 'react-native';
-
 import { HelloWave } from '@/components/hello-wave';
 import ParallaxScrollView from '@/components/parallax-scroll-view';
 import { ThemedText } from '@/components/themed-text';
 import { ThemedView } from '@/components/themed-view';
 import { Link } from 'expo-router';
+import { useTranslation } from "react-i18next";
+import LanguageButton from '@/components/language-button';
 
 export default function HomeScreen() {
+  const { t } = useTranslation();
   return (
     <ParallaxScrollView
-      headerBackgroundColor={{ light: '#A1CEDC', dark: '#1D3D47' }}
-      headerImage={
-        <Image
-          source={require('@/assets/images/partial-react-logo.png')}
-          style={styles.reactLogo}
-        />
-      }>
+      headerBackgroundColor={{ light: '#8ddbf3', dark: '#1D3D47' }}>
+        <LanguageButton />
       <ThemedView style={styles.titleContainer}>
-        <ThemedText type="title"></ThemedText>
+        <ThemedText type="title">
+          {t("welcome")}
+          <ThemedText
+            type="title"
+            style={styles.titleContainer}>{t("name")}</ThemedText>
+        </ThemedText>
         <HelloWave />
       </ThemedView>
       <ThemedView style={styles.stepContainer}>
