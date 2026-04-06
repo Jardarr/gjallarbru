@@ -1,0 +1,293 @@
+{
+  "slug": "the-lay-of-hjalmar",
+  "key": "TheLayOfHjalmar",
+  "title": {
+    "on": "Hjálmarskviða",
+    "ru": "Песнь о Хьяльмаре",
+    "en": "The Lay of Hjalmar"
+  },
+  "description": {
+    "on": "",
+    "ru": "Что с тобой, Хьяльмар? В лице изменился ты. Тебя утомили многие раны; шлем твой изрублен, кольчуга на ребрах, нынче скажу — жизнь тебя покидает.",
+    "en": "The Lay of Hjalmar"
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе Т. Ермолаева",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Hvat er þér, Hjálmarr?",
+          "Hefr þú lit brugðit,",
+          "þik kveð ek mæða",
+          "miklar undir;",
+          "hjálmr er þinn höggvinn,",
+          "en á hlið brynja;",
+          "nú kveð ek fjörvi",
+          "of farit þínu.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"Hjálmarr kvað:",
+          "Sár hefi ek sextán,",
+          "slitna brynju:",
+          "svart er mér fyrir sjónum,",
+          "sék-a ek ganga;",
+          "hneit mér við hjarta",
+          "hjörr Angantýs,",
+          "hvass blóðrefill",
+          "herðr í eitri.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Áttak á foldu",
+          "fimm tún saman,",
+          "en ek því aldri",
+          "unða ráði;",
+          "nú verð ek liggja",
+          "lífs andvani,",
+          "sverði undaðr,",
+          "í Sámseyju.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Drekka í höllu",
+          "húskarlar mjöð,",
+          "menjum göfgir,",
+          "at míns föður;",
+          "mæðir marga",
+          "mungát fira,",
+          "en mik eggja spor",
+          "í enju þjá.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Hvarf ek frá hvítri",
+          "hlaðs beðgunni",
+          "á Agnafit",
+          "útanverðri;",
+          "saga mun sannask,",
+          "sú er hon sagði mér,",
+          "at aftr koma",
+          "eigi mundak.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Hvarf ek frá fögrum",
+          "fljóða söngvi,",
+          "ótrauðr gamans",
+          "austr við Sóta;",
+          "för skundaðak",
+          "ok fórk í lið",
+          "hinzta sinni",
+          "frá hollvinum.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Drag þú mér af hendi",
+          "hring inn rauða",
+          "færðu inni ungu",
+          "Ingibjörgu;",
+          "sá mun henni",
+          "hugfastr tregi,",
+          "er ek eigi kem",
+          "til Uppsala.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"Hrafn flýgr austan",
+          "af háum meiði,",
+          "flýgr honum eftir",
+          "örn í sinni;",
+          "þeim gef ek erni",
+          "efstum bráðir;",
+          "sá mun á blóði",
+          "bergja mínu.\""
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Что с тобой, Хьяльмар?",
+          "В лице изменился ты.",
+          "Тебя утомили",
+          "многие раны;",
+          "шлем твой изрублен,",
+          "кольчуга на ребрах,",
+          "нынче скажу — жизнь",
+          "тебя покидает.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"Шестнадцать раз ранен,",
+          "кольчуга разорвана,",
+          "черно пред глазами,",
+          "пути не вижу;",
+          "ранил мне сердце",
+          "клинок Ангантюра,",
+          "острый кончик меча,",
+          "закаленный в яде.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Имел я всего",
+          "пять дворов вместе,",
+          "но тем никогда",
+          "не был доволен;",
+          "лег я теперь",
+          "жизни лишенный,",
+          "мечом израненный,",
+          "на острове Самсей.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Пьют в чертоге",
+          "работники мед",
+          "в ожерельях прекрасных",
+          "у отца моего;",
+          "многих людей",
+          "утомляет пиво,",
+          "меня ж лезвий следы",
+          "на острове мучают.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Иду я с белого",
+          "поля битвы",
+          "на Агнафите",
+          "отсюда вовне;",
+          "подтвердится рассказ,",
+          "ею поведанный,",
+          "о том, что назад",
+          "я не вернусь.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Сними с руки моей",
+          "кольцо красное,",
+          "отнеси юной",
+          "Ингибьерг;",
+          "будет ей",
+          "неизбывное горе,",
+          "что не приду",
+          "в Уппсалу я.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Покидаю прекрасную",
+          "женщин песню",
+          "желающий радости",
+          "на восток с Соти;",
+          "в путь тороплюсь я,",
+          "иду я в войско",
+          "в последний раз",
+          "от верных друзей.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"Ворон летит с востока",
+          "с высокого древа,",
+          "летит за ним",
+          "орел следом;",
+          "с орлом горним",
+          "им дам я пищу,",
+          "отведает тот",
+          "крови моей.\""
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "..."
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

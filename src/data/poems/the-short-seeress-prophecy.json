@@ -1,0 +1,699 @@
+{
+  "slug": "the-short-seeress-prophecy",
+  "key": "TheShortSeeressProphecy",
+  "title": {
+    "on": "Völuspá in skamma",
+    "ru": "Краткое Прорицание вёльвы",
+    "en": "The Short Seeress' Prophecy"
+  },
+  "description": {
+    "on": "",
+    "ru": "В живых оставалось одиннадцать асов, когда Бальдр пал у смерти бугра; обещал тогда Вали за брата отмстить, и поразил он брата убийцу.",
+    "en": "\"Eleven in number the gods were known, When Baldr o'er the hill of death was bowed; And this to avenge was Vali swift, When his brother's slayer soon he slew.\""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе А. И. Корсуна",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Váru ellifu",
+          "æsir talðir,",
+          "Baldr er hné,",
+          "við banaþúfu;",
+          "þess lézk Váli",
+          "verðr at hefna,",
+          "síns of bróður",
+          "sló hann handbana.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"Var Baldrs faðir",
+          "Burs arfþegi,",
+          "Freyr átti Gerði,",
+          "hon var Gymis dóttir,",
+          "jötna ættar,",
+          "ok Aurboðu;",
+          "þó var Þjazi,",
+          "þeira frændi,",
+          "skrautgjarn jötunn,",
+          "hans var Skaði dóttir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Margt segjum þér",
+          "ok munum fleira;",
+          "vörumk, at viti svá.",
+          "Viltu enn lengra?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Haki var Hveðnu",
+          "hóti beztr sona,",
+          "en Hveðnu var",
+          "Hjörvarðr faðir;",
+          "Heiðr ok Hrossþjófr",
+          "Hrímnis kindar.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Eru völur allar",
+          "frá Viðolfi,",
+          "vitkar allir",
+          "frá Vilmeiði,",
+          "seiðberendr",
+          "frá Svarthöfða,",
+          "jötnar allir",
+          "frá Ymi komnir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Margt segjum þér",
+          "ok munum fleira;",
+          "vörumk, at viti svá.",
+          "Viltu enn lengra?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Varð einn borin",
+          "í árdaga",
+          "rammaukinn mjök",
+          "rögna kindar;",
+          "níu báru þann",
+          "naddgöfgan mann",
+          "jötna meyjar",
+          "við jarðar þröm.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"Hann Gjalp of bar,",
+          "hann Greip of bar,",
+          "bar hann Eistla",
+          "ok Eyrgjafa,",
+          "hann bar Ulfrún",
+          "ok Angeyja,",
+          "Imdr ok Atla",
+          "ok Járnsaxa.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Sá var aukinn",
+          "jarðar megni,",
+          "svalköldum sæ",
+          "ok sónardreyra.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Margt segjum þér",
+          "ok munum fleira;",
+          "vörumk, at viti svá.",
+          "Viltu enn lengra?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"Ól ulf Loki",
+          "við Angrboðu,",
+          "en Sleipni gat",
+          "við Svaðilfara;",
+          "eitt þótti skass",
+          "allra feiknast,",
+          "þat var bróður frá",
+          "Býleists komit.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Loki át hjarta",
+          "lindi brenndu,",
+          "fann hann halfsviðinn",
+          "hugstein konu;",
+          "varð Loftr kviðugr",
+          "af konu illri;",
+          "þaðan er á foldu",
+          "flagð hvert komit.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Haf gengr hríðum",
+          "við himin sjalfan,",
+          "líðr lönd yfir,",
+          "en loft bilar;",
+          "þaðan koma snjóvar",
+          "ok snarir vindar;",
+          "þá er í ráði,",
+          "at rögn of þrjóti.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Varð einn borinn",
+          "öllum meiri,",
+          "sá var aukinn",
+          "jarðar megni;",
+          "þann kveða stilli",
+          "stórúðgastan",
+          "sif sifjaðan",
+          "sjötum görvöllum.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Þá kemr annarr",
+          "enn máttkari,",
+          "þó þori ek eigi",
+          "þann at nefna;",
+          "fáir séa nú",
+          "fram of lengra",
+          "en Óðinn mun",
+          "ulfi mæta.\""
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"В живых оставалось",
+          "одиннадцать асов,",
+          "когда Бальдр пал",
+          "у смерти бугра;",
+          "обещал тогда Вали",
+          "за брата отмстить,",
+          "и поразил он",
+          "брата убийцу.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"Бальдра отец",
+          "был наследником Бура,",
+          "Фрейр в жены взял Герд,",
+          "Гюмира дочь,",
+          "етуна родом,",
+          "жена его Аурбода;",
+          "Тьяци их родич,",
+          "к сокровищам жадный,",
+          "дочерью Тьяци",
+          "Скади была.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Я много сказала,",
+          "но больше скажу, —",
+          "ты знать это должен;",
+          "будешь ли слушать?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Хаки был сыном",
+          "достойнейшим Хведны,",
+          "а Хведны отец",
+          "Хьервардом звался,",
+          "Хейд и Хросстьов —",
+          "потомки Хримнира.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"От Видольва род свой",
+          "все вельвы ведут,",
+          "от Вильмейда род",
+          "ведут все провидцы,",
+          "а все чародеи —",
+          "от Черной Главы,",
+          "а етунов племя —",
+          "от Имира корня.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Я много сказала,",
+          "но больше скажу, —",
+          "ты знать это должен:",
+          "будешь ли слушать?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"В давние годы",
+          "родился однажды",
+          "могучий герой",
+          "из рода богов;",
+          "дочери етунов —",
+          "девять их было —",
+          "родили его",
+          "у края земли.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"Родила его Гьяльп,",
+          "родила его Грейн,",
+          "родила его Эйстла,",
+          "родила его Эйргьява,",
+          "родила его Ангейя,",
+          "Атла и Ульврун,",
+          "Имд и Ярнсакса",
+          "героя родили.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Взял силу земли он,",
+          "студеного моря",
+          "и силу кабаньей",
+          "жертвенной крови.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Я много сказала,",
+          "но больше скажу, —",
+          "ты знать это должен;",
+          "будешь ли слушать?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"От Ангрбоды Локи",
+          "Волка родил,",
+          "а Слейпнир — сын Локи",
+          "от Свадильфари;",
+          "еще одно чудище,",
+          "самое злое,",
+          "на свет рождено",
+          "Бюлейста братом.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Найдя на костре",
+          "полусгоревшее",
+          "женщины сердце,",
+          "съел его Локи;",
+          "так Лофт зачал",
+          "от женщины злой;",
+          "отсюда пошли",
+          "все ведьмы на свете.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Ветер вздымает",
+          "до неба валы,",
+          "на сушу бросает их,",
+          "небо темнеет;",
+          "мчится буран,",
+          "и бесятся вихри;",
+          "это предвестья",
+          "кончины богов.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Родился один",
+          "самый могучий,",
+          "силы земли",
+          "питали его;",
+          "самый, как слышно,",
+          "великий властитель,",
+          "родич для всех",
+          "людей на земле.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Но будет еще",
+          "сильнейший из всех,",
+          "имя его",
+          "назвать я не смею;",
+          "мало кто ведает,",
+          "что совершится",
+          "следом за битвой",
+          "Одина с Волком.\""
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Eleven in number",
+          "the gods were known,",
+          "When Baldr o'er the hill",
+          "of death was bowed;",
+          "And this to avenge",
+          "was Vali swift,",
+          "When his brother's slayer",
+          "soon he slew.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"The father of Baldr",
+          "was the heir of Bur,",
+          "Freyr's wife was Gerth,",
+          "the daughter of Gymir,",
+          "Of the giants' brood,",
+          "and Aurbotha bore her;",
+          "To these as well",
+          "was Thjazi kin,",
+          "The dark-loving giant;",
+          "his daughter was Skathi.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Much have I told thee,",
+          "and further will tell;",
+          "There is much that I know;",
+          "wilt thou hear yet more?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Heith and Hrossthjof,",
+          "the children of Hrimnir.",
+          "Of Hvethna's sons",
+          "Haki was best by a bit,",
+          "by Hjorvarth was",
+          "Hvethna's father.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"The sybils arose",
+          "from Vitholf's race,",
+          "From Vilmeith all",
+          "the seers are,",
+          "And the workers of charms",
+          "are Svarthofthi's children,",
+          "And from Ymir sprang",
+          "the giants all.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Much have I told thee,",
+          "and further will tell;",
+          "There is much that I know;",
+          "wilt thou hear yet more?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"One there was born",
+          "in the bygone days,",
+          "Of the race of the gods,",
+          "and great was his might;",
+          "Nine giant women,",
+          "at the world's edge,",
+          "Once bore the man",
+          "so mighty in arms.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"Gjolp there bore him,",
+          "Greip there bore him,",
+          "Eistla bore him,",
+          "and Eyrgjafa,",
+          "Ulfrun bore him,",
+          "and Angeyja,",
+          "Imth and Atla,",
+          "and Jarnsaxa.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Strong was he made",
+          "with the strength of earth,",
+          "With the ice-cold sea,",
+          "and the blood of swine.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Much have I told thee,",
+          "and further will tell;",
+          "There is much that I know;",
+          "wilt thou hear yet more?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"The wolf did Loki",
+          "with Angrbotha win,",
+          "And Sleipnir bore he",
+          "to Svathilfari;",
+          "The worst of marvels",
+          "seemed the one",
+          "That sprang from the brother",
+          "of Byleist then.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"A heart ate Loki,",
+          "in the embers it lay,",
+          "And half-cooked found he",
+          "the woman's heart;",
+          "With child from the woman",
+          "Lopt soon was,",
+          "And thence among men",
+          "came the monsters all.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"The sea, storm-driven,",
+          "seeks heaven itself,",
+          "O'er the earth it flows,",
+          "the air grows sterile;",
+          "Then follow the snows",
+          "and the furious winds,",
+          "For the gods are doomed,",
+          "and the end is death.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"One there was born,",
+          "the best of all,",
+          "And strong was he made",
+          "with the strength of earth;",
+          "The proudest is called",
+          "the kinsman of men",
+          "Of the rulers all",
+          "throughout the world.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Then comes another,",
+          "a greater than all,",
+          "Though never I dare",
+          "his name to speak;",
+          "Few are they now",
+          "that farther can see",
+          "Than the moment when Othin",
+          "shall meet the wolf.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

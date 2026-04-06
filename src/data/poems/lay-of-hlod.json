@@ -1,0 +1,2044 @@
+{
+  "slug": "lay-of-hlod",
+  "key": "LayOfHlod",
+  "title": {
+    "on": "Hlöðskviða",
+    "ru": "Песнь о Хлёде",
+    "en": "Lay of Hlöd"
+  },
+  "description": {
+    "on": "",
+    "ru": "Хумли, как слышно, гуннами правил, а гаутами — Гицур, Ангантюр — готами, данами — Вальдар, а валами — Кьяр и Альрек Храбрый — англов народом.",
+    "en": "\"Of yore, say they, Humli over Huns held sway; Gizur over Gauts; over Goths, Angantýr; Valdar over Danes, but over the Welsh, Kíar; and Alrek the Bold over English folk.\""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе А. И. Корсуна",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Ar kváðu Humla",
+          "Húnum ráða,",
+          "Gizur Gautum,",
+          "Gotum Angantý,",
+          "Valdarr Dönum,",
+          "en Völum Kíarr,",
+          "Alrekr inn frækni",
+          "enskri þjóðu.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"Hlöðr var þar borinn",
+          "í Húnalandi",
+          "saxi ok með sverði,",
+          "síðri brynju,",
+          "hjalmi hringreifðum,",
+          "hvössum mæki,",
+          "mari vel tömum",
+          "á mörk inni helgu.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Hlöðr reið austan,",
+          "Heiðreks arfi;",
+          "kom hann at garði,",
+          "þar er Gotar byggja,",
+          "á Árheima,",
+          "arfs at kveðja;",
+          "þar drakk Angantýr",
+          "erfi Heiðreks.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Segg fann hann úti",
+          "fyr sal hávum",
+          "ok síðförlan",
+          "síðan kvaddi?",
+          "Inn gakktu, seggr,",
+          "í sal hávan,",
+          "bið mér Angantý",
+          "andspjöll bera.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Sá gekk inn fyrir konungs borð ok kvaddi Angantý konung vel ok mælti síðan:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Hér er Hlöðr kominn,",
+          "Heiðreks arfþegi,",
+          "bróðir þinn",
+          "inn böðskái;",
+          "mikill er sá maðr ungr",
+          "á mars baki,",
+          "vill nú, þjóðann,",
+          "við þik tala.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Rymr varð í ranni,",
+          "risu með góðum;",
+          "vildi hverr heyra,",
+          "hvat Hlöðr mælti",
+          "ok þat, er Angantýr",
+          "andsvör veitti.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Þá mælti Angantýr:",
+          "Heill kom þú, Hlöðr,",
+          "Heiðreks arfi,",
+          "bróðir minn,",
+          "gakk á bekk sitja;",
+          "drekkum Heiðreks",
+          "hollar veigar",
+          "feðr okkrum",
+          "fyrstum manna,",
+          "vín eða mjöð,",
+          "hvárts þér vildra þykkir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"Þá kvað Hlöðr:",
+          "Til annars vér",
+          "en öl at drekka",
+          "hingat fórum",
+          "af Húna landi",
+          "þigg-a-k, þjóðann,",
+          "þínar veigar.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Hafa vil ek halft allt,",
+          "þat er Heiðrekr átti,",
+          "al ok af oddi,",
+          "einum skatti,",
+          "kú ok af kalfi,",
+          "kvern þjótandi,",
+          "þý ok af þræli",
+          "ok þeira barni;\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Hrís þat it mæra,",
+          "er Myrkvið heita,",
+          "gröf þá ina helgu,",
+          "er stendr á Goðþjóðu,",
+          "stein þann inn fagra,",
+          "er stendr á stöðum Danpar,",
+          "halfar herborgir,",
+          "þær er Heiðrekr átti,",
+          "lönd ok lýða",
+          "ok ljósa bauga.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"Angantýr kvað:",
+          "Bresta mun fyrr, bróðir,",
+          "in blikhvíta lind",
+          "ok kaldr geirr",
+          "koma við annan",
+          "ok margr gumi",
+          "í gras hníga,",
+          "áðr en Tyrfing",
+          "í tvau deilak",
+          "eða þér, Humlungr,",
+          "halfan arf látak.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Ek mun bjóða þér",
+          "bjartar vigrar,",
+          "fé ok fjölð meiðma,",
+          "sem þik fremst tíðir;",
+          "tolf hundruð gef ek þér manna,",
+          "tolf huhdruð gef ek þér mara,",
+          "tolf hundruð gef ek þér skálka,",
+          "þeira er skjöld bera.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Manni gef ek hverjum",
+          "margt at þiggja",
+          "annat æðra",
+          "en hann á at ráða;",
+          "mey gef ek hverjum",
+          "manni at þiggja,",
+          "men spenni ek hverri",
+          "meyju at halsi.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Mun ek um þik sitjanda",
+          "silfri mæla,",
+          "en ganganda þik",
+          "gulli steypa,",
+          "svá at á vega alla",
+          "velti baugar;",
+          "þriðjung Goðþjóðar, —",
+          "því skaltu ráða.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Gizurr Grýtingaliði, fóstri Heiðreks konungs, var þá með Angantý konungi. Hann var þá ofrgamall. Ok er hann heyrði boð Angantýs, þótti honum hann of mikit bjóða ok kvað þá:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Þetta er þiggjanda",
+          "þýjar barni,",
+          "barni þýjar,",
+          "þótt sé borinn konungi;",
+          "þá hornungr",
+          "á haugi sat,",
+          "er öðlingr",
+          "arfi skipti.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Hlöðr reiddist nú mjök, er hann var þýbarn ok hornungr kallaðr, ef hann þægi boð bróður síns, ok sneri hann þá þegar í burt með alla sína menn, til þess er hann kom heim í Húnaland til Humla konungs, frænda síns, ok sagði honum, at Angantýr, bróðir hans, hefði synjat honum helmingaskiptis.",
+          "Humli spyrr nú allt tal þeira. Varð hann þá reiðr mjök, ef Hlöðr, dóttursonr hans, skyldi ambáttarsonr heita, ok kvað þá:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "\"Sitja skulu vér í vetr",
+          "ok sælliga lifa,",
+          "drekka ok dæma",
+          "dýrar veigar,",
+          "kenna Húnum",
+          "hervápn búa,",
+          "þau er fræknliga",
+          "skulum fram bera.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "\"Vel skulum þér, Hlöðr,",
+          "herlið búa",
+          "ok framliga",
+          "fylki týja;",
+          "með tolf vetra mengi",
+          "ok tvævetrum fola,",
+          "svá skal Húna",
+          "her of samna.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Þenna vetr sátu þeir Humli ok Hlöðr um kyrrt. Um várit drógu þeir her saman svá mikinn, at aleyða var eftir vígra manna í Húnalandi...",
+          "Sem þessi herr kom saman, riðu þeir skóg þann, er Myrkviðr heitir, er skilr Húnaland ok Gotaland. En sem þeir kómu af skóginum, þá váru byggðir stórar ok vellir sléttir, ok á völlunum stóð borg ein fögr, en þar réð fyrir Hervör, systir Angantýs konungs, ok Ormarr, fóstri hennar. Váru þau sett þar til landgæzlu fyrir her Húna, ok höfðu þau þar mikit lið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "\"Skal ek víst ríða",
+          "ok rönd bera,",
+          "*********",
+          "Gota þjóðum",
+          "gunni at heyja.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Þá reið Ormarr af borginni ok í mót hernum. Hann kallaði hátt ok bað þá ríða til borgarinnar, — ok úti fyrir borgarhliðinu suðr á völlinn — þar býð ek yðr til orrostu. Bíði þeir þar annarra, er fyrr koma.",
+          "Nú reið Ormarr aftr til borgarinnar, ok var Hervör þá albúin ok allr herr. Riðu þau nú út af borginni með hernum móti Húnum, ok hófsk þar allmikil orrosta. En með því at Húnar hafa lið miklu meira, sneri mannfallinu í lið þeira Hervarar, ok um síðir fell Hervör ok mikit lið umhverfis hana.",
+          "En er Ormarr sá fall hennar, flýði hann ok allir þeir, er lífit þágu. Ormarr reið dag ok nótt, sem mest mátti hann, á fund Angantýs konungs í Árheima...",
+          "Og sem Ormarr kom fyrir Angantý konung, þá kvað hann:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"Sunnan em ek kominn",
+          "at segja spjöll þessi:",
+          "Sviðin er öll in mæra",
+          "Myrkviðar heiðr,",
+          "drifin öll Goðþjóð",
+          "gumna blóði.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "\"Mey veit ek Heiðreks,",
+          "(fyr mækis eggjum),",
+          "systur þína,",
+          "svigna til jarðar;",
+          "hafa Húnar",
+          "hana fellda",
+          "ok marga aðra",
+          "yðra þegna.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "\"Léttari gerðisk hon at böð",
+          "en við biðil ræða",
+          "eða í bekk at fara",
+          "at brúðar gangi.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Angantýr konungr, þá er hann heyrði þetta, brá hann grönum ok varð seint til orða ok mælti þetta um síðir:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "\"Óbróðurliga vartu leikin,",
+          "in ágæta systir!",
+          "Mjök várum vér margir,",
+          "er vér mjöð drukkum,",
+          "nú erum vér færi,",
+          "er vér fleiri skyldum.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Ok síðan leit hann yfir hirðina, ok var ekki margt liðs með honum. Hann kvað þá:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"Sé ek eigi mann",
+          "í mínu liði,",
+          "þótt ek biðja",
+          "ok baugum kaupa,",
+          "er muni ríða",
+          "ok rönd bera",
+          "ok þeira Húna",
+          "herlið finna.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "\"Gizurr gamli sagði:",
+          "Ek mun þik einkis",
+          "eyris krefja",
+          "né skjallanda",
+          "skarfs ór gulli;",
+          "þó mun ek ríða",
+          "ok rönd bera,",
+          "Húna þjóðum",
+          "herstaf bjóða.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "...Gizurr herklæddist með góðum hervápnum ok hljóp á hest sinn, sem ungr væri. Þá mælti hann til konungs:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "\"Hvar skal ek Húnum",
+          "hervíg kenna?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Angantýr kvað:",
+          "\"Kenndu at Dylgju",
+          "ok á Dúnheiði",
+          "ok á þeim öldnum",
+          "Jassarfjöllum;",
+          "þar oft Gotar",
+          "gunni háðu",
+          "ok fagran sigr",
+          "frægir vágu.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Nú reið Gizurr í brott ok þar til, er hann kom í her Húna. Hann reið eigi nær en svá, at hann mátti tala við þá. Þá kallar hann hári röddu ok kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "\"Felmtr er yðru fylki,",
+          "feigr er yðvarr vísi,",
+          "gnæfar yðr gunnfani,",
+          "gramr er yðr Óðinn.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "\"Býð ek yðr at Dylgju",
+          "ok á Dúnheiði",
+          "orrostu undir",
+          "Jassarfjöllum,",
+          "hræsi yður",
+          "at há hverju,",
+          "ok láti svá Óðinn flein fljúga",
+          "sem ek fyrir mæli.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Þá er Hlöðr hafði heyrt orð Gizurar, þá kvað hann:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "\"Taki þér Gizur",
+          "Grýtingaliða,",
+          "mann Angantýs,",
+          "kominn af Árheimum.\"",
+          "",
+          "Humli konungr sagði:",
+          "\"Eigi skulum",
+          "árum spilla,",
+          "þeim er fara",
+          "einir saman.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Gizurr drap þá hest sinn með sporum ok reið á fund Angantýs konungs...Angantýr spyrr, hvat mikit lið Húnar hafa. Gizurr mælti: Mikit er þeira mengi:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "\"Sex ein eru",
+          "seggja fylki,",
+          "í fylki hverju",
+          "fimm þúsundir,",
+          "í þúsund hverri",
+          "þrettán hundruð,",
+          "í hundraði hverju",
+          "halir fjórtalðir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Angantýr spyrr nú til Húna hers. Þá sendi hann alla vegu menn frá sér ok stefndi hverjum manni til sín, er honum vildi lið veita ok vápnum mætti valda. Fór hann þá á Dúnheiði með lið sitt, ok var þat allmikill herr. Kom þá á móti honum herr Húna, ok höfðu þeir lið hálfu fleira.",
+          "At öðrum degi hófu þeir sína orrostu ok börðust allan þann dag ok fóru at kveldi í herbúðir sínar. Þeir börðust svá átta daga, at höfðingjar váru enn heilir, en engi vissi manntal, hvat margt fell. En bæði dag ok nótt dreif lið til Angantýs af öllum vegum, ok þá kom svá, at hann hafði eigi færa fólk en í fyrstu. Varð nú orrostan enn ákafari. Váru Húnar allákafir ok sá þá sinn kost, at sú ein var lífs ván, ef þeir sigruðust, ok illt mundi Gota griða at biðja. Gotar vörðu frelsi sitt ok fóstrjörð fyrir Húnum, stóðu því fast, ok eggjaði hverr annan. Þá er á leið daginn, gerðu Gotar atgöngu svá harða, at fylkingar Húna svignuðu fyrir. Ok er Angantyýr sá þat, gekk hann fram ór skjaldborginni ok í öndverða fylking ok hafði í hendi Tyrfing ok hjó þá bæði menn ok hesta. Raufst þá skjaldborg fyrir Húna konungum, ok skiptust þeir bræðr höggum við. Þar fell Hlöðr ok Humli konungr, ok þá brast flótti á Húnum, en Gotar drápu þá...Angantýr konungr gekk þá at kanna valinn ok fann Hlöð, bróður sinn. Þá kvað hann:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "\"Bauð ek þér, bróðir,",
+          "basmir óskerðar,",
+          "fé ok fjölð meiðma,",
+          "sem þik fremst tíddi;",
+          "nú hefir þú hvárki",
+          "hildar at gjöldum",
+          "ljósa bauga",
+          "né land ekki.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "\"Bölvat er okkr, bróðir,",
+          "bani em ek þinn orðinn;",
+          "þat mun æ uppi;",
+          "illr er dómr norna.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Хумли, как слышно,",
+          "гуннами правил,",
+          "а гаутами — Гицур,",
+          "Ангантюр — готами,",
+          "данами — Вальдар,",
+          "а валами — Кьяр",
+          "и Альрек Храбрый —",
+          "англов народом.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"Хлед родился",
+          "в гуннской земле,",
+          "в священном лесу,",
+          "с ножом и мечом,",
+          "остро отточенным,",
+          "в шлеме украшенном,",
+          "в длинной кольчуге",
+          "и с резвым конем.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Хлед с востока,",
+          "наследник Хейдрека,",
+          "в Архейм, к жилищу",
+          "готов приехал, —",
+          "наследье свое",
+          "собирался он требовать.",
+          "Тризну там Ангантюр",
+          "правил по Хейдреку.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Человека он встретил",
+          "перед чертогом,",
+          "и поздно прибывшему",
+          "так он промолвил:",
+          "Ступай, человек,",
+          "в палату высокую,",
+          "скажи, чтоб со мной",
+          "побеседовал Ангантюр!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Тот вошел, стал перед столом конунга, приветствовал Ангантюра и сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "\"Хлед появился,",
+          "наследник Хейдрека,",
+          "смелый воитель,",
+          "брат он тебе,",
+          "он гордо в седле",
+          "сидит, возвышаясь;",
+          "с тобою он хочет,",
+          "конунг, беседовать.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Зашумели в палате,",
+          "встали сидевшие, —",
+          "всем знать хотелось,",
+          "что скажет Хлед",
+          "и как отвечать",
+          "Ангантюр станет.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Тогда Ангантюр сказал: Добро пожаловать, брат мой Хлед! Садись с нами за пир! Выпьем прежде всего меду в память нашего отца и к славе всех нас! Хлед ответил: Мы приехали сюда не для того чтобы набивать животы. Затем он сказал:\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Я хочу половину",
+          "наследия Хейдрека;",
+          "доспехов, мечей,",
+          "скота и приплода,",
+          "сокровищ казны,",
+          "жерновов скрипящих,",
+          "рабов и рабынь",
+          "с их ребятами вместе,\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"и лес знаменитый,",
+          "что Мюрквид зовется,",
+          "на готской земле",
+          "могилы священные,",
+          "камень чудесный",
+          "в излучинах Данпа,",
+          "кольчуг половину,",
+          "у Хейдрека бывших,",
+          "земель и людей",
+          "и блестящих колец.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Ангантюр сказал:",
+          "\"Сначала расколется",
+          "щит сверкающий,",
+          "и с холодным копьем",
+          "столкнется копье,",
+          "и воинов много",
+          "падет на траву,",
+          "прежде чем Тюрвинг",
+          "начну я делить",
+          "или дам тебе, Хумлунг,",
+          "долю наследства.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Родич, тебе я",
+          "кубки вручу,",
+          "и скот, и сокровища,",
+          "сколько захочешь;",
+          "по дюжине сотен",
+          "людей и коней",
+          "и столько же воинов",
+          "вооруженных.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Дам я дары",
+          "каждому мужу, —",
+          "дороже у них",
+          "не бывало подарков;",
+          "каждому дева",
+          "достанется в жены,",
+          "деве же каждой",
+          "я дам ожерелье.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"Серебром я тебя",
+          "покрою, сидящего,",
+          "золотом звонким",
+          "осыплю идущего.",
+          "так что покатятся",
+          "кольца повсюду;",
+          "треть ты возьмешь",
+          "готской земли.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Серебром я тебя",
+          "покрою, сидящего,",
+          "золотом звонким",
+          "осыплю идущего.",
+          "так что покатятся",
+          "кольца повсюду;",
+          "треть ты возьмешь",
+          "готской земли.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "При конунге Ангантюре был тогда Гицур Грютингалиди, воспитатель конунга Хейдрека. Он был тогда очень стар. Когда он услышал слова конунга Ангантюра, ему показалось, что тот предлагает слишком много, и он сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Щедро сулишь ты",
+          "рабыни отродью,",
+          "сыну рабыни,",
+          "от князя рожденному.",
+          "Этот ублюдок",
+          "сидел на кургане,",
+          "в то время как конунг",
+          "наследство делил.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Хлед очень рассердился на то, что его назвали сыном рабыни и ублюдком после посулов брата. Он сразу же уехал со всеми своими людьми и направился домой в гуннскую землю к конунгу Хумли, отцу его матери. И он рассказал Хумли, что его брат Ангантюр не дал ему равной доли наследства. Конунг Хумли спросил, что произошло между ними, и очень рассердился, узнав, что Хлед, сын его дочери, был назван сыном рабыни. Он сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Мы проведем",
+          "эту зиму в довольстве,",
+          "станем беседовать,",
+          "мед распивая;",
+          "гуннов научим",
+          "оружье готовить",
+          "и смело его",
+          "в бой понесем.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Славную, Хлед,",
+          "соберем мы дружину,",
+          "доблестно будут",
+          "воины биться,",
+          "герои-юнцы",
+          "на двухлетках-конях,",
+          "войско такое",
+          "будет у гуннов.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Эту зиму конунг Хумли и Хлед пробыли дома. Но весной они собрали такое большое войско, что в гуннской земле совсем не осталось мужей, способных носить оружие... Пять тысяч было в каждом полку, и в каждой тысяче было тринадцать сотен, и в каждой сотне — четыре отряда по сорок воинов, и таких полков было тридцать три.",
+          "Собрав это войско, они поехали в лес, который называется Мюрквид. Он отделяет гуннскую землю от земли готов. Когда они вышли из леса, перед ними оказались большие селения на широкой равнине, а посреди равнины стояла великолепная крепость. Там правила Хервер, сестра Ангантюра и Хледа, и с ней был Ормар, ее воспитатель. Они должны были оборонять границу от гуннских ратей, и у них было большое войско.",
+          "Однажды утром Хервер стояла на башне над городскими воротами. Она взглянула на юг в сторону леса и увидела большие клубы пыли от скачущих коней, и эта пыль надолго закрыла солнце. Затем она увидела, как в клубах пыли что-то сверкает, как золото, — великолепные щиты, окованные золотом, позолоченные шлемы и светлые кольчуги. Тогда она поняла, что это войско гуннов и что оно очень многочисленно. Она быстро спустилась, позвала своего трубача и велела ему трубить сбор. Затем Хервер сказала: Берите оружие и готовьтесь к битве! А ты, Ормар, поезжай навстречу гуннам и предложи им бой перед южными воротами крепости. Ормар сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "\"Конечно, поеду",
+          "и щит понесу,",
+          "с готами вместе",
+          "буду сражаться!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Тогда Ормар выехал из крепости навстречу гуннам. Он громко закричал, зовя их к стенам крепости: Я предлагаю вам битву на поле перед южными воротами! ...Но так как гунны были гораздо многочисленнее, войско Хервер стало нести большие потери. В конце концов Хервер была убита и вокруг нее погибла большая часть ее войска.",
+          "Когда Ормар увидел гибель Хервер, он обратился в бегство, а с ним все, кто еще оставался в живых... Представ перед конунгом Ангантюром, он сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "\"С юга я прибыл",
+          "с такими вестями:",
+          "в пламени лес,",
+          "Мюрквида чаща,",
+          "залита кровью",
+          "готов земля.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "\"Знаю, что в битве",
+          "Хейдрека дочь,",
+          "сестра твоя, пала,",
+          "сраженная насмерть,",
+          "гунны ее",
+          "убили и с нею",
+          "воинов многих",
+          "из готского войска.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"*********\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "\"Легче ей было",
+          "битву начать,",
+          "чем свадебный пир",
+          "или с милым беседу.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Когда конунг Ангантюр услышал это, он сжал губы и долго молчал. Наконец он сказал: Не по-братски поступил с тобой Хлед, сестра моя благородная! Затем он окинул взором свою дружину, которая была немногочисленна, и сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "\"Много нас было",
+          "за чашею меда,",
+          "да мало осталось",
+          "для ратного дела.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "\"Нету в дружине",
+          "моей никого,",
+          "кто бы поехал",
+          "и щит бы понес,",
+          "чтобы вызвать на бой",
+          "гуннское войско.",
+          "хотя б я прибавил",
+          "к просьбам награду.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"*********\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "\"Гицур Старый сказал:",
+          "Не стану просить",
+          "в награду себе",
+          "даже ничтожной",
+          "золота доли;",
+          "но я поеду",
+          "и щит понесу,",
+          "чтоб гуннам вручить",
+          "жезл войны.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Гицур надел хорошие доспехи и вскочил на своего коня, как юноша. Затем он сказал конунгу:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "\"Куда мне позвать",
+          "гуннов для схватки?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "\"К Дюльгье зови их,",
+          "на Дунхейд зови,",
+          "зови их в пределы",
+          "ессурских гор;",
+          "там го́тов дружины",
+          "в битвах нередко",
+          "победу и славу",
+          "себе добывали.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "И вот Гицур ускакал и ехал долго, пока не подъехал к войску гуннов. Он приблизился настолько, что его могли услышать, и крикнул громким голосом:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "\"Войску разгром",
+          "и гибель вождю!",
+          "Подняты стяги,",
+          "против вас Один!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "\"Зову я вас к Дюльгье,",
+          "на битву сзываю",
+          "на Дунхейд, в пределы",
+          "ессурских гор!",
+          "Усейте поля",
+          "своими телами,",
+          "пусть Один направит",
+          "копье, как сказал я!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "\"Услышав слова Гицура, Хлед сказал:",
+          "Схватите скорее",
+          "Гицура Старого!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "\"А конунг Хумли сказал:",
+          "Посланца не троньте, —",
+          "один он приехал.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Гицур пришпорил своего коня и поскакал к конунгу Ангантюру. Он предстал пред ним и приветствовал его. Конунг спросил, был ли он у гуннов. Гицур сказал: Я говорил с ними и позвал их на поле битвы на Дунхейде и в долины Дюльгьи. Ангантюр спросил, как велико войско гуннов. Гицур сказал: Их великое множество."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "\"Шесть боевых",
+          "у гуннов полков,",
+          "в каждом пять тысяч,",
+          "а в тысяче — сотни",
+          "счетом тринадцать,",
+          "в каждой же сотне",
+          "вчетверо больше",
+          "воинов смелых.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "На следующий день они начали битву. Они бились целый день и вечером вернулись в свои шатры. Так они сражались восемь дней... День и ночь к Ангантюру подходили подкрепления со всех сторон, так что у него было не меньше народу, чем вначале. Битва стала еще жарче, чем раньше... Готы защищали свою свободу и свою родину, сражаясь против гуннов, они поэтому стойко держались и подбадривали друг друга. К концу дня натиск готов стал так силен, что полки гуннов дрогнули. Увидев это, Ангантюр вышел из ограды щитов, стал во главе войска и, взяв Тюрвинг в руки, начал рубить людей и коней. Ограда щитов вокруг конунга гуннов была прорвана, и братья сошлись друг с другом. Тут Хлед пал, и конунг Хумли пал, и гунны обратились в бегство, а готы убивали их, и убитых было так много, что реки оказались запружены и вышли из берегов, и долины были заполнены мертвыми лошадьми и людьми и залиты кровью. Ангантюр пошел тогда на поле боя посмотреть на убитых и нашел своего брата Хледа. Тогда он сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "\"Сокровищ тебе",
+          "немало сулил я,",
+          "немало добра",
+          "мог бы ты выбрать;",
+          "битву начав,",
+          "не получил ты",
+          "ни светлых колец,",
+          "ни земель, ни богатства.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "\"Проклятье на нас:",
+          "тебя я убил!",
+          "То навеки запомнят;",
+          "зол норн приговор!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Ангантюр долго был конунгом в Хрейдготаланде. Он был могуч, щедр и воинствен, и от него произошли роды конунгов."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Of yore, say they, Humli over Huns held sway;",
+          "Gizur over Gauts; over Goths, Angantýr;",
+          "Valdar over Danes, but over the Welsh, Kíar;",
+          "and Alrek the Bold over English folk.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"Was Hloth born there in Hunnish folk-lands",
+          "with dagger and broadsword and byrnie long,",
+          "with ring-decked helmet and sharp-hewing sword,",
+          "with horses well-broken, in the hallowed land.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Now Hloth learned about the death of his father, and that his brother, Angantýr, had himself made king over all those lands which Heithrek had owned. Then King Humli advised Hloth to claim from Angantýr his share of the inheritance with fair words; as is said here:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Rode Hloth from the East, King Heithrek’s first-born,",
+          "to the halls where dwell the dauntless Goths",
+          "to Árheimar to claim his heir-lands.",
+          "There was Angantýr drinking arvel for Heithrek.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Before the high hall he found a hero standing,",
+          "from far lands hailing, him he welcomed.\"",
+          "Hloth said:",
+          "\"Into high hall now go thou, hero,",
+          "and bid Angantýr make answer to me.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "The warrior went in before the table of King Angantýr, and said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Is Hloth come here, King Heithrek’s heir,",
+          "thy bastard brother, thy brother he;",
+          "high the young hero his horse doth sit:",
+          "would he now, thane, with thee have speech.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "But when King Angantýr heard this, he threw down his trencher on the board and rose and clad himself in his byrnie. He took his white shield in hand, and grasped the sword Tyrfing with the other. Then there arose much din in the hall; as is here said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Rose outcry in hall; with the atheling stood up,",
+          "(the Gothic king, his goodly warriors:)",
+          "they all fain would hear what Hloth did say,",
+          "and eke what answer Angantýr made.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Angantýr said:",
+          "\"Hail to thee, Hloth, King Heithrek’s son",
+          "and my own brother! On bench sit thou!",
+          "In his hall let us drink Heithrek’s arvel",
+          "(the father of us, the first of mankind)",
+          "in wine or in mead whiche’er worthiest seemeth.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Hloth said:",
+          "\"Not hither came we from Hunnish lands",
+          "to share with you your wine and mead\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"The half will I have of what Heithrek owned,",
+          "of awl and of edge, of all the treasure,",
+          "of cow and of call, of quern harsh-grinding,",
+          "of thrall and of bond-maid, and those born of them,\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"the mighty forest which is Murkwood hight,",
+          "the hallowed grave which in Gothland stands,",
+          "the shining stone which in Danpstead stands,",
+          "half of the war-weeds which Heithrek owned,",
+          "of lands and lieges and of lustrous arm-rings.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Angantýr said:",
+          "\"Your shining shield will be shattered, brother,",
+          "and by cold spears will be split many another,",
+          "(and many a man will meet his death)",
+          "before Tyrfing in two I sunder,",
+          "or to thee, son of Humli, leave the half of it!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Will I give thee, brother, gleaming arm-rings,",
+          "much wealth of gold, what most thou wishest",
+          "twelve hundred thralls, twelve hundred steeds,",
+          "twelve hundred bond-men with bucklers weaponed.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"To every man of you much will I give",
+          "other and better things than ere this he had:",
+          "to every man a maid will I give,",
+          "and give each maiden a golden necklace.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"About thee a-sitting shall I silver heap,",
+          "about thee a-going shall I gold-trinkets pour,",
+          "so that the rings will roll about thee;",
+          "shalt govern a third of Gothic lands.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Gizur, called the Follower25 of the Grytings, King Heithrek’s faster father, was then in Angantýr’s company. He was exceeding old then. When he heard Angantýr’s offer he thought that too much was offered, and said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Could no better be offered to a bond-woman’s son",
+          "to the son of a bond-woman, though born to a king.",
+          "The bastard son then sate on a hill",
+          "when the atheling the heirlooms shifted.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "(Hloth is enraged and returns to Humli, who promises help for the summer after.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Humli said:",
+          "\"Shall we feast at our ease till over is winter,",
+          "drink and hold converse, quaffing the mead,",
+          "and teach our warriors weapons to fashion,",
+          "which to battle bravely we shall bear forward.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "\"Well shall we arm the warrior host,",
+          "and help thee, Hloth, with hardy deeds;",
+          "with twelve-year old draughts, and two-year old foals,",
+          "thus shall the host of the Huns be gathered.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "That winter, King Humli and Hloth stayed at home; but when spring came they drew together so great a host that there was a dearth of fighting men in Hunland... And when this mighty host was gathered they rode through Murkwood... As they came out of the forest they found many farms and level fields. In the fields there stood a fair castle. There ruled Hervor, Angantýr’s and Hloth’s sister, and with her, Ormar, her foster father. They warded the land against the Huns and had a great host... One morning, about sunrise, Hervor stood on a tower above the castle gate. She saw so much dust southward toward the forest that it hid the sun for a long time. Then saw she a glow under the dust, as though from gold, of fair shields inlaid with gold, of gilded helmets and bright byrnies. Then understood she that this was the Hunnish host, and most numerous. She hurried down and called her trumpeter and bade him summon the host. Then said Hervor to them: \"Take your weapons and make ready for battle; but thou, Ormar, ride out toward the Huns and affer them battle before the southern gate.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Ormar said:",
+          "\"Assuredly shall I, with shield aloft,",
+          "(to the Hunnish host hurriedly ride,",
+          "to summon them to the southern gate)",
+          "there ’gainst the Goths to try the game of war.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "(And so he did and) then returned to the castle. Then was Hervor armed and all her host... There was a great battle; but because the Huns had a much greater host, the battle turned against Hervor, and at length she fell, and round about her, many men. But when Ormar saw her fall he fled, and with him all they who still lived. He rode day and night as fast as he could, to King Angantýr in Árheimar, while the Huns took to harrying and burning the countryside. When he arrived he said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"From the south am I come, to say these tidings:",
+          "burned is the far-famed forest Murkwood,",
+          "all Goth-land drenched with the gore of the fallen.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "\"I know that Hervor, Heithrek’s daughter,",
+          "and thy sister, by the sword has fallen.",
+          "Have Hunnish hosts hewed down the maiden",
+          "with many an other of your warriors.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "\"*********",
+          "Was she readier for war than with wooer to dally,",
+          "or on bench to sit as wedded bride.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "When Angantýr heard this he stroked his beard and was silent for a long time. At last he said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "\"Wast unbrotherly dealt with, my brave sister!",
+          "(Now have fallen the fighters who fared with you.)",
+          "Full many the men when mead we drank,",
+          "have I fewer followers when I fain would have more.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"In all my host no hero see I,",
+          "though I should beg him and buy him with rings,",
+          "who would raise the war-shield and ride for me",
+          "to the Hunnish host to harbinger war.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Gizur the Old said:",
+          "\"Not a single silverling seek I of thee,",
+          "nor of glistening gold guerdon crave I;",
+          "yet shall I ride and raise the war-shield,",
+          "and to Hunnish hosts herald battle.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "It was King Heithrek’s law, that if a hostile army was in the land and the king of the land challenged them to a pitched battle and appointed the battle field, then those vikings durst not harry before battle was tried between them. Gizur then armed himself with good weapons and leaped on his horse as though he were a young man, and said to the king:",
+          "To the Huns where shall I herald battle?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Angantýr said:",
+          "\"On the down of Dun-heath and in Dylgia-vales",
+          "(shall the battle be) neath the Iassar-fells brow,",
+          "where often Goths their glaives reddened,",
+          "and victory won warriors in sword-play.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Then Gizur rode till he came upon the Hunnish army. When he was within earshot he called out with a loud voice and said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "\"*********",
+          "*********",
+          "Afraid are your hosts, fey is your leader",
+          "You have angered Óthin: we offer you battle.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "\"On the downs of Dun-heath and in Dylgia-vales",
+          "I bid you battle, neath the Iassar-fells brow.",
+          "(May Óthin o’erawe Angantýr’s foes)",
+          "and may this spear fly o’er you as I do bid it.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "When Hloth had heard Gizur’s words he said:",
+          "\"Seize ye Gizur (the Grýtings follower),",
+          "Angantýr’s man, from Árheimar come!\"",
+          "Humli said:",
+          "\"No hurt nor harm to him shall be done,",
+          "to hero who fares to herald us war.\"",
+          "Gizur said:",
+          "\"Will not Hunnish hornbows do harm to us ever,",
+          "nor Hunnish wiles hinder our warriors.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Gizur then gave the spurs to his horse and rode back to King Angantýr... The king asked him whether he had encountered the Huns."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Gizur said:",
+          "\"I spoke with them and summoned them to combat on the downs of Dun-heath and in Dylgia-vales.\"",
+          "Angantýr asked him how great an army the Huns had. Gizur said:",
+          "\"Huge was that host (of Hunnish warriors)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "\"Sixteen squadrons saw I foregathered;",
+          "had each squadron fully five thousand men,",
+          "and each thousand, thirteen hundred,",
+          "and each hundred, horse-men eight-score.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Angantýr then got together an army to meet the Huns, who were twice his strength. The battle lasted eight days, with great slaughter which was made good, in the case of the Goths, by continual reinforcements; so that at last the Huns were forced to give ground. Angantýr stepped into the front ranks with the sword Tyrfing in hand, and slew both Hloth and Humli. Then the Huns took to flight, and the Goths slew so many that the rivers were dammed up and overflowed their banks and the valleys were filled with dead men and horses. Angantýr went about on the battlefield to search among the fallen. He found his brother Hloth. Then he said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "\"Untold arm-rings I offered thee, brother,",
+          "a wealth of gold and what most thou didst wish.",
+          "As guerdon for strife now hast gotten neither,",
+          "nor lands nor lieges nor lustrous rings.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "\"A baleful fate wrought it that, brother, I slew thee!",
+          "Will that aye be told. Ill’s the norns’ doom.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

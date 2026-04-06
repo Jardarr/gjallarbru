@@ -1,0 +1,65 @@
+{
+  "slug": "of-sinfjotlis-death",
+  "key": "OfSinfjotlisDeath",
+  "title": {
+    "on": "Frá dauða Sinfjötla",
+    "ru": "О смерти Синфьётли",
+    "en": "Of Sinfjötli's Death"
+  },
+  "description": {
+    "on": "",
+    "ru": "Сигмунд, сын Вельсунга, был конунгом во Фраккланде. Синфьетли был его старшим сыном, вторым был Хельги третьим — Хамунд. У Боргхильд, жены Сигмунда, был брат, которого звали… И вот Синфьетли, ее пасынок, и… посватались оба к одной женщине, и поэтому Синфьетли убил его. А когда он вернулся домой, Боргхильд велела ему уехать прочь, но Сигмунд предложил ей выкуп, и ей пришлось его принять. На тризне Боргхильд подавала пиво. Она взяла яд — большой полный рог — и поднесла Синфьетли. Но когда он заглянул в рог, он понял, что в нем яд, и сказал Сигмунду: Мутен напиток, батюшка! Сигмунд взял рог и выпил. Говорят, что Сигмунд был нечувствителен к яду, так что он не мог повредить ему ни снаружи, ни внутри. Но все сыновья его были нечувствительны к яду только снаружи. Боргхильд поднесла Синфьетли второй рог и просила выпить, и снова произошло то же самое. И в третий раз поднесла она ему рог — и на этот раз понося его за то, что он его не пьет. Он снова сказал то же самое Сигмунду. Тот сказал: Выпей, сын! Синфьетли выпил и сразу умер. Сигмунд понес его далеко в своих руках и пришел к некоему узкому и длинному фьорду, и там была небольшая ладья и на ней какой-то человек. Он предложил Сигмунду перевезти его через фьорд. И когда Сигмунд внес труп на ладью, она стала нагруженной полностью. Человек сказал Сигмунду, чтобы тот ехал внутрь фьорда. Человек оттолкнул ладью и сразу же исчез. Конунг Сигмунд долго жил во владениях Боргхильд, после того как на ней женился. Затем Сигмунд поехал на юг во Фраккланд во владения, которые у него там были. Там он женился на Хьердис, дочери конунга Эйлими. Сигурд был их сын. Конунг Сигмунд погиб в битве с сыновьями Хундинга, а Хьердис вышла замуж за Альва, сына конунга Хьяльпрека. Сигурд провел там детство. Сигмунд и все его сыновья намного превосходили всех прочих мужей силой, ростом, мужеством и всеми доблестями. Но Сигурд превосходил их всех, и в преданиях все его называют первым из мужей и великолепнейшим из конунгов.",
+    "en": "Sigmund, the son of Volsung, was a king in the land of the Franks; Sinfjotli was his eldest son, the second was Helgi, and the third Hamund. Borghild, Sigmund's wife, had a brother who was named.........Sinfjotli, her stepson, and.........both wooed the same woman, wherefore Sinfjotli slew him. And when he came home, Borghild bade him depart, but Sigmund offered her atonement-money, and this she had to accept. At the funeral feast Borghild brought in ale; she took poison, a great horn full, and brought it to Sinfjotli. But when he looked into the horn, he saw that it was poison, and said to Sigmund: \"Muddy is the drink, Father!\" Sigmund took the horn and drank therefrom. It is said that Sigmund was so hardy that poison might not harm him, either outside or in, but all his sons could withstand poison only without on their skin. Borghild bore another horn to Sinfjotli and bade him drink, and all happened as before. And yet a third time she brought him a horn, and spoke therewith scornful words of him if he should not drink from it. He spoke as before with Sigmund. The latter said: \"Let it trickle through your beard, Son!\" Sinfjotli drank, and straight way was dead. Sigmund bore him a long way in his arms, and came to a narrow and long fjord, and there was a little boat and a man in it. He offered to take Sigmund across the fjord. But when Sigmund had borne the corpse out into the boat, then the craft was full. The man told Sigmund to go round the inner end of the fjord. Then the man pushed the boat off, and disappeared. King Sigmund dwelt long in Denmark in Borghild's kingdom after he had married her. Thereafter Sigmund went south into the land of the Franks, to the kingdom which he had there. There he married Hjordis, the daughter of King Eylimi; their son was Sigurth. King Sigmund fell in a battle with the sons of Hunding, and Hjordis then married Alf the son of King Hjalprek. There Sigurth grew up in his boyhood. Sigmund and all his sons were far above all other men in might and stature and courage and every kind of ability. Sigurth, however, was the fore most of all, and all men call him in the old tales the noblest of mankind and the mightiest leader."
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе А. И. Корсуна",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Sigmundr Völsungsson var konungr á Frakklandi. Sinfjötli var elztr hans sona, annarr Helgi, þriði Hámundr. Borghildr, kona Sigmundar, átti bróður, er hét.........En Sinfjötli, stjúpson hennar, ok.........báðu einnar konu báðir, ok fyrir þá sök drap Sinfjötli hann.",
+          "En er hann kom heim, þá bað Borghildr hann fara á brott, en Sigmundr bauð henni fébætr, ok þat varð hon at þiggja. En at erfinu bar Borghildr öl. Hon tók eitr mikit, horn fullt, ok bar Sinfjötla.",
+          "En er hann sá í hornit, skilði hann, at eitr var í, ok mælti til Sigmundar: \"Göróttr er drykkrinn, ái.\"",
+          "Sigmundr tók hornit ok drakk af. Svá er sagt at Sigmundr var harðgörr, at hvárki mátti hánum eitr granda útan né innan, en allir synir hans stóðust eitr á hörund útan.",
+          "Borghildr bar annat horn Sinfjötla ok bað drekka, ok fór allt sem fyrr. Ok enn it þriðja sinn bar hon hánum hornit ok þó ámælisorð með, ef hann drykki eigi af. Hann mælti enn sem fyrr við Sigmund.",
+          "Hann sagði: \"Láttu grön sía þá, sonr.\"",
+          "Sinfjötli drakk ok varð þegar dauðr. Sigmundr bar hann langar leiðir í fangi sér ok kom at firði einum mjóvum ok löngum, ok var þar skip eitt lítit ok maðr einn á. Hann bauð Sigmundi far of fjörðinn. En er Sigmundr bar líkit út á skipit, þá var bátrinn hlaðinn. Karl mælti, at Sigmundr skyldi fara fyrir innan fjörðinn. Karl hratt út skipinu ok hvarf þegar.",
+          "Sigmundr konungr dvalðisk lengi í Danmörk í ríki Borghildar, síðan er hann fekk hennar. Fór Sigmundr þá suðr í Frakkland til þess ríkis, er hann átti þar. Þá fekk hann Hjördísar, dóttur Eylima konungs. Þeira son var Sigurðr.",
+          "Sigmundr konungr fell í orrostu fyrir Hundingssonum, en Hjördís giftist þá Álfi, syni Hjálpreks konungs. Óx Sigurðr þar upp í barnæsku. Sigmundr ok allir synir hans váru langt um fram alla menn aðra um afl ok vöxt ok hug ok alla atgervi. Sigurðr var þó allra framastr, ok hann kalla allir menn í fornfræðum um alla menn fram ok göfgastan herkonunga."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Сигмунд, сын Вельсунга, был конунгом во Фраккланде. Синфьетли был его старшим сыном, вторым был Хельги третьим — Хамунд. У Боргхильд, жены Сигмунда, был брат, которого звали… И вот Синфьетли, ее пасынок, и… посватались оба к одной женщине, и поэтому Синфьетли убил его. А когда он вернулся домой, Боргхильд велела ему уехать прочь, но Сигмунд предложил ей выкуп, и ей пришлось его принять. На тризне Боргхильд подавала пиво. Она взяла яд — большой полный рог — и поднесла Синфьетли. Но когда он заглянул в рог, он понял, что в нем яд, и сказал Сигмунду: Мутен напиток, батюшка! Сигмунд взял рог и выпил. Говорят, что Сигмунд был нечувствителен к яду, так что он не мог повредить ему ни снаружи, ни внутри. Но все сыновья его были нечувствительны к яду только снаружи. Боргхильд поднесла Синфьетли второй рог и просила выпить, и снова произошло то же самое. И в третий раз поднесла она ему рог — и на этот раз понося его за то, что он его не пьет. Он снова сказал то же самое Сигмунду. Тот сказал: Выпей, сын! Синфьетли выпил и сразу умер. Сигмунд понес его далеко в своих руках и пришел к некоему узкому и длинному фьорду, и там была небольшая ладья и на ней какой-то человек. Он предложил Сигмунду перевезти его через фьорд. И когда Сигмунд внес труп на ладью, она стала нагруженной полностью. Человек сказал Сигмунду, чтобы тот ехал внутрь фьорда. Человек оттолкнул ладью и сразу же исчез.",
+          "Конунг Сигмунд долго жил во владениях Боргхильд, после того как на ней женился. Затем Сигмунд поехал на юг во Фраккланд во владения, которые у него там были. Там он женился на Хьердис, дочери конунга Эйлими. Сигурд был их сын. Конунг Сигмунд погиб в битве с сыновьями Хундинга, а Хьердис вышла замуж за Альва, сына конунга Хьяльпрека. Сигурд провел там детство.",
+          "Сигмунд и все его сыновья намного превосходили всех прочих мужей силой, ростом, мужеством и всеми доблестями. Но Сигурд превосходил их всех, и в преданиях все его называют первым из мужей и великолепнейшим из конунгов."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Sigmund, the son of Volsung, was a king in the land of the Franks; Sinfjotli was his eldest son, the second was Helgi, and the third Hamund. Borghild, Sigmund's wife, had a brother who was named.........Sinfjotli, her stepson, and.........both wooed the same woman, wherefore Sinfjotli slew him. And when he came home, Borghild bade him depart, but Sigmund offered her atonement-money, and this she had to accept. At the funeral feast Borghild brought in ale; she took poison, a great horn full, and brought it to Sinfjotli. But when he looked into the horn, he saw that it was poison, and said to Sigmund: \"Muddy is the drink, Father!\" Sigmund took the horn and drank therefrom. It is said that Sigmund was so hardy that poison might not harm him, either outside or in, but all his sons could withstand poison only without on their skin. Borghild bore another horn to Sinfjotli and bade him drink, and all happened as before. And yet a third time she brought him a horn, and spoke therewith scornful words of him if he should not drink from it. He spoke as before with Sigmund. The latter said: \"Let it trickle through your beard, Son!\" Sinfjotli drank, and straight way was dead. Sigmund bore him a long way in his arms, and came to a narrow and long fjord, and there was a little boat and a man in it. He offered to take Sigmund across the fjord. But when Sigmund had borne the corpse out into the boat, then the craft was full. The man told Sigmund to go round the inner end of the fjord. Then the man pushed the boat off, and disappeared.",
+          "King Sigmund dwelt long in Denmark in Borghild's kingdom after he had married her. Thereafter Sigmund went south into the land of the Franks, to the kingdom which he had there. There he married Hjordis, the daughter of King Eylimi; their son was Sigurth. King Sigmund fell in a battle with the sons of Hunding, and Hjordis then married Alf the son of King Hjalprek. There Sigurth grew up in his boyhood. Sigmund and all his sons were far above all other men in might and stature and courage and every kind of ability. Sigurth, however, was the fore most of all, and all men call him in the old tales the noblest of mankind and the mightiest leader."
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

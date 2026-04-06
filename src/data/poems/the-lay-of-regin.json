@@ -1,0 +1,1517 @@
+{
+  "slug": "the-lay-of-regin",
+  "key": "TheLayOfRegin",
+  "title": {
+    "on": "Reginsmál. Sigurðarkviða Fáfnisbana II",
+    "ru": "Речи Регина",
+    "en": "The Lay of Regin"
+  },
+  "description": {
+    "on": "",
+    "ru": "Сигурд пошел в табун Хьяльпрека и выбрал себе коня, который с тех пор стал называться Грани. Еще до этого к Хьяльпреку пришел Регин, сын Хрейдмара. Он был искуснейшим из людей и карлик ростом.",
+    "en": "Sigurth went to Hjalprek's stud and chose for himself a horse, who thereafter was called Grani. At that time Regin, the son of Hreithmar, was come to Hjalprek's home; he was more ingenious than all other men, and a dwarf in stature; he was wise, fierce and skilled in magic. Regin undertook Sigurth's bringing up and teaching, and loved him much. He told Sigurth of his forefathers, and also of this: that once Othin and Hönir and Loki had come to Andvari's waterfall, and in the fall were many fish. Andvari was a dwarf, who had dwelt long in the waterfall in the shape of a pike, and there he got his food. \"Otr was the name of a brother of ours,\" said. Regin, \"who often went into the fall in the shape of an otter; he had caught a salmon, and sat on the high bank eating it with his eyes shut. Loki threw a stone at him and killed him; the gods thought they bad had great good luck, and stripped the skin off the otter. That same evening they sought a night's lodging at Hreithmar's house, and showed their booty. Then we seized them, and told them, as ransom for their lives, to fill the otter skin with gold, and completely cover it outside as well with red gold. Then they sent Loki to get the gold; he went to Ron and got her net, and went then to Andvari's fall and cast the net in front of the pike, and the pike leaped into the net.\" Then Loki said:"
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе А. И. Корсуна",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Sigurðr gekk til stóðs Hjálpreks ok kaus sér af hest einn, er Grani var kallaðr síðan.",
+          "Þá var kominn Reginn til Hjálpreks, sonr Hreiðmars. Hann var hverjum manni hagari ok dvergr of vöxt. Hann var vitr, grimmr ok fjölkunnigr. Reginn veitti Sigurði fóstr ok kennslu ok elskaði hann mjök. Hann sagði Sigurði frá forellri sínu ok þeim atburðum, at Óðinn ok Hænir ok Loki höfðu komit til Andvarafors. Í þeim forsi var fjölði fiska. Einn dvergr hét Andvari. Hann var löngum í forsinum í geddu líki ok fekk sér þar matar.",
+          "Otr hét bróðir várr, kvað Reginn, er oft fór í forsinn í otrs líki. Hann hafði tekit einn lax ok sat á árbakkanum ok át blundandi. Loki laust hann með steini til bana. Þóttust æsir mjök heppnir verit hafa ok flógu belg af otrinum. Þat sama kveld sóttu þeir gisting til Hreiðmars ok sýndu veiði sína. Þá tókum vér þá höndum ok lögðum þeim fjörlausn at fylla otrbelginn með gulli ok hylja útan með rauðu gulli. Þá sendu þeir Loka at afla gullsins. Hann kom til Ránar ok fekk net hennar ok fór þá til Andvarafors ok kastaði netinu fyrir gedduna, en hon hljóp í netit. Þá mælti Loki:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Hvat er þat fiska,",
+          "er renn flóði í,",
+          "kann-at sér við víti varask?",
+          "Höfuð þitt",
+          "leystu helju ór,",
+          "finn mér lindar loga.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Geddan kvað:",
+          "\"Andvari ek heiti,",
+          "Óinn hét minn faðir,",
+          "margan hef ek fors of farit;",
+          "aumlig norn",
+          "skóp oss í árdaga,",
+          "at ek skylda í vatni vaða.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Loki kvað:",
+          "\"Segðu þat, Andvari,",
+          "ef þú eiga vill",
+          "líf í lýða sölum,",
+          "hver gjöld fáa",
+          "gumna synir,",
+          "ef þeir höggvask orðum á?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Andvari kvað:",
+          "\"Ofrgjöld fáa",
+          "gumna synir,",
+          "þeir er Vaðgelmi vaða;",
+          "ósaðra orða,",
+          "hverr er á annan lýgr,",
+          "oflengi leiða limar.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Loki sá allt gull þat, er Andvari átti. En er hann hafði framreitt gullit, þá hafði hann eftir einn hring, ok tók Loki þann af hánum. Dvergrinn gekk inn í steininn ok mælti:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Þat skal gull,",
+          "er Gustr átti,",
+          "bræðrum tveim",
+          "at bana verða",
+          "ok öðlingum átta at rógi;",
+          "mun míns féar",
+          "manngi njóta.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Æsir reiddu Hreiðmari féit ok tráðu upp otrbelginn ok reistu á fætr. Þá skyldu æsirnir hlaða upp gullinu ok hylja. En er þat var gört, gekk Hreiðmarr fram ok sá eitt granahár ok bað hylja. Þá dró Óðinn fram hringinn Andvaranaut ok hulði hárit. Loki kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Gull er þér nú reitt,",
+          "en þú gjöld hefir",
+          "mikil míns höfuðs;",
+          "syni þínum",
+          "verðr-a sæla sköpuð;",
+          "þat verðr ykkarr beggja bani.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Hreiðmarr sagði:",
+          "\"Gjafar þú gaft,",
+          "gaft-at-tu ástgjafar,",
+          "gaft-at-tu af heilum hug;",
+          "fjörvi yðru",
+          "skylduð ér firrðir vera,",
+          "ef ek vissa ek þat fár fyrir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Loki kvað:",
+          "\"Enn er verra",
+          "— þat vita þykkjumk —",
+          "niðja stríð of neppt;",
+          "jöfra óborna",
+          "hygg ek þá enn vera",
+          "er þat er til hatrs hugat.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Hreiðmarr kvað:",
+          "\"Rauðu gulli",
+          "hygg ek mik ráða munu,",
+          "svá lengi sem ek lifi;",
+          "hót þín",
+          "hræðumk ekki lyf,",
+          "of haldið heim heðan.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Fáfnir ok Reginn kröfðu Hreiðmarr niðgjalda eftir Otr bróður sinn. Hann kvað nei við. En Fáfnir lagði sverði Hreiðmar, föður sinn, sofanda. Hreiðmarr kallaði á dætr sínar:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Lyngheiðr ok Lofnheiðr,",
+          "vitið mínu lífi farit,",
+          "mart er þat, er þörf þéar.\"",
+          "",
+          "Lyngheiðr sagði:",
+          "\"Fá mun systir,",
+          "þótt föður missi,",
+          "hefna hlýra harms.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"Hreiðmarr kvað:",
+          "Al þú þó dóttur,",
+          "dís ulfhuguð,",
+          "ef þú getr-at son",
+          "við siklingi;",
+          "fá mey mann",
+          "í meginþarfar;",
+          "þá mun þeirar sonr",
+          "þíns harms reka.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Þá dó Hreiðmarr, en Fáfnir tók gullit allt. Þá beiddist Reginn at hafa föðurarf sinn, en Fáfnir galt þar nei við. Þá leitaði Reginn ráða við Lyngheiði, systur sína, hvernig hann skyldi heimta föðurarf sinn. Hon kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Bróður kveðja",
+          "skaltu blíðliga",
+          "arfs ok æðra hugar;",
+          "er-a þat hæft,",
+          "at þú hjörvi skylir",
+          "kveðju Fáfni féar.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Þessa hluti sagði Reginn Sigurði. Einn dag, er hann kom til húsa Regins, var hánum vel fagnat. Reginn kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Kominn er hingat",
+          "konr Sigmundar,",
+          "seggr inn snarráði,",
+          "til sala várra,",
+          "móð hefir meira",
+          "en maðr gamall,",
+          "ok er mér fangs ván",
+          "at frekum ulfi.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Ek mun fæða",
+          "folkdjarfan gram;",
+          "nú er Yngva konr",
+          "með oss kominn;",
+          "sjá mun ræsir",
+          "ríkstr und sólu;",
+          "þrymr um öll lönd",
+          "örlögsímu.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Sigurðr var þá jafnan með Regin, ok sagði hann Sigurði, at Fáfnir lá á Gnitaheiði ok var í orms líki. Hann átti ægishjalm, er öll kvikendi hræddust við. Reginn gerði Sigurði sverð, er Gramr hét. Þat var svá hvasst, at hann brá því ofan í Rín ok lét reka ullarlagð fyrir straumi ok tók í sundr lagðinn sem vatnit. Því sverði klauf Sigurðr í sundr steðja Regins. Eftir þat eggjaði Reginn Sigurð at vega Fáfni. Hann sagði:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Hátt munu hlæja",
+          "Hundings synir,",
+          "þeir er Eylima",
+          "aldrs synjuðu,",
+          "ef meir tyggja",
+          "munar at sækja",
+          "hringa rauða",
+          "en hefnd föður.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Hjálprekr konungr fekk Sigurði skipalið til föðurhefnda. Þeir fengu storm mikinn ok beittu fyrir bergsnös nökkura. Maðr einn stóð á berginu ok kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "\"Hverir ríða þar",
+          "Ræfils hestum",
+          "hávar unnir,",
+          "haf glymjanda?",
+          "Seglvigg eru",
+          "sveita stokkin,",
+          "mun-at vágmarar",
+          "vind of standask.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Reginn svaraði:",
+          "\"Hér ro vér Sigurðr",
+          "á sætréum;",
+          "er oss byrr gefinn",
+          "við bana sjalfan;",
+          "fellr brattr breki",
+          "bröndum hæri,",
+          "hlunnvigg hrapa.",
+          "Hverr spyrr at því?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Maðr kvað:",
+          "\"Hnikar hétu mik,",
+          "þá er hugin gladdak",
+          "Völsungr ungi,",
+          "ok vegit hafðak;",
+          "nú máttu kalla",
+          "karl af bergi",
+          "Fengi eða Fjölni;",
+          "far vil ek þiggja.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Þeir viku at landi, ok gekk karl á skip, ok lægði þá veðrit. Sigurðr kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"Segðu mér þat, Hnikarr,",
+          "alls þá hvárttveggja veizt",
+          "goða heill ok guma:",
+          "hver bözt eru,",
+          "ef berjask skal,",
+          "heill at sverða svipun.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Hnikarr kvað:",
+          "\"Mörg eru góð,",
+          "ef gumar vissi,",
+          "heill at sverða svipun;",
+          "dyggva fylgju",
+          "hygg ek ins dökkva vera",
+          "hrottameiði hrafns.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "\"Þat er annat,",
+          "ef þú ert út of kominn",
+          "ok ert á braut búinn,",
+          "tvá þú lítr",
+          "á tái standa",
+          "hróðrfúsa hali.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "\"Þat er it þriðja,",
+          "ef þú þjóta heyrir",
+          "ulf und asklimum;",
+          "heilla auðit",
+          "verðr þér af hjalmstöfum,",
+          "ef þú sér þá fyrri fara.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"Engr skal gumna",
+          "í gögn vega",
+          "síð skínandi",
+          "systur Mána;",
+          "þeir sigr hafa,",
+          "er séa kunnu,",
+          "hjörleiks hvatir,",
+          "eða hamalt fylkja.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "\"Þat er fár mikit,",
+          "ef þú fæti drepr,",
+          "þars þú at vígi veðr;",
+          "tálar dísir",
+          "standa þér á tvær hliðar",
+          "ok vilja þik sáran sjá.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "\"Kembður ok þveginn",
+          "skal kænna hverr",
+          "ok at morgni mettr,",
+          "því at ósýnt er,",
+          "hvar at aftni kemr;",
+          "illt er fyr heill at hrapa.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Sigurðr átti orrostu mikla við Lyngva Hundingsson ok bræðr hans. Þar fell Lyngvi ok þeir þrír bræðr. Eftir orrostu kvað Reginn:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "\"Nú er blóðugr örn",
+          "bitrum hjörvi",
+          "bana Sigmundar",
+          "á baki ristinn;",
+          "engr var fremri,",
+          "sá er fold ryði,",
+          "hilmis arfi,",
+          "ok hugin gladdi.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Heim fór Sigurðr til Hjálpreks. Þá eggjaði Reginn Sigurð til at vega Fáfni."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Сигурд пошел в табун Хьяльпрека и выбрал себе коня, который с тех пор стал называться Грани. Еще до этого к Хьяльпреку пришел Регин, сын Хрейдмара. Он был искуснейшим из людей и карлик ростом. Он был мудр, свиреп и владел колдовством. Регин стал воспитателем и учителем Сигурда и очень любил его. Он рассказал Сигурду о своих предках и о том, как однажды Один, Хенир и Локи пришли к водопаду Андвари. В этом водопаде было много рыбы. Одного карлика звали Андвари, он давно жил в этом водопаде в образе щуки и добывал себе там пищу. У меня был брат по имени Отр, — сказал Регин, — он часто плавал в водопаде в образе выдры. Однажды он поймал лосося, сел на берегу реки и ел, зажмурившись. Локи бросил в него камнем и убил его. Асам показалось это большой удачей, и они содрали с выдры шкуру. В тот самый вечер они искали пристанища у Хрейдмара и показали ему свою добычу. Тогда мы схватили их и предложили откупиться тем, чтобы наполнить шкуру выдры золотом и засыпать ее снаружи красным золотом. Тогда они послали Локи добыть золота. Он пошел к Ран, получил ее сеть, отправился к водопаду Андвари и забросил там сеть, чтобы поймать щуку. Она прыгнула в сеть. Тогда Локи сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Какая в потоке",
+          "рыба плывет",
+          "и в беду попадает?",
+          "Попытайся у Хель",
+          "выкупить голову —",
+          "сыщи пламя вод!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Андвари сказал:",
+          "\"Андвари мне имя",
+          "Оин — отец мой",
+          "в потоках я плавал;",
+          "злобная норна",
+          "так мне судила",
+          "что плавать я должен.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Локи сказал:",
+          "\"Молви мне, Андвари",
+          "если ты хочешь",
+          "жить с людьми;",
+          "какая сынам",
+          "человечьим кара",
+          "что словом разят?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Андвари сказал:",
+          "\"Тяжкая кара",
+          "для тех, кто Вадгельмир",
+          "вброд переходит;",
+          "клеветники",
+          "за коварные речи",
+          "платятся долго.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Локи видел все золото, которое было у Андвари. Когда тот отдавал золото, он утаил одно кольцо, и Локи отнял его у Андвари. Карлик ушел в камень и сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Золото это",
+          "что было у Густа",
+          "братьям двоим",
+          "гибелью будет",
+          "смерть восьмерым",
+          "принесет героям;",
+          "богатство мое",
+          "никому не достанется.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Асы отдали Хрейдмару золото, набили шкуру выдры и поставили ее на ноги. Затем они должны были засыпать ее золотом. Когда это было сделано, Хрейдмар подошел, увидел один волосок усов и велел засыпать его. Тогда Один вынул кольцо, принадлежавшее Андвари, и покрыл им волосок. Локи сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Отдано золото",
+          "выкуп немалый",
+          "за меня получил ты;",
+          "сын твой несчастлив —",
+          "смерть вам обоим",
+          "выкуп сулит!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Хрейдмар сказал:",
+          "\"Дары ты принес",
+          "но не чую добра в них",
+          "не от сердца они!",
+          "С жизнью простились бы",
+          "если бы раньше",
+          "опасность увидел.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Локи сказал:",
+          "\"Хуже еще —",
+          "я это знаю",
+          "родичей ссоры;",
+          "конунгам новым",
+          "еще не рожденным",
+          "они суждены.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Хрейдмар сказал:",
+          "\"Золотом красным",
+          "владеть собираюсь",
+          "пока буду жив;",
+          "угрозы твои",
+          "мне не страшны",
+          "прочь убирайся!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Фафнир и Регин потребовали у Хрейдмара виру, выплаченную за Отра, их брата. Он отказался отдать ее. И Фафнир пронзил мечом Хрейдмара, своего отца, когда тот спал. Хрейдмар стал звать своих дочерей:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Люнгхейд и Лофнхейд!",
+          "Знайте — конец мне!",
+          "С нуждою не спорят!\"",
+          "",
+          "Люнгхейд ответила:",
+          "\"Чем же сестра",
+          "отца потеряв",
+          "братьям отмстит!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Хрейдмар сказал:",
+          "\"Дочь хоть роди",
+          "если сына не будет",
+          "у князя и девы",
+          "с душою волчьей;",
+          "дай дочери мужа",
+          "в насущной нужде",
+          "тогда их сын",
+          "за тебя отмстит!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Затем Хрейдмар умер, а Фафнир взял золото. Тогда Регин потребовал свою долю наследства, но Фафнир ему ничего не дал. Регин обратился за советом к сестре своей Люнгхейд, спрашивая, как ему получить отцовское наследство. Она сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Брата просить",
+          "надо, как друга",
+          "о любви и о золоте;",
+          "не подобает",
+          "мечом угрожать",
+          "о наследстве радея!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Регин сказал это Сигурду. Однажды, когда он пришел к Регину, тот его хорошо принял и сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Вот пришел",
+          "Сигмунда сын",
+          "юноша смелый",
+          "в наше жилище;",
+          "он храбрее",
+          "чем старые люди",
+          "битвы я жду",
+          "от жадного волка.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Я воспитаю",
+          "конунга-воина;",
+          "Ингви потомок",
+          "у нас появился;",
+          "будет он князем",
+          "самым могучим",
+          "лежат по всем странам",
+          "нити судьбы.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Сигурд был тогда постоянно с Регином, и тот сказал Сигурду, что Фафнир лежит на Гнитахейде, приняв облик змея. У него был шлем-страшило, которого боялось все живое.",
+          "Регин сделал Сигурду меч, который назывался Грам. Он был таким острым, что Сигурд окунал его в Рейн и пускал по течению хлопья шерсти, и меч резал хлопья, как воду. Этим мечом Сигурд рассек наковальню Регина.",
+          "После этого Регин стал подстрекать Сигурда убить Фафнира. Сигурд сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Смеялись бы громко",
+          "Хундинга родичи",
+          "которые Эйлими",
+          "жизни лишили",
+          "если бы конунг",
+          "не мстить за отца",
+          "а красные кольца",
+          "искать задумал.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Конунг Хьяльпрек дал Сигурду дружину на кораблях, чтобы отомстить за отца. Их застигла большая буря, и они плыли против ветра у какого-то мыса. На утесе стоял некий человек, и он сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "\"Кого это мчат",
+          "Ревиля кони",
+          "по высоким валам",
+          "по бурному морю?",
+          "Паруса кони",
+          "пеной покрыты",
+          "морских скакунов",
+          "ветер не сдержит.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Регин ответил:",
+          "\"Это с Сигурдом мы",
+          "на деревьях моря;",
+          "ветер попутный",
+          "и нам и смерти;",
+          "волны встают",
+          "выше бортов",
+          "ныряют ладьи;",
+          "кто нас окликнул?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Хникар сказал:",
+          "\"Хникар я звался",
+          "убийство свершая",
+          "и радуя ворона",
+          "Вельсунг юный",
+          "теперь я зовусь",
+          "человек на утесе",
+          "Фенг или Фьельнир;",
+          "возьмите в ладью!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Они пристали к берегу, человек взошел на корабль, буря утихла."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Сигурд сказал:",
+          "\"Хникар, скажи мне",
+          "ты многое знаешь:",
+          "какие приметы",
+          "для людей и богов",
+          "перед сраженьем",
+          "добрыми будут?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Хникар сказал:",
+          "\"Много есть добрых",
+          "знать бы их только",
+          "знамений в битве;",
+          "спутник прекрасный",
+          "сумрачный ворон",
+          "для древа меча.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "\"Вторая примета:",
+          "если ты вышел",
+          "в путь собираясь, —",
+          "увидеть двоих",
+          "на дороге стоящих",
+          "воинов славных.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "\"Есть и третья:",
+          "если услышишь",
+          "волчий вой",
+          "если увидишь",
+          "воинов раньше",
+          "чем будешь замечен.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"Никто из бойцов",
+          "сражаться не должен",
+          "лицо обратив",
+          "к закатному солнцу;",
+          "те победят",
+          "чьи очи зорки",
+          "кто в сходке мечей",
+          "строится клином.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "\"Если споткнешься",
+          "перед сраженьем —",
+          "примета плохая:",
+          "дисы коварные",
+          "рядом стали, —",
+          "раненым будешь.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "\"Чист и причесан",
+          "должен быть мудрый",
+          "и сыт спозаранку",
+          "ибо как знать",
+          "где будет к закату;",
+          "блюди свое благо.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "У Сигурда была большая битва с Люнгви, сыном Хундинга, и его братьями. В этой битве пал Люнгви и все три брата. После битвы Регин сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "\"Кровавый орел",
+          "острым мечом",
+          "у Хундинга сына",
+          "вырезан сзади!",
+          "Всех сильней",
+          "траву обагривший",
+          "конунга сын",
+          "ворона радует!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Сигурд поехал домой к Хьяльпреку. Тогда Регин стал подстрекать Сигурда убить Фафнира."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Sigurth went to Hjalprek's stud and chose for himself a horse, who thereafter was called Grani. At that time Regin, the son of Hreithmar, was come to Hjalprek's home; he was more ingenious than all other men, and a dwarf in stature; he was wise, fierce and skilled in magic. Regin undertook Sigurth's bringing up and teaching, and loved him much. He told Sigurth of his forefathers, and also of this: that once Othin and Hönir and Loki had come to Andvari's waterfall, and in the fall were many fish. Andvari was a dwarf, who had dwelt long in the waterfall in the shape of a pike, and there he got his food. \"Otr was the name of a brother of ours,\" said. Regin, \"who often went into the fall in the shape of an otter; he had caught a salmon, and sat on the high bank eating it with his eyes shut. Loki threw a stone at him and killed him; the gods thought they bad had great good luck, and stripped the skin off the otter. That same evening they sought a night's lodging at Hreithmar's house, and showed their booty. Then we seized them, and told them, as ransom for their lives, to fill the otter skin with gold, and completely cover it outside as well with red gold. Then they sent Loki to get the gold; he went to Ron and got her net, and went then to Andvari's fall and cast the net in front of the pike, and the pike leaped into the net.\" Then Loki said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"What is the fish",
+          "that runs in the flood,",
+          "And itself from ill cannot save?",
+          "If thy head thou wouldst",
+          "from hell redeem,",
+          "Find me the water's flame.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Andvari spake:",
+          "\"Andvari am I,",
+          "and Oin my father,",
+          "In many a fall have I fared;",
+          "An evil Norn",
+          "in olden days",
+          "Doomed me In waters to dwell.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Loki spake:",
+          "\"Andvari, say,",
+          "if thou seekest still",
+          "To live in the land of men,",
+          "What payment is set",
+          "for the sons of men",
+          "Who war with lying words?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Andvari spake:",
+          "\"A mighty payment",
+          "the men must make",
+          "Who in Valthgelmir's waters wade;",
+          "On a long road lead",
+          "the lying words",
+          "That one to another utters.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Loki saw all the gold that Andvari had. But when he had brought forth all the gold, he held back one ring, and Loki took this from him. The dwarf went into his rocky hole and said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Now shall the gold",
+          "that Gust once had",
+          "Bring their death",
+          "to brothers twain,",
+          "And evil be",
+          "for heroes eight;",
+          "joy of my wealth",
+          "shall no man win.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "The gods gave Hreithmar the gold, and filled up the otter-skin, and stood it on its feet. Then the gods had to heap up gold and hide it. And when that was done, Hreithmar came forward and saw a single whisker, and bade them cover it. Then Othin brought out the ring Andvaranaut and covered the hair. Then Loki said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"The gold is given,",
+          "and great the price",
+          "Thou hast my head to save;",
+          "But fortune thy sons",
+          "shall find not there,",
+          "The bane of ye both it is.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Hreithmar spake:",
+          "\"Gifts ye gave,",
+          "but ye gave not kindly,",
+          "Gave not with hearts that were whole;",
+          "Your lives ere this",
+          "should ye all have lost,",
+          "If sooner this fate I had seen.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Loki spake:",
+          "\"Worse is this",
+          "that methinks I see,",
+          "For a maid shall kinsmen clash;",
+          "Heroes unborn",
+          "thereby shall be,",
+          "I deem, to hatred doomed.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Hreithmar spake:",
+          "\"The gold so red",
+          "shall I rule, methinks,",
+          "So long as I shall live;",
+          "Nought of fear",
+          "for thy threats I feel,",
+          "So get ye hence to your homes.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Fafnir and Regin asked Hreithmar for a share of the wealth that was paid for the slaying of their brother, Otr. This he refused, and Fafnir thrust his sword through the body of his father, Hreithmar, while he was sleeping. Hreithmar called to his daughters:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Lyngheith and Lofnheith,",
+          "fled is my life,",
+          "And mighty now is my need!\"",
+          "",
+          "Lyngheith spake:",
+          "\"Though a sister loses",
+          "her father, seldom",
+          "Revenge on her brother she brings.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Hreithmar spake:",
+          "\"A daughter, woman",
+          "with wolf's heart, bear,",
+          "If thou hast no son",
+          "with the hero brave;",
+          "If one weds the maid,",
+          "for the need is mighty,",
+          "Their son for thy hurt",
+          "may vengeance seek.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Then Hreithmar died, and Fafnir took all the gold. Thereupon Regin asked to have his inheritance from his father, but Fafnir refused this. Then Regin asked counsel of Lyngheith, his sister, how he should win his inheritance. She said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"In friendly wise",
+          "the wealth shalt thou ask",
+          "Of thy brother, and better will;",
+          "Not seemly is it",
+          "to seek with the sword",
+          "Fafnir's treasure to take.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "All these happenings did Regin tell to Sigurth.",
+          "One day, when he came to Regin's house, he was gladly welcomed. Regin said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Hither the son",
+          "of Sigmund is come,",
+          "The hero eager,",
+          "here to our hall;",
+          "His courage is more",
+          "than an ancient man's,",
+          "And battle I hope",
+          "from the hardy wolf.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Here shall I foster",
+          "the fearless prince,",
+          "Now Yngvi's heir",
+          "to us is come;",
+          "The noblest hero",
+          "beneath the sun,",
+          "The threads of his fate",
+          "all lands enfold.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Sigurth was there continually with Regin, who said to Sigurth that Fafnir lay at Gnitaheith, and was in the shape of a dragon. He had a fear-helm, of which all living creatures were terrified. Regin made Sigurth the sword which was called Gram; it was so sharp that when he thrust it down into the Rhine, and let a strand of wool drift against it with the stream, it cleft the strand asunder as if it were water. With this sword Sigurth cleft asunder Regin's anvil. After that Regin egged Sigurth on to slay Fafnir, but he said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Loud will the sons",
+          "of Hunding laugh,",
+          "Who low did Eylimi",
+          "lay in death,",
+          "If the hero sooner",
+          "seeks the red",
+          "Rings to find",
+          "than his father's vengeance.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "King Hjalprek gave Sigurth a fleet for the avenging of his father. They ran into a great storm, and were off a certain headland. A man stood on the mountain, and said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "\"Who yonder rides",
+          "on Rævil's steeds,",
+          "O'er towering waves",
+          "and waters wild?",
+          "The sail-horses all",
+          "with sweat are dripping,",
+          "Nor can the sea-steeds",
+          "the gale withstand.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Regin answered:",
+          "\"On the sea-trees here",
+          "are Sigurth and I,",
+          "The storm wind drives us",
+          "on to our death;",
+          "The waves crash down",
+          "on the forward deck,",
+          "And the roller-steeds sink;",
+          "who seeks our names?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "The Man spake:",
+          "\"Hnikar I was",
+          "when Volsung once",
+          "Gladdened the ravens",
+          "and battle gave;",
+          "Call me the Man",
+          "from the Mountain now,",
+          "Feng or Fjolnir;",
+          "with you will I fare.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "They sailed to the land, and the man went on board the ship, and the storm subsided. Sigurth spake:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"Hnikar, say,",
+          "for thou seest the fate",
+          "That to gods and men is given;",
+          "What sign is fairest",
+          "for him who fights,",
+          "And best for the swinging of swords?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Hnikar spake:",
+          "\"Many the signs,",
+          "if men but knew,",
+          "That are good for the swinging of swords;",
+          "It is well, methinks,",
+          "if the warrior meets",
+          "A raven black on his road.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Hnikar spake:",
+          "\"Another it is",
+          "if out thou art come,",
+          "And art ready forth to fare,",
+          "To behold on the path",
+          "before thy house",
+          "Two fighters greedy of fame.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "\"Third it is well",
+          "if a howling wolf",
+          "Thou hearest under the ash;",
+          "And fortune comes",
+          "if thy foe thou seest",
+          "Ere thee the hero beholds.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"A man shall fight not",
+          "when he must face",
+          "The moon's bright sister setting late;",
+          "Win he shall",
+          "who well can see,",
+          "And wedge-like forms",
+          "his men for the fray.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "\"Foul is the sign",
+          "if thy foot shall stumble",
+          "As thou goest forth to fight;",
+          "Goddesses baneful",
+          "at both thy sides",
+          "Will that wounds thou shalt get.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "\"Combed and washed",
+          "shall the wise man go,",
+          "And a meal at mom shall take;",
+          "For unknown it is",
+          "where at eve he may be;",
+          "It is ill thy luck to lose.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Sigurth had a great battle with Lyngvi, the son of Hunding, and his brothers; there Lyngvi fell, and his two brothers with him. After the battle Regin said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "\"Now the bloody eagle",
+          "with biting sword",
+          "Is carved on the back",
+          "of Sigmund's killer;",
+          "Few were more fierce",
+          "in fight than his son,",
+          "Who reddened the earth",
+          "and gladdened the ravens.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Sigurth went home to Hjalprek's house; thereupon Regin egged him on to fight with Fafnir."
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

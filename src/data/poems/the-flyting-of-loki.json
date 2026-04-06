@@ -1,0 +1,3112 @@
+{
+  "slug": "the-flyting-of-loki",
+  "key": "TheFlytingOfLoki",
+  "title": {
+    "on": "Lokasenna",
+    "ru": "Перебранка Локи",
+    "en": "The Flyting of Loki"
+  },
+  "description": {
+    "on": "",
+    "ru": "Эгир, который иначе назывался Гюмир, наварил асам пива, когда получил огромный котел, о чем только что было рассказано. На этот пир пришли Один и Фригг, его жена. Тор не пришел, потому что он был в то время на востоке.",
+    "en": "Ægir, who was also called Gymir, had prepared ale for the gods, after he had got the mighty kettle, as now has been told. To this feast came Othin and Frigg, his wife."
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе А. И. Корсуна",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Ægir, er öðru nafni hét Gymir, hann hafði búit ásum öl, þá er hann hafði fengit ketil inn mikla, sem nú er sagt. Til þeirar veizlu kom Óðinn ok Frigg, kona hans. Þórr kom eigi, því at hann var í austrvegi. Sif var þar, kona Þórs, Bragi ok Iðunn, kona hans. Týr var þar. Hann var einhendr, — Fenrisúlfr sleit hönd af honum, þá er hann var bundinn. Þar var Njörðr ok kona hans Skaði, Freyr ok Freyja, Víðarr, son Óðins. Loki var þar ok þjónustumenn Freys, Byggvir ok Beyla. Margt var þar ása ok alfa. Ægir átti tvá þjónustumenn, Fimafengr ok Eldir. Þar var lýsigull haft fyrir elts ljós. Sjálft barst þar öl. Þar var griðastaðr mikill. Menn lofuðu mjök, hversu góðir þjónustumenn Ægis váru. Loki mátti eigi heyra þat, ok drap hann Fimafeng. Þá skóku æsir skjöldu sína ok æpðu at Loka ok eltu hann braut til skógar, en þeir fóru at drekka. Loki hvarf aftr ok hitti úti Eldi. Loki kvaddi hann:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Segðu þat, Eldir,",
+          "svá at þú einugi",
+          "feti gangir framar,",
+          "hvat hér inni",
+          "hafa at ölmálum",
+          "sigtíva synir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Eldir kvað:",
+          "\"Of vápn sín dæma",
+          "ok um vígrisni sína",
+          "sigtíva synir;",
+          "ása ok alfa",
+          "er hér inni eru,",
+          "manngi er þér í orði vinr.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Loki kvað:",
+          "\"Inn skal ganga",
+          "Ægis hallir í",
+          "á þat sumbl at sjá;",
+          "jöll ok áfu",
+          "færi ek ása sonum,",
+          "ok blend ek þeim svá meini mjöð.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Eldir kvað:",
+          "\"Veiztu, ef þú inn gengr",
+          "Ægis hallir í",
+          "á þat sumbl at sjá,",
+          "hrópi ok rógi",
+          "ef þú eyss á holl regin,",
+          "áþér munu þau þerra þat.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Loki kvað:",
+          "\"Veiztu þat, Eldir,",
+          "ef vit einir skulum",
+          "sáryrðum sakask,",
+          "auðigr verða",
+          "mun ek í andsvörum,",
+          "ef þú mælir til margt.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Síðan gekk Loki inn í höllina. En er þeir sá, er fyrir váru, hverr inn var kominn, þögnuðu þeir allir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þyrstr ek kom",
+          "þessar hallar til,",
+          "Loftr, um langan veg",
+          "ásu at biðja,",
+          "at mér einn gefi",
+          "mæran drykk mjaðar.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Hví þegið ér svá,",
+          "þrungin goð,",
+          "at þér mæla né meguð?",
+          "Sessa ok staði",
+          "velið mér sumbli at",
+          "eða heitið mik heðan.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Bragi kvað:",
+          "\"Sessa ok staði",
+          "velja þér sumbli at",
+          "æsir aldregi,",
+          "því at æsir vitu,",
+          "hveim þeir alda skulu",
+          "gambansumbl of geta.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Loki kvað:",
+          "\"Mantu þat, Óðinn,",
+          "er vit í árdaga",
+          "blendum blóði saman?",
+          "Ölvi bergja",
+          "lézktu eigi mundu,",
+          "nema okkr væri báðum borit.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Óðinn kvað:",
+          "\"Rístu þá, Viðarr,",
+          "ok lát ulfs föður",
+          "sitja sumbli at,",
+          "síðr oss Loki",
+          "kveði lastastöfum",
+          "Ægis höllu í.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Þá stóð Viðarr upp ok skenkði Loka. En áðr hann drykki, kvaddi hann ásuna:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"Heilir æsir,",
+          "heilar ásynjur",
+          "ok öll ginnheilög goð —",
+          "nema sá einn áss",
+          "er innar sitr,",
+          "Bragi, bekkjum á.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Bragi kvað:",
+          "\"Mar ok mæki",
+          "gef ek þér míns féar,",
+          "ok bætir þér svá baugi Bragi,",
+          "síðr þú ásum",
+          "öfund of gjaldir,",
+          "grem þú eigi goð at þér.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Loki kvað:",
+          "\"Jós ok armbauga",
+          "mundu æ vera",
+          "beggja vanr, Bragi;",
+          "ása ok alfa,",
+          "er hér inni eru,",
+          "þú ert við víg varastr",
+          "ok skjarrastr við skot.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Bragi kvað:",
+          "\"Veit ek, ef fyr útan værak,",
+          "svá sem fyr innan emk,",
+          "Ægis höll of kominn,",
+          "höfuð þitt",
+          "bæra ek í hendi mér;",
+          "lykak þér þat fyr lygi.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Loki kvað:",
+          "\"Snjallr ertu í sessi,",
+          "skal-at-tu svá gera,",
+          "Bragi bekkskrautuðr;",
+          "vega þú gakk,",
+          "ef þú vreiðr séir;",
+          "hyggsk vætr hvatr fyrir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Iðunn kvað:",
+          "\"Bið ek þik, Bragi,",
+          "barna sifjar duga",
+          "ok allra óskmaga,",
+          "at þú Loka",
+          "kveðir-a lastastöfum",
+          "Ægis höllu í.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Iðunn,",
+          "þik kveð ek allra kvenna",
+          "vergjarnasta vera,",
+          "síztu arma þína",
+          "lagðir ítrþvegna",
+          "um þinn bróðurbana.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Iðunn kvað:",
+          "\"Loka ek kveðk-a",
+          "lastastöfum",
+          "Ægis höllu í:",
+          "Braga ek kyrri",
+          "bjórreifan;",
+          "vilk-at ek, at it vreiðir vegizk.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Gefjun kvað:",
+          "\"Hví it æsir tveir",
+          "skuluð inni hér",
+          "sáryrðum sakask?",
+          "Loftki þat veit,",
+          "at hann leikinn er",
+          "ok hann fjörg öll fía.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Gefjun,",
+          "þess mun ek nú geta,",
+          "er þik glapði at geði",
+          "sveinn inn hvíti,",
+          "er þér sigli gaf",
+          "ok þú lagðir lær yfir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Óðinn kvað:",
+          "\"Ærr ertu, Loki,",
+          "ok örviti,",
+          "er þú fær þér Gefjun at gremi,",
+          "því at aldar örlög",
+          "hygg ek, at hon öll of viti",
+          "jafngörla sem ek.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Óðinn,",
+          "þú kunnir aldregi",
+          "deila víg með verum;",
+          "oft þú gaft,",
+          "þeim er þú gefa skyldir-a,",
+          "inum slævurum sigr.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Óðinn kvað:",
+          "\"Veiztu, ef ek gaf,",
+          "þeim er ek gefa né skylda,",
+          "inum slævurum, sigr,",
+          "átta vetr",
+          "vartu fyr jörð neðan,",
+          "kýr mólkandi ok kona,",
+          "ok hefr þú þar börn borit,",
+          "ok hugða ek þat args aðal.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Loki kvað:",
+          "\"En þik síða kóðu",
+          "Sámseyu í,",
+          "ok draptu á vétt sem völur;",
+          "vitka líki",
+          "fórtu verþjóð yfir,",
+          "ok hugða ek þat args aðal.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Frigg kvað:",
+          "\"Örlögum ykkrum",
+          "skylið aldregi",
+          "segja seggjum frá,",
+          "hvat it æsir tveir",
+          "drýgðuð í árdaga;",
+          "firrisk æ forn rök firar.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Frigg,",
+          "þú ert Fjörgyns mær",
+          "ok hefr æ vergjörn verit,",
+          "er þá Véa ok Vilja",
+          "léztu þér, Viðris kvæn,",
+          "báða i baðm of tekit.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Frigg kvað:",
+          "\"Veiztu, ef ek inni ættak",
+          "Ægis höllum i",
+          "Baldri líkan bur,",
+          "út þú né kvæmir",
+          "frá ása sonum,",
+          "ok væri þá at þér vreiðum vegit.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Loki kvað:",
+          "\"Enn vill þú, Frigg,",
+          "at ek fleiri telja",
+          "mína meinstafi:",
+          "ek því réð,",
+          "er þú ríða sér-at",
+          "síðan Baldr at sölum.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Freyja kvað:",
+          "\"Ærr ertu, Loki,",
+          "er þú yðra telr",
+          "ljóta leiðstafi;",
+          "örlög Frigg,",
+          "hygg ek, at öll viti,",
+          "þótt hon sjalfgi segi.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Freyja,",
+          "þik kann ek fullgörva,",
+          "er-a þér vamma vant:",
+          "ása ok alfa,",
+          "er hér inni eru,",
+          "hverr hefir þinn hór verit.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Freyja kvað:",
+          "\"Flá er þér tunga,",
+          "hygg ek, at þér fremr myni",
+          "ógótt of gala;",
+          "reiðir ro þér æsir",
+          "ok ásynjur,",
+          "hryggr muntu heim fara.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Freyja,",
+          "þú ert fordæða",
+          "ok meini blandin mjök,",
+          "síz þik at bræðr þínum",
+          "stóðu blíð regin",
+          "ok myndir þú þá, Freyja, frata.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Njörðr kvað:",
+          "\"Þat er válítit,",
+          "þótt sér varðir",
+          "vers fái, hós eða hvárs;",
+          "hitt er undr, er áss ragr",
+          "er hér inn of kominn",
+          "ok hefir sá börn of borit.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Njörðr,",
+          "þú vart austr heðan",
+          "gíls of sendr at goðum;",
+          "Hymis meyjar",
+          "höfðu þik at hlandtrogi",
+          "ok þér i munn migu.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Njörðr kvað:",
+          "\"Sú erumk líkn,",
+          "er ek vark langt heðan",
+          "gísl of sendr at goðum,",
+          "þá ek mög gat,",
+          "þann er mangi fíár,",
+          "ok þykkir sá ása jaðarr.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Loki kvað:",
+          "\"Hættu nú, Njörðr,",
+          "haf þú á hófi þik,",
+          "munk-a ek því leyna lengr:",
+          "við systur þinni",
+          "gaztu slíkan mög,",
+          "ok er-a þó vánu verr.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Týr kvað:",
+          "\"Freyr er beztr",
+          "allra ballriða",
+          "ása görðum í;",
+          "mey hann né grætir",
+          "né manns konu",
+          "ok leysir ór höftum hvern.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Týr,",
+          "þú kunnir aldregi",
+          "bera tilt með tveim;",
+          "handar innar hægri",
+          "mun ek hinnar geta,",
+          "er þér sleit Fenrir frá.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Týr kvað:",
+          "\"Handar em ek vanr,",
+          "en þú hróðrsvitnis,",
+          "böl er beggja þrá;",
+          "ulfgi hefir ok vel,",
+          "er í böndum skal",
+          "bíða ragnarökrs.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Týr,",
+          "þat varð þinni konu,",
+          "at hon átti mög við mér;",
+          "öln né penning",
+          "hafðir þú þess aldregi",
+          "vanréttis, vesall.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Freyr kvað:",
+          "\"Ulfr sé ek liggja",
+          "árósi fyrir,",
+          "unz rjúfask regin;",
+          "því mundu næst,",
+          "nema þú nú þegir,",
+          "bundinn, bölvasmiðr.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Loki kvað:",
+          "\"Gulli keypta",
+          "léztu Gymis dóttur",
+          "ok seldir þitt svá sverð;",
+          "en er Múspells synir",
+          "ríða Myrkvið yfir,",
+          "veizt-a þú þá, vesall, hvé þú vegr.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Byggvir kvað:",
+          "\"Veiztu, ef ek eðli ættak",
+          "sem Ingunar-Freyr",
+          "ok svá sælligt setr,",
+          "mergi smæra",
+          "mölða ek þá meinkráku",
+          "ok lemða alla í liðu.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Loki kvað:",
+          "\"Hvat er þat it litla",
+          "er ek þat löggra sék",
+          "ok snapvíst snapir?",
+          "At eyrum Freys",
+          "mundu æ vera",
+          "ok und kvernum klaka.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Byggvir kvað:",
+          "\"Byggvir ek heiti,",
+          "en mik bráðan kveða",
+          "goð öll ok gumar;",
+          "því em ek hér hróðugr,",
+          "at drekka Hrofts megir",
+          "allir öl saman.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Byggvir,",
+          "þú kunnir aldregi",
+          "deila með mönnum mat,",
+          "ok þik í flets strái",
+          "finna né máttu,",
+          "þá er vágu verar.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Heimdallr kvað:",
+          "\"Ölr ertu, Loki,",
+          "svá at þú ert örviti,",
+          "— hví né lezk-a-ðu, Loki? —",
+          "því at ofdrykkja",
+          "veldr alda hveim,",
+          "er sína mælgi né man-at.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Heimdallr,",
+          "þér var í árdaga",
+          "it ljóta líf of lagit;",
+          "örgu baki",
+          "þú munt æ vera",
+          "ok vaka vörðr goða.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Skaði kvað:",
+          "\"Létt er þér, Loki;",
+          "mun-at-tu lengi svá",
+          "leika lausum hala,",
+          "því at þik á hjörvi",
+          "skulu ins hrímkalda magar",
+          "görnum binda goð.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Loki kvað:",
+          "\"Veiztu, ef mik á hjörvi",
+          "skulu ins hrímkalda magar",
+          "görnum binda goð,",
+          "fyrstr ok efstr",
+          "var ek at fjörlagi,",
+          "þars vér á Þjaza þrifum.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Skaði kvað:",
+          "\"Veiztu, ef fyrstr ok efstr",
+          "vartu at fjörlagi,",
+          "þá er ér á Þjaza þrifuð,",
+          "frá mínum véum",
+          "ok vöngum skulu",
+          "þér æ köld ráð koma.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Loki kvað:",
+          "\"Léttari í málum",
+          "vartu við Laufeyjar son,",
+          "þá er þú létz mér á beð þinn boðit;",
+          "getit verðr oss slíks,",
+          "ef vér görva skulum",
+          "telja vömmin vár.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "þá gekk Sif fram ok byrlaði Loka í hrímkálki mjöð ok mælti:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "\"Heill ver þú nú, Loki,",
+          "ok tak við hrímkálki",
+          "fullum forns mjaðar,",
+          "heldr þú hana eina",
+          "látir með ása sonum",
+          "vammalausa vera.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Hann tók við horni ok drakk af:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "\"Ein þú værir,",
+          "ef þú svá værir,",
+          "vör ok gröm at veri;",
+          "einn ek veit,",
+          "svá at ek vita þykkjumk,",
+          "hór ok af Hlórriða,",
+          "ok var þat sá inn lævísi Loki.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Beyla kvað:",
+          "\"Fjöll öll skjalfa;",
+          "hygg ek á för vera",
+          "heiman Hlórriða;",
+          "han ræðr ró,",
+          "þeim er rægir hér",
+          "goð öll ok guma.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Loki kvað:",
+          "\"Þegi þú, Beyla,",
+          "þú ert Byggvis kvæn",
+          "ok meini blandinn mjök,",
+          "ókynjan meira",
+          "kom-a med ása sonum;",
+          "öll ertu, deigja, dritin.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Þá kom Þórr at ok kvað:",
+          "\"Þegi þú, rög vættr,",
+          "þér skal minn þrúðhamarr,",
+          "Mjöllnir, mál fyrnema;",
+          "herðaklett",
+          "drep ek þér halsi af,",
+          "ok verðr þá þínu fjörvi of farit.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Loki kvað:",
+          "\"Jarðar burr",
+          "er hér nú inn kominn,",
+          "hví þrasir þú svá, Þórr?",
+          "En þá þorir þú ekki,",
+          "er þú skalt við ulfinn vega,",
+          "ok svelgr hann allan Sigföður.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Þegi þú, rög vættr,",
+          "þér skal minn þrúðhamarr,",
+          "Mjöllnir, mál fyrnema;",
+          "upp ek þér verp",
+          "ok á austrvega,",
+          "síðan þik manngi sér.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Loki kvað:",
+          "\"Austrförum þínum",
+          "skaltu aldregi",
+          "segja seggjum frá,",
+          "síz í hanska þumlungi",
+          "hnúkðir þú einheri,",
+          "ok þóttisk-a þú þá Þórr vera.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Þegi þú, rög vættr,",
+          "þér skal minn þrúðhamarr,",
+          "Mjöllnir, mál fyrnema;",
+          "hendi inni hægri",
+          "drep ek þik Hrungnis bana,",
+          "svá at þér brotnar beina hvat.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Loki kvað:",
+          "\"Lifa ætla ek mér",
+          "langan aldr,",
+          "þóttú hætir hamri mér;",
+          "skarpar álar",
+          "þóttu þér Skrýmis vera,",
+          "ok máttir-a þú þá nesti ná,",
+          "ok svalzt þú þá hungri heill.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Þegi þú, rög vættr,",
+          "þér skal minn þrúðhamarr,",
+          "Mjöllnir, mál fyrnema;",
+          "Hrungnis bani",
+          "mun þér í hel koma",
+          "fyr nágrindr neðan.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Loki kvað:",
+          "\"Kvað ek fyr ásum,",
+          "kvað ek fyr ása sonum,",
+          "þats mik hvatti hugr,",
+          "en fyr þér einum",
+          "mun ek út ganga,",
+          "því at ek veit, at þú vegr.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          "\"Öl gerðir þú, Ægir,",
+          "en þú aldri munt",
+          "síðan sumbl of gera;",
+          "eiga þín öll,",
+          "er hér inni er,",
+          "leiki yfir logi,",
+          "ok brenni þér á baki.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "En eftir þetta falst Loki í Fránangrsforsi í lax líki. Þar tóku æsir hann. Hann var bundinn með þörmum sonar síns, Vála, en Narfi, sonr hans, varð at vargi. Skaði tók eitrorm ok festi upp yfir annlit Loka. Draup þar ór eitr. Sigyn, kona Loka, sat þar ok helt munnlaug undir eitrið. En er munnlaugin var full, bar hon út eitrið, en meðan draup eitrit á Loka. Þá kippðist hann svá hart við, at þaðan af skalf jörð öll. Þat eru nú kallaðir landsskjálftar."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Эгир, который иначе назывался Гюмир, наварил асам пива, когда получил огромный котел, о чем только что было рассказано. На этот пир пришли Один и Фригг, его жена. Тор не пришел, потому что он был в то время на востоке. Сив была там, жена Тора, Браги и Идун, жена его. Тюр был там, он был однорукий, Волк Фенрир откусил ему руку, когда Волка связывали. Там был Ньерд и жена его Скади, Фрейр и Фрейя, Видар, сын Одина. Локи был там и слуги Фрейра — Бюггвир и Бейла. Много там было асов и альвов. У Эгира было двое слуг — Фимафенг и Эльдир. Светящееся золото освещало палату. Пиво само лилось в кубки. Все должны были соблюдать там мир. Гости с большой похвалой говорили, какие у Эгира хорошие слуги. Локи не стерпел этого и убил Фимафенга. Тогда асы стали потрясать щитами и кричать на Локи. Они прогнали его в лес, а сами сели пировать.",
+          "Локи вернулся и встретил Эльдира. Локи обратился к нему:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Эльдир, ответь",
+          "прежде чем ты",
+          "с места сойдешь:",
+          "о чем на пиру",
+          "за пивом хмельным",
+          "беседуют боги?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Эльдир сказал:",
+          "\"Об оружье своем",
+          "о смелости в битвах",
+          "беседуют боги;",
+          "но никто из них другом",
+          "тебя не зовет —",
+          "ни асы, ни альвы.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Локи сказал:",
+          "\"К Эгиру в дом —",
+          "войти я решил",
+          "и на пир посмотреть;",
+          "раздор и вражду",
+          "я им принесу",
+          "разбавлю мед злобой.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Эльдир сказал:",
+          "\"Если в палаты",
+          "войти ты решил",
+          "на пир посмотреть",
+          "и асов забрызгать",
+          "грязной бранью —",
+          "об тебя ж оботрут ее.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Локи сказал:",
+          "\"Знаешь ли, Эльдир",
+          "если начнем мы",
+          "обидно браниться",
+          "я ответами буду",
+          "богаче тебя",
+          "если ты не замолкнешь.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "После этого Локи вошел в палату. Но когда сидевшие внутри увидели, кто вошел, они все замолкли. Локи сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Я, Лофт, издалека",
+          "жаждой томимый",
+          "в палату пришел",
+          "асов прошу я",
+          "чтоб кто-нибудь подал",
+          "мне доброго меда.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Что ж вы молчите",
+          "могучие боги",
+          "что слова не скажете?",
+          "Пустите меня",
+          "на пиршество ваше",
+          "иль прочь прогоните!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Браги сказал:",
+          "\"Не пустят тебя",
+          "на пиршество наше",
+          "боги могучие;",
+          "ибо ведомо им",
+          "кого надлежит",
+          "на пир приглашать.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Локи сказал:",
+          "\"Один, когда-то —",
+          "помнишь ли? — кровь",
+          "мы смешали с тобою, —",
+          "сказал ты, что пива",
+          "пить не начнешь",
+          "если мне не нальют.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Один сказал:",
+          "\"Видар, ты встань",
+          "пусть Волка отец",
+          "сядет за стол наш",
+          "чтоб Локи не начал",
+          "бранить нечестиво",
+          "гостей в доме Эгира.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Тогда Видар встал и налил кубок Локи, но тот, прежде чем выпить, обратился к асам:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"Славьтесь, асы",
+          "и асиньи, славьтесь",
+          "могучие боги!",
+          "Одного я не стану",
+          "приветствовать — Браги",
+          "что сел в середине.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Браги сказал:",
+          "\"Меч и коня",
+          "тебе я вручу",
+          "и кольцом откуплюсь я;",
+          "не начал бы только",
+          "ты ссор затевать;",
+          "бойся гнева богов!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Локи сказал:",
+          "\"Не дашь ты коня",
+          "и кольца ты не дашь:",
+          "посул твой напрасен;",
+          "из асов и альвов",
+          "что здесь собрались",
+          "ты самый трусливый",
+          "и схваток страшишься.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Браги сказал:",
+          "\"Когда бы не здесь",
+          "не у Эгира в доме",
+          "с тобою сошлись мы",
+          "своею рукой",
+          "твою голову снял бы",
+          "в отплату за ложь.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Локи сказал:",
+          "\"Сидя ты храбр —",
+          "украшенье скамьи, —",
+          "но в битве беспомощен!",
+          "Смелость свою",
+          "покажи в сраженье!",
+          "Кто смел, тот не медлит.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Идун сказала:",
+          "\"Браги, не надо",
+          "У Эгира в доме",
+          "ссориться с Локи;",
+          "уместны ли распри",
+          "среди сыновей",
+          "родных и приемных!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Идун, молчи!",
+          "До мужчин ты всех боле",
+          "из женщин жадна",
+          "ведь руки твои",
+          "того обнимали",
+          "кем брат твой убит.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Идун сказала:",
+          "\"Локи я словом",
+          "не оскорбляла",
+          "у Эгира в доме:",
+          "я Браги смирить",
+          "хмельного старалась",
+          "и распрю пресечь.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Гевьон сказала:",
+          "\"Зря вы, два аса",
+          "друг друга язвите",
+          "речами бранчливыми:",
+          "ведает Лофт",
+          "что слывет шутником",
+          "и любимцем богов.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Гевьон, молчи!",
+          "О юнце я напомню",
+          "тебя совратившем:",
+          "дарил он уборы",
+          "в обмен на твои",
+          "любовные ласки.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Один сказал:",
+          "\"Безумен ты, Локи",
+          "что дерзостно вздумал",
+          "Гевьон гневить:",
+          "ведь ей, как и мне",
+          "открыты и ясны",
+          "судьбы всех сущих.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Один, молчи!",
+          "Ты удачи в боях",
+          "не делил справедливо:",
+          "не воинам храбрым",
+          "но трусам победу",
+          "нередко дарил ты.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Один сказал:",
+          "\"Коль не воинам храбрым",
+          "но трусам победу",
+          "нередко дарил я",
+          "то ты под землей",
+          "сидел восемь зим",
+          "доил там коров",
+          "рожал там детей",
+          "ты — муж женовидный.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Локи сказал:",
+          "\"А ты, я слышал",
+          "на острове Самсей",
+          "бил в барабан",
+          "средь людей колдовал",
+          "как делают ведьмы, —",
+          "ты — муж женовидный.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Фригг сказала:",
+          "\"К чему говорить",
+          "о прежних делах",
+          "о том, что свершали",
+          "вы, двое асов",
+          "в давнее время;",
+          "что старое трогать!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Фригг, молчи!",
+          "Ты Фьергюна дочь",
+          "и нравом распутна:",
+          "хоть муж тебе Видрир",
+          "ты Вили и Ве",
+          "обнимала обоих.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Фригг сказала:",
+          "\"Будь тут со мной",
+          "у Эгира в доме",
+          "Бальдру подобный",
+          "ты б не покинул",
+          "пиршество асов",
+          "без схватки жестокой.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Локи сказал:",
+          "\"Хочешь ты, Фригг",
+          "дальше послушать",
+          "дерзкие речи:",
+          "из-за меня ведь",
+          "Бальдр не вернется",
+          "к тебе никогда.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Фрейя сказала:",
+          "\"Безумен ты, Локи",
+          "зачем о злодействах",
+          "рассказ ты завел:",
+          "все судьбы Фригг",
+          "я думаю, знает",
+          "хоть в тайне хранит их.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Фрейя, молчи!",
+          "Тебя ль мне не знать;",
+          "ты тоже порочна:",
+          "всем ты любовь",
+          "свою отдавала —",
+          "всем асам и альвам.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Фрейя сказала:",
+          "\"Лжив твой язык;",
+          "тебя он, я знаю",
+          "к беде приведет:",
+          "разгневаны асы",
+          "и асиньи тоже",
+          "понурым вернешься ты.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Фрейя, молчи!",
+          "Ты, злобная ведьма",
+          "погрязла в разврате:",
+          "не тебе ли пришлось —",
+          "пойманной с братом —",
+          "визжать с перепугу!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Ньерд сказал:",
+          "\"Беды нет великой",
+          "коль женщина делит",
+          "ложе с мужчиной",
+          "хуже, что ас",
+          "женовидный, рожавший",
+          "на пир наш пришел.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Ньерд, молчи!",
+          "Не ты ли богами",
+          "был послан заложником;",
+          "дочери Хюмира",
+          "в рот твой мочились",
+          "как будто в корыто.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Ньерд сказал:",
+          "\"Пусть я далеко",
+          "заложником был",
+          "но тем я утешен",
+          "что сына родил я, —",
+          "дорог он всем",
+          "он — первый из асов.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ньерд, перестань!",
+          "Похваляться не смей!",
+          "Не стану скрывать я:",
+          "прижил ты сына",
+          "с сестрою родной, —",
+          "что может быть хуже!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Тюр сказал:",
+          "\"Фрейр самый лучший",
+          "в чертоге богов",
+          "воинственный всадник;",
+          "не обижал он",
+          "дев или жен",
+          "отпускал полоненных.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Тюр, молчи!",
+          "Мирить не умел ты",
+          "в распре врагов:",
+          "правую руку",
+          "твою помяну я",
+          "что Фенрир отгрыз.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Тюр сказал:",
+          "\"Я лишился руки",
+          "а Хродрвитнир где твой!",
+          "Оба терпим потерю;",
+          "но тяжко и Волку",
+          "в цепях дожидаться",
+          "заката богов.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Тюр, молчи!",
+          "От меня родила",
+          "жена твоя сына;",
+          "за бесчестье с тобой",
+          "я не расчелся —",
+          "стерпел ты, презренный!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Фрейр сказал:",
+          "\"Волк должен лежать",
+          "в устье реки",
+          "до кончины богов;",
+          "если ты не замолкнешь —",
+          "тотчас же будешь",
+          "закован, злодей!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты золото отдал",
+          "за Гюмира дочь",
+          "и меч свой в придачу;",
+          "чем драться ты будешь",
+          "коль Муспелля дети",
+          "сквозь Мюрквид поскачут?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Бюггвир сказал:",
+          "\"Был бы я равен",
+          "Ингунар-Фрейру",
+          "в чертоге счастливом",
+          "я б растерзал",
+          "разорвал бы я в клочья",
+          "ворону зловредную.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Локи сказал:",
+          "\"Что там за мелочь",
+          "виляет хвостом",
+          "пресмыкаясь пред сильными?",
+          "Вечно подачек",
+          "ты просишь у Фрейра",
+          "за жерновом ноя.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Бюггвир сказал:",
+          "\"Бюггвир зовусь",
+          "меж людей и богов",
+          "быстрым прослыл я;",
+          "почетно сидеть мне",
+          "с сынами Хрофта",
+          "на пиршестве пышном.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Бюггвир, молчи!",
+          "Не умел никогда ты",
+          "пищу подать;",
+          "не ты ль под столами",
+          "в соломе скрывался",
+          "при каждом сраженье!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Хеймдалль сказал:",
+          "\"Ты, Локи, от пива",
+          "рассудка лишился;",
+          "замолкнешь ли, Локи?",
+          "Язык свой не в силах",
+          "тот обуздать",
+          "кто не в меру напьется.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Хеймдалль, молчи!",
+          "От начала времен",
+          "удел твой нелегок:",
+          "с мокрой спиной",
+          "на страже богов",
+          "неустанно стоишь ты.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Скади сказала:",
+          "\"Локи, ты весел",
+          "но будешь недолго",
+          "резвиться на воле",
+          "ибо к скале тебя",
+          "сына кишками",
+          "боги привяжут.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Локи сказал:",
+          "\"Если к скале меня",
+          "сына кишками",
+          "боги привяжут —",
+          "знай, что я первым",
+          "был и последним",
+          "в час гибели Тьяци.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Скади сказала:",
+          "\"Если ты первым",
+          "был и последним",
+          "в час гибели Тьяци",
+          "то в доме моем",
+          "всегда тебе будут",
+          "гибель готовить.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ласковей ты",
+          "призывала когда-то",
+          "Локи на ложе:",
+          "стоит то вспомнить",
+          "коль начали счет мы",
+          "деяний недобрых.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Тогда вышла вперед Сив, налила Локи в хрустальный кубок меду и сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "\"Привет тебе, Локи!",
+          "Кубок хрустальный",
+          "с медом прими",
+          "и меня на пиру",
+          "могучих богов",
+          "в речах не порочь!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "\"Он взял рог и выпил.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "\"Порочить не стал бы",
+          "когда б ты и впрямь",
+          "была неприступной;",
+          "но знаю, с одним —",
+          "и мне ли не знать! —",
+          "изменила ты мужу, —",
+          "то был злобный Локи.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Бейла сказала:",
+          "\"Горы дрожат",
+          "то едет, я думаю",
+          "Хлорриди грозный;",
+          "принудит молчать он",
+          "того, кто поносит",
+          "могучих богов.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Локи сказал:",
+          "\"Ты, Бейла, молчи!",
+          "Ты, жена Бюггвира",
+          "мрази вместилище;",
+          "выродок ты",
+          "меж богами великими",
+          "скотница грязная!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Тут вошел Тор и сказал:",
+          "\"Мерзостный, смолкни!",
+          "Принудит к молчанью",
+          "тебя молот Мьелльнир!",
+          "Скалу твоих плеч",
+          "с плеч я снесу, —",
+          "конец твой настанет.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Локи сказал:",
+          "\"Вот и сын Ерд",
+          "прибыл сюда:",
+          "что ж браниться ты начал?",
+          "Не будешь ты смелым",
+          "с Волком сражаясь",
+          "что Одина сгубит.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Тор сказал:",
+          "\"Мерзостный, смолкни!",
+          "Принудит к молчанью",
+          "тебя молот Мьелльнир!",
+          "Вверх я заброшу",
+          "тебя на восток, —",
+          "сгинешь совсем ты.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Локи сказал:",
+          "\"Полно тебе",
+          "поминать о походах",
+          "твоих на восток, —",
+          "ты в рукавице",
+          "прятался там",
+          "не опомнясь от страха.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Тор сказал:",
+          "\"Мерзостный, смолкни!",
+          "Принудит к молчанью",
+          "тебя молот Мьелльнир!",
+          "Правой рукой",
+          "на тебя я обрушу",
+          "Хрунгнира гибель.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Локи сказал:",
+          "\"Еще доведется",
+          "долго мне жить",
+          "угроз не страшусь я;",
+          "Скрюмира были",
+          "крепки ремни",
+          "до еды не достать —",
+          "от голода гиб ты.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Тор сказал:",
+          "\"Мерзостный, смолкни!",
+          "Принудит к молчанью",
+          "тебя молот Мьелльнир!",
+          "Хрунгнира гибель",
+          "швырнет тебя в Хель",
+          "к воротам смерти.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Локи сказал:",
+          "\"Я высказал асам",
+          "я высказал асиньям",
+          "все, не таясь",
+          "тебе ж уступлю",
+          "и отсюда уйду, —",
+          "ты станешь сражаться.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "\"Пива ты, Эгир",
+          "немало припас",
+          "но напрасно старался:",
+          "пусть все, чем владеешь",
+          "в пламени сгинет",
+          "пусть опалит",
+          "огонь тебе спину!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "После этого Локи, в образе лосося, спрятался в водопаде фьорда Франангр. Там асы поймали его. Он был связан кишками сына своего Нари, а сын его Нарви превратился в волка. Скади взяла ядовитую змею и повесила ее над лицом Локи. Из змеи капал яд. Сигюн, жена Локи, сидела там и подставляла чашу под капающий яд. А когда чаша наполнялась, она ее выносила, и в это время яд из змеи капал на Локи. Тогда он корчился так сильно, что вся земля дрожала. Теперь это называется землетрясением."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Ægir, who was also called Gymir, had prepared ale for the gods, after he had got the mighty kettle, as now has been told. To this feast came Othin and Frigg, his wife. Thor came not, as he was on a journey in the East. Sif, Thor's wife, was there, and Brag, with Ithun, his wife. Tyr, who had but one hand, was there; the wolf Fenrir had bitten off his other hand when they had bound him. There were Njorth and Skathi his wife, Freyr and Freyja, and Vithar, the son of Othin. Loki was there, and Freyr's servants Byggvir and Beyla. Many were there of the gods and elves.",
+          "Ægir had two serving-men, Fimafeng and Eldir. Glittering gold they had in place of firelight; the ale came in of itself; and great was the peace. The guests praised much the ability of Ægir's serving-men. Loki might not endure that, and he slew Fimafeng. Then the gods shook their shields and howled at Loki and drove him away to the forest, and thereafter set to drinking again. Loki turned back, and outside he met Eldir. Loki spoke to him:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Speak now, Eldir,",
+          "for not one step",
+          "Farther shalt thou fare;",
+          "What ale-talk here",
+          "do they have within,",
+          "The sons of the glorious gods?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Eldir spake:",
+          "\"Of their weapons they talk,",
+          "and their might in war,",
+          "The sons of the glorious gods;",
+          "From the gods and elves",
+          "who are gathered here",
+          "No friend in words shalt thou find.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Loki spake:",
+          "\"In shall I go",
+          "into Ægir's hall,",
+          "For the feast I fain would see;",
+          "Bale and hatred",
+          "I bring to the gods,",
+          "And their mead with venom I mix.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Eldir spake:",
+          "\"If in thou goest",
+          "to Ægir's hall,",
+          "And fain the feast wouldst see,",
+          "And with slander and spite",
+          "wouldst sprinkle the gods,",
+          "Think well lest they wipe it on thee.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Loki spake:",
+          "\"Bethink thee, Eldir,",
+          "if thou and I",
+          "Shall strive with spiteful speech;",
+          "Richer I grow",
+          "in ready words",
+          "If thou speakest too much to me.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Then Loki went into the hall, but when they who were there saw who had entered, they were all silent."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Loki spake:",
+          "\"Thirsty I come",
+          "into this thine hall,",
+          "I, Lopt, from a journey long,",
+          "To ask of the gods",
+          "that one should give",
+          "Fair mead for a drink to me.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Why sit ye silent,",
+          "swollen with pride,",
+          "Ye gods, and no answer give?",
+          "At your feast a place",
+          "and a seat prepare me,",
+          "Or bid me forth to fare.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Bragi spake:",
+          "\"A place and a seat",
+          "will the gods prepare",
+          "No more in their midst for thee;",
+          "For the gods know well",
+          "what men they wish",
+          "To find at their mighty feasts.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Loki spake:",
+          "\"Remember, Othin,",
+          "in olden days",
+          "That we both our blood have mixed;",
+          "Then didst thou promise",
+          "no ale to pour,",
+          "Unless it were brought for us both.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Othin spake:",
+          "\"Stand forth then, Vithar,",
+          "and let the wolf's father",
+          "Find a seat at our feast;",
+          "Lest evil should Loki",
+          "speak aloud",
+          "Here within Ægir's hall.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Then Vithar arose and poured drink for Loki; but before he drank he spoke to the gods:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"Hail to you, gods!",
+          "ye goddesses, hail! Hail to the holy throng! Save for the god",
+          "who yonder sits, Bragi there on the bench.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Bragi spake:",
+          "\"A horse and a sword",
+          "from my hoard will I give,",
+          "And a ring gives Bragi to boot,",
+          "That hatred thou makst not",
+          "among the gods;",
+          "So rouse not the great ones to wrath.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Loki spake:",
+          "\"In horses and rings",
+          "thou shalt never be rich,",
+          "Bragi, but both shalt thou lack;",
+          "Of the gods and elves",
+          "here together met",
+          "Least brave in battle art thou,",
+          "(And shyest thou art of the shot.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Bragi spake:",
+          "\"Now were I without",
+          "as I am within,",
+          "And here in Ægir's hall,",
+          "Thine head would I bear",
+          "in mine hands away,",
+          "And pay thee the price of thy lies.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Loki spake:",
+          "\"In thy seat art thou bold,",
+          "not so are thy deeds,",
+          "Bragi, adorner of benches!",
+          "Go out and fight",
+          "if angered thou feelest,",
+          "No hero such forethought has.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Ithun spake:",
+          "\"Well, prithee, Bragi,",
+          "his kinship weigh,",
+          "Since chosen as wish-son he was;",
+          "And speak not to Loki",
+          "such words of spite",
+          "Here within Ægir's hall.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Ithun!",
+          "thou art, I say,",
+          "of women most lustful in love,",
+          "Since thou thy washed-bright",
+          "arms didst wind",
+          "About thy brother's slayer.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Ithun spake:",
+          "\"To Loki I speak not",
+          "with spiteful words",
+          "Here within Ægir's hall;",
+          "And Bragi I calm,",
+          "who is hot with beer,",
+          "For I wish not that fierce they should fight.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Gefjun spake:",
+          "\"Why, ye gods twain,",
+          "with bitter tongues",
+          "Raise hate among us here?",
+          "Loki is famed",
+          "for his mockery foul,",
+          "And the dwellers in heaven he hates.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Gefjun!",
+          "for now shall I say",
+          "Who led thee to evil life;",
+          "The boy so fair",
+          "gave a necklace bright,",
+          "And about him thy leg was laid.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Othin spake:",
+          "\"Mad art thou, Loki,",
+          "and little of wit,",
+          "The wrath of Gefjun to rouse;",
+          "For the fate that is set",
+          "for all she sees,",
+          "Even as I, methinks.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Othin!",
+          "not justly thou settest",
+          "The fate of the fight among men;",
+          "Oft gavst thou to him",
+          "who deserved not the gift,",
+          "To the baser, the battle's prize.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Othin spake:",
+          "\"Though I gave to him",
+          "who deserved not the gift,",
+          "To the baser, the battle's prize;",
+          "Winters eight",
+          "wast thou under the earth,",
+          "Milking the cows as a maid,",
+          "(Ay, and babes didst thou bear;",
+          "Unmanly thy soul must seem.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Loki spake:",
+          "\"They say that with spells",
+          "in Samsey once",
+          "Like witches with charms didst thou work;",
+          "And in witch's guise",
+          "among men didst thou go;",
+          "Unmanly thy soul must seem.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Frigg spake:",
+          "\"Of the deeds ye two",
+          "of old have done",
+          "Ye should make no speech among men;",
+          "Whate'er ye have done",
+          "in days gone by,",
+          "Old tales should ne'er be told.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Frigg!",
+          "thou art Fjorgyn's wife,",
+          "But ever lustful in love;",
+          "For Vili and Ve,",
+          "thou wife of Vithrir,",
+          "Both in thy bosom have lain.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Frigg spake:",
+          "\"If a son like Baldr",
+          "were by me now,",
+          "Here within Ægir's hall,",
+          "From the sons of the gods",
+          "thou shouldst go not forth",
+          "Till thy fierceness in fight were tried.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Loki spake:",
+          "\"Thou wilt then, Frigg,",
+          "that further I tell",
+          "Of the ill that now I know;",
+          "Mine is the blame",
+          "that Baldr no more",
+          "Thou seest ride home to the hall.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Freyja spake:",
+          "\"Mad art thou, Loki,",
+          "that known thou makest",
+          "The wrong and shame thou hast wrought;",
+          "The fate of all",
+          "does Frigg know well,",
+          "Though herself she says it not.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Freyja!",
+          "for fully I know thee,",
+          "Sinless thou art not thyself;",
+          "Of the gods and elves",
+          "who are gathered here,",
+          "Each one as thy lover has lain.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Freyja spake:",
+          "\"False is thy tongue,",
+          "and soon shalt thou find",
+          "That it sings thee an evil song;",
+          "The gods are wroth,",
+          "and the goddesses all,",
+          "And in grief shalt thou homeward go.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Freyja!",
+          "thou foulest witch,",
+          "And steeped full sore in sin;",
+          "In the arms of thy brother",
+          "the bright gods caught thee",
+          "When Freyja her wind set free.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Njorth spake:",
+          "\"Small ill does it work",
+          "though a woman may have",
+          "A lord or a lover or both;",
+          "But a wonder it is",
+          "that this womanish god",
+          "Comes hither, though babes he has borne.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Njorth;",
+          "thou wast eastward sent,",
+          "To the gods as a hostage given;",
+          "And the daughters of Hymir",
+          "their privy had",
+          "When use did they make of thy mouth.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Njorth spake:",
+          "\"Great was my gain,",
+          "though long was I gone,",
+          "To the gods as a hostage given;",
+          "The son did I have",
+          "whom no man hates,",
+          "And foremost of gods is found.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Loki spake:",
+          "\"Give heed now, Njorth,",
+          "nor boast too high,",
+          "No longer I hold it hid;",
+          "With thy sister hadst thou",
+          "so fair a son,",
+          "Thus hadst thou no worse a hope.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Tyr spake:",
+          "\"Of the heroes brave",
+          "is Freyr the best",
+          "Here in the home of the gods;",
+          "He harms not maids",
+          "nor the wives of men,",
+          "And the bound from their fetters he frees.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Tyr!",
+          "for between two men",
+          "Friendship thou ne'er couldst fashion;",
+          "Fain would I tell",
+          "how Fenrir once",
+          "Thy right hand rent from thee.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Tyr spake:",
+          "\"My hand do I lack,",
+          "but Hrothvitnir thou,",
+          "And the loss brings longing to both;",
+          "Ill fares the wolf",
+          "who shall ever await",
+          "In fetters the fall of the gods.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Tyr!",
+          "for a son with me",
+          "Thy wife once chanced to win;",
+          "Not a penny, methinks,",
+          "wast thou paid for the wrong,",
+          "Nor wast righted an inch, poor wretch.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Freyr spake:",
+          "\"By the mouth of the river",
+          "the wolf remains",
+          "Till the gods to destruction go;",
+          "Thou too shalt soon,",
+          "if thy tongue is not stilled,",
+          "Be fettered, thou forger of ill.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Loki spake:",
+          "\"The daughter of Gymir",
+          "with gold didst thou buy,",
+          "And sold thy sword to boot;",
+          "But when Muspell's sons",
+          "through Myrkwood ride,",
+          "Thou shalt weaponless wait, poor wretch.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Byggvir spake:",
+          "\"Had I birth so famous",
+          "as Ingunar-Freyr,",
+          "And sat in so lofty a seat,",
+          "I would crush to marrow",
+          "this croaker of ill,",
+          "And beat all his body to bits.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Loki spake:",
+          "\"What little creature",
+          "goes crawling there,",
+          "Snuffling and snapping about?",
+          "At Freyr's ears ever",
+          "wilt thou be found,",
+          "Or muttering hard at the mill.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Byggvir spake:",
+          "\"Byggvir my name,",
+          "and nimble am I,",
+          "As gods and men do grant;",
+          "And here am I proud",
+          "that the children of Hropt",
+          "Together all drink ale.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Byggvir!",
+          "thou never couldst set",
+          "Their shares of the meat for men;",
+          "Hid in straw on the floor,",
+          "they found thee not",
+          "When heroes were fain to fight.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Heimdall spake:",
+          "\"Drunk art thou, Loki,",
+          "and mad are thy deeds,",
+          "Why, Loki, leavst thou this not?",
+          "For drink beyond measure",
+          "will lead all men",
+          "No thought of their tongues to take.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Heimdall!",
+          "in days long since",
+          "Was an evil fate for thee fixed;",
+          "With back held stiff",
+          "must thou ever stand,",
+          "As warder of heaven to watch.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Skathi spake:",
+          "\"Light art thou, Loki,",
+          "but longer thou mayst not",
+          "In freedom flourish thy tail;",
+          "On the rocks the gods bind thee",
+          "with bowels torn",
+          "Forth from thy frost-cold son.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Loki spake:",
+          "\"Though on rocks the gods bind me",
+          "with bowels torn",
+          "Forth from my frost-cold son,",
+          "I was first and last",
+          "at the deadly fight",
+          "There where Thjazi we caught.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Skathi spake:",
+          "\"Wert thou first and last",
+          "at the deadly fight",
+          "There where Thjazi was caught,",
+          "From my dwellings and fields",
+          "shall ever come forth",
+          "A counsel cold for thee.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Loki spake:",
+          "\"More lightly thou spakest",
+          "with Laufey's son,",
+          "When thou badst me come to thy bed;",
+          "Such things must be known",
+          "if now we two",
+          "Shall seek our sins to tell.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Then Sif came forward and poured mead for Loki in a crystal cup, and said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "\"Hail too thee, Loki,",
+          "and take thou here",
+          "The crystal cup of old mead;",
+          "For me at least,",
+          "alone of the gods,",
+          "Blameless thou knowest to be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "He took the horn, and drank therefrom:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "\"Alone thou wert",
+          "if truly thou wouldst",
+          "All men so shyly shun;",
+          "But one do I know",
+          "full well, methinks,",
+          "Who had thee from Hlorrithi's arms,",
+          "(Loki the crafty in lies.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Beyla spake:",
+          "\"The mountains shake,",
+          "and surely I think",
+          "From his home comes Hlorrithi now;",
+          "He will silence the man",
+          "who is slandering here",
+          "Together both gods and men.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Loki spake:",
+          "\"Be silent, Beyla!",
+          "thou art Byggvir's wife,",
+          "And deep art thou steeped in sin;",
+          "A greater shame",
+          "to the gods came ne'er,",
+          "Befouled thou art with thy filth.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Then came Thor forth, and spake:",
+          "\"Unmanly one, cease,",
+          "or the mighty hammer,",
+          "Mjollnir, shall close thy mouth;",
+          "Thy shoulder-cliff",
+          "shall I cleave from thy neck,",
+          "And so shall thy life be lost.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Loki spake:",
+          "\"Lo, in has come",
+          "the son of Earth:",
+          "Why threaten so loudly, Thor?",
+          "Less fierce thou shalt go",
+          "to fight with the wolf",
+          "When he swallows Sigfather up.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Thor spake:",
+          "\"Unmanly one, cease,",
+          "or the mighty hammer,",
+          "Mjollnir, shall close thy mouth;",
+          "I shall hurl thee up",
+          "and out in the East,",
+          "Where men shall see thee no more.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Loki spake:",
+          "\"That thou hast fared",
+          "on the East-road forth",
+          "To men shouldst thou say no more;",
+          "In the thumb of a glove",
+          "didst thou hide, thou great one,",
+          "And there forgot thou wast Thor.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Thor spake:",
+          "\"Unmanly one, cease,",
+          "or the mighty hammer,",
+          "Mjollnir, shall close thy mouth;",
+          "My right hand shall smite thee",
+          "with Hrungnir's slayer,",
+          "Till all thy bones are broken.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Loki spake:",
+          "\"Along time still",
+          "do I think to live,",
+          "Though thou threatenest thus with thy hammer;",
+          "Rough seemed the straps",
+          "of Skrymir's wallet,",
+          "When thy meat thou mightest not get,",
+          "(And faint from hunger didst feel.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Thor spake:",
+          "\"Unmanly one, cease,",
+          "or the mighty hammer,",
+          "Mjollnir, shall close thy mouth;",
+          "The slayer of Hrungnir",
+          "shall send thee to hell,",
+          "And down to the gate of death.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Loki spake:",
+          "\"'1 have said to the gods",
+          "and the sons of the god,",
+          "The things that whetted my thoughts;",
+          "But before thee alone",
+          "do I now go forth,",
+          "For thou fightest well, I ween."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          "\"Ale hast thou brewed,",
+          "but, Ægir, now",
+          "Such feasts shalt thou make no more;",
+          "O'er all that thou hast",
+          "which is here within",
+          "Shall play the flickering flames,",
+          "(And thy back shall be burnt with fire.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "And after that Loki hid himself in Franang's waterfall in the guise of a salmon, and there the gods took him. He was bound with the bowels of his son Vali, but his son Narfi was changed to a wolf. Skathi took a poison-snake and fastened it up over Loki's face, and the poison dropped thereon. Sigyn, Loki's wife, sat there and held a shell under the poison, but when the shell was full she bore away the poison, and meanwhile the poison dropped on Loki. Then he struggled so hard that the whole earth shook therewith; and now that is called an earthquake."
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

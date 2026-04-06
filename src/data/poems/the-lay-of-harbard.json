@@ -1,0 +1,2451 @@
+{
+  "slug": "the-lay-of-harbard",
+  "key": "TheLayOfHarbard",
+  "title": {
+    "on": "Hárbarðsljóð",
+    "ru": "Песнь о Харбарде",
+    "en": "The Lay of Hárbard"
+  },
+  "description": {
+    "on": "",
+    "ru": "Тор возвращался с востока и подошел к какому-то проливу. По ту сторону пролива был перевозчик с лодкой. Тор крикнул:",
+    "en": "Thor was on his way back from a journey in the East, and came to a sound; on the other side of the sound was a ferryman with a boat."
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе А. И. Корсуна",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Þórr fór ór Austrvegi ok kom at sundi einu. Öðrum megin sundsins var ferjukarlinn með skipit. Þórr kallaði:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Hverr er sá sveinn sveina,",
+          "er stendr fyr sundit handan?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Ferjukarlinn kvað:",
+          "\"Hverr er sá karl karla,",
+          "er kallar of váginn?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Fer þú mik um sundit,",
+          "fæði ek þik á morgun;",
+          "meis hef ek á baki,",
+          "verðr-a matr in betri;",
+          "át ek í hvíld,",
+          "áðr ek heiman fór,",
+          "síldr ok hafra;",
+          "saðr em ek enn þess.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Ferjukarlinn kvað:",
+          "\"Árligum verkum",
+          "hrósar þú, verðinum;",
+          "veizt-at-tu fyrir görla,",
+          "döpr eru þín heimkynni,",
+          "dauð, hygg ek, at þín móðir sé.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Þat segir þú nú,",
+          "er hverjum þykkir",
+          "mest at vita,",
+          "at mín móðir dauð sé.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Ferjukarlinn kvað:",
+          "\"Þeygi er sem þú",
+          "þrjú bú góð eigir;",
+          "berbeinn þú stendr",
+          "ok hefr brautinga gervi,",
+          "þatki, at þú hafir brækr þínar.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Stýrðu hingat eikjunni,",
+          "ek mun þér stöðna kenna, —",
+          "eða hverr á skipit,",
+          "er þú heldr við landit?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Ferjukarlinn kvað:",
+          "\"Hildolfr sá heitir,",
+          "er mik halda bað,",
+          "rekkr inn ráðsvinni,",
+          "er býr í Ráðseyjarsundi;",
+          "bað-at hann hlennimenn flytja",
+          "eða hrossaþjófa,",
+          "góða eina",
+          "ok þá, er ek görva kunna;",
+          "segðu til nafns þíns,",
+          "ef þú vill um sundit fara!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segja mun ek til nafns míns,",
+          "þótt ek sekr séak,",
+          "ok til alls eðlis:",
+          "Ek em Óðins sonr,",
+          "Meila bróðir,",
+          "en Magna faðir,",
+          "þrúðvaldr goða,",
+          "við Þór knáttu hér dæma!",
+          "Hins vil ek nú spyrja,",
+          "hvat þú heitir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Ferjukarlinn kvað:",
+          "\"Hárbarðr ek heiti,",
+          "hylk um nafn sjaldan.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Hvat skaltu of nafn hylja,",
+          "nema þú sakar eigir?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"En þótt ek sakar eiga,",
+          "þá mun ek forða fjörvi mínu",
+          "fyr slíkum sem þú ert,",
+          "nema ek feigr sé.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Harm ljótan",
+          "mér þykkir í því",
+          "at vaða um váginn til þín",
+          "ok væta ögur minn;",
+          "skylda ek launa",
+          "kögursveini þínum",
+          "kanginyrði,",
+          "ef ek kæmumk yfir sundit.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Hér mun ek standa",
+          "ok þín heðan bíða;",
+          "fannt-a þú mann in harðara",
+          "at Hrungni dauðan.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Hins viltu nú geta,",
+          "er vit Hrungnir deildum,",
+          "sá inn stórúðgi jötunn,",
+          "er ór steini var höfuðit á;",
+          "þó lét ek hann falla",
+          "ok fyrir hníga.",
+          "Hvat vanntu þá meðan, Hárbarðr?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Var ek með Fjölvari",
+          "fimm vetr alla",
+          "í ey þeiri,",
+          "er Algræn heitir;",
+          "vega vér þar knáttum",
+          "ok val fella,",
+          "margs at freista,",
+          "mans at kosta.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Hversu snúnuðu yðr konur yðrar?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Sparkar áttu vér konur,",
+          "ef oss at spökum yrði;",
+          "horskar áttu vér konur,",
+          "ef oss hollar væri;",
+          "þær ór sandi",
+          "síma undu,",
+          "ok ór dali djúpum",
+          "grund of grófu;",
+          "varð ek þeim einn öllum",
+          "efri at ráðum;",
+          "hvílda ek hjá þeim systrum sjau,",
+          "ok hafða ek geð þeira allt ok gaman.",
+          "Hvat vanntu þá meðan, Þórr?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Ek drap Þjaza,",
+          "inn þrúðmóðga jötun,",
+          "upp ek varp augum",
+          "Alvalda sonar",
+          "á þann inn heiða himin;",
+          "þau eru merki mest",
+          "minna verka,",
+          "þau er allir menn síðan of séa.",
+          "Hvat vanntu þá meðan, Hárbarðr?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Miklar manvélar",
+          "ek hafða við myrkriður,",
+          "þá er ek vélta þær frá verum;",
+          "harðan jötun",
+          "ek hugða Hlébarð vera,",
+          "gaf hann mér gambantein,",
+          "en ek vélta hann ór viti.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Illum huga",
+          "launaðir þú þá góðar gjafar.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Þat hefr eik,",
+          "er af annarri skefr,",
+          "of sik er hverr í slíku.",
+          "Hvat vanntu þá meðan Þórr?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Ek var austr",
+          "ok jötna barðak",
+          "brúðir bölvísar,",
+          "er til bjargs gengu;",
+          "mikil myndi ætt jötna,",
+          "ef allir lifði",
+          "vætr myndi manna",
+          "undir Miðgarði.",
+          "Hvat vanntu þá meðan, Hárbarðr?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Var ek á Vallandi",
+          "ok vígum fylgdak,",
+          "atta ek jöfrum,",
+          "en aldri sættak;",
+          "Óðinn á jarla,",
+          "þá er í val falla,",
+          "en Þórr á þrælakyn.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Ójafnt skipta",
+          "er þú myndir með ásum liði,",
+          "ef þú ættir vilgi mikils vald.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Þórr á afl ærit,",
+          "en ekki hjarta;",
+          "af hræðslu ok hugbleyði",
+          "þér var í hanzka troðit,",
+          "ok þóttisk-a þú þá Þórr vera;",
+          "hvárki þú þá þorðir",
+          "fyr hræðslu þinni",
+          "hnjósa né físa,",
+          "svá at Fjalarr heyrði.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Hárbarðr inn ragi,",
+          "ek mynda þik í hel drepa,",
+          "ef ek mætta seilask um sund.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Hvat skyldir um sund seilask,",
+          "er sakir ro alls engar?",
+          "Hvat vanntu þá, Þórr?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Ek var austr",
+          "ok ána varðak,",
+          "þá er mik sóttu",
+          "þeir Svárangs synir;",
+          "grjóti þeir mik börðu,",
+          "gagni urðu þeir þó lítt fegnir,",
+          "þó urðu þeir mik fyrri",
+          "friðar at biðja.",
+          "Hvat vanntu þá meðan, Hárbarðr?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Ek var austr",
+          "ok við einhverja dæmðak,",
+          "lék ek við ina línhvítu",
+          "ok launþing háðak;",
+          "gladdak ina gullbjörtu,",
+          "gamni mær unði.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Góð átt þú þér mankynni þar þá.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Liðs þíns",
+          "væra ek þá þurfi, Þórr,",
+          "at ek helda þeiri inni línhvítu mey.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Ek munda þér þá þat veita,",
+          "ef ek viðr of kæmumk.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Ek mynda þér þá trúa,",
+          "nema þú mik í tryggð véltir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Emk-at ek sá hælbítr",
+          "sem húðskór forn á vár.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Hvat vanntu þá meðan, Þórr?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Brúðir berserkja",
+          "barðak í Hléseyju;",
+          "þær höfðu verst unnit,",
+          "vélta þjóð alla.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Klæki vanntu þá, Þórr,",
+          "er þú á konum barðir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Vargynjur þat váru,",
+          "en varla konur,",
+          "skelldu skip mitt,",
+          "er ek skorðat hafðak,",
+          "ægðu mér járnlurki",
+          "en eltu Þjalfa.",
+          "Hvat vanntu meðan, Hárbarðr?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Ek vark í hernum,",
+          "er hingat gerðisk",
+          "gnæfa gunnfana,",
+          "geir at rjóða.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Þess viltu nú geta,",
+          "er þú fórt oss óljúfan at bjóða.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Bæta skal þér þat þá",
+          "munda baugi,",
+          "sem jafnendr unnu,",
+          "þeir er okkr vilja sætta.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Hvar namtu þessi",
+          "in hnæfiligu orð,",
+          "er ek heyrða aldregi",
+          "in hnæfiligri?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Nam ek at mönnum",
+          "þeim inum aldrænum,",
+          "er búa í heimis skógum.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Þó gefr þú gott nafn dysjum,",
+          "er þú kallar þær heimis skóga.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Svá dæmi ek of slíkt far.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Orðkringi þín",
+          "mun þér illa koma,",
+          "ef ek ræð á vág at vaða;",
+          "ulfi hæra",
+          "hygg ek þik æpa munu,",
+          "ef þú hlýtr af hamri högg.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Sif á hó heima,",
+          "hans muntu fund vilja,",
+          "þann muntu þrek drýgja,",
+          "þat er þér skyldara.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Mælir þú at munns ráði,",
+          "svá at mér skyldi verst þykkja,",
+          "halr inn hugblauði,",
+          "hygg ek, at þú ljúgir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Satt hygg ek mik segja;",
+          "seinn ertu at för þinni,",
+          "langt myndir þú nú kominn, Þórr,",
+          "ef þú litum færir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Hárbarðr inn ragi,",
+          "heldr hefr þú nú mik dvalðan.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Ása-þórs hugða ek",
+          "aldregi mundu",
+          "glepja féhirði farar.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Ráð mun ek þér nú ráða;",
+          "ró þú hingat bátinum,",
+          "hættum hætingi,",
+          "hittu föður Magna.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Farðu firr sundi,",
+          "þér skal fars synja.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Vísa þú mér nú leiðina,",
+          "alls þú vill mik eigi um váginn ferja.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Lítit er at synja,",
+          "langt er at fara;",
+          "stund er til stokksins,",
+          "önnur til steinsins,",
+          "haltu svá til vinstra vegsins,",
+          "unz þú hittir Verland;",
+          "þar mun Fjörgyn",
+          "hitta Þór, son sinn,",
+          "ok mun hon kenna hánum áttunga brautir",
+          "til Óðins landa.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Mun ek taka þangat í dag?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Taka við víl ok erfiði,",
+          "at upprennandi sólu,",
+          "er ek get þána.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Skammt mun nú mál okkat,",
+          "alls þú mér skætingu einni svarar;",
+          "launa mun ek þér farsynjun,",
+          "ef vit finnumk í sinn annat.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Hárbarðr kvað:",
+          "\"Far þú nú,",
+          "þars þik hafi allan gramir.\""
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Тор возвращался с востока и подошел к какому-то проливу. По ту сторону пролива был перевозчик с лодкой. Тор крикнул:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Что там за парень",
+          "стоит у пролива?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Тот ответил:",
+          "\"Что за старик",
+          "кричит за проливом?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Тор сказал:",
+          "\"Переправь-ка меня!",
+          "Дам пищи на завтра:",
+          "за спиною в корзине",
+          "еда — нет вкуснее!",
+          "В путь отправляясь,",
+          "наелся я вдоволь",
+          "селедок с овсянкой",
+          "и сыт до сих пор.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Перевозчик сказал:",
+          "\"Похвалился едой,",
+          "а жребий свой знаешь ли?",
+          "У тебя, наверно,",
+          "и матери нет\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Тор сказал:",
+          "\"Весть такая",
+          "каждому тягостна —",
+          "горько мне слышать",
+          "о смерти матери!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Перевозчик сказал:",
+          "\"Едва ли тремя ты",
+          "дворами владеешь,",
+          "если ты бос",
+          "и одет как бродяга:",
+          "даже нет и штанов!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Тор сказал:",
+          "\"Правь-ка сюда,",
+          "я скажу, где пристать;",
+          "чей ты у берега",
+          "держишь челнок?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Перевозчик сказал:",
+          "\"Хильдольв челнок",
+          "мне поручил,",
+          "воин, живущий",
+          "в Радсейярсунде;",
+          "конокрадов возить",
+          "и бродяг не велел он,",
+          "но добрых людей",
+          "и людей мне известных;",
+          "назовись, и тогда",
+          "тебя повезу я.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Тор сказал:",
+          "\"Назову свое имя,",
+          "хоть я средь врагов,",
+          "и о роде скажу:",
+          "я Одина сын,",
+          "Мейли я брат",
+          "и Магни отец;",
+          "ты с владыкой богов",
+          "беседуешь — с Тором!",
+          "Знать я хочу,",
+          "как сам ты зовешься.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Перевозчик сказал:",
+          "\"Харбард мне имя,",
+          "скажу откровенно.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Тор сказал:",
+          "\"А зачем бы тебе скрывать",
+          "свое имя, если ты не в распре?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Хотя бы и в распре,",
+          "спасусь от тебя,",
+          "если мне смерти",
+          "судьба не сулит.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Тор сказал:",
+          "\"Неохота мне вброд",
+          "брести по заливу",
+          "и ношу мочить;",
+          "не то проучил бы",
+          "тебя, сопляка,",
+          "за брань и насмешки,",
+          "на берег выйдя!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Я здесь постою,",
+          "поджидая тебя;",
+          "храбрецов ты не видел",
+          "со смерти Хрунгнира.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Тор сказал:",
+          "\"О том говоришь ты,",
+          "как с Хрунгниром, турсом",
+          "каменноглавым,",
+          "славно я бился,",
+          "но я поразил его",
+          "в жарком бою.",
+          "А что ты делал, Харбард?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Сидел я у Фьельвара",
+          "целых пять зим,",
+          "на острове том,",
+          "что Альгрен зовется;",
+          "бились мы там,",
+          "убивали врагов,",
+          "и то еще делали —",
+          "дев соблазняли.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Тор сказал:",
+          "\"Ну и как у вас шло с ними дело?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Милыми были,",
+          "когда покорялись,",
+          "разумными были,",
+          "верность храня;",
+          "веревку они",
+          "из песка свивали,",
+          "землю копали",
+          "в глубокой долине;",
+          "я всех был хитрей —",
+          "с семью я сестрами",
+          "ложе делил,",
+          "их любовью владел.",
+          "А что ты делал, Тор?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Тор сказал:",
+          "\"Я Тьяци убил,",
+          "турса могучего,",
+          "бросил глаза я",
+          "Альвальди сына",
+          "в ясное небо;",
+          "вот лучший памятник",
+          "подвигам Тора,",
+          "все видят его.",
+          "А что ты делал, Харбард?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Соблазнял я искусно",
+          "наездниц ночных,",
+          "отнимал у мужей их;",
+          "жезл волшебства",
+          "Хлебард мне отдал,",
+          "турс храбрый, а я",
+          "рассудка лишил его.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Тор сказал:",
+          "\"Злом отплатил ты",
+          "за добрый подарок.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Срежь ветви дубка —",
+          "другой разрастется;",
+          "всяк занят собой.",
+          "А что ты делал, Тор?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Тор сказал:",
+          "\"На востоке я был,",
+          "там истреблял я",
+          "злобных жен турсов,",
+          "в горы бежавших;",
+          "когда б то не сделал,",
+          "разросся бы род их",
+          "и в Мидгарде люди",
+          "жить не смогли б.",
+          "А что ты делал, Харбард?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Я в Валланде был,",
+          "в битвах участвовал,",
+          "князей подстрекал,",
+          "не склонял их к миру;",
+          "у Одина — ярлы,",
+          "павшие в битвах,",
+          "у Тора — рабы.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Тор сказал:",
+          "\"Неравно бы ты",
+          "людей разделил,",
+          "если властью владел бы.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Харбард сказал:",
+          "\"У Тора сил вдоволь,",
+          "да смелости мало;",
+          "со страху ты раз",
+          "залез в рукавицу,",
+          "забыв, кто ты есть;",
+          "от страха чихать",
+          "и греметь ты не смел, —",
+          "не услышал бы Фьялар.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Top сказал:",
+          "\"Харбард срамной!",
+          "Я убил бы тебя,",
+          "да пролив мне помеха.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Что спешишь за пролив, —",
+          "я не в распре с тобой.",
+          "А что ты делал, Тор?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Тор сказал:",
+          "\"На востоке я был,",
+          "поток охранял,",
+          "со мною схватились",
+          "Сваранга дети;",
+          "камни кидали,",
+          "да нечем кичиться им —",
+          "первыми стали",
+          "мира просить.",
+          "А что ты делал, Харбард?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Харбард сказал:",
+          "\"На востоке я был,",
+          "беседовал с девой,",
+          "с белокурой я тешился,",
+          "тайно встречаясь,",
+          "одарял ее щедро, —",
+          "она отдалась мне.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Тор сказал:",
+          "\"То встречи изрядные.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Ты мне бы помог",
+          "сохранить эту деву.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Тор сказал:",
+          "\"Если ведал бы чем,",
+          "помог бы охотно.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Поверил бы я,",
+          "коль не ждал бы обмана.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Тор сказал:",
+          "\"Не кусаю я пяток,",
+          "как старая обувь.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Харбард сказал:",
+          "А что ты делал, Тор?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Тор сказал:",
+          "\"Я жен берсерков",
+          "на Хлесей разил;",
+          "они извели",
+          "волшбою народ.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Вот дело позорное —",
+          "жен истреблять.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Тор сказал:",
+          "\"То были волчицы,",
+          "а вовсе не жены:",
+          "разбили мой струг,",
+          "на подпорках стоявший,",
+          "грозили дубинами",
+          "и Тьяльви прогнали.",
+          "А что ты делал, Харбард?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Был я в дружине,",
+          "спешившей сюда",
+          "стяг битвы поднять",
+          "и копье окровавить.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Тор сказал:",
+          "\"Ты о том говоришь,",
+          "чем хотел досадить нам!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Кольцом я готов",
+          "тебе отплатить,",
+          "если нам помириться",
+          "посредники скажут.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Тор сказал:",
+          "\"Ты где научился",
+          "речам глумливым?",
+          "Глумливее слов",
+          "не слыхал никогда я.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Я их перенял",
+          "у древних людей",
+          "из домашних курганов.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Тор сказал:",
+          "\"Ты ладно придумал",
+          "могильные кучи",
+          "курганами звать.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Так придумать я вправе.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Тор сказал:",
+          "\"Отплачу я тебе",
+          "за обидные речи,",
+          "пролив переплыв:",
+          "громче волка ты будешь",
+          "выть, коль ударю",
+          "молотом мощным!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Харбард сказал:",
+          "\"С любовником Сив",
+          "повстречайся в доме, —",
+          "важнее тебе",
+          "свершить этот подвиг!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Тор сказал:",
+          "\"Изрыгаешь ты все,",
+          "что в рот тебе лезет,",
+          "чтоб мне досадить,",
+          "воин трусливый!",
+          "Сдается, что врешь ты!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Правду я молвил,",
+          "в пути ты мешкаешь,",
+          "был бы далеко,",
+          "челн захватив мой.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Тор сказал:",
+          "\"Харбард срамной,",
+          "задержал ты меня!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Я не думал, что станет",
+          "Асатору помехой",
+          "в пути перевозчик.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Тор сказал:",
+          "\"Слушай совет мой:",
+          "греби-ка сюда!",
+          "Брань прекратим,",
+          "переправь отца Магни!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Переправы не жди,",
+          "уходи от пролива!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Тор сказал:",
+          "\"Как в обход мне идти,",
+          "коль везти ты не хочешь?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Быстр был отказ мой,",
+          "твой путь будет долог:",
+          "до бревна ты дойдешь",
+          "и дальше — до камня,",
+          "влево возьми —",
+          "дойдешь ты до Верланда;",
+          "там с сыном Тором",
+          "встретится Фьергюн,",
+          "она объяснит",
+          "путь в Одина земли,",
+          "дорогу к родне.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Тор сказал:",
+          "\"Доберусь ли сегодня?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Харбард сказал:",
+          "\"На рассвете с трудом.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Тор сказал:",
+          "\"Кратко скажу я",
+          "в ответ на глумленья:",
+          "тебе за отказ",
+          "отомщу при встрече!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Харбард сказал:",
+          "\"Да возьмут тебя тролли!\""
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Thor was on his way back from a journey in the East, and came to a sound; on the other side of the sound was a ferryman with a boat. Thor called out:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Who is the fellow yonder,",
+          "on the farther shore of the sound?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "The ferryman spake:",
+          "\"What kind of a peasant is yon,",
+          "that calls o'er the bay?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Thor spake:",
+          "\"Ferry me over the sound;",
+          "I will feed thee therefor in the morning;",
+          "A basket I have on my back,",
+          "and food therein, none better;",
+          "At leisure I ate,",
+          "ere the house I left,",
+          "Of herrings and porridge,",
+          "so plenty I had.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "The ferryman spake:",
+          "\"Of thy morning feats art thou proud,",
+          "but the future thou knowest not wholly;",
+          "Doleful thine home-coming is:",
+          "thy mother, me thinks, is dead.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Thor spake:",
+          "\"Now hast thou said",
+          "what to each must seem",
+          "The mightiest grief,",
+          "that my mother is dead.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "The ferryman spake:",
+          "\"Three good dwellings,",
+          "methinks, thou hast not;",
+          "Barefoot thou standest,",
+          "and wearest a beggar's dress;",
+          "Not even hose dost thou have.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Thor spake:",
+          "\"Steer thou hither the boat;",
+          "the landing here shall I show thee;",
+          "But whose the craft",
+          "that thou keepest on the shore?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "The ferryman spake:",
+          "\"Hildolf is he",
+          "who bade me have it,",
+          "A hero wise;",
+          "his home is at Rathsey's sound.",
+          "He bade me no robbers to steer,",
+          "nor stealers of steeds,",
+          "But worthy men,",
+          "and those whom well do I know.",
+          "Say now thy name,",
+          "if over the sound thou wilt fare.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Thor spake:",
+          "\"My name indeed shall I tell,",
+          "though in danger I am,",
+          "And all my race;",
+          "I am Othin's son,",
+          "Meili's brother,",
+          "and Magni's father,",
+          "The strong one of the gods;",
+          "with Thor now speech canst thou get.",
+          "And now would I know",
+          "what name thou hast.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "The ferryman spake:",
+          "\"Harbarth am I,",
+          "and seldom I hide my name.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Thor spake:",
+          "\"Why shouldst thou hide thy name,",
+          "if quarrel thou hast not?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Harbarth spake:",
+          "\"And though I had a quarrel,",
+          "from such as thou art",
+          "Yet none the less",
+          "my life would I guard,",
+          "Unless I be doomed to die.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Thor spake:",
+          "\"Great trouble, methinks,",
+          "would it be to come to thee,",
+          "To wade the waters across,",
+          "and wet my middle;",
+          "Weakling, well shall I pay",
+          "thy mocking words,",
+          "if across the sound I come.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Here shall I stand",
+          "and await thee here;",
+          "Thou hast found since Hrungnir died",
+          "no fiercer man.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Thor spake:",
+          "\"Fain art thou to tell",
+          "how with Hrungnir I fought,",
+          "The haughty giant,",
+          "whose head of stone was made;",
+          "And yet I felled him,",
+          "and stretched him before me.",
+          "What, Harbarth, didst thou the while?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Five full winters",
+          "with Fjolvar was I,",
+          "And dwelt in the isle",
+          "that is Algrön called;",
+          "There could we fight,",
+          "and fell the slain,",
+          "Much could we seek,",
+          "and maids could master.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Thor spake:",
+          "\"How won ye success with your women?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Lively women we had,",
+          "if they wise for us were;",
+          "Wise were the women we had,",
+          "if they kind for us were;",
+          "For ropes of sand",
+          "they would seek to wind,",
+          "And the bottom to dig",
+          "from the deepest dale.",
+          "Wiser than all",
+          "in counsel I was,",
+          "And there I slept",
+          "by the sisters seven,",
+          "And joy full great",
+          "did I get from each.",
+          "What, Thor, didst thou the while?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Thor spake:",
+          "\"Thjazi I felled,",
+          "the giant fierce,",
+          "And I hurled the eyes",
+          "of Alvaldi's son",
+          "To the heavens hot above;",
+          "Of my deeds the mightiest",
+          "marks are these,",
+          "That all men since can see.",
+          "What, Harbarth, didst thou the while?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Harbarth spoke:",
+          "\"Much love-craft I wrought",
+          "with them who ride by night,",
+          "When I stole them by stealth from their husbands;",
+          "A giant hard",
+          "was Hlebarth, methinks:",
+          "His wand he gave me as gift,",
+          "And I stole his wits away.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Thor spake:",
+          "\"Thou didst repay good gifts with evil mind.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Harbarth spake:",
+          "\"The oak must have",
+          "what it shaves from another;",
+          "In such things each for himself.",
+          "What, Thor, didst thou the while?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Thor spake:",
+          "\"Eastward I fared,",
+          "of the giants I felled",
+          "Their ill-working women",
+          "who went to the mountain;",
+          "And large were the giants' throng",
+          "if all were alive;",
+          "No men would there be",
+          "in Mithgarth more.",
+          "What, Harbarth, didst thou the while?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Harbarth spake:",
+          "\"In Valland I was,",
+          "and wars I raised,",
+          "Princes I angered,",
+          "and peace brought never;",
+          "The noble who fall",
+          "in the fight hath Othin,",
+          "And Thor hath the race of the thralls.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Thor spake:",
+          "\"Unequal gifts",
+          "of men wouldst thou give to the gods,",
+          "If might too much thou shouldst have.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Thor has might enough,",
+          "but never a heart;",
+          "For cowardly fear",
+          "in a glove wast thou fain to crawl,",
+          "And there forgot thou wast Thor;",
+          "Afraid there thou wast,",
+          "thy fear was such,",
+          "To fart or sneeze",
+          "lest Fjalar should hear.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Thor spake:",
+          "\"Thou womanish Harbarth,",
+          "to hell would I smite thee straight,",
+          "Could mine arm reach over the sound.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Wherefore reach over the sound,",
+          "since strife we have none?",
+          "What, Thor, didst thou do then?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Thor spake:",
+          "\"Eastward I was,",
+          "and the river I guarded well,",
+          "Where the sons of Svarang",
+          "sought me there;",
+          "Stones did they hurl;",
+          "small joy did they have of winning;",
+          "Before me there",
+          "to ask for peace did they fare.",
+          "What, Harbarth, didst thou the while?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Eastward I was,",
+          "and spake with a certain one,",
+          "I played with the linen-white maid,",
+          "and met her by stealth;",
+          "I gladdened the gold-decked one,",
+          "and she granted me joy.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Thor spake:",
+          "\"Full fair was thy woman-finding.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Thy help did I need then, Thor,",
+          "to hold the white maid fast.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Thor spake:",
+          "\"Gladly, had I been there,",
+          "my help to thee had been given.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Harbarth spake:",
+          "\"I might have trusted thee then,",
+          "didst thou not betray thy troth.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Thor spake:",
+          "\"No heel-biter am I, in truth,",
+          "like an old leather shoe in spring.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Harbarth spoke:",
+          "\"What, Thor, didst thou the while?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Thor spake:",
+          "\"In Hlesey the brides",
+          "of the Berserkers slew I;",
+          "Most evil they were,",
+          "and all they betrayed.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Shame didst thou win,",
+          "that women thou slewest, Thor.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Thor spake:",
+          "\"She-wolves they were like,",
+          "and women but little;",
+          "My ship, which well",
+          "I had trimmed, did they shake;",
+          "With clubs of iron they threatened,",
+          "and Thjalfi they drove off.",
+          "What, Harbarth, didst thou the while?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Harbarth spake:",
+          "\"In the host I was",
+          "that hither fared,",
+          "The banners to raise,",
+          "and the spear to redden.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Thor spake:",
+          "\"Wilt thou now say",
+          "that hatred thou soughtest to bring us?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Harbarth spake:",
+          "\"A ring for thy hand",
+          "shall make all right for thee,",
+          "As the judge decides",
+          "who sets us two at peace.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Thor spake:",
+          "\"Where foundest thou",
+          "so foul and scornful a speech?",
+          "More foul a speech",
+          "I never before have heard.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Harbarth spake:",
+          "\"I learned it from men,",
+          "the men so old,",
+          "Who dwell in the hills of home.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Thor spake:",
+          "\"A name full good",
+          "to heaps of stones thou givest",
+          "When thou callest them hills of home.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Of such things speak I so.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Thor spake:",
+          "\"Ill for thee comes",
+          "thy keenness of tongue,",
+          "If the water I choose to wade;",
+          "Louder, I ween,",
+          "than a wolf thou cryest,",
+          "If a blow of my hammer thou hast.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Sif has a lover at home,",
+          "and him shouldst thou meet;",
+          "More fitting it were",
+          "on him to put forth thy strength.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Thor spake:",
+          "\"Thy tongue still makes thee say",
+          "what seems most ill to me,",
+          "Thou witless man! Thou liest, I ween.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Truth do I speak,",
+          "but slow on thy way thou art;",
+          "Far hadst thou gone",
+          "if now in the boat thou hadst fared.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Thor spake:",
+          "\"Thou womanish Harbarth!",
+          "here hast thou held me too long.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Harbarth spake:",
+          "\"I thought not ever",
+          "that Asathor would be hindered",
+          "By a ferryman thus from faring.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Thor spake:",
+          "\"One counsel I bring thee now:",
+          "row hither thy boat;",
+          "No more of scoffing;",
+          "set Magni's father across.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Harbarth spake:",
+          "\"From the sound go hence;",
+          "the passage thou hast not.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Thor spake:",
+          "\"The way now show me, since thou takest me not o'er the water.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Harbarth spake:",
+          "\"To refuse it is little, to fare it is long;",
+          "A while to the stock, and a while to the stone;",
+          "Then the road to thy left, till Verland thou reachest;",
+          "And there shall Fjorgyn her son Thor find,",
+          "And the road of her children she shows him to Othin's realm.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Thor spake:",
+          "\"May I come so far in a day?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Harbarth spake:",
+          "\"With toil and trouble perchance,",
+          "While the sun still shines, or so I think.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Thor spake:",
+          "\"Short now shall be our speech, for thou speakest in mockery only;",
+          "The passage thou gavest me not I shall pay thee if ever we meet.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Harbarth spake:",
+          "\"Get hence where every evil thing shall have thee!\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

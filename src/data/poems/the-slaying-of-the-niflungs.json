@@ -1,0 +1,60 @@
+{
+  "slug": "the-slaying-of-the-niflungs",
+  "key": "TheSlayingOfTheNiflungs",
+  "title": {
+    "on": "Dráp Niflunga",
+    "ru": "Убийство Нифлунгов",
+    "en": "The Slaying of The Niflungs"
+  },
+  "description": {
+    "on": "",
+    "ru": "Гуннар и Хегни взяли тогда все золото, наследье Фафнира. Между Гьюкунгами и Атли была тогда вражда. Он обвинял Гьюкунгов в смерти Брюнхильд. Помирились на том, что они должны были отдать ему в жены Гудрун. Они дали ей выпить напиток забвения, прежде чем она согласилась выйти замуж за Атли. Сыновей Атли звали Эрп и Эйтиль. А Сванхильд была дочерью Сигурда и Гудрун. Конунг Атли пригласил к себе Гуннара и Хегни и послал к ним Винги и Кнефреда. Гудрун знала коварный замысел и написала им рунами, чтобы они не приезжали. В подтверждение она послала Хегни кольцо Андвари, которое она обвязала волчьим волосом. Гуннар сватался к Оддрун, сестре Атли, но ему ее не отдали. Тогда он женился на Глаумвер. А Хегни был женат на Костбере. Сыновей их звали Солар, Сневар и Гьюки. Когда Гьюкунги приехали к Атли, Гудрун велела своим сыновьям просить оставить Гьюкунгов в живых. Но они не захотели. У Хегни вырезали сердце, а Гуннара бросили в змеиный ров. Он играл на арфе и усыпил змей, но одна гадюка укусила его в печень.",
+    "en": "Gunnar and Hogni then took all the gold that Fafnir had had. There was strife between the Gjukungs and Atli, for he held the Gjukungs guilty of Brynhild's death."
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе А. И. Корсуна",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Gunnarr ok Högni tóku þá gullit allt, Fáfnis arf. Ófriðr var þá í milli Gjúkunga ok Atla. Kenndi hann Gjúkungum völd um andlát Brynhildar. Þat var til sætta, at þeir skyldu gifta hánum Guðrúnu, ok gáfu henni óminnisveig at drekka, áðr hon játti at giftast Atla. Synir Atla váru þeir Erpr ok Eitill, en Svanhildr var Sigurðar dóttir ok Guðrúnar. Atli konungr bauð heim Gunnari ok Högna ok sendi Vinga eða Knéfröð. Guðrún vissi vélar ok sendi með rúnum orð, at þeir skyldu eigi koma, ok til jartegna sendi hon Högna hringinn Andvaranaut ok knýtti í vargshár. Gunnarr hafði beðit Oddrúnar, systur Atla, ok gat eigi. Þá fekk hann Glaumvarar, en Högni átti Kostberu. Þeira synir váru þeir Sólarr ok Snævarr ok Gjúki. En er Gjúkungar kómu til Atla, þá bað Guðrún sonu sína, at þeir bæði Gjúkungum lífs, en þeir vildu eigi. Hjarta var skorit ór Högna, en Gunnarr settr í ormgarð. Hann sló hörpu ok svæfði ormana, en naðra stakk hann til lifrar."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Гуннар и Хегни взяли тогда все золото, наследье Фафнира. Между Гьюкунгами и Атли была тогда вражда. Он обвинял Гьюкунгов в смерти Брюнхильд. Помирились на том, что они должны были отдать ему в жены Гудрун. Они дали ей выпить напиток забвения, прежде чем она согласилась выйти замуж за Атли. Сыновей Атли звали Эрп и Эйтиль. А Сванхильд была дочерью Сигурда и Гудрун.",
+          "Конунг Атли пригласил к себе Гуннара и Хегни и послал к ним Винги и Кнефреда. Гудрун знала коварный замысел и написала им рунами, чтобы они не приезжали. В подтверждение она послала Хегни кольцо Андвари, которое она обвязала волчьим волосом.",
+          "Гуннар сватался к Оддрун, сестре Атли, но ему ее не отдали. Тогда он женился на Глаумвер. А Хегни был женат на Костбере. Сыновей их звали Солар, Сневар и Гьюки.",
+          "Когда Гьюкунги приехали к Атли, Гудрун велела своим сыновьям просить оставить Гьюкунгов в живых. Но они не захотели. У Хегни вырезали сердце, а Гуннара бросили в змеиный ров. Он играл на арфе и усыпил змей, но одна гадюка укусила его в печень."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "Gunnar and Hogni then took all the gold that Fafnir had had. There was strife between the Gjukungs and Atli, for he held the Gjukungs guilty of Brynhild's death. It was agreed that they should give him Guthrun as wife, and they gave her a draught of forgetfulness to drink before she would consent to be wedded to Atli. The sons of Atli were Erp and Eitil, and Svanhild was the daughter of Sigurth and Guthrun.",
+          "King Atli invited Gunnar and Hogni to come to him, and sent as messenger Vingi or Knefröth. Guthrun was aware of treachery, and sent with him a message in runes that they should not come, and as a token she sent to Hogni the ring Andvaranaut and tied a wolf's hair in it.",
+          "Gunnar had sought Oddrun, Atli's sister, for his wife, but had her not; then he married Glaumvor, and Hogni's wife was Kostbera; their sons were Solar and Snævar and Gjuki.",
+          "And when the Gjukungs came to Atli, then Guthrun be sought her sons to plead for the lives of both the Gjukungs, but they would not do it. Hogni's heart was cut out, and Gunnar was cast into the serpent's den. He smote on the harp and put the serpents to sleep, but an adder stung him in the liver."
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

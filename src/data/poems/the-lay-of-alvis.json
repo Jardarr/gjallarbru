@@ -1,0 +1,1602 @@
+{
+  "slug": "the-lay-of-alvis",
+  "key": "TheLayOfAlvís",
+  "title": {
+    "on": "Alvíssmál",
+    "ru": "Речи Альвиса",
+    "en": "The Lay of Alvís"
+  },
+  "description": {
+    "on": "",
+    "ru": "Альвис сказал: Скамьи готовят домой собираться не время ль невесте? Всякий решит — сватовство торопил я; вернуться пора нам!",
+    "en": "Alvis spake: \"Now shall the bride my benches adorn, And homeward haste forthwith; Eager for wedlock to all shall I seem, Nor at home shall they rob me of rest.\""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе А. И. Корсуна",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Bekki breiða,",
+          "nú skal brúðr með mér",
+          "heim í sinni snúask;",
+          "hratat um mægi",
+          "mun hverjum þykkja,",
+          "heima skal-at hvíld nema.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Hvat er þat fira?",
+          "Hví ertu svá fölr um nasar?",
+          "Vartu í nótt með ná?",
+          "Þursa líki",
+          "þykki mér á þér vera;",
+          "ert-at-tu til brúðar borinn.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Alvíss ek heiti,",
+          "bý ek fyr jörð neðan,",
+          "á ek undir steini stað;",
+          "vagna vers",
+          "ek em á vit kominn;",
+          "bregði engi föstu heiti fira.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Ek mun bregða",
+          "því at ek brúðar á",
+          "flest of ráð sem faðir;",
+          "vark-a ek heima,",
+          "þá er þér heitit var,",
+          "at sá einn, er gjöf er, með goðum.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Hvat er þat rekka,",
+          "er í ráðum telsk",
+          "fljóðs ins fagrglóa?",
+          "Fjarrafleina",
+          "þik munu fáir kunna;",
+          "hverr hefr þik baugum borit?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Vingþórr ek heiti,",
+          "ek hef víða ratat,",
+          "sonr em ek Síðgrana;",
+          "at ósátt minni skal-at-tu",
+          "þat it unga man hafa",
+          "ok þat gjaforð geta.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Sáttir þínar",
+          "er ek vil snemma hafa",
+          "ok þat gjaforð geta;",
+          "eiga vilja",
+          "heldr en án vera",
+          "þat it mjallhvíta man.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Meyjar ástum",
+          "mun-a þér verða,",
+          "vísi gestr, of varit,",
+          "ef þú ór heimi kannt",
+          "hverjum at segja",
+          "allt þat, er ek vil vita.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hvé sú jörð heitir,",
+          "er liggr fyr alda sonum",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Jörð heitir með mönnum,",
+          "en með ásum fold,",
+          "kalla vega vanir,",
+          "ígræn jötnar,",
+          "alfar gróandi,",
+          "kalla aur uppregin.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hvé sá himinn heitir,",
+          "erakendi,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Himinn heitir með mönnum,",
+          "en hlýrnir með goðum,",
+          "kalla vindófni vanir,",
+          "uppheim jötnar,",
+          "alfar fagraræfr,",
+          "dvergar drjúpansal.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Avlíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hversu máni heitir,",
+          "sá er menn séa,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Máni heitir með mönnum,",
+          "en mylinn með goðum,",
+          "kalla hverfanda hvél helju í,",
+          "skyndi jötnar,",
+          "en skin dvergar,",
+          "kalla alfar ártala.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hvé sú sól heitir,",
+          "er séa alda synir,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Sól heitir með mönnum,",
+          "en sunna með goðum,",
+          "kalla dvergar Dvalins leika,",
+          "eygló jötnar,",
+          "alfar fagrahvél,",
+          "alskír ása synir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hvé þau ský heita,",
+          "er skúrum blandask,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Ský heita með mönnum,",
+          "en skúrván með goðum,",
+          "kalla vindflot vanir,",
+          "úrván jötnar,",
+          "alfar veðrmegin,",
+          "kalla í helju hjalm huliðs.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hvé sá vindr heitir,",
+          "er víðast ferr,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Vindr heitir með mönnum,",
+          "en váfuðr með goðum,",
+          "kalla gneggjuð ginnregin,",
+          "æpi jötnar,",
+          "alfar dynfara,",
+          "kalla í helju hviðuð.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hvé þat logn heitir,",
+          "er liggja skal,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Logn heitir með mönnum,",
+          "en lægi með goðum,",
+          "kalla vindlot vanir,",
+          "ofhlý jötnar,",
+          "alfar dagsefa,",
+          "kalla dvergar dags veru.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hvé sá marr heitir,",
+          "er menn róa,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Sær heitir með mönnum,",
+          "en sílægja með goðum,",
+          "kalla vág vanir,",
+          "álheim jötnar,",
+          "alfar lagastaf,",
+          "kalla dvergar djúpan mar.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hvé sá eldr heitir,",
+          "er brennr fyr alda sonum,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Eldr heitir með mönnum,",
+          "en með ásum funi,",
+          "kalla vág vanir,",
+          "frekan jötnar,",
+          "en forbrenni dvergar,",
+          "kalla í helju hröðuð.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hvé viðr heitir,",
+          "er vex fyr alda sonum,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Viðr heitir með mönnum,",
+          "en vallarfax með goðum,",
+          "kalla hlíðþang halir,",
+          "eldi jötnar",
+          "alfar fagrlima,",
+          "kalla vönd vanir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr,at vitir,",
+          "hvé sú nótt heitir,",
+          "in Nörvi kennda,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Nótt heitir með mönnum,",
+          "en njól með goðum,",
+          "kalla grímu ginnregin,",
+          "óljós jötnar,",
+          "alfar svefngaman,",
+          "kalla dvergar draumnjörun.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hvé þat sáð heitir,",
+          "er sá alda synir,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Bygg heitir með mönnum,",
+          "en barr með goðum,",
+          "kalla vöxt vanir,",
+          "æti jötnar,",
+          "alfar lagastaf,",
+          "kalla í helju hnipin.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Segðu mér þat, Alvíss,",
+          "— öll of rök fira",
+          "vörumk, dvergr, at vitir —:",
+          "hvé þat öl heitir,",
+          "er drekka alda synir,",
+          "heimi hverjum í?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Alvíss kvað:",
+          "\"Öl heitir með mönnum,",
+          "en með ásum bjórr,",
+          "kalla veig vanir,",
+          "hreinalög jötnar,",
+          "en í helju mjöð,",
+          "kalla sumbl Suttungs synir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Þórr kvað:",
+          "\"Í einu brjósti",
+          "ek sák aldrigi",
+          "fleiri forna stafi;",
+          "miklum tálum",
+          "kveð ek tældan þik:",
+          "Uppi ertu, dvergr, of dagaðr,",
+          "nú skínn sól í sali.\""
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Скамьи готовят",
+          "домой собираться",
+          "не время ль невесте?",
+          "Всякий решит —",
+          "сватовство торопил я;",
+          "вернуться пора нам!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Тор сказал:",
+          "\"Что за пришелец?",
+          "Что бледен твой лик?",
+          "Не спал ли ты с трупом?",
+          "Ты с великанами",
+          "сходен обличьем, —",
+          "в мужья не годишься!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Альвис зовусь",
+          "под землей я живу",
+          "и дом мой под камнем:",
+          "к Возничему ныне",
+          "я в гости пришел;",
+          "надо слово держать!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Тор сказал:",
+          "\"Не соблюдешь ты",
+          "слово свое, —",
+          "отец я невесты.",
+          "Не был я в пору",
+          "сговора дома",
+          "и не дал согласья.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Кто этот воин",
+          "который невесте",
+          "запретом грозит?",
+          "Кто здесь, бродяга",
+          "знает тебя?",
+          "Кто твой дурень-отец?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Тор сказал:",
+          "\"Винг-Тор зовусь я",
+          "пришел издалека",
+          "я Сидграни сын.",
+          "Против воли моей",
+          "деву возьмешь ты",
+          "и в брак с нею вступишь.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Хочу обещанье",
+          "твое получить",
+          "и согласье на свадьбу;",
+          "белоснежную деву",
+          "в жены возьму",
+          "или жизнь не нужна мне.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Тор сказал:",
+          "\"Девы любовь",
+          "будет с тобой",
+          "мой гость многомудрый",
+          "если ты сможешь",
+          "о каждом мире",
+          "поведать мне правду.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "названьем каким",
+          "зовется земля",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Землей — у людей",
+          "и Долом — у асов",
+          "Путями — у ванов",
+          "Зеленой — у турсов",
+          "Родящей — у альвов",
+          "у богов она — Влажная.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "названьем каким",
+          "небо зовется",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Альвис сказал:",
+          "\"У людей это — Небо",
+          "а Твердь — у богов",
+          "Ткач Ветра — у ванов",
+          "Верх Мира — у турсов",
+          "и Кровля — у альвов",
+          "Дом Влажный — у карликов.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "как месяц зовется",
+          "что люди видят",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Месяц он у людей",
+          "Луна — у богов",
+          "а в Хель — Колесо",
+          "у карликов — Светоч",
+          "Спешащий — у турсов",
+          "у альвов — Счет Лет.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "как солнце зовется",
+          "что люди видят",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Солнцем люди зовут",
+          "а боги — Светилом",
+          "Друг Двалина — карлики",
+          "турсы — Пылающим",
+          "Ободом — альвы",
+          "и асы — Пресветлым.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "как тучу зовут",
+          "что дождь проливает",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Тучей — люди, а боги —",
+          "Надеждой на Дождь",
+          "ваны — Ветром Гонимой",
+          "альвы — Мощь Ветра",
+          "Влажною — турсы",
+          "в Хель — Шлем-Невидимка.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "как ветер зовут",
+          "что дальше всех носится",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Люди Ветром зовут",
+          "а боги — Летящим",
+          "он Ржущий у асов",
+          "Ревущий — у турсов",
+          "Шумящий — у альвов",
+          "а в Хель он Порывистый.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "как называть",
+          "привыкли затишье",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Люди — Затишьем",
+          "Спокойствием — боги",
+          "ваны — Безветрием",
+          "етуны — Зноем",
+          "Тишью Дня — альвы",
+          "Покоем Дня — карлики.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "как море зовут",
+          "струги несущее",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Люди Морем зовут",
+          "а Водами — боги",
+          "Волнами — ваны",
+          "Влагою — альвы",
+          "Дом Угря — великаны",
+          "а карлики — Глубью.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "как зовется огонь",
+          "что горит пред людьми",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Огнем — у людей",
+          "Жаром — у асов",
+          "у ванов — Бушующим",
+          "Жадным — у турсов",
+          "Жгущим — у карликов",
+          "в Хель он Стремительный.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "как лес зовется",
+          "что вырастает",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Он Лес у людей",
+          "у богов — Грива Поля",
+          "в Хель — Поросль Склонов",
+          "Дрова он у турсов",
+          "у альвов — Ветвистый",
+          "у ванов он Прутья.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "как имя ночи",
+          "дочери Нера",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Ночь — у людей",
+          "Мгла — у богов",
+          "Покров — у божеств",
+          "у етунов — Тьма",
+          "у альвов — Сна Радость",
+          "Грезы Ньерун — у карликов.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "как нивы зовутся",
+          "где зерна посеяны",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Ячмень — у людей",
+          "Злак — у богов",
+          "Всходы — у ванов",
+          "у етунов — Хлеб",
+          "и Солод — у альвов",
+          "а в Хель то — Поникшее.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Тор сказал:",
+          "\"Альвис, скажи мне, —",
+          "про все, что есть в мире",
+          "наверно, ты знаешь, —",
+          "как пиво зовется",
+          "напиток людей",
+          "в разных мирах.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Альвис сказал:",
+          "\"Пивом люди зовут",
+          "а Брагою — асы",
+          "ваны — Пьянящим",
+          "в Хель Медом зовут",
+          "Чистой Влагою — турсы",
+          "Питьем — сыны Суттунга.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Тор сказал:",
+          "\"Чья еще грудь",
+          "вместила бы столько",
+          "сведений древних!",
+          "Но хитростью мощной",
+          "тебя обманул я:",
+          "ты в доме застигнут",
+          "солнечным светом!\""
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Alvis spake:",
+          "\"Now shall the bride",
+          "my benches adorn,",
+          "And homeward haste forthwith;",
+          "Eager for wedlock",
+          "to all shall I seem,",
+          "Nor at home shall they rob me of rest.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Thor spake:",
+          "\"What, pray, art thou?",
+          "Why so pale round the nose?",
+          "By the dead hast thou lain of late?",
+          "To a giant like",
+          "dost thou look, methinks;",
+          "Thou wast not born for the bride.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Alvis spake:",
+          "\"Alvis am I,",
+          "and under the earth",
+          "My home 'neath the rocks I have;",
+          "With the wagon-guider",
+          "a word do I seek,",
+          "Let the gods their bond not break.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Thor spake:",
+          "\"Break it shall I,",
+          "for over the bride",
+          "Her father has foremost right;",
+          "At home was I not",
+          "when the promise thou hadst,",
+          "And I give her alone of the gods.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Alvis spake:",
+          "\"What hero claims",
+          "such right to hold",
+          "O'er the bride that shines so bright?",
+          "Not many will know thee,",
+          "thou wandering man!",
+          "Who was bought with rings to bear thee?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Thor spake:",
+          "\"Vingthor, the wanderer",
+          "wide, am I,",
+          "And I am Sithgrani's son;",
+          "Against my will",
+          "shalt thou get the maid,",
+          "And win the marriage word.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Alvis spake:",
+          "\"Thy good-will now",
+          "shall I quickly get,",
+          "And win the marriage word;",
+          "I long to have,",
+          "and I would not lack,",
+          "This snow-white maid for mine.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Thor spake:",
+          "\"The love of the maid",
+          "I may not keep thee",
+          "From winning, thou guest so wise,",
+          "If of every world",
+          "thou canst tell me all",
+          "That now I wish to know.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men:",
+          "What call they the earth,",
+          "that lies before all,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Alvis spake:",
+          "\"Earth to men, Field",
+          "to the gods it is,",
+          "The Ways is it called by the Wanes;",
+          "Ever Green by the giants,",
+          "The Grower' by elves,",
+          "The Moist by the holy ones high.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men:",
+          "What call they the heaven,",
+          "beheld of the high one,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Alvis spake:",
+          "\"Heaven men call it,",
+          "The Height the gods,",
+          "The Wanes The Weaver of Winds;",
+          "Giants The Up-World,",
+          "elves The Fair-Roof,",
+          "The dwarfs The Dripping Hall.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men.:",
+          "What call they the moon,",
+          "that men behold,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Alvis spake:",
+          "\"Moon with men, Flame",
+          "the gods among,",
+          "The Wheel in the house of hell;",
+          "The Goer the giants,",
+          "The Gleamer the dwarfs,",
+          "The elves The Teller of Time.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men:",
+          "What call they the sun,",
+          "that all men see,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Alvis spake:",
+          "\"Men call it Sun,",
+          "gods Orb of the Sun,",
+          "The Deceiver of Dvalin the dwarfs;",
+          "The giants The Ever-Bright,",
+          "elves Fair Wheel,",
+          "All-Glowing the sons of the gods.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men:",
+          "What call they the clouds,",
+          "that keep the rains,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Alvis spake:",
+          "\"Clouds men name them,",
+          "Rain-Hope gods call them,",
+          "The Wanes call them Kites of the Wind;",
+          "Water-Hope giants,",
+          "Weather-Might elves,",
+          "The Helmet of Secrets in hell.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men:",
+          "What call they the wind,",
+          "that widest fares,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Alvis spake:",
+          "\"Wind do men call it,",
+          "the gods The Waverer,",
+          "The Neigher the holy ones high;",
+          "The Wailer the giants,",
+          "Roaring Wender the elves,",
+          "In hell The Blustering Blast.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all",
+          "Dwarf, of the doom of men:",
+          "What call they the calm,",
+          "that quiet lies,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Alvis spake:",
+          "\"Calm men call it,",
+          "The Quiet the gods,",
+          "The Wanes The Hush of the Winds;",
+          "The Sultry the giants,",
+          "elves Day's Stillness,",
+          "The dwarfs The Shelter of Day.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men:",
+          "What call they the sea,",
+          "whereon men sail,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Alvis spake:",
+          "\"Sea men call it,",
+          "gods The Smooth-Lying,",
+          "The Wave is it called by the Wanes;",
+          "Eel-Home the giants,",
+          "Drink-Stuff the elves,",
+          "For the dwarfs its name is The Deep.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men:",
+          "What call they the fire,",
+          "that flames for men,",
+          "In each of all the worlds?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Alvis spake:",
+          "\"Fire men call it,",
+          "and Flame the gods,",
+          "By the Wanes is it Wildfire called;",
+          "The Biter by giants,",
+          "The Burner by dwarfs,",
+          "The Swift in the house of hell.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men:",
+          "What call they the wood,",
+          "that grows for mankind,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Alvis spake:",
+          "\"Men call it The Wood,",
+          "gods The Mane of the Field,",
+          "Seaweed of Hills in hell;",
+          "Flame-Food the giants,",
+          "Fair-Limbed the elves,",
+          "The Wand is it called by the Wanes.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men:",
+          "What call they the night,",
+          "the daughter of Nor,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Alvis spake:",
+          "\"Night men call it,",
+          "Darkness gods name it,",
+          "The Hood the holy ones high;",
+          "The giants The Lightless,",
+          "the elves Sleep's joy",
+          "The dwarfs The Weaver of Dreams.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men:",
+          "What call they the seed,",
+          "that is sown by men,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Alvis spake:",
+          "\"Men call it Grain,",
+          "and Corn the gods,",
+          "Growth in the world of the Wanes;",
+          "The Eaten by giants,",
+          "Drink-Stuff by elves,",
+          "In hell 'The Slender Stem.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Thor spake:",
+          "\"Answer me, Alvis!",
+          "thou knowest all,",
+          "Dwarf, of the doom of men:",
+          "What call they the ale,",
+          "that is quaffed of men,",
+          "In each and every world?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Alvis spake:",
+          "\"Ale among men,",
+          "Beer the gods among,",
+          "In the world of the Wanes The Foaming;",
+          "Bright Draught with giants,",
+          "Mead with dwellers in hell,",
+          "The Feast-Draught with Suttung's sons.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Thor spake:",
+          "\"In a single breast",
+          "I never have seen",
+          "More wealth of wisdom old;",
+          "But with treacherous wiles",
+          "must I now betray thee:",
+          "The day has caught thee, dwarf!",
+          "(Now the sun shines here in the hall.)\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}
