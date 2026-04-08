@@ -1,22 +1,76 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { ScrollView, StyleSheet, Text, View } from "react-native";
 import { Stack, useLocalSearchParams } from "expo-router";
+import { useTranslation } from "react-i18next";
 
+import PoemReader from "@/src/components/poem/PoemReader";
+import TranslationSwitcher from "@/src/components/poem/TranslationSwitcher";
+import { useAppTheme } from "@/src/hooks/use-app-themes";
+import { useFontScale } from "@/src/hooks/use-font-scale";
 import { getPoemBySlug } from "@/src/lib/poems";
-import type { PoemBlock } from "@/src/types/poem";
+import { useAppSettingsStore } from "@/src/store/settings.store";
+import { radius } from "@/src/theme/radius";
+import { spacing } from "@/src/theme/spacing";
+import { getLineHeight, lineHeights, typography } from "@/src/theme/typography";
 
 export default function PoemScreen() {
     const { slug } = useLocalSearchParams<{ slug: string }>();
+    const { i18n } = useTranslation();
+
+    const colors = useAppTheme();
+    const fontScale = useFontScale();
 
     const poem = typeof slug === "string" ? getPoemBySlug(slug) : null;
 
+    const translationLanguage = useAppSettingsStore(
+        (state) => state.translationLanguage,
+    );
+    const setLastOpenedPoem = useAppSettingsStore(
+        (state) => state.setLastOpenedPoem,
+    );
+
+    useEffect(() => {
+        if (!poem) {
+            return;
+        }
+
+        setLastOpenedPoem({
+            slug: poem.slug,
+            titleOn: poem.title.on,
+            titleRu: poem.title.ru,
+            titleEn: poem.title.en,
+        });
+    }, [poem, setLastOpenedPoem]);
+
     if (!poem) {
         return (
-            <View style={styles.centered}>
-                <Text style={styles.notFoundText}>Poem not found</Text>
+            <View
+                style={[
+                    styles.centered,
+                    { backgroundColor: colors.background },
+                ]}
+            >
+                <Text
+                    style={[
+                        styles.notFoundText,
+                        {
+                            color: colors.textPrimary,
+                            fontSize: typography.bodyMedium * fontScale,
+                        },
+                    ]}
+                >
+                    Poem not found
+                </Text>
             </View>
         );
     }
+
+    const uiLanguage = i18n.language === "ru" ? "ru" : "en";
+
+    const translatedTitle =
+        translationLanguage === "ru" ? poem.title.ru : poem.title.en;
+
+    const sourceText = poem.source[translationLanguage] ?? "";
 
     return (
         <>
@@ -24,129 +78,160 @@ export default function PoemScreen() {
                 options={{
                     title: poem.title.on,
                     headerStyle: {
-                        backgroundColor: "#0F0F10",
+                        backgroundColor: colors.background,
                     },
-                    headerTintColor: "#F3F4F6",
+                    headerTintColor: colors.textPrimary,
+                    headerShadowVisible: false,
                 }}
             />
 
-            <ScrollView contentContainerStyle={styles.container}>
-                <Text style={styles.title}>{poem.title.on}</Text>
-                <Text style={styles.subtitle}>{poem.title.ru}</Text>
+            <ScrollView
+                style={{ backgroundColor: colors.background }}
+                contentContainerStyle={styles.scrollContent}
+                showsVerticalScrollIndicator={false}
+            >
+                <View
+                    style={[
+                        styles.heroCard,
+                        {
+                            backgroundColor: colors.surface,
+                            borderColor: colors.border,
+                        },
+                    ]}
+                >
+                    <Text
+                        style={[
+                            styles.heroEyebrow,
+                            {
+                                color: colors.accent,
+                                fontSize: typography.labelSmall * fontScale,
+                            },
+                        ]}
+                    >
+                        {uiLanguage === "ru" ? "ПОЭМА" : "POEM"}
+                    </Text>
 
-                {poem.texts.on.map((originalBlock, index) => {
-                    const translatedBlock = poem.texts.ru[index];
+                    <Text
+                        style={[
+                            styles.title,
+                            {
+                                color: colors.textPrimary,
+                                fontSize: typography.titleLarge * fontScale,
+                                lineHeight: getLineHeight(
+                                    typography.titleLarge * fontScale,
+                                    lineHeights.tight,
+                                ),
+                            },
+                        ]}
+                    >
+                        {poem.title.on}
+                    </Text>
 
-                    return (
-                        <View key={originalBlock.id} style={styles.row}>
-                            <View style={styles.column}>
-                                <PoemColumnBlock block={originalBlock} />
-                            </View>
+                    <Text
+                        style={[
+                            styles.subtitle,
+                            {
+                                color: colors.textSecondary,
+                                fontSize: typography.bodyLarge * fontScale,
+                                lineHeight: getLineHeight(
+                                    typography.bodyLarge * fontScale,
+                                    lineHeights.normal,
+                                ),
+                            },
+                        ]}
+                    >
+                        {translatedTitle}
+                    </Text>
+                </View>
 
-                            <View style={styles.column}>
-                                <PoemColumnBlock block={translatedBlock} />
-                            </View>
-                        </View>
-                    );
-                })}
+                {!!sourceText && (
+                    <View
+                        style={[
+                            styles.metaCard,
+                            {
+                                backgroundColor: colors.surface,
+                                borderColor: colors.border,
+                            },
+                        ]}
+                    >
+                        <Text
+                            style={[
+                                styles.metaLabel,
+                                {
+                                    color: colors.textMuted,
+                                    fontSize: typography.labelSmall * fontScale,
+                                },
+                            ]}
+                        >
+                            {uiLanguage === "ru" ? "ИСТОЧНИК" : "SOURCE"}
+                        </Text>
+
+                        <Text
+                            style={[
+                                styles.metaText,
+                                {
+                                    color: colors.textSecondary,
+                                    fontSize: typography.bodySmall * fontScale,
+                                    lineHeight: getLineHeight(
+                                        typography.bodySmall * fontScale,
+                                        lineHeights.relaxed,
+                                    ),
+                                },
+                            ]}
+                        >
+                            {sourceText}
+                        </Text>
+                    </View>
+                )}
+
+                <TranslationSwitcher />
+
+                <PoemReader poem={poem} />
             </ScrollView>
         </>
     );
 }
 
-interface PoemColumnBlockProps {
-    block: PoemBlock;
-}
-
-function PoemColumnBlock({ block }: PoemColumnBlockProps) {
-    if (block.placeholder) {
-        return <View style={styles.placeholderBlock} />;
-    }
-
-    return (
-        <View style={styles.block}>
-            {!!block.number && (
-                <Text style={styles.number}>{block.number}</Text>
-            )}
-
-            {block.type === "stanza"
-                ? block.lines.map((line, index) => (
-                    <Text
-                        key={`${block.id}-line-${index}`}
-                        style={styles.line}
-                    >
-                        {line}
-                    </Text>
-                ))
-                : block.lines.map((paragraph, index) => (
-                    <Text
-                        key={`${block.id}-paragraph-${index}`}
-                        style={styles.prose}
-                    >
-                        {paragraph}
-                    </Text>
-                ))}
-        </View>
-    );
-}
-
 const styles = StyleSheet.create({
-    container: {
-        backgroundColor: "#0F0F10",
-        padding: 16,
-        paddingBottom: 48,
+    scrollContent: {
+        paddingHorizontal: spacing.lg,
+        paddingTop: 28,
+        paddingBottom: spacing.huge,
     },
     centered: {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
-        backgroundColor: "#0F0F10",
     },
-    notFoundText: {
-        color: "#F3F4F6",
-        fontSize: 16,
+    notFoundText: {},
+    heroCard: {
+        borderWidth: 1,
+        borderRadius: radius.xl,
+        padding: spacing.xxl,
+        marginBottom: spacing.lg,
+    },
+    heroEyebrow: {
+        fontWeight: "700",
+        letterSpacing: 1,
+        marginBottom: spacing.sm,
     },
     title: {
-        color: "#F9FAFB",
-        fontSize: 28,
         fontWeight: "700",
-        marginBottom: 6,
+        marginBottom: spacing.xs,
     },
     subtitle: {
-        color: "#A1A1AA",
-        fontSize: 18,
-        marginBottom: 24,
+        maxWidth: 680,
     },
-    row: {
-        flexDirection: "row",
-        gap: 12,
-        marginBottom: 24,
+    metaCard: {
+        borderWidth: 1,
+        borderRadius: radius.lg,
+        padding: spacing.xl,
+        marginBottom: spacing.lg,
     },
-    column: {
-        flex: 1,
-    },
-    block: {
-        minHeight: 40,
-    },
-    placeholderBlock: {
-        minHeight: 40,
-    },
-    number: {
-        color: "#71717A",
-        fontSize: 13,
+    metaLabel: {
         fontWeight: "700",
-        marginBottom: 6,
+        letterSpacing: 1,
+        marginBottom: spacing.sm,
     },
-    line: {
-        color: "#F3F4F6",
-        fontSize: 15,
-        lineHeight: 24,
-        marginBottom: 2,
-    },
-    prose: {
-        color: "#F3F4F6",
-        fontSize: 15,
-        lineHeight: 24,
-        marginBottom: 8,
-    },
+    metaText: {},
 });

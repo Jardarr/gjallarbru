@@ -1,30 +1,50 @@
 import "../src/i18n";
-import {
-    DarkTheme,
-    DefaultTheme,
-    ThemeProvider,
-} from "@react-navigation/native";
 import { Stack } from "expo-router";
 import { StatusBar } from "expo-status-bar";
 import "react-native-reanimated";
 
-import { useColorScheme } from "@/hooks/use-color-scheme";
-
-export const unstable_settings = {
-    anchor: "(tabs)",
-};
+import { useAppSettingsStore } from "@/src/store/settings.store";
+import { getThemeColors } from "@/src/theme/colors";
+import { t } from "i18next";
 
 export default function RootLayout() {
-    const colorScheme = useColorScheme();
+    const interfaceTheme = useAppSettingsStore((state) => state.interfaceTheme);
+    const colors = getThemeColors(interfaceTheme);
 
     return (
-        <ThemeProvider
-            value={colorScheme === "dark" ? DarkTheme : DefaultTheme}
-        >
-            <Stack>
-                <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+        <>
+            <Stack
+                screenOptions={{
+                    headerStyle: {
+                        backgroundColor: colors.background,
+                    },
+                    headerTintColor: colors.textPrimary,
+                    headerShadowVisible: false,
+                    headerTitleStyle: {
+                        fontWeight: "600",
+                    },
+                    contentStyle: {
+                        backgroundColor: colors.background,
+                    },
+                }}
+            >
+                <Stack.Screen name="index" options={{ headerShown: false }} />
+                <Stack.Screen
+                    name="welcome"
+                    options={{ headerShown: false }}
+                />
+                <Stack.Screen name="poems" options={{ title: "Poems" }} />
+                <Stack.Screen
+                    name="poem/[slug]"
+                    options={{ title: "Poem" }}
+                />
+                <Stack.Screen
+                    name="settings"
+                    options={{ title: "Settings" }}
+                />
             </Stack>
-            <StatusBar style="auto" />
-        </ThemeProvider>
+
+            <StatusBar style={interfaceTheme === "dark" ? "light" : "dark"} />
+        </>
     );
 }

@@ -1,79 +1,75 @@
-import React from "react";
-import { FlatList, Pressable, StyleSheet, Text, View } from "react-native";
-import { router } from "expo-router";
+import React, { useEffect, useState } from "react";
+import { ActivityIndicator, StyleSheet, View } from "react-native";
+import { Redirect } from "expo-router";
 import { useTranslation } from "react-i18next";
 
-import { getPoemsList } from "@/src/lib/poems";
+import { useAppSettingsStore } from "@/src/store/settings.store";
 
-export default function HomeScreen() {
+export default function IndexScreen() {
     const { i18n } = useTranslation();
-    const poems = getPoemsList();
 
-    const uiLanguage = i18n.language === "ru" ? "ru" : "en";
-
-    return (
-        <View style={styles.container}>
-            <Text style={styles.screenTitle}>
-                {uiLanguage === "ru" ? "Поэмы" : "Poems"}
-            </Text>
-
-            <FlatList
-                data={poems}
-                keyExtractor={(item) => item.slug}
-                contentContainerStyle={styles.listContent}
-                renderItem={({ item }) => {
-                    const translatedTitle =
-                        uiLanguage === "ru" ? item.title.ru : item.title.en;
-
-                    return (
-                        <Pressable
-                            style={styles.card}
-                            onPress={() => router.push(`/poem/${item.slug}`)}
-                        >
-                            <Text style={styles.originalTitle}>
-                                {item.title.on}
-                            </Text>
-                            <Text style={styles.translatedTitle}>
-                                {translatedTitle}
-                            </Text>
-                        </Pressable>
-                    );
-                }}
-            />
-        </View>
+    const [isHydrated, setIsHydrated] = useState(
+        useAppSettingsStore.persist.hasHydrated()
     );
+    const [isI18nReady, setIsI18nReady] = useState(false);
+
+    const hasSelectedInterfaceLanguage = useAppSettingsStore(
+        (state) => state.hasSelectedInterfaceLanguage
+    );
+    const interfaceLanguage = useAppSettingsStore(
+        (state) => state.interfaceLanguage
+    );
+
+    useEffect(() => {
+        const unsubscribe = useAppSettingsStore.persist.onFinishHydration(() => {
+            setIsHydrated(true);
+        });
+
+        if (useAppSettingsStore.persist.hasHydrated()) {
+            setIsHydrated(true);
+        }
+
+        return unsubscribe;
+    }, []);
+
+    useEffect(() => {
+        const syncLanguage = async () => {
+            if (!isHydrated) {
+                return;
+            }
+
+            if (hasSelectedInterfaceLanguage && interfaceLanguage) {
+                if (i18n.language !== interfaceLanguage) {
+                    await i18n.changeLanguage(interfaceLanguage);
+                }
+            }
+
+            setIsI18nReady(true);
+        };
+
+        syncLanguage();
+    }, [isHydrated, hasSelectedInterfaceLanguage, interfaceLanguage, i18n]);
+
+    if (!isHydrated || !isI18nReady) {
+        return (
+            <View style={styles.container}>
+                <ActivityIndicator size="large" color="#C2A878" />
+            </View>
+        );
+    }
+
+    if (hasSelectedInterfaceLanguage && interfaceLanguage) {
+        return <Redirect href="/welcome" />;
+    }
+
+    return <Redirect href="/welcome" />;
 }
 
 const styles = StyleSheet.create({
     container: {
         flex: 1,
         backgroundColor: "#0F0F10",
-        paddingTop: 24,
-        paddingHorizontal: 16,
-    },
-    screenTitle: {
-        color: "#F3F4F6",
-        fontSize: 28,
-        fontWeight: "700",
-        marginBottom: 16,
-    },
-    listContent: {
-        paddingBottom: 32,
-    },
-    card: {
-        backgroundColor: "#1A1A1D",
-        borderRadius: 16,
-        padding: 16,
-        marginBottom: 12,
-    },
-    originalTitle: {
-        color: "#F9FAFB",
-        fontSize: 18,
-        fontWeight: "700",
-        marginBottom: 4,
-    },
-    translatedTitle: {
-        color: "#A1A1AA",
-        fontSize: 15,
+        alignItems: "center",
+        justifyContent: "center",
     },
 });
