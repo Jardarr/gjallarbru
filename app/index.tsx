@@ -1,75 +1,39 @@
 import React, { useEffect, useState } from "react";
-import { ActivityIndicator, StyleSheet, View } from "react-native";
 import { Redirect } from "expo-router";
 import { useTranslation } from "react-i18next";
 
 import { useAppSettingsStore } from "@/src/store/settings.store";
 
 export default function IndexScreen() {
-    const { i18n } = useTranslation();
+	const { i18n } = useTranslation();
 
-    const [isHydrated, setIsHydrated] = useState(
-        useAppSettingsStore.persist.hasHydrated()
-    );
-    const [isI18nReady, setIsI18nReady] = useState(false);
+	const [isI18nReady, setIsI18nReady] = useState(false);
 
-    const hasSelectedInterfaceLanguage = useAppSettingsStore(
-        (state) => state.hasSelectedInterfaceLanguage
-    );
-    const interfaceLanguage = useAppSettingsStore(
-        (state) => state.interfaceLanguage
-    );
+	const hasSelectedInterfaceLanguage = useAppSettingsStore((state) => state.hasSelectedInterfaceLanguage);
 
-    useEffect(() => {
-        const unsubscribe = useAppSettingsStore.persist.onFinishHydration(() => {
-            setIsHydrated(true);
-        });
+	const interfaceLanguage = useAppSettingsStore((state) => state.interfaceLanguage);
 
-        if (useAppSettingsStore.persist.hasHydrated()) {
-            setIsHydrated(true);
-        }
+	useEffect(() => {
+		const syncLanguage = async () => {
+			if (hasSelectedInterfaceLanguage && interfaceLanguage) {
+				if (i18n.language !== interfaceLanguage) {
+					await i18n.changeLanguage(interfaceLanguage);
+				}
+			}
 
-        return unsubscribe;
-    }, []);
+			setIsI18nReady(true);
+		};
 
-    useEffect(() => {
-        const syncLanguage = async () => {
-            if (!isHydrated) {
-                return;
-            }
+		syncLanguage();
+	}, [hasSelectedInterfaceLanguage, interfaceLanguage, i18n]);
 
-            if (hasSelectedInterfaceLanguage && interfaceLanguage) {
-                if (i18n.language !== interfaceLanguage) {
-                    await i18n.changeLanguage(interfaceLanguage);
-                }
-            }
+	if (!isI18nReady) {
+		return null;
+	}
 
-            setIsI18nReady(true);
-        };
+	if (hasSelectedInterfaceLanguage && interfaceLanguage) {
+		return <Redirect href="/poems" />;
+	}
 
-        syncLanguage();
-    }, [isHydrated, hasSelectedInterfaceLanguage, interfaceLanguage, i18n]);
-
-    if (!isHydrated || !isI18nReady) {
-        return (
-            <View style={styles.container}>
-                <ActivityIndicator size="large" color="#C2A878" />
-            </View>
-        );
-    }
-
-    if (hasSelectedInterfaceLanguage && interfaceLanguage) {
-        return <Redirect href="/poems" />;
-    }
-
-    return <Redirect href="/welcome" />;
+	return <Redirect href="/welcome" />;
 }
-
-const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-        backgroundColor: "#0F0F10",
-        alignItems: "center",
-        justifyContent: "center",
-    },
-});
