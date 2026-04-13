@@ -263,6 +263,7 @@ const styles = StyleSheet.create({
     paragraph: {},
     footer: {
         marginTop: spacing.xxl,
+        marginBottom: spacing.xxxl,
         alignItems: "center",
         justifyContent: "center",
         gap: 4,
@@ -271,7 +272,9 @@ const styles = StyleSheet.create({
         textAlign: "center",
         fontWeight: "500",
     },
-    footerLink: {},
+    footerLink: {
+        marginBottom: 20,
+    },
     footerLinkText: {
         textAlign: "center",
         textDecorationLine: "underline",

@@ -17,10 +17,8 @@ import { getLineHeight, lineHeights, typography } from "@/src/theme/typography";
 export default function PoemScreen() {
     const { slug } = useLocalSearchParams<{ slug: string }>();
     const { i18n } = useTranslation();
-
     const { colors } = useAppTheme();
     const fontScale = useFontScale();
-
     const [isPreparing, setIsPreparing] = useState(true);
 
     const poem = typeof slug === "string" ? getPoemBySlug(slug) : null;
@@ -28,6 +26,7 @@ export default function PoemScreen() {
     const translationLanguage = useAppSettingsStore(
         (state) => state.translationLanguage,
     );
+
     const setLastOpenedPoem = useAppSettingsStore(
         (state) => state.setLastOpenedPoem,
     );
@@ -55,48 +54,20 @@ export default function PoemScreen() {
         });
     }, [poem, setLastOpenedPoem]);
 
-    if (!poem) {
-        return (
-            <View
-                style={[
-                    styles.centered,
-                    { backgroundColor: colors.background },
-                ]}
-            >
-                <Text
-                    style={[
-                        styles.notFoundText,
-                        {
-                            color: colors.textPrimary,
-                            fontSize: typography.bodyMedium * fontScale,
-                        },
-                    ]}
-                >
-                    Poem not found
-                </Text>
-            </View>
-        );
-    }
-
-    if (isPreparing) {
-        return (
-            <ScreenLoader
-                label={
-                    i18n.language === "ru"
-                        ? "Загрузка поэмы..."
-                        : "Loading poem..."
-                }
-            />
-        );
-    }
-
     const uiLanguage = i18n.language === "ru" ? "ru" : "en";
-    const translatedTitle =
-        translationLanguage === "ru" ? poem.title.ru : poem.title.en;
-    const sourceText = poem.source[translationLanguage] ?? "";
+    const translatedTitle = poem
+        ? translationLanguage === "ru"
+            ? poem.title.ru
+            : poem.title.en
+        : "";
+    const sourceText = poem ? (poem.source[translationLanguage] ?? "") : "";
 
-    const headerComponent = useMemo(
-        () => (
+    const headerComponent = useMemo(() => {
+        if (!poem) {
+            return null;
+        }
+
+        return (
             <View>
                 <View
                     style={[
@@ -194,23 +165,57 @@ export default function PoemScreen() {
 
                 <TranslationSwitcher />
             </View>
-        ),
-        [
-            colors.accent,
-            colors.border,
-            colors.surface,
-            colors.textMuted,
-            colors.textPrimary,
-            colors.textSecondary,
-            fontScale,
-            poem.title.en,
-            poem.title.on,
-            poem.title.ru,
-            sourceText,
-            translatedTitle,
-            uiLanguage,
-        ],
-    );
+        );
+    }, [
+        colors.accent,
+        colors.border,
+        colors.surface,
+        colors.textMuted,
+        colors.textPrimary,
+        colors.textSecondary,
+        fontScale,
+        poem,
+        sourceText,
+        translatedTitle,
+        uiLanguage,
+    ]);
+
+    if (!poem) {
+        return (
+            <View
+                style={[
+                    styles.centered,
+                    {
+                        backgroundColor: colors.background,
+                    },
+                ]}
+            >
+                <Text
+                    style={[
+                        styles.notFoundText,
+                        {
+                            color: colors.textPrimary,
+                            fontSize: typography.bodyMedium * fontScale,
+                        },
+                    ]}
+                >
+                    Poem not found
+                </Text>
+            </View>
+        );
+    }
+
+    if (isPreparing) {
+        return (
+            <ScreenLoader
+                label={
+                    i18n.language === "ru"
+                        ? "Загрузка поэмы..."
+                        : "Loading poem..."
+                }
+            />
+        );
+    }
 
     return (
         <>
@@ -226,7 +231,12 @@ export default function PoemScreen() {
             />
 
             <View
-                style={[styles.screen, { backgroundColor: colors.background }]}
+                style={[
+                    styles.screen,
+                    {
+                        backgroundColor: colors.background,
+                    },
+                ]}
             >
                 <PoemReader poem={poem} ListHeaderComponent={headerComponent} />
             </View>
