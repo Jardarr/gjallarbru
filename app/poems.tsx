@@ -13,12 +13,14 @@ import { typography } from "@/src/theme/typography";
 import ThmrIcon from "@/assets/images/thmr.svg";
 import { normalizeSearchValue } from "@/src/lib/search";
 import PressableCard from "@/src/components/ui/PressableCard";
-import { SafeAreaView } from "react-native-safe-area-context";
+import { SafeAreaView, useSafeAreaInsets } from "react-native-safe-area-context";
+import { LinearGradient } from "expo-linear-gradient";
 
 export default function PoemsScreen() {
 	const { i18n } = useTranslation();
 	const { colors } = useAppTheme();
 	const fontScale = useFontScale();
+	const insets = useSafeAreaInsets();
 	const [searchQuery, setSearchQuery] = useState("");
 	const poems = getPoemsList();
 	const lastOpenedPoem = useAppSettingsStore((state) => state.lastOpenedPoem);
@@ -33,6 +35,8 @@ export default function PoemsScreen() {
 		});
 	}, [poems, searchQuery]);
 	const continueTitle = lastOpenedPoem ? (uiLanguage === "ru" ? lastOpenedPoem.titleRu : lastOpenedPoem.titleEn) : "";
+	const gradientColors: [string, string, string] =
+		colors.background === "#000000" ? ["rgba(0,0,0,0.95)", "rgba(0,0,0,0.6)", "rgba(0,0,0,0)"] : ["rgba(255,255,255,0.95)", "rgba(255,255,255,0.6)", "rgba(255,255,255,0)"];
 	return (
 		<>
 			<Stack.Screen
@@ -335,6 +339,16 @@ export default function PoemsScreen() {
 						}
 					/>
 				</ScrollView>
+				<LinearGradient
+					pointerEvents="none"
+					colors={gradientColors}
+					style={[
+						styles.topGradient,
+						{
+							height: insets.top + 80,
+						},
+					]}
+				/>
 			</SafeAreaView>
 		</>
 	);
