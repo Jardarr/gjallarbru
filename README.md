@@ -1,50 +1,72 @@
-# Welcome to your Expo app 👋
+# Gjallarbru
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Offline mobile app for reading Old Norse poetry with parallel translations.
 
-## Get started
+---
 
-1. Install dependencies
+## 📱 About
 
-   ```bash
-   npm install
-   ```
+Gjallarbru is an offline-first mobile application built with React Native (Expo).
 
-2. Start the app
+The app allows you to read Old Norse poems alongside translations in Russian and English.
 
-   ```bash
-   npx expo start
-   ```
+- Fully offline — no internet connection required
+- Parallel text layout:
+  - Old Norse (original)
+  - Russian / English translations
+- Clean and minimal reading interface
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## ✨ Features
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- 📖 Open and read Old Norse poems
+- 🌐 Switch translation language (RU / EN)
+- 🔍 Search across all texts
+- ⚙️ Adjustable font size
+- 🎨 Light and dark themes
+- 📦 Works completely offline
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 🧠 Reading Format
+
+The app supports two types of text blocks:
+
+- **Stanza** — displayed in two columns  
+  (original on the left, translation on the right)
+
+- **Prose** — displayed vertically  
+  (original first, translation below)
+
+All texts are preprocessed and aligned for consistent reading.
+
+---
+
+## 🛠 Tech Stack
+
+- React Native (Expo)
+- TypeScript
+- Zustand (state management)
+- expo-router
+- react-i18next (interface only)
+
+---
+
+## 📦 Installation (APK)
+
+You can install the APK manually:
+
+1. Download the latest release
+2. Allow installation from unknown sources
+3. Install the APK on your device
+
+---
+
+## 🧑‍💻 Development
+
+Clone the repository:
 
 ```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+git clone https://github.com/Jardarr/gjallarbru.git
+cd gjallarbru
