@@ -7,7 +7,7 @@ import { useAppTheme } from "@/src/hooks/use-app-themes";
 
 export default function TranslationSwitcher() {
     const { i18n } = useTranslation();
-    const colors = useAppTheme();
+    const { colors } = useAppTheme();
 
     const translationLanguage = useAppSettingsStore(
         (state) => state.translationLanguage,
@@ -29,8 +29,12 @@ export default function TranslationSwitcher() {
             >
                 <Pressable
                     onPress={() => setTranslationLanguage("ru")}
-                    style={[
+                    style={({ pressed }) => [
                         styles.button,
+                        {
+                            opacity: pressed ? 0.92 : 1,
+                            transform: [{ scale: pressed ? 0.985 : 1 }],
+                        },
                         translationLanguage === "ru" && {
                             backgroundColor: colors.surfaceSecondary,
                         },
@@ -51,8 +55,12 @@ export default function TranslationSwitcher() {
 
                 <Pressable
                     onPress={() => setTranslationLanguage("en")}
-                    style={[
+                    style={({ pressed }) => [
                         styles.button,
+                        {
+                            opacity: pressed ? 0.92 : 1,
+                            transform: [{ scale: pressed ? 0.985 : 1 }],
+                        },
                         translationLanguage === "en" && {
                             backgroundColor: colors.surfaceSecondary,
                         },

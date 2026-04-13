@@ -1,10 +1,11 @@
-import React, { useEffect } from "react";
-import { ScrollView, StyleSheet, Text, View } from "react-native";
+import React, { useEffect, useMemo, useState } from "react";
+import { StyleSheet, Text, View } from "react-native";
 import { Stack, useLocalSearchParams } from "expo-router";
 import { useTranslation } from "react-i18next";
 
 import PoemReader from "@/src/components/poem/PoemReader";
 import TranslationSwitcher from "@/src/components/poem/TranslationSwitcher";
+import ScreenLoader from "@/src/components/ui/ScreenLoader";
 import { useAppTheme } from "@/src/hooks/use-app-themes";
 import { useFontScale } from "@/src/hooks/use-font-scale";
 import { getPoemBySlug } from "@/src/lib/poems";
@@ -17,8 +18,10 @@ export default function PoemScreen() {
     const { slug } = useLocalSearchParams<{ slug: string }>();
     const { i18n } = useTranslation();
 
-    const colors = useAppTheme();
+    const { colors } = useAppTheme();
     const fontScale = useFontScale();
+
+    const [isPreparing, setIsPreparing] = useState(true);
 
     const poem = typeof slug === "string" ? getPoemBySlug(slug) : null;
 
@@ -28,6 +31,16 @@ export default function PoemScreen() {
     const setLastOpenedPoem = useAppSettingsStore(
         (state) => state.setLastOpenedPoem,
     );
+
+    useEffect(() => {
+        setIsPreparing(true);
+
+        const timeout = setTimeout(() => {
+            setIsPreparing(false);
+        }, 120);
+
+        return () => clearTimeout(timeout);
+    }, [slug]);
 
     useEffect(() => {
         if (!poem) {
@@ -65,31 +78,26 @@ export default function PoemScreen() {
         );
     }
 
-    const uiLanguage = i18n.language === "ru" ? "ru" : "en";
+    if (isPreparing) {
+        return (
+            <ScreenLoader
+                label={
+                    i18n.language === "ru"
+                        ? "Загрузка поэмы..."
+                        : "Loading poem..."
+                }
+            />
+        );
+    }
 
+    const uiLanguage = i18n.language === "ru" ? "ru" : "en";
     const translatedTitle =
         translationLanguage === "ru" ? poem.title.ru : poem.title.en;
-
     const sourceText = poem.source[translationLanguage] ?? "";
 
-    return (
-        <>
-            <Stack.Screen
-                options={{
-                    title: poem.title.on,
-                    headerStyle: {
-                        backgroundColor: colors.background,
-                    },
-                    headerTintColor: colors.textPrimary,
-                    headerShadowVisible: false,
-                }}
-            />
-
-            <ScrollView
-                style={{ backgroundColor: colors.background }}
-                contentContainerStyle={styles.scrollContent}
-                showsVerticalScrollIndicator={false}
-            >
+    const headerComponent = useMemo(
+        () => (
+            <View>
                 <View
                     style={[
                         styles.heroCard,
@@ -185,18 +193,50 @@ export default function PoemScreen() {
                 )}
 
                 <TranslationSwitcher />
+            </View>
+        ),
+        [
+            colors.accent,
+            colors.border,
+            colors.surface,
+            colors.textMuted,
+            colors.textPrimary,
+            colors.textSecondary,
+            fontScale,
+            poem.title.en,
+            poem.title.on,
+            poem.title.ru,
+            sourceText,
+            translatedTitle,
+            uiLanguage,
+        ],
+    );
 
-                <PoemReader poem={poem} />
-            </ScrollView>
+    return (
+        <>
+            <Stack.Screen
+                options={{
+                    title: poem.title.on,
+                    headerStyle: {
+                        backgroundColor: colors.background,
+                    },
+                    headerTintColor: colors.textPrimary,
+                    headerShadowVisible: false,
+                }}
+            />
+
+            <View
+                style={[styles.screen, { backgroundColor: colors.background }]}
+            >
+                <PoemReader poem={poem} ListHeaderComponent={headerComponent} />
+            </View>
         </>
     );
 }
 
 const styles = StyleSheet.create({
-    scrollContent: {
-        paddingHorizontal: spacing.lg,
-        paddingTop: 28,
-        paddingBottom: spacing.huge,
+    screen: {
+        flex: 1,
     },
     centered: {
         flex: 1,

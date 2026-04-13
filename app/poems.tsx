@@ -20,10 +20,11 @@ import { spacing } from "@/src/theme/spacing";
 import { typography } from "@/src/theme/typography";
 import ThmrIcon from "@/assets/images/thmr.svg";
 import { normalizeSearchValue } from "@/src/lib/search";
+import PressableCard from "@/src/components/ui/PressableCard";
 
 export default function PoemsScreen() {
     const { i18n } = useTranslation();
-    const colors = useAppTheme();
+    const { colors } = useAppTheme();
     const fontScale = useFontScale();
 
     const [searchQuery, setSearchQuery] = useState("");
@@ -85,7 +86,7 @@ export default function PoemsScreen() {
                         />
                     </View>
 
-                    <Pressable
+                    <PressableCard
                         onPress={() => router.push("/settings")}
                         style={[
                             styles.settingsButton,
@@ -106,7 +107,7 @@ export default function PoemsScreen() {
                         >
                             {uiLanguage === "ru" ? "Настройки" : "Settings"}
                         </Text>
-                    </Pressable>
+                    </PressableCard>
                 </View>
 
                 <View
@@ -220,7 +221,7 @@ export default function PoemsScreen() {
                 </View>
 
                 {!!lastOpenedPoem && (
-                    <Pressable
+                    <PressableCard
                         style={[
                             styles.continueCard,
                             {
@@ -269,7 +270,7 @@ export default function PoemsScreen() {
                         >
                             {continueTitle}
                         </Text>
-                    </Pressable>
+                    </PressableCard>
                 )}
 
                 <View style={styles.sectionHeader}>
@@ -310,7 +311,7 @@ export default function PoemsScreen() {
                             uiLanguage === "ru" ? item.title.ru : item.title.en;
 
                         return (
-                            <Pressable
+                            <PressableCard
                                 style={[
                                     styles.poemCard,
                                     {
@@ -318,6 +319,11 @@ export default function PoemsScreen() {
                                         borderColor: colors.border,
                                     },
                                 ]}
+                                contentStyle={{
+                                    flexDirection: "row",
+                                    alignItems: "center",
+                                    justifyContent: "space-between",
+                                }}
                                 onPress={() =>
                                     router.push(`/poem/${item.slug}`)
                                 }
@@ -368,7 +374,7 @@ export default function PoemsScreen() {
                                 >
                                     ›
                                 </Text>
-                            </Pressable>
+                            </PressableCard>
                         );
                     }}
                     ListEmptyComponent={
@@ -431,21 +437,17 @@ const styles = StyleSheet.create({
         gap: spacing.md,
         marginBottom: spacing.xxl,
     },
-
     headerTextBlock: {
         flex: 1,
         minWidth: 0,
     },
-
     screenTitle: {
         fontWeight: "700",
         marginBottom: spacing.xs,
     },
-
     screenSubtitle: {
         lineHeight: 22,
     },
-
     settingsButton: {
         borderWidth: 1,
         borderRadius: radius.lg,
@@ -454,7 +456,6 @@ const styles = StyleSheet.create({
         flexShrink: 0,
         alignSelf: "flex-start",
     },
-
     settingsButtonText: {
         fontWeight: "600",
     },
@@ -567,7 +568,6 @@ const styles = StyleSheet.create({
         justifyContent: "center",
         marginLeft: spacing.sm,
     },
-
     clearSearchButtonText: {
         fontSize: 14,
         fontWeight: "700",

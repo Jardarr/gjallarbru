@@ -59,7 +59,7 @@ export default function IndexScreen() {
     }
 
     if (hasSelectedInterfaceLanguage && interfaceLanguage) {
-        return <Redirect href="/welcome" />;
+        return <Redirect href="/poems" />;
     }
 
     return <Redirect href="/welcome" />;

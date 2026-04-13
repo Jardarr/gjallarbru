@@ -1,16 +1,26 @@
-import React, { useMemo } from "react";
-import { StyleSheet, View } from "react-native";
+import React, { useCallback, useMemo } from "react";
+import { FlatList, StyleSheet, View } from "react-native";
 
 import PoemColumnBlock from "./PoemColumnBlock";
 import { useAppSettingsStore } from "@/src/store/settings.store";
-import type { PoemData } from "@/src/types/poem";
+import type { PoemBlock, PoemData } from "@/src/types/poem";
 import { spacing } from "@/src/theme/spacing";
 
 interface PoemReaderProps {
     poem: PoemData;
+    ListHeaderComponent?: React.ReactElement | null;
 }
 
-export default function PoemReader({ poem }: PoemReaderProps) {
+interface PoemRowItem {
+    id: string;
+    originalBlock: PoemBlock;
+    translatedBlock: PoemBlock;
+}
+
+export default function PoemReader({
+    poem,
+    ListHeaderComponent = null,
+}: PoemReaderProps) {
     const translationLanguage = useAppSettingsStore(
         (state) => state.translationLanguage,
     );
@@ -19,43 +29,76 @@ export default function PoemReader({ poem }: PoemReaderProps) {
         return translationLanguage === "ru" ? poem.texts.ru : poem.texts.en;
     }, [poem, translationLanguage]);
 
-    return (
-        <>
-            {poem.texts.on.map((originalBlock, index) => {
+    const rows = useMemo<PoemRowItem[]>(() => {
+        return poem.texts.on.reduce<PoemRowItem[]>(
+            (acc, originalBlock, index) => {
                 const translatedBlock = translatedBlocks[index];
 
                 if (!translatedBlock) {
-                    return null;
+                    return acc;
                 }
 
-                const isProse = originalBlock.type === "prose";
+                acc.push({
+                    id: originalBlock.id,
+                    originalBlock,
+                    translatedBlock,
+                });
 
-                if (isProse) {
-                    return (
-                        <View key={originalBlock.id} style={styles.proseRow}>
-                            <PoemColumnBlock block={originalBlock} />
-                            <PoemColumnBlock block={translatedBlock} />
-                        </View>
-                    );
-                }
+                return acc;
+            },
+            [],
+        );
+    }, [poem.texts.on, translatedBlocks]);
 
-                return (
-                    <View key={originalBlock.id} style={styles.stanzaRow}>
-                        <View style={styles.column}>
-                            <PoemColumnBlock block={originalBlock} />
-                        </View>
+    const renderItem = useCallback(({ item }: { item: PoemRowItem }) => {
+        const isProse = item.originalBlock.type === "prose";
 
-                        <View style={styles.column}>
-                            <PoemColumnBlock block={translatedBlock} />
-                        </View>
-                    </View>
-                );
-            })}
-        </>
+        if (isProse) {
+            return (
+                <View style={styles.proseRow}>
+                    <PoemColumnBlock block={item.originalBlock} />
+                    <PoemColumnBlock block={item.translatedBlock} />
+                </View>
+            );
+        }
+
+        return (
+            <View style={styles.stanzaRow}>
+                <View style={styles.column}>
+                    <PoemColumnBlock block={item.originalBlock} />
+                </View>
+
+                <View style={styles.column}>
+                    <PoemColumnBlock block={item.translatedBlock} />
+                </View>
+            </View>
+        );
+    }, []);
+
+    const keyExtractor = useCallback((item: PoemRowItem) => item.id, []);
+
+    return (
+        <FlatList
+            data={rows}
+            keyExtractor={keyExtractor}
+            renderItem={renderItem}
+            ListHeaderComponent={ListHeaderComponent}
+            contentContainerStyle={styles.contentContainer}
+            showsVerticalScrollIndicator={false}
+            initialNumToRender={12}
+            maxToRenderPerBatch={10}
+            windowSize={7}
+            removeClippedSubviews
+        />
     );
 }
 
 const styles = StyleSheet.create({
+    contentContainer: {
+        paddingHorizontal: spacing.lg,
+        paddingTop: 28,
+        paddingBottom: spacing.huge,
+    },
     stanzaRow: {
         flexDirection: "row",
         gap: spacing.lg,

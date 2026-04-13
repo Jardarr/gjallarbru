@@ -6,6 +6,7 @@ import { useTranslation } from "react-i18next";
 import type { InterfaceLanguage } from "@/src/store/settings.store";
 import { useAppSettingsStore } from "@/src/store/settings.store";
 import ThmrIcon from "@/assets/images/thmr.svg";
+import PressableCard from "@/src/components/ui/PressableCard";
 
 export default function WelcomeScreen() {
     const { i18n } = useTranslation();
@@ -24,11 +25,7 @@ export default function WelcomeScreen() {
             <View style={styles.heroBlock}>
                 <View style={styles.imagePlaceholder}>
                     <View style={styles.iconWrap}>
-                        <ThmrIcon
-                            width="84"
-                            height="84"
-                            color="#9C7C38"
-                        />
+                        <ThmrIcon width="84" height="84" color="#9C7C38" />
                     </View>
                 </View>
 
@@ -41,19 +38,27 @@ export default function WelcomeScreen() {
             </View>
 
             <View style={styles.buttons}>
-                <Pressable
+                <PressableCard
                     style={styles.button}
+                    contentStyle={{
+                        alignItems: "center",
+                        justifyContent: "center",
+                    }}
                     onPress={() => handleSelectLanguage("ru")}
                 >
                     <Text style={styles.buttonText}>Русский</Text>
-                </Pressable>
+                </PressableCard>
 
-                <Pressable
+                <PressableCard
                     style={styles.button}
+                    contentStyle={{
+                        alignItems: "center",
+                        justifyContent: "center",
+                    }}
                     onPress={() => handleSelectLanguage("en")}
                 >
                     <Text style={styles.buttonText}>English</Text>
-                </Pressable>
+                </PressableCard>
             </View>
         </View>
     );

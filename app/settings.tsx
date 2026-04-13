@@ -1,6 +1,6 @@
 import React from "react";
 import { Pressable, ScrollView, StyleSheet, Text, View } from "react-native";
-import { Stack } from "expo-router";
+import { router, Stack } from "expo-router";
 import { useTranslation } from "react-i18next";
 
 import { useAppTheme } from "@/src/hooks/use-app-themes";
@@ -15,13 +15,11 @@ import {
 import { radius } from "@/src/theme/radius";
 import { spacing } from "@/src/theme/spacing";
 import { typography } from "@/src/theme/typography";
-import i18n from "@/src/i18n";
 
 interface SettingsOptionButtonProps {
     label: string;
     isActive: boolean;
     onPress: () => void;
-    colors: ReturnType<typeof useAppTheme>;
     fontScale: number;
 }
 
@@ -29,17 +27,19 @@ function SettingsOptionButton({
     label,
     isActive,
     onPress,
-    colors,
     fontScale,
 }: SettingsOptionButtonProps) {
+    const { colors } = useAppTheme();
     return (
         <Pressable
             onPress={onPress}
-            style={[
+            style={({ pressed }) => [
                 styles.optionButton,
                 {
                     backgroundColor: colors.surfaceSecondary,
                     borderColor: colors.border,
+                    opacity: pressed ? 0.92 : 1,
+                    transform: [{ scale: pressed ? 0.985 : 1 }],
                 },
                 isActive && {
                     backgroundColor: colors.surfaceTertiary,
@@ -67,7 +67,6 @@ function SettingsOptionButton({
 interface SettingsSectionProps {
     title: string;
     description?: string;
-    colors: ReturnType<typeof useAppTheme>;
     fontScale: number;
     children: React.ReactNode;
 }
@@ -75,10 +74,10 @@ interface SettingsSectionProps {
 function SettingsSection({
     title,
     description,
-    colors,
     fontScale,
     children,
 }: SettingsSectionProps) {
+    const { colors } = useAppTheme();
     return (
         <View
             style={[
@@ -123,7 +122,7 @@ function SettingsSection({
 
 export default function SettingsScreen() {
     const { i18n } = useTranslation();
-    const colors = useAppTheme();
+    const { colors } = useAppTheme();
     const fontScale = useFontScale();
     const uiLanguage = i18n.language === "ru" ? "ru" : "en";
 
@@ -173,7 +172,6 @@ export default function SettingsScreen() {
         resetSettings();
         await i18n.changeLanguage("ru");
     };
-
     return (
         <>
             <Stack.Screen
@@ -199,7 +197,6 @@ export default function SettingsScreen() {
                             ? "Выбери язык интерфейса и язык отображаемого перевода."
                             : "Choose the interface language and the displayed translation language."
                     }
-                    colors={colors}
                     fontScale={fontScale}
                 >
                     <View style={styles.groupBlock}>
@@ -224,7 +221,6 @@ export default function SettingsScreen() {
                                 onPress={() =>
                                     handleInterfaceLanguageChange("ru")
                                 }
-                                colors={colors}
                                 fontScale={fontScale}
                             />
                             <SettingsOptionButton
@@ -233,7 +229,6 @@ export default function SettingsScreen() {
                                 onPress={() =>
                                     handleInterfaceLanguageChange("en")
                                 }
-                                colors={colors}
                                 fontScale={fontScale}
                             />
                         </View>
@@ -261,7 +256,6 @@ export default function SettingsScreen() {
                                 onPress={() =>
                                     handleTranslationLanguageChange("ru")
                                 }
-                                colors={colors}
                                 fontScale={fontScale}
                             />
                             <SettingsOptionButton
@@ -270,7 +264,6 @@ export default function SettingsScreen() {
                                 onPress={() =>
                                     handleTranslationLanguageChange("en")
                                 }
-                                colors={colors}
                                 fontScale={fontScale}
                             />
                         </View>
@@ -284,7 +277,6 @@ export default function SettingsScreen() {
                             ? "Настрой комфортный размер текста для чтения поэм."
                             : "Choose a comfortable text size for reading poems."
                     }
-                    colors={colors}
                     fontScale={fontScale}
                 >
                     <View style={styles.groupBlock}>
@@ -307,7 +299,6 @@ export default function SettingsScreen() {
                                 label={uiLanguage === "ru" ? "Малый" : "Small"}
                                 isActive={textSizeScale === 1}
                                 onPress={() => handleFontSizeChange(1)}
-                                colors={colors}
                                 fontScale={fontScale}
                             />
                             <SettingsOptionButton
@@ -316,7 +307,6 @@ export default function SettingsScreen() {
                                 }
                                 isActive={textSizeScale === 1.1}
                                 onPress={() => handleFontSizeChange(1.1)}
-                                colors={colors}
                                 fontScale={fontScale}
                             />
                             <SettingsOptionButton
@@ -325,7 +315,6 @@ export default function SettingsScreen() {
                                 }
                                 isActive={textSizeScale === 1.2}
                                 onPress={() => handleFontSizeChange(1.2)}
-                                colors={colors}
                                 fontScale={fontScale}
                             />
                         </View>
@@ -339,7 +328,6 @@ export default function SettingsScreen() {
                             ? "Выбери тему интерфейса, которая тебе комфортнее."
                             : "Choose the interface theme that feels most comfortable."
                     }
-                    colors={colors}
                     fontScale={fontScale}
                 >
                     <View style={styles.groupBlock}>
@@ -362,7 +350,6 @@ export default function SettingsScreen() {
                                 label={uiLanguage === "ru" ? "Тёмная" : "Dark"}
                                 isActive={interfaceTheme === "dark"}
                                 onPress={() => handleThemeChange("dark")}
-                                colors={colors}
                                 fontScale={fontScale}
                             />
                             <SettingsOptionButton
@@ -371,7 +358,6 @@ export default function SettingsScreen() {
                                 }
                                 isActive={interfaceTheme === "light"}
                                 onPress={() => handleThemeChange("light")}
-                                colors={colors}
                                 fontScale={fontScale}
                             />
                         </View>
@@ -441,6 +427,66 @@ export default function SettingsScreen() {
                         </Text>
                     </Pressable>
                 </View>
+
+                <View
+                    style={[
+                        styles.resetCard,
+                        {
+                            backgroundColor: colors.surface,
+                            borderColor: colors.border,
+                        },
+                    ]}
+                >
+                    <Text
+                        style={[
+                            styles.resetTitle,
+                            {
+                                color: colors.textPrimary,
+                                fontSize: typography.titleSmall * fontScale,
+                            },
+                        ]}
+                    >
+                        {uiLanguage === "ru" ? "О приложении" : "About"}
+                    </Text>
+
+                    <Text
+                        style={[
+                            styles.resetDescription,
+                            {
+                                color: colors.textSecondary,
+                                fontSize: typography.bodySmall * fontScale,
+                                lineHeight: 22 * fontScale,
+                            },
+                        ]}
+                    >
+                        {uiLanguage === "ru"
+                            ? "Краткая информация о проекте, принципах отображения текстов и переводов."
+                            : "Short information about the project and the principles behind the text and translation display."}
+                    </Text>
+
+                    <Pressable
+                        onPress={() => router.push("/about")}
+                        style={[
+                            styles.resetButton,
+                            {
+                                backgroundColor: colors.surfaceSecondary,
+                                borderColor: colors.border,
+                            },
+                        ]}
+                    >
+                        <Text
+                            style={[
+                                styles.resetButtonText,
+                                {
+                                    color: colors.textPrimary,
+                                    fontSize: typography.labelLarge * fontScale,
+                                },
+                            ]}
+                        >
+                            {uiLanguage === "ru" ? "Открыть" : "Open"}
+                        </Text>
+                    </Pressable>
+                </View>
             </ScrollView>
         </>
     );
@@ -450,16 +496,6 @@ const styles = StyleSheet.create({
     scrollContent: {
         paddingHorizontal: spacing.lg,
         paddingBottom: spacing.huge,
-    },
-    headerBlock: {
-        marginBottom: spacing.xxl,
-    },
-    screenTitle: {
-        fontWeight: "700",
-        marginBottom: spacing.xs,
-    },
-    screenSubtitle: {
-        maxWidth: 620,
     },
     sectionCard: {
         borderWidth: 1,

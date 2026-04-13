@@ -12,7 +12,7 @@ interface PoemColumnBlockProps {
 }
 
 export default function PoemColumnBlock({ block }: PoemColumnBlockProps) {
-    const colors = useAppTheme();
+    const { colors } = useAppTheme();
     const fontScale = useFontScale();
 
     if (block.placeholder) {
