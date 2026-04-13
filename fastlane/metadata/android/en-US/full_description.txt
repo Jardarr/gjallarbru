@@ -1,0 +1,20 @@
+Gjallarbru is an offline mobile app for reading Old Norse poetry in a clean parallel format.
+
+The app displays the original Old Norse text together with Russian or English translations and is designed for focused reading without distractions.
+
+Features:
+• fully offline
+• parallel reading layout
+• Old Norse original text
+• Russian and English translations
+• search across all texts
+• adjustable font size
+• light and dark themes
+
+Reading modes:
+• stanza blocks are shown in two columns
+• prose blocks are shown vertically
+
+All poems are bundled with the app, so no internet connection is required.
+
+Gjallarbru is built with React Native and Expo and focuses on simplicity, readability, and offline access to poetic texts.

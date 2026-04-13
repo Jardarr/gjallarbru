@@ -1,0 +1,1 @@
+Offline reader for Old Norse poetry with parallel Russian and English translations.
