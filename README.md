@@ -1,65 +1,92 @@
 # Gjallarbru
 
-Offline mobile app for reading Old Norse poetry with parallel translations.
+Offline mobile application for reading Old Norse poetry with parallel translations.
 
 ---
 
 ## 📱 About
 
 Gjallarbru is an offline-first mobile application built with React Native (Expo).
+It is designed for comfortable reading of Old Norse poems alongside translations.
 
-The app allows you to read Old Norse poems alongside translations in Russian and English.
+The app displays the original Old Norse text together with Russian or English translations in a clean and structured format.
 
-- Fully offline — no internet connection required
-- Parallel text layout:
-  - Old Norse (original)
-  - Russian / English translations
-- Clean and minimal reading interface
+The entire application works without an internet connection.
 
 ---
 
 ## ✨ Features
 
-- 📖 Open and read Old Norse poems
-- 🌐 Switch translation language (RU / EN)
-- 🔍 Search across all texts
-- ⚙️ Adjustable font size
-- 🎨 Light and dark themes
-- 📦 Works completely offline
+* 📖 Read Old Norse poems
+* 🌐 Switch translation language (Russian / English)
+* 🔍 Search across all texts (Old Norse, RU, EN)
+* ⚙️ Adjustable font size
+* 🎨 Light and dark themes
+* 💾 Fully offline — no network required
 
 ---
 
 ## 🧠 Reading Format
 
-The app supports two types of text blocks:
+The app supports two types of content blocks:
 
-- **Stanza** — displayed in two columns  
-  (original on the left, translation on the right)
+### Stanza
 
-- **Prose** — displayed vertically  
-  (original first, translation below)
+* Displayed in two columns
+* Left: original Old Norse
+* Right: translation
+
+### Prose
+
+* Displayed vertically
+* Original text first
+* Translation below
 
 All texts are preprocessed and aligned for consistent reading.
 
 ---
 
+## 📂 Data Structure
+
+Each poem is stored as a separate JSON file.
+
+```json
+{
+  "slug": "poem-slug",
+  "title": {
+    "on": "Old Norse title",
+    "ru": "Russian title",
+    "en": "English title"
+  },
+  "texts": {
+    "on": [],
+    "ru": [],
+    "en": []
+  }
+}
+```
+
+Text blocks are synchronized across languages using placeholders when needed.
+
+---
+
 ## 🛠 Tech Stack
 
-- React Native (Expo)
-- TypeScript
-- Zustand (state management)
-- expo-router
-- react-i18next (interface only)
+* React Native (Expo)
+* TypeScript
+* Zustand (state management)
+* expo-router
+* react-i18next (used only for interface)
 
 ---
 
 ## 📦 Installation (APK)
 
-You can install the APK manually:
+You can install the application manually:
 
-1. Download the latest release
-2. Allow installation from unknown sources
-3. Install the APK on your device
+1. Download the latest APK release
+2. Enable installation from unknown sources on your device
+3. Install the APK
 
 ---
 
@@ -70,3 +97,64 @@ Clone the repository:
 ```bash
 git clone https://github.com/Jardarr/gjallarbru.git
 cd gjallarbru
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the project:
+
+```bash
+npx expo start
+```
+
+---
+
+## 🏗 Build
+
+Build APK using Expo EAS:
+
+```bash
+eas build --platform android --profile production
+```
+
+---
+
+## 📁 Project Structure
+
+```bash
+src/
+  components/
+  hooks/
+  lib/
+  store/
+  theme/
+data/
+  poems/
+```
+
+All poems are stored locally and bundled with the app.
+
+---
+
+## 🔒 Privacy
+
+Gjallarbru does not collect, store, or transmit any personal data.
+
+The application works entirely offline.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👤 Author
+
+jrdrr
+https://github.com/Jardarr
