@@ -36,7 +36,7 @@ export default function PoemsScreen() {
 	}, [poems, searchQuery]);
 	const continueTitle = lastOpenedPoem ? (uiLanguage === "ru" ? lastOpenedPoem.titleRu : lastOpenedPoem.titleEn) : "";
 	const gradientColors: [string, string, string] =
-		colors.background === "#000000" ? ["rgba(0,0,0,0.95)", "rgba(0,0,0,0.6)", "rgba(0,0,0,0)"] : ["rgba(255,255,255,0.95)", "rgba(255,255,255,0.6)", "rgba(255,255,255,0)"];
+		colors.background === "#0B0B0C" ? ["rgba(0,0,0,0.95)", "rgba(0,0,0,0.6)", "rgba(0,0,0,0)"] : ["rgba(255,255,255,0.95)", "rgba(255,255,255,0.6)", "rgba(255,255,255,0)"];
 	return (
 		<>
 			<Stack.Screen
