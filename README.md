@@ -115,11 +115,15 @@ npx expo start
 
 ## 🏗 Build
 
-Build APK using Expo EAS:
+### Option 1 — Local build (recommended)
 
 ```bash
-eas build --platform android --profile production
+npm install
+npx expo prebuild
+cd android
+./gradlew assembleRelease
 ```
+APK files will be generated in: android/app/build/outputs/apk/release/
 
 ---
 
@@ -140,11 +144,22 @@ All poems are stored locally and bundled with the app.
 
 ---
 
+## ⚙️ Build Requirements
+
+- Node.js
+- npm
+- Android SDK
+- Java (JDK 17)
+
+The project is built locally using Gradle.
+
+---
+
 ## 🔒 Privacy
 
 Gjallarbru does not collect, store, or transmit any personal data.
-
 The application works entirely offline.
+The application does not use any network connections, analytics, or tracking libraries.
 
 ---
 
