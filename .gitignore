@@ -1,22 +1,23 @@
-# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
-
 # dependencies
 node_modules/
 
 # Expo
 .expo/
+.expo-shared/
 dist/
 web-build/
 expo-env.d.ts
 
-# Native
-.kotlin/
-*.orig.*
-*.jks
-*.p8
-*.p12
-*.key
-*.mobileprovision
+# Native build (НЕ сами android/ и ios!)
+android/.gradle/
+android/build/
+android/app/build/
+
+ios/build/
+
+# APK / AAB
+*.apk
+*.aab
 
 # Metro
 .metro-health-check*
@@ -36,8 +37,16 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
-app-example
+# keystores / secrets
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
 
-# generated native folders
-/ios
-/android
+# misc
+.kotlin/
+*.orig.*
+
+# examples
+app-example
