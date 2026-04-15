@@ -20,12 +20,8 @@
 				"monochromeImage": "./assets/images/android-icon-monochrome.png"
 			},
 			"edgeToEdgeEnabled": true,
-			"predictiveBackGestureEnabled": false
-		},
-		"web": {
-			"output": "static",
-			"favicon": "./assets/images/favicon.png",
-			"bundler": "metro"
+			"predictiveBackGestureEnabled": false,
+			"versionCode": 1
 		},
 		"plugins": [
 			"expo-router",
