@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/images/splash-icon.png" width="250" />
+</p>
+
+
 # Gjallarbru
 
 Offline mobile application for reading Old Norse poetry with parallel translations.
