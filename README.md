@@ -82,12 +82,15 @@ Text blocks are synchronized across languages using placeholders when needed.
 
 ## 📸 Screenshots
 
-> ![Screenshot-1](screenshots/scr-1.jpg)
-> ![Screenshot-2](screenshots/scr-2.jpg)
-> ![Screenshot-3](screenshots/scr-3.jpg)
-> ![Screenshot-4](screenshots/scr-4.jpg)
-> ![Screenshot-5](screenshots/scr-5.jpg)
+## 📸 Screenshots
 
+<p align="center">
+  <img src="screenshots/scr-1.jpg" width="150" />
+  <img src="screenshots/scr-2.jpg" width="150" />
+  <img src="screenshots/scr-3.jpg" width="150" />
+  <img src="screenshots/scr-4.jpg" width="150" />
+  <img src="screenshots/scr-5.jpg" width="150" />
+</p>
 
 ---
 
