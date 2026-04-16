@@ -82,8 +82,6 @@ Text blocks are synchronized across languages using placeholders when needed.
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 <p align="center">
   <img src="screenshots/scr-1.jpg" width="150" />
   <img src="screenshots/scr-2.jpg" width="150" />
