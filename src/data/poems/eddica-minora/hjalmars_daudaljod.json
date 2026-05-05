@@ -1,0 +1,1021 @@
+{
+  "slug": "hjalmars-daudaljod",
+  "key": "HjalmarsDaudaljod",
+  "title": {
+    "on": "Hjálmars Dauðaljóð",
+    "ru": "Предсмертная Песнь Хьяльмара",
+    "en": "The Lay of Hjalmar"
+  },
+  "subtitle": {
+    "on": "Hjálmarskviða",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: H: Andreas Heusler, Wilhelm Ranisch: Eddica minora. Dichtungen eddischer Art aus den Fornaldarsögur und anderen Prosawerken. Dortmund 1903, pp. 52–53, O. Текст на русском языке в переводе:  O: Т. Ермолаев, H: Т. Ермолаев; редакция перевода, перевод вис: Н. Топчий.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "(Ö) Örvar-Oddssaga"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Þá stendr Hjálmarr upp ok þar einnhverr á mót. Varð  skammt viðskipti þeira, áðr hann fellr. Þá ríss upp annarr, inn þriði ok fjórði. Þá ríss upp Angantýr, ok eiga þeir harðan ok langan atgang, en svá lýkr, at Angantýr fellr fyrir Hjálmari. Þá gekk Hjálmarr at þúfu einni ok sezt niðr ok hnígr at upp. Oddr gengr at honum ok kvað vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Oddr:",
+          "Hvat er þér, Hjálmarr?",
+          "Hefir þú lit brugðit.",
+          "Þik kveð ek mæða",
+          "miklar undir.",
+          "Hjálmr er þinn höggvinn,",
+          "en á hlið brynja.",
+          "Nú kveð ek fjörvi",
+          "of farit þínu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Hjálmarr:",
+          "Sár hefi ek sextán,",
+          "slitna brynju,",
+          "svart er mér fyr sjónum,",
+          "sékat ek ganga.",
+          "Hneit mér við hjarta",
+          "hjörr Angantýs,",
+          "hvass blóðrefill",
+          "herðr í eitri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "II «Nú skaltu setjast niðr,» sag­ði Hjál­marr, «ok vil ek kve­ða ljóð nok­kur ok senda he­im til Sví­þjó­ðar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Hann kvað nú þetta:",
+          "Fregna eigi þat",
+          "á fold konur,",
+          "at fyr höggum",
+          "hlífast létak.",
+          "Hlær eigi at því,",
+          "at ek hliða gerðak,",
+          "snót svinnhuguð",
+          "Sigtúnum í."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Hvarf ek frá fögrum",
+          "fljóða söngvi,",
+          "ótrauðr gamans,",
+          "út með Sóta.",
+          "För skundaðak",
+          "ok fórk í lið",
+          "hinzta sinni",
+          "frá hollvinum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Leiddi mik in hvíta",
+          "hilmis dóttir",
+          "á Agnafit",
+          "útanverða.",
+          "Saga mun sannast,",
+          "er hún sagði mér,",
+          "at ek aptr koma",
+          "eigi mundak."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Hvarf ek frá ungri",
+          "Ingibjörgu,",
+          "skjótt réðum þat,",
+          "á skapadægri.",
+          "Sá mun fljóði",
+          "fastnæmr tregi,",
+          "er vit síðan",
+          "séumst aldrigi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Átta ek á foldu",
+          "fimm ból saman,",
+          "en því undak",
+          "aldri ráði.",
+          "Nú verð ek liggja",
+          "lítt megandi,",
+          "sverði undaðr,",
+          "Sámseyju í.",
+          "Drag þú mér af hendi",
+          "hring inn rauða",
+          "færðu inni ungu",
+          "Ingibjörgu;",
+          "sá mun henni",
+          "hugfastr tregi,",
+          "er ek eigi kem",
+          "til Uppsala."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Ber þú til sýnis,",
+          "sá er minn vili,",
+          "hjálm ok brynju",
+          "i höll konungs.",
+          "Hugr mun gangast",
+          "hilmis dóttur,",
+          "er hún höggna sér",
+          "hlíf fyr brjósti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Drag þú mér af hendi",
+          "hring inn rauða",
+          "ok fær inni ungu",
+          "Ingibjörgu.",
+          "Sá mun henni",
+          "hugfastr tregi,",
+          "er vit síðan",
+          "séumst aldrigi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Sé ek, hvar sitja",
+          "Sigtúnum í",
+          "fljóð þau, er löttu",
+          "farar mik þaðan.",
+          "Gleðr eigi Hjálmar",
+          "í höll konungs",
+          "öl né rekkar",
+          "of aldr síðan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "III Nú vil ek ok, at þú berir kveðju mí­na öllum bekkjunautum okkrum, ok mun ek nefna þá á nafn:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Drukku vér ok dæmdum",
+          "dægr margt saman",
+          "Álfr ok Atli,",
+          "Eyvindr, Trani,",
+          "Gizurr, Gláma,",
+          "Guðvarðr, Starri,",
+          "Steinkell, Stikill,",
+          "Stórólfr, Vífill."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Hrafn ok Helgi,",
+          "Hlöðvér, Ígull",
+          "Steinn ok Kári,",
+          "Styrr ok Áli,",
+          "Össurr, Agnarr,",
+          "Ormr ok Trandill,",
+          "Gylfri ok Gauti,",
+          "Gjafarr ok Raknarr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Fjölmundr, Fjalarr,",
+          "Frosti ok Beinir,",
+          "Tindr ok Tyrfingr,",
+          "tveir Haddingjar,",
+          "Valbjörn, Vikarr,",
+          "Vémundr, Flosi,",
+          "Geirbrandr, Goti,",
+          "Guttormr, Snerill."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Styrr ok Ári,",
+          "Steinn ok Kári,",
+          "Vöttr, Véseti,",
+          "Vémundr, Hnefi.",
+          "Vér á einn bekk",
+          "allir sátum",
+          "teitir ok reifir;",
+          "því emk trauðr flugar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Svarfandi, Sigvaldi,",
+          "Sæbjörn ok Kolr,",
+          "Þráinn ok Þjóstólfr,",
+          "Þórólfr ok Svalr,",
+          "Hrappi ok Haddingr,",
+          "Húnfastr, Knúi,",
+          "Óttarr, Egill",
+          "með Ingvari."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "lines": [
+          "IV «Nú vil ek þess biðja þik,» sag­ði Hjálmarr við Odd, «at þú látir mik eigi verða lagðan í ha­ug hjá svá illum vættum sem ber­ser­kir­nir eru, fyrir því at ek þyk­kjumst mik­lu betr at mér en þe­ir. Nú skal­tu draga hringinn af hen­di mér,» sagði Hjálmarr, «ok fæ­ra In­gi­björ­gu, ok seg henni, at ek senda hen­ni hann á deyjanda de­gi»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Nú verðr Hjálmari ljóð á munni:",
+          "Drekkr með jöfri",
+          "jarla mengi",
+          "öl glaðliga",
+          "at Uppsölum.",
+          "Mæðir marga",
+          "mungát fira,",
+          "en mik eggja spor",
+          "í eyju þjá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Hrafn flýgr sunnan",
+          "af hám meiði,",
+          "ok er eptir þar",
+          "örn í sinni.",
+          "Þeim gef ek erni",
+          "efstum bráðir.",
+          "Sá mun á blóði",
+          "bergja mínu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "lines": [
+          "V Ok eptir þat dó Hjálmarr. Oddr dró þá saman berserkina í eina kös ok sveigði þar at utan viðu. Þat var skammt frá sjó. Þar leggr hann hjá þeim vápn þeira ok klæði, rænandi þá engum hlut. Síðan bar hann þá at utan torf ok eyss eptir þat sandi. Síðan tekr hann Hjálmar ok leggr á bak sér, gengr til sjóvar ofan ok lætr hann niðr á ströndinni, en hann gengr út á skipin, berr þá á land hvern mann, er fallit hafði, ok verpr þar annan haug eptir lið sitt, ok er þat sagt af þeim mönnum, er þar hafa komit, at enn sjái þess merki í dag, er Oddr gerði þá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "heading",
+        "lines": [
+          "(H) Hervararsaga"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "prose",
+        "lines": [
+          "I Þá gekk fram Hjörvarðr, ok áttust þeir Oddr við hart váp­na­skipti. En silkiskyrta Od­ds var svá traust, at ekki vápn fes­ti á, en hann hafði sverð svá gott, at svá beit brynju sem klæ­ði. Ok fá högg hafði hann ve­itt Hjör­varði, áðr hann fell da­uðr. Þá gekk til Hervarðr ok fór sö­mu leið, þá Hrani, þá hverr at öð­rum, en Oddr veitti þeim svá har­ða atsókn, at alla felldi hann þá ellefu bræðr. En frá leik þei­ra Hjálmars er þat at segja, at Hjál­marr fekk sextán sár, en An­ga­n­týr fell dauðr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "II Oddr gekk þar til, er Hjál­marr var, ok kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Oddr kvað:",
+          "Hvat er þér, Hjálmarr?",
+          "Hefr þú lit brugðit,",
+          "þik kveð ek mæða",
+          "miklar undir;",
+          "hjálmr er þinn höggvinn,",
+          "en á hlið brynja;",
+          "nú kveð ek fjörvi",
+          "of farit þínu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Hjálmarr kvað:",
+          "Sár hefi ek sextán,",
+          "slitna brynju:",
+          "svart er mér fyrir sjónum,",
+          "sék-a ek ganga;",
+          "hneit mér við hjarta",
+          "hjörr Angantýs,",
+          "hvass blóðrefill",
+          "herðr í eitri.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Áttak á foldu",
+          "fimm tún saman,",
+          "en ek því aldri",
+          "unða ráði;",
+          "nú verð ek liggja",
+          "lífs andvani,",
+          "sverði undaðr,",
+          "í Sámseyju."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Drekka í höllu",
+          "húskarlar mjöð,",
+          "menjum göfgir,",
+          "at míns föður;",
+          "mæðir marga",
+          "mungát fira,",
+          "en mik eggja spor",
+          "í enju þjá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Hvarf ek frá hvítri",
+          "hlaðs beðgunni",
+          "á Agnafit",
+          "útanverðri;",
+          "saga mun sannask,",
+          "sú er hon sagði mér,",
+          "at aftr koma",
+          "eigi mundak."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Hvarf ek frá fögrum",
+          "fljóða söngvi,",
+          "ótrauðr gamans",
+          "austr við Sóta;",
+          "för skundaðak",
+          "ok fórk í lið",
+          "hinzta sinni",
+          "frá hollvinum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Drag þú mér af hendi",
+          "hring inn rauða",
+          "færðu inni ungu",
+          "Ingibjörgu;",
+          "sá mun henni",
+          "hugfastr tregi,",
+          "er ek eigi kem",
+          "til Uppsala."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Hrafn flýgr austan",
+          "af háum meiði,",
+          "flýgr honum eftir",
+          "örn í sinni;",
+          "þeim gef ek erni",
+          "efstum bráðir;",
+          "sá mun á blóði",
+          "bergja mínu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "lines": [
+          "III Eptir þat deyr Hjálmarr. Oddr segir þessi tíðendi heim í Svíþjóð, en konungsdóttir má eigi lifa eptir hann ok ræðr sér sjálf bana."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "(О) Из саги об Одде Стреле"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Затем встал Хьяльмар и против него кто-то вышел. Их схватка была недолгой, прежде чем противник пал. Потом поднялся второй, третий и четвёртый. Тогда встал Ангантюр, и у них состоялось жестокое и долгое сражение, но закончилось всё тем, что Ангантюр погиб от руки Хьяльмара. Тут Хьяльмар подошёл к одной кочке и сел, привалившись к ней. Одд приблизился к нему и произнёс вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Одд:",
+          "Что с тобой, Хьяльмар?",
+          "В лице изменился ты.",
+          "Тебя утомили",
+          "тяжкие раны.",
+          "Шлем твой разрублен,",
+          "кольчуга на рёбрах.",
+          "Ныне скажу —",
+          "Жизнь тебя покидает."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Хьяльмар:",
+          "Шестнадцать раз ранен,",
+          "кольчуга разорвана,",
+          "чёрно пред глазами,",
+          "пути не вижу.",
+          "Ранил мне сердце",
+          "меч Ангантюра,",
+          "острый кончик клинка,",
+          "закалённый в яде."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "II «Теперь ты должен сесть, — сказал Хьяльмар. — Я хочу прочитать одну песнь и передать её домой в Швецию»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Он сказал вот что:",
+          "Не знают такого",
+          "на земле женщины,",
+          "что бы ударов",
+          "я стал избегать.",
+          "Что берёг я бока —",
+          "смеяться не будет",
+          "мудрая духом",
+          "в Сигтуне дева."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Ушёл от прекрасных",
+          "женщины песен,",
+          "веселья жаждавший,",
+          "вдаль вместе с Соти.",
+          "В путь торопился",
+          "и вступил в войско",
+          "в последний раз",
+          "от верных друзей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Провожала меня белая",
+          "дочь правителя",
+          "на Агнафите",
+          "отсюда за окоём.",
+          "Подтвердятся слова,",
+          "ею мне сказанные,",
+          "что я обратно",
+          "уже не вернусь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Покинул я юную",
+          "Ингибьёрг, —",
+          "быстро сладили всё, —",
+          "в день смерти.",
+          "Будет горькое",
+          "деве горе то,",
+          "что отныне мы",
+          "никогда не увидимся."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Владел на земле я",
+          "дворами пятью всего,",
+          "но никогда ими",
+          "мне править не нравилось.",
+          "Должен лежать теперь,",
+          "силы лишённый,",
+          "мечом израненный,",
+          "на острове Самсей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Отнеси в подтверждение —",
+          "моя воля последняя —",
+          "шлем и кольчугу",
+          "в палаты конунга.",
+          "Дрогнет дух",
+          "у дочери князя,",
+          "как нагрудный увидит",
+          "доспех изрубренным."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Сними кольцо",
+          "с руки моей красное",
+          "и отнеси юной",
+          "Ингибьёрг.",
+          "Настигнет её",
+          "неизбывное горе,",
+          "что отныне мы",
+          "никогда не увидимся."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Вижу я, где сидят",
+          "в Сигтуне девы,",
+          "те, что пытались",
+          "там удержать меня.",
+          "Не порадуется Хьяльмар",
+          "в палатах конунга",
+          "ни мужам, ни элю",
+          "отныне навеки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "III Теперь я хочу также, чтобы",
+          "ты передал мой привет всем нашим сотрапезникам, и я назову их по именам:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Пили мы и судачили",
+          "сообща много дней:",
+          "Альв и Атли,",
+          "Эйвинд, Трани,",
+          "Гицур, Глама,",
+          "Гудвард, Старри,",
+          "Стейнкель, Стикиль,",
+          "Сторольв, Вивиль."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Хравн и Хельги,",
+          "Хлёдвер, Игуль,",
+          "Стейн и Кари,",
+          "Стюр и Али,",
+          "Эцур, Агнар,",
+          "Орм и Трандиль,",
+          "Гюльври и Гаути,",
+          "Гьявар и Ракнар."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Фьёльмунд, Фьялар,",
+          "Фрости и Бейнир,",
+          "Тинд и Тюрвинг,",
+          "два товарища-Хаддинга,",
+          "Вальбьёрн, Викар,",
+          "Вемунд, Флоси,",
+          "Гейрбранд, Готи,",
+          "Гутторм, Снериль."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Стюр и Ари,",
+          "Стейн и Кари,",
+          "Вётт, Весети,",
+          "Вемунд, Хневи.",
+          "Мы все сидели",
+          "на одной скамье",
+          "хмельные, весёлые;",
+          "не хочу уходить я."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Сварфанди, Сигвальди,",
+          "Сэбьёрн и Коль,",
+          "Траин и Тьостольв,",
+          "Торольв и Сваль,",
+          "Храппи и Хаддинг,",
+          "Хунфаст, Кнуи,",
+          "Оттар, Эгиль",
+          "вместе с Ингваром."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "lines": [
+          "IV «Теперь я хочу попросить те­бя,  — сказал Хьяльмар Одду,  — чтобы ты не клал меня в кургане рядом со столь мерзкими существами, как эти берсерки, ибо мне кажется, что я гораздо лучше, чем они. Сними у меня с руки кольцо и отнеси Ингибьёрг, и скажи ей, что я послал ей его в день смерти»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Тут у Хьяльмара вырвался стих:",
+          "Пьёт с конунгом",
+          "круг его ярлов",
+          "радостно эль",
+          "в Уппсале.",
+          "Пиво мужей",
+          "утомляет многих,",
+          "меня ж лезвий следы",
+          "на острове мучают."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Ворон летит с юга",
+          "с высокого древа,",
+          "спешит за ним",
+          "орёл следом.",
+          "им я с горним",
+          "орлом дам пищу,",
+          "отведают крови",
+          "они моей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "lines": [
+          "V После этого Хьяльмар умер. Тог­да Одд стащил берсерков в одну кучу и согнул над ней деревья снаружи. Это было недалеко от моря. Рядом с ними он положил их оружие и одежду, ничего не похитив. Затем он прикрыл это дёрном и после этого засыпал песком. Потом он взял Хьяльмара, положил себе на спину, спустился к морю и положил его на берегу. Поднявшись на корабли, он снёс на сушу каждого, кто погиб, и насыпал там второй курган для своих людей, и те, кто побывал там, говорят, что тот знак, который сделал тогда Одд, виден и по сей день."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "heading",
+        "lines": [
+          "(Х) Из саги о Хервёр и Хейдреке"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "prose",
+        "lines": [
+          "I Тогда вперёд вышел Хьёрвард, и они с Оддом начали жес­токо биться. А шёлковая рубашка Одда была таеая прочная, что её не брало оружие, и у него был такой добрый меч, что разрезал доспехи как сукно. Он нанёс Хьёрварду несколько ударов, прежде чем тот пал мёртвым. Тогда вышел Хервард и с ним произошло то же самое, потом Храни, затем остальные один за другим, но Одд нападал на них столь мужественно, что уложил всех одиннадцать братьев. А о схватке Хьяльмара рассказывают, что Хьяльмар получил шестнадцать ран, Ангантюр же пал мёртвым."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "II Одд пришёл туда, где был Хья­kьмар, и сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Одд сказал:",
+          "Что с тобой, Хьяльмар?",
+          "В лице изменился ты.",
+          "Тебя утомили",
+          "многие раны;",
+          "шлем твой изрублен,",
+          "кольчуга на рёбрах,",
+          "нынче скажу — жизнь",
+          "тебя покидает."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "[Хьяльмар сказал:]",
+          "Шестнадцать раз ранен,",
+          "кольчуга разорвана,",
+          "чёрно пред глазами,",
+          "пути не вижу;",
+          "ранил мне сердце",
+          "клинок Ангантюра,",
+          "острый кончик меча,",
+          "закалённый в яде."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Имел я всего",
+          "пять дворов вместе,",
+          "но тем никогда",
+          "не был доволен;",
+          "лёг я теперь",
+          "жизни лишённый,",
+          "мечом израненный,",
+          "на острове Самсей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Пьют в чертоге",
+          "работники мёд",
+          "в ожерельях прекрасных",
+          "у отца моего;",
+          "многих людей",
+          "утомляет пиво,",
+          "меня ж лезвий следы",
+          "на острове мучают."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Иду я с белого",
+          "поля битвы",
+          "на Агнафите",
+          "отсюда вовне;",
+          "подтвердится рассказ,",
+          "ею поведанный,",
+          "о том, что назад",
+          "я не вернусь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Сними с руки моей",
+          "кольцо красное,",
+          "отнеси юной",
+          "Ингибьёрг;",
+          "будет ей",
+          "неизбывное горе,",
+          "что не приду",
+          "в Уппсалу я."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Покидаю прекрасную",
+          "женщин песню",
+          "желающий радости",
+          "на восток с Соти; 2",
+          "в путь тороплюсь я,",
+          "иду я в войско",
+          "в последний раз",
+          "от верных друзей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Ворон летит с востока",
+          "с высокого древа,",
+          "летит за ним",
+          "орёл следом;",
+          "с орлом горним",
+          "им дам я пищу,",
+          "отведает тот",
+          "крови моей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "lines": [
+          "III После этого Хьяльмар умер. Одд поведал эти вести дома в Швеции, а дочь конунга не смогла жить без него и покончила с собой."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

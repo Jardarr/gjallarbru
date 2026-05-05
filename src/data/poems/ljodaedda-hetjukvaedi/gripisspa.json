@@ -1,0 +1,2753 @@
+{
+  "slug": "gripisspa",
+  "key": "Gripisspa",
+  "title": {
+    "on": "Grípisspá",
+    "ru": "Пророчество Грипира",
+    "en": "The Prophecy of Grípir"
+  },
+  "subtitle": {
+    "on": "Sigurðarkviða Fáfnisbana I",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Haraldur Bernharðsson. Текст на русском языке в переводе А. И. Корсуна, СЭ–1963, с. 93–99.",
+    "en": "An ancient Icelandic text, edited by Haraldur Bernharðsson. Translation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Grípir hét sonr Eylima, bróðir Hjördísar. Hann réð löndum ok var allra manna vitrastr ok framvíss. Sigurðr reið einn saman ok kom til hallar Grípis. Sigurðr var auðkenndr. Hann hitti mann að máli úti fyr höllinni; sá nefndiz Geitir. Þá kvaddi Sigurðr hann máls ok spyrr:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«Hverr byggir hér",
+          "borgir þessar?",
+          "Hvað þann þjóðkonung",
+          "þegnar nefna?»",
+          "[Geitir kvað:]",
+          "«Grípir heitir",
+          "gumna stjóri,",
+          "sá er fastri ræðr",
+          "foldu ok þegnum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Er horskr konungr",
+          "heima í landi?",
+          "Mun sá gramr við mik",
+          "ganga að mæla?",
+          "Máls er þarfi",
+          "maðr ókunnigr,",
+          "vil ek fljótliga",
+          "finna Grípi.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Geitir kvað:]",
+          "«Þess mun glaðr konungr",
+          "Geiti spyrja",
+          "hverr sá maðr sé",
+          "er máls kveðr Grípi.»",
+          "[Sigurðr kvað:]",
+          "«Sigurðr ek heiti,",
+          "borinn Sigmundi",
+          "en Hjördís er",
+          "hilmis móðir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Þá gekk Geitir",
+          "Grípi að segja:",
+          "«Hér er maðr úti",
+          "ókuðr kominn;",
+          "hann er ítarligr",
+          "að áliti;",
+          "sá vill, fylkir,",
+          "fund þinn hafa.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Gengr ór skála",
+          "skatna dróttinn",
+          "ok heilsar vel",
+          "hilmi komnum:",
+          "«Þigg þú hér, Sigurðr,",
+          "væri sæmra fyrr!",
+          "En þú, Geitir, tak",
+          "við Grana sjálfum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Mæla námu",
+          "ok margt hjala",
+          "þá er ráðspakir",
+          "rekkar funduz.",
+          "[Sigurðr kvað:]",
+          "«Seg ðu mér ef þú veizt,",
+          "móðurbróðir,",
+          "hvé mun Sigurði",
+          "snúna ævi?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Þú munt maðr vera",
+          "mæztr und sólu",
+          "ok hæstr borinn",
+          "hverjum jöfri,",
+          "gjöfull af gulli",
+          "en glöggr flugar,",
+          "ítr áliti",
+          "ok í orðum spakr.» ‖"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Seg ðu, gegn konungr,",
+          "gerr en ek spyrja,",
+          "snotr, Sigurði,",
+          "ef þú sjá þikkiz:",
+          "Hvað mun fyrst gjöraz",
+          "til farnaðar",
+          "þá er ór garði em k",
+          "genginn þínum?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Fyrst munt u, fylkir,",
+          "föður um hefna",
+          "ok Eylima",
+          "allz harms reka;",
+          "þú munt harða",
+          "Hundings sonu",
+          "snjalla fella;",
+          "mund u sigr hafa.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Seg þú, ítr konungr,",
+          "ættingi, mér",
+          "heldr horskliga",
+          "er við hugað mælum:",
+          "Sér þú Sigurðar",
+          "snör brögð fyr,",
+          "þau er hæst fara",
+          "und himinskautum?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Mund u einn vega",
+          "orm inn frána,",
+          "þann er gráðugr liggr",
+          "á Gnitaheiði;",
+          "þú munt báðum",
+          "að bana verða,",
+          "Regin ok Fáfni;",
+          "rétt segir Grípir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Auðr mun ærinn",
+          "ef ek efli k svá",
+          "víg með virðum",
+          "sem þú víst segir;",
+          "leið að huga",
+          "ok lengi seg:",
+          "Hvað mun enn vera",
+          "ævi minnar?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Þú munt finna",
+          "Fáfnis bæli",
+          "ok upp taka",
+          "auð inn fagra,",
+          "gulli hlæða",
+          "á Grana bógu;",
+          "ríðr þú til Gjúka,",
+          "gramr vígrisinn.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Enn skalt u hilmi",
+          "í hugaðsræðu,",
+          "framlyndr jöfurr,",
+          "fleira segja;",
+          "gestr em ek Gjúka",
+          "ok ek geng þaðan;",
+          "hvað mun enn vera",
+          "ævi minnar?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Sefr á fjalli",
+          "fylkis dóttir",
+          "björt í brynju",
+          "eftir bana Helga;",
+          "þú munt höggva",
+          "hvössu sverði,",
+          "brynju rísta",
+          "með bana Fáfnis.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Brotin er brynja,",
+          "brúðr mæla tekr,",
+          "er vaknaði",
+          "víf ór svefni;",
+          "hvað mun snót að heldr",
+          "við Sigurð mæla",
+          "það er að farnaði",
+          "fylki verði?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Hon mun ríkjum þér",
+          "rúnar kenna",
+          "allar þær er aldir",
+          "eignaz vildu",
+          "ok á mannz tungu",
+          "mæla hverja.",
+          "Lif með lækning!",
+          "Lif þú heill, konungr!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Þá er því lokið,",
+          "numin eru fræði",
+          "ok em braut þaðan",
+          "búinn að ríða;",
+          "leið að huga",
+          "ok lengra seg:",
+          "Hvað mun meirr vera",
+          "minnar ævi?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Þú munt hitta",
+          "Heimis byggðir",
+          "ok glaðr vera",
+          "gestr þjóðkonungs;",
+          "farið er, Sigurðr,",
+          "það s ek fyr vissa k;",
+          "skal a fremr enn svá",
+          "fregna Grípi!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Nú fær mér ekka",
+          "orð það s tu mæltir",
+          "því að þú fram um sér,",
+          "fylkir, lengra",
+          "veizt u of mikið",
+          "angr Sigurði;",
+          "því þú, Grípir, það",
+          "gerr a segja.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Lá mér um æsku",
+          "ævi þinnar",
+          "ljósast fyr",
+          "líta eftir;",
+          "rétt em k a ek",
+          "ráðspakr taliðr",
+          "né in heldr framvíss",
+          "farið það s ek vissa-k.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Mann veit ek engi",
+          "fyr mold ofan",
+          "þann er fleira sé",
+          "fram en þú, Grípir,",
+          "skal at u leyna",
+          "þótt ljótt sér",
+          "eða mein gjöriz",
+          "á mínum hag.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Er a með löstum",
+          "lögð ævi þér;",
+          "lát tu, inn ítri, það,",
+          "öðlingr, nemaz",
+          "því að uppi mun",
+          "meðan öld lifir,",
+          "nadd‖éls boði,",
+          "nafn þitt vera.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Verst hyggjum því,",
+          "verðr að skiljaz",
+          "Sigurðr við fylki",
+          "að sógöru;",
+          "leið vísa þú,",
+          "lagt er allt fyr,",
+          "mærr, mér ef þú vilt,",
+          "móðurbróðir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Nú skal Sigurði",
+          "segja gerva",
+          "allz þengill mik",
+          "til þess neyðir;",
+          "mund u víst vita",
+          "að vættki lýgr,",
+          "dægr eitt er þér",
+          "dauði ætlaðr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Vil-k at ek reiði",
+          "ríks þjóðkonungs,",
+          "góðráðs, að heldr,",
+          "Grípis, þiggja;",
+          "nú vill víst vita",
+          "þótt vilkit sé",
+          "hvað á sýnt Sigurðr",
+          "sér fyr höndum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Fljóð er að Heimis,",
+          "fagrt álitum,",
+          "hana Brynhildi",
+          "bragnar nefna,",
+          "dóttir Buðla,",
+          "en dýrr konungr",
+          "harðugðigt man",
+          "Heimir fæðir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Hvað er mik að því",
+          "þótt mær sé,",
+          "fögr áliti,",
+          "fædd að Heimis?",
+          "Það skalt u, Grípir,",
+          "görva segja",
+          "því að þú öll um sér",
+          "örlög fyr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Hon firrir þik",
+          "flestu gamni,",
+          "fögr áliti,",
+          "fóstra Heimis;",
+          "svefn þú né sefr",
+          "né um sakar dæmir",
+          "gár a þú manna",
+          "nema þú mey sér.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Hvað mun til líkna",
+          "lagt Sigurði?",
+          "Seg ðu, Grípir, það",
+          "ef þú sjá þikkiz;",
+          "mun ek mey ná",
+          "mundi kaupa,",
+          "þá ina fögru",
+          "fylkis dóttur?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Ið munuð alla",
+          "eiða vinna",
+          "fullfastliga;",
+          "fá munuð halda;",
+          "verið hefir þú Gjúka",
+          "gestr eina nótt",
+          "mant at tu horska",
+          "Heimis fóstru.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Hvárt er þá, Grípir,",
+          "get þú þess fyr mér!",
+          "Sér þú geðleysi",
+          "í grams skapi",
+          "er ek skal við mey þá",
+          "málum slíta",
+          "er ek allz hugar",
+          "unna þóttumk?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Þú verðr, siklingr,",
+          "fyr svikum annars,",
+          "mund u Grímhildar",
+          "gjalda ráða,",
+          "mun bjóða þér",
+          "bjarthaddað man,",
+          "dóttur sína,",
+          "dregr hon vél að gram.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Mun ek við þá Gunnar",
+          "gjörva hleyti",
+          "ok Guðrúnu",
+          "ganga að eiga?",
+          "Fullkvæni þá",
+          "fylkir væri",
+          "ef meintregar",
+          "mér angraði-t.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Þik mun Grímhildr",
+          "görva véla,",
+          "mun hon Brynhildar",
+          "biðja fýsa",
+          "Gunnari til handa,",
+          "Gotna dróttni;",
+          "heitr þú fljótliga för",
+          "fylkis móður.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Mein eru fyr höndum,",
+          "má ek líta það,",
+          "ratar görliga",
+          "ráð Sigurðar",
+          "ef ek skal mærrar",
+          "meyjar biðja",
+          "öðrum til handa,",
+          "þeirar ek unna vel.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Ér munuð allir",
+          "eiða vinna,",
+          "Gunnarr ok Högni,",
+          "en þú, gramr, þriði,",
+          "því að litum víxla",
+          "er á leið eruð,",
+          "Gunnarr ok þú;",
+          "Grípir lýgr eigi!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Hví gegnir það?",
+          "Hví skulum skipta",
+          "litum ok látum",
+          "er á leið erum?",
+          "Þar mun fláræði",
+          "fylgja annað,",
+          "atalt með öllu;",
+          "enn seg þú, Grípir!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Lit hefir þú Gunnars",
+          "ok læti hans,",
+          "mælsku þína",
+          "ok meginhyggjur;",
+          "mund u fastna þér ‖",
+          "framlundaða",
+          "fóstru Heimis;",
+          "sér vætr fyr því.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Verst hyggjum því,",
+          "vándr mun k heitinn,",
+          "Sigurðr, með seggjum",
+          "að sógöru;",
+          "vilda ek eigi",
+          "vélum beita",
+          "jöfra brúði",
+          "er ek æðsta veit-k.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Þú munt hvíla,",
+          "hers oddviti,",
+          "mærr hjá meyju",
+          "sem þín móðir sé;",
+          "því mun uppi",
+          "meðan öld lifir,",
+          "þjóðar þengill,",
+          "þitt nafn vera."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Saman munu brullaup",
+          "bæði drukkin",
+          "Sigurðar ok Gunnars",
+          "í sölum Gjúka;",
+          "þá hömum víxlið",
+          "er ið heim komið;",
+          "hefir hverr fyr því",
+          "hyggju sína.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Mun góða kván",
+          "Gunnarr eiga",
+          "mærr með mönnum,",
+          "mér seg ðu, Grípir,",
+          "þó að hafi þrjár nætr",
+          "þegns brúðr hjá mér",
+          "snarlynd sofið?",
+          "Slíks eru t dæmi!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Hvé mun að ynði",
+          "eftir verða",
+          "mægð með mönnum?",
+          "Mér seg ðu, Grípir,",
+          "mun Gunnari",
+          "til gamans ráðið",
+          "síðan verða",
+          "eða sjálfum mér?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Minnir þik eiða",
+          "mátt u þegja þó,",
+          "annt u Guðrúnu",
+          "góðra ráða",
+          "en Brynhildr þikkiz,",
+          "brúðr, vargefin,",
+          "snót fiðr vélar",
+          "sér að hefndum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Hvað mun að bótum",
+          "brúðr sú taka",
+          "er vélar vér",
+          "vífi gerðum?",
+          "Hefir snót af mér",
+          "svarna eiða,",
+          "enga efnda,",
+          "en unað lítið.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Mun hon Gunnari",
+          "görva segja",
+          "að þú eigi vel",
+          "eiðum þyrmir",
+          "þá er ítr konungr",
+          "af öllum hug,",
+          "Gjúka arfi,",
+          "á gram trúði.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Hvað er þá, Grípir?",
+          "Get þú þess fyr mér!",
+          "Mun ek saðr vera",
+          "að sögu þeiri?",
+          "Eða lýgr á mik",
+          "lofsæl kona",
+          "ok á sjálfa sik?",
+          "Seg ðu, Grípir, það!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Mun fyr reiði",
+          "rík brúðr við þik",
+          "né af oftrega",
+          "allvel skipa;",
+          "viðr þú góðri",
+          "grand aldregi",
+          "þó ér víf konungs",
+          "vélum beittuð.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Mun horskr Gunnarr",
+          "að hvötun hennar,",
+          "Guðþormr ok Högni,",
+          "ganga síðan?",
+          "Munu synir Gjúka",
+          "af sifjugum mér",
+          "eggjar rjóða?",
+          "Enn seg ðu, Grípir!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "[Grípir kvað:]",
+          "«Þá er Guðrúnu",
+          "grimmt um hjarta,",
+          "bræðr hennar",
+          "þér til bana ráða",
+          "ok að öngu verðr",
+          "ynði síðan",
+          "vitru vífi;",
+          "veldr því Grímhildr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Því skal hugga þik,",
+          "hers oddviti,",
+          "sú mun gift lagið",
+          "á grams ævi;",
+          "mun at mætri maðr",
+          "á mold koma",
+          "und sólar sjöt",
+          "en þú, Sigurðr, þikkir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Skiljumk heilir!",
+          "Mun at sköpum vinna!",
+          "Nú hefir þú, Grípir, vel",
+          "gört sem ek beidda k;",
+          "fljótt myndir þú",
+          "fríðri segja",
+          "mína ævi",
+          "ef þú mættir það!»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Грипиром звался сын Эйлими, брат Хьёрдис. Он правил землями и был мудрейшим из всех людей и знал будущее. Сигурд ехал один и приехал в палаты Грипира. Сигурда было легко узнать. Он встретил какого-то человека и обратился к нему снаружи перед домом. Тот назвался Гейтиром. Сигурд вступил с ним в разговор и спросил:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«Кто здесь живет",
+          "в этих палатах?",
+          "Как люди зовут",
+          "конунга славного?»",
+          "[Гейтир сказал:]",
+          "«Грипир зовется",
+          "людей повелитель,",
+          "народом он правит",
+          "и твердой землей»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Мудрого конунга",
+          "можно ль увидеть?",
+          "Будет ли он",
+          "со мной беседовать?",
+          "Многое надо мне",
+          "молвить владыке,",
+          "хочу поскорей",
+          "встретиться с Грипиром»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Гейтир сказал:]",
+          "«Конунг счастливый",
+          "Гейтира спросит,",
+          "кто этот герой,",
+          "Грипира ищущий».",
+          "[Сигурд сказал:]",
+          "«Сигурд зовусь я,",
+          "Сигмунда сын,",
+          "Хьёрдис имя",
+          "матери воина»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Гейтир пошел",
+          "Грипиру молвить:",
+          "«Там человек",
+          "прибыл неведомый;",
+          "обликом он",
+          "великолепен;",
+          "хочет, конунг,",
+          "с тобой говорить»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Покинул владыка",
+          "мудрый палаты,",
+          "приветливо встретил",
+          "князя прибывшего:",
+          "«Добро пожаловать,",
+          "Сигурд, я ждал тебя!",
+          "Гейтир, прими",
+          "Грани, коня!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Стали тогда",
+          "о многом беседовать",
+          "герои великие",
+          "в эту встречу.",
+          "[Сигурд сказал:]",
+          "«Молви, коль знаешь,",
+          "матери брат:",
+          "что суждено",
+          "Сигурду в жизни?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Будешь велик,",
+          "как никто под солнцем,",
+          "станешь превыше",
+          "конунгов прочих,",
+          "щедр на золото,",
+          "скуп на бегство,",
+          "обличьем прекрасен",
+          "и мудр в речах»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Скажи, благосклонный",
+          "конунг, Сигурду,",
+          "мудрый, ответь,",
+          "если ты знаешь:",
+          "какая удача",
+          "меня ожидает,",
+          "когда со двора",
+          "твоего уеду?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Сначала отмстишь",
+          "ты, князь, за отца,",
+          "за горький конец",
+          "конунга Эйлими;",
+          "сыновей ты сразишь",
+          "конунга Хундинга;",
+          "будет твоею",
+          "в битве победа»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Скажи мне еще,",
+          "родич мой, конунг,",
+          "правду открой",
+          "в мудрой беседе:",
+          "видишь ли Сигурда",
+          "смелые подвиги,",
+          "каких на земле",
+          "еще не свершали?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Один ты убьешь",
+          "свирепого змея,",
+          "на Гнитахейд он",
+          "лежит, ненасытный;",
+          "Регина с Фавниром",
+          "ты победишь;",
+          "правду Грипир",
+          "тебе предвещает»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Великое счастье,",
+          "если свершу я",
+          "подвиг такой,",
+          "как ты поведал;",
+          "подумай, конунг,",
+          "и дальше открой мне,",
+          "что еще в жизни",
+          "сделать я должен»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Фавнира логово",
+          "ты отыщешь,",
+          "сокровище в нем",
+          "большое добудешь,",
+          "золота грузом",
+          "Грани навьючишь,",
+          "к Гьюки отправишься,",
+          "конунг воинственный»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Должен еще ты",
+          "в мудрой беседе,",
+          "конунг смелый,",
+          "вот что поведать:",
+          "гощу я у Гьюки,",
+          "его покидаю, —",
+          "что еще будет",
+          "в жизни моей?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Спит на горе",
+          "конунга дочь,",
+          "в доспехах она",
+          "по смерти Хельги;",
+          "будешь рубить",
+          "острым клинком,",
+          "броню рассечешь",
+          "убийцей Фавнира»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Броню рассеку я,",
+          "вымолвит слово",
+          "юная дева,",
+          "от сна пробуждаясь;",
+          "что же скажет",
+          "Сигурду дева?",
+          "Счастье какое",
+          "ему предречет?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Научит тебя",
+          "рунам мудрым, —",
+          "усердно их люди",
+          "узнать стремятся, —",
+          "чужим языкам",
+          "и травам целебным;",
+          "благословен",
+          "да будешь ты, конунг!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Понял тебя,",
+          "мудрость постиг я,",
+          "прочь оттуда",
+          "уехать собрался;",
+          "подумай, конунг,",
+          "и дальше открой мне,",
+          "что еще в жизни",
+          "сделать я должен»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Ты посетишь",
+          "Хеймира дом,",
+          "радостным будешь",
+          "гостем у конунга;",
+          "кончил я, Сигурд,",
+          "сказал все, что знаю;",
+          "полно тебе",
+          "спрашивать Грипира!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Слово твое",
+          "скорбно мне слышать, —",
+          "ты в грядущее",
+          "зорко глядишь;",
+          "о горе великом",
+          "Сигурда ведаешь;",
+          "Грипир, о нем",
+          "все расскажи!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Встала вся юность",
+          "твоя предо мной,",
+          "ясно твой жребий,",
+          "я видел доныне;",
+          "напрасно слыву",
+          "мудрым провидцем, —",
+          "дальше не вижу",
+          "жизни твоей!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Я на земле",
+          "никого не знаю,",
+          "кто видит грядущее",
+          "Грипира зорче;",
+          "открой мне его,",
+          "пусть оно мерзко",
+          "иль в преступленье",
+          "я буду повинен!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Нет, в жизни твоей",
+          "не будет позора, —",
+          "знай это, Сигурд,",
+          "конунг достойный;",
+          "навеки прославится",
+          "между людьми,",
+          "бурю копий зовущий,",
+          "имя твое!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Хуже всего,",
+          "кажется мне,",
+          "Сигурду с князем",
+          "на этом расстаться;",
+          "путь покажи,",
+          "все поведай,",
+          "конунг могучий,",
+          "матери брат!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Будет Сигурду",
+          "сказана правда,",
+          "если меня он",
+          "к тому принуждает,",
+          "нелживое слово",
+          "мое послушай,",
+          "скажу я о дне",
+          "смерти твоей»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Гнев твой навлечь",
+          "не хотел бы, Грипир,",
+          "конунг достойный,",
+          "советы дающий;",
+          "правду хочу",
+          "узнать, хоть печальную:",
+          "какая у Сигурда",
+          "будет судьба?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Есть дева у Хеймира,",
+          "ликом прекрасная,",
+          "Брюнхильд ее",
+          "люди зовут,",
+          "ей Будли отец,",
+          "но отважную деву",
+          "конунг смелый",
+          "пестует Хеймир»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Что до того мне,",
+          "что деву светлую,",
+          "ликом прекрасную,",
+          "пестует Хеймир?",
+          "Должен ты правду,",
+          "Грипир, поведать,",
+          "ибо мой жребий",
+          "ясен тебе»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Лишит тебя счастья",
+          "ликом прекрасная",
+          "светлая дева,",
+          "что пестует Хеймир;",
+          "забросишь труды,",
+          "забудешь людей,",
+          "сна лишишься,",
+          "с ней не встречаясь»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Как суждено",
+          "утешиться Сигурду?",
+          "Молви, Грипир,",
+          "если ты можешь:",
+          "возьму ли в жены,",
+          "вено отдам ли",
+          "за светлую деву,",
+          "конунга дочь?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Все вы клятвы",
+          "дадите крепкие,",
+          "только из них",
+          "немногие сдержите;",
+          "едва у Гьюки",
+          "ночь прогостишь,",
+          "сразу забудешь",
+          "светлую деву»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Что же тогда",
+          "сбудется, Грипир?",
+          "Буду ли я",
+          "душою нетверд?",
+          "Покину ли я",
+          "прекрасную деву,",
+          "которую, мнилось,",
+          "крепко любил?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Будешь, князь,",
+          "коварно обманут,",
+          "горе узнаешь",
+          "от козней Гримхильд:",
+          "дочь ее, дева",
+          "светловолосая,",
+          "будет тебе",
+          "в жены предложена»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Гуннара я",
+          "родичем стану,",
+          "деву Гудрун",
+          "в жены возьму?",
+          "Доброй женой",
+          "князю была бы,",
+          "когда б не жалел он",
+          "о том, что сделал»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Гримхильд коварно",
+          "козни придумает;",
+          "будет просить",
+          "к Брюнхильд посвататься",
+          "ради Гуннара,",
+          "готов вождя;",
+          "дашь ты согласье",
+          "матери конунга»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Вижу теперь —",
+          "нависла беда,",
+          "горе сулит",
+          "Сигурду жребий,",
+          "если я стану",
+          "свататься к деве,",
+          "мне дорогой,",
+          "ради другого»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Все вы друг другу",
+          "клятвы дадите, —",
+          "Гуннар и Хёгни",
+          "и третьим ты, Сигурд;",
+          "в путь отъезжая,",
+          "обличьем сменяется",
+          "Гуннар с тобой;",
+          "Грипир не лжет!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Что это значит?",
+          "Как поменяемся",
+          "с князем обличьем,",
+          "в путь отъезжая?",
+          "Множатся козни,",
+          "не перечесть их,",
+          "коварных и страшных;",
+          "Грипир, скажи мне!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«На Гуннара ты",
+          "станешь похожим,",
+          "но сохранишь",
+          "красноречье и мудрость;",
+          "ты обручишься",
+          "с девой Хеймира;",
+          "не отвратить",
+          "этой судьбы»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Сигурда люди",
+          "осудят за это,",
+          "горестный жребий",
+          "ему угрожает;",
+          "я не хотел бы",
+          "хитрить коварно",
+          "с достойной девой,",
+          "лучшей из дев»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Ты будешь покоиться,",
+          "князь благородный,",
+          "с девою рядом,",
+          "как сын возле матери;",
+          "будет за это",
+          "хвалимо навеки,",
+          "вождь народа,",
+          "имя твое."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "«Обе свадьбы",
+          "(43) вместе сыграют",
+          "Сигурд и Гуннар",
+          "в палатах Гьюки;",
+          "домой возвратясь,",
+          "обличьем обменитесь,",
+          "но каждый душу",
+          "свою сохранит»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«За Гуннара дева",
+          "(42) достойная выйдет,",
+          "славная в мире,",
+          "молвишь ты, Грипир,",
+          "хоть и пробудет",
+          "три ночи подряд",
+          "со мною на ложе?",
+          "Как мне поверить!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "К счастью ли будут",
+          "эти женитьбы",
+          "обоим мужьям?",
+          "Молви мне, Грипир!",
+          "Будет ли Гуннару",
+          "жребием радость,",
+          "будет ли радость",
+          "уделом моим?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Клятвы ты вспомнишь,",
+          "но будешь безмолвен,",
+          "с Гудрун станешь",
+          "счастливо жить;",
+          "а Брюнхильд замужество",
+          "горьким покажется,",
+          "она за обман",
+          "искать будет мести»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Какой же выкуп",
+          "дева возьмет",
+          "за то, что мы деву",
+          "так обманули?",
+          "Деве светлой",
+          "клятвы давал я,",
+          "их не исполнил,",
+          "и дева разгневана»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Гуннару скажет,",
+          "что не сдержал",
+          "клятв своих,",
+          "ему принесенных,",
+          "когда благородный",
+          "конунг Гуннар,",
+          "Гьюки наследник,",
+          "Сигурду верил»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Что тогда, Грипир,",
+          "молви скорее!",
+          "Правым ли будет",
+          "ее обвиненье?",
+          "Иль клеветою",
+          "на нас обоих",
+          "будут слова ее?",
+          "Грипир, скажи мне!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Разгневана будет",
+          "жена благородная,",
+          "от горя жестоко",
+          "с тобой обойдется;",
+          "не причинил ты",
+          "вреда достойной,",
+          "но вы обманули",
+          "княжью жену»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Поверит ли Гуннар",
+          "гневным наветам",
+          "и Гутторм с Хёгни —",
+          "злым оговорам?",
+          "Обагрят ли клинки",
+          "Гьюки сыны",
+          "кровью их зятя?",
+          "Скажи мне, Грипир!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "[Грипир сказал:]",
+          "«Горе на сердце",
+          "ляжет Гудрун, —",
+          "братья твоими",
+          "убийцами будут,",
+          "радость покинет",
+          "мудрую женщину;",
+          "Гримхильд одна",
+          "в горе повинна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "В том утешенье,",
+          "князь, найдешь ты,",
+          "что счастья тебе",
+          "суждено немало:",
+          "здесь на земле,",
+          "под солнца жилищем,",
+          "не будет героя,",
+          "Сигурду равного!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Простимся счастливо!",
+          "С судьбой не поспорить!",
+          "Ты, Грипир, по-доброму",
+          "просьбу исполнил;",
+          "предрек бы ты больше",
+          "удачи и счастья",
+          "в жизни моей,",
+          "если бы мог!»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "Sigmundr son of Völsung was king in Frankland. Sinfjötli was his eldest son, the second Helgi, and the third Hámundr. Borghildr, Sigmund's queen, had a brother, who was called . . . . But Sinfjötli, her stepson, and . . . both sought the hand of the same woman, and therefore he sought the death of Sinfjötli.",
+          "But when he came home, Borghildr told him to go away, but Sigmundr offered him wergild, and she was going to receive it. But at the funeral feast, Borghildr bore the ale. She took a great deal of poison, a horn full, and presented it to Sinfjötli.",
+          "But when he looked into the horn, he discerned that it was poison in it, and said to Sigmundr, \"Ouch, the drink is poisoned.\"",
+          "Sigmundr took the horn and drained it. They say that Sigmund was so tough that no poison could harm him inside or outside, and all his sons could withstand poison outside, on their flesh.",
+          "Borghildr brought a second horn to Sinfjötli and told him to drink, and everything happened as before. And then the third time she brought him the horn, plus scolding words if he did not drink it up. But he spoke to Sigmund as before.",
+          "He said, \"Let your beard sift it, son.\"",
+          "Sinfjötli drank, and died of it. Sigmundr carried him in his arms a long way and came to a long, narrow fjord, and there was a small ship and one man in it. He told Sigmundr to cross the fjord. But when Sigmundr carried the body out onto the ship, then the vessel was full. The fellow said that Sigmund should go inside the fjord. The fellow quickly took the ship out and away.",
+          "King Sigmundr stayed for a long time in Denmark, in Borghild's kingdom, after he married her. Then Sigmundr traveled south into Frankland to the kingdom he had there. Then he married Hjördís, daughter of King Eylimi. Their son was Sigurðr.",
+          "King Sigmund fell in battle with the sons of Hunding, and then Hjördís married Álfr, son of King Hjálprek. Sigurðr spent his childhood there. Sigmundr and all his sons were far above all other men in strength, stature, intelligence, and all accomplishments. However, Sigurðr was the greatest of all, and in the old tales all men call him the greatest of all men and the noblest of kings.",
+          "Gripir was the name of Eylimi's son, the brother of Hjordis; he ruled over lands and was of all men the wisest and most forward-seeing. Sigurth once was riding alone and came to Gripir's hall. Sigurth was easy to recognize; he found out in front of the hall a man whose name was Geitir. Then Sigurth questioned him and asked:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Who is it has",
+          "this dwelling here,",
+          "Or what do men call",
+          "the people's king?\"",
+          "",
+          "Geitir spake:",
+          "\"Gripir the name",
+          "of the chieftain good",
+          "Who holds the folk",
+          "and the firm-ruled land.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Is the king all-knowing",
+          "now within,",
+          "Will the monarch come",
+          "with me to speak?",
+          "A man unknown",
+          "his counsel needs,",
+          "And Gripir fain",
+          "I soon would find.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Geitir spake:",
+          "\"The ruler glad",
+          "of Geitir will ask",
+          "Who seeks with Gripir",
+          "speech to have.\"",
+          "Sigurth spake:",
+          "\"Sigurth am I,",
+          "and Sigmund's son,",
+          "And Hjordis the name",
+          "of the hero's mother.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Then Geitir went",
+          "and to Gripir spake:",
+          "\"A stranger comes",
+          "and stands without;",
+          "Lofty he is",
+          "to look upon,",
+          "And, prince, thyself",
+          "he fain would see.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "From the hall the ruler",
+          "of heroes went,",
+          "And greeted well",
+          "the warrior come:",
+          "\"Sigurth, welcome",
+          "long since had been thine;",
+          "Now, Geitir, shalt thou",
+          "Grani take.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Then of many",
+          "things they talked,",
+          "When thus the men",
+          "so wise had met.",
+          "Sigurth spake:",
+          "\"To me, if thou knowest,",
+          "my mother's brother,",
+          "Say what life",
+          "will Sigurth's be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Gripir spake:",
+          "\"Of men thou shalt be",
+          "on earth the mightiest,",
+          "And higher famed",
+          "than all the heroes;",
+          "Free of gold-giving,",
+          "slow to flee,",
+          "Noble to see,",
+          "and sage in speech.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Monarch wise,",
+          "now more I ask;",
+          "To Sigurth say,",
+          "if thou thinkest to see,",
+          "What first will chance",
+          "of my fortune fair,",
+          "When hence I go",
+          "from out thy home?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Gripir spake:",
+          "\"First shalt thou, prince,",
+          "thy father avenge,",
+          "And Eylimi,",
+          "their ills requiting;",
+          "The hardy sons",
+          "of Hunding thou",
+          "Soon shalt fell,",
+          "and victory find.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Noble king,",
+          "my kinsman, say",
+          "Thy meaning true,",
+          "for our minds we speak:",
+          "For Sigurth mighty",
+          "deeds dost see,",
+          "The highest beneath",
+          "the heavens all?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Gripir spake:",
+          "\"The fiery dragon",
+          "alone thou shalt fight",
+          "That greedy lies",
+          "at Gnitaheith;",
+          "Thou shalt be of Regin",
+          "and Fafnir both",
+          "The slayer; truth",
+          "doth Gripir tell thee.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Rich shall I be",
+          "if battles I win",
+          "With such as these,",
+          "as now thou sayest;",
+          "Forward look,",
+          "and further tell:",
+          "What the life",
+          "that I shall lead?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Gripir spake:",
+          "\"Fafnir's den",
+          "thou then shalt find,",
+          "And all his treasure",
+          "fair shalt take;",
+          "Gold shalt heap",
+          "on Grani's back,",
+          "And, proved in fight,",
+          "to Gjuki fare.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Sigurth spake:",
+          "\"To the warrior now",
+          "in words. so wise,",
+          "Monarch noble,",
+          "more shalt tell;",
+          "I am Gjuki's guest,",
+          "and thence I go:",
+          "What the life",
+          "that I shall lead?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Gripir spake:",
+          "\"On the rocks there sleeps",
+          "the ruler's daughter,",
+          "Fair in armor,",
+          "since Helgi fell;",
+          "Thou shalt cut",
+          "with keen-edged sword,",
+          "And cleave the byrnie",
+          "with Fafnir's killer.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Sigurth spake:",
+          "\"The mail-coat is broken,",
+          "the maiden speaks,",
+          "The woman who",
+          "from sleep has wakened;",
+          "What says the maid",
+          "to Sigurth then",
+          "That happy fate",
+          "to the hero brings?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Gripir spake:",
+          "\"Runes to the warrior",
+          "will she tell,",
+          "All that men",
+          "may ever seek,",
+          "And teach thee to speak",
+          "in all men's tongues,",
+          "And life with health;",
+          "thou'rt happy, king!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Now is it ended,",
+          "the knowledge is won,",
+          "And ready I am",
+          "forth thence to ride;",
+          "Forward look",
+          "and further tell:",
+          "What the life",
+          "that I shall lead?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Gripir spake:",
+          "\"Then to Heimir's",
+          "home thou comest,",
+          "And glad shalt be",
+          "the guest of the king;",
+          "Ended, Sigurth,",
+          "is all I see,",
+          "No further aught",
+          "of Gripir ask.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Sorrow brings me",
+          "the word thou sayest,",
+          "For, monarch, forward",
+          "further thou seest;",
+          "Sad the grief",
+          "for Sigurth thou knowest,",
+          "Yet nought to me, Gripir,",
+          "known wilt make.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Gripir spake:",
+          "\"Before me lay",
+          "in clearest light",
+          "All of thy youth",
+          "for mine eyes to see;",
+          "Not rightly can I",
+          "wise be called,",
+          "Nor forward-seeing;",
+          "my wisdom is fled.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Sigurth spake:",
+          "\"No man, Gripir,",
+          "on earth I know",
+          "Who sees the future",
+          "as far as thou;",
+          "Hide thou nought,",
+          "though hard it be,",
+          "And base the deeds",
+          "that I shall do.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Gripir spake:",
+          "\"With baseness never",
+          "thy life is burdened,",
+          "Hero noble,",
+          "hold that sure;",
+          "Lofty as long",
+          "as the world shall live,",
+          "Battle-bringer,",
+          "thy name shall be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Nought could seem worse,",
+          "but now must part",
+          "The prince and Sigurth,",
+          "since so it is,",
+          "My road I ask,",
+          "the future lies open,",
+          "Mighty one, speak,",
+          "my mother's brother.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Gripir spake:",
+          "\"Now to Sigurth",
+          "all shall I say,",
+          "For to this the warrior",
+          "bends my will;",
+          "Thou knowest well",
+          "that I will not lie,",
+          "A day there is",
+          "when thy death is doomed.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Sigurth spake:",
+          "\"No scorn I know",
+          "for the noble king,",
+          "But counsel good",
+          "from Gripir I seek;",
+          "Well will I know,",
+          "though evil awaits,",
+          "What Sigurth may",
+          "before him see.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Gripir spake:",
+          "\"A maid in Heimir's",
+          "home there dwells,",
+          "Brynhild her name",
+          "to men is known,",
+          "Daughter of Buthli,",
+          "the doughty king,",
+          "And Heimir fosters",
+          "the fearless maid.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Sigurth spake:",
+          "\"What is it to me,",
+          "though the maiden be",
+          "So fair, and of Heimir",
+          "the fosterling is?",
+          "Gripir, truth",
+          "to me shalt tell,",
+          "For all of fate",
+          "before me thou seest.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Gripir spake:",
+          "\"Of many a joy",
+          "the maiden robs thee,",
+          "Fair to see,",
+          "whom Heimir fosters;",
+          "Sleep thou shalt find not,",
+          "feuds thou shalt end not,",
+          "Nor seek out men,",
+          "if the maid thou seest not.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Sigurth spake:",
+          "\"What may be had",
+          "for Sigurth's healing?",
+          "Say now, Gripir,",
+          "if see thou canst;",
+          "May I buy the maid",
+          "with the marriage-price,",
+          "The daughter fair",
+          "of the chieftain famed?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Gripir spake:",
+          "\"Ye twain shall all",
+          "the oaths then swear",
+          "That bind full fast;",
+          "few shall ye keep;",
+          "One night when Gjuki's",
+          "guest thou hast been,",
+          "Will Heimir's fosterling",
+          "fade from thy mind.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Sigurth spake:",
+          "\"What sayst thou, Gripir?",
+          "give me the truth,",
+          "Does fickleness hide",
+          "in the hero's heart?",
+          "Can it be that troth",
+          "I break with the maid,",
+          "With her I believed",
+          "I loved so dear?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Gripir spake:",
+          "\"Tricked by another,",
+          "prince, thou art,",
+          "And the price of Grimhild's",
+          "wiles thou must pay;",
+          "Fain of thee",
+          "for the fair-haired maid,",
+          "Her daughter, she is,",
+          "and she drags thee down.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Might I with Gunnar",
+          "kinship make,",
+          "And Guthrun win",
+          "to be my wife,",
+          "Well the hero",
+          "wedded would be,",
+          "If my treacherous deed",
+          "would trouble me not.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Gripir spake:",
+          "\"Wholly Grimhild",
+          "thy heart deceives,",
+          "She will bid thee go",
+          "and Brynhild woo",
+          "For Gunnar's wife,",
+          "the lord of the Goths;",
+          "And the prince's mother",
+          "thy promise shall win.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Evil waits me,",
+          "well I see it,",
+          "And gone is Sigurth's",
+          "wisdom good,",
+          "If I shall woo",
+          "for another to win",
+          "The maiden fair",
+          "that so fondly I loved.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Gripir spake:",
+          "\"Ye three shall",
+          "all the oaths then take,",
+          "Gunnar and Hogni,",
+          "and, hero, thou;",
+          "Your forms ye shall change,",
+          "as forth ye tare,",
+          "Gunnar and thou;",
+          "for Gripir lies not.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Sigurth spake:",
+          "\"How meanest thou?",
+          "Why make we the change",
+          "Of shape and form",
+          "as forth we fare?",
+          "There must follow",
+          "another falsehood",
+          "Grim in all ways;",
+          "speak on, Gripir!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Gripir spake:",
+          "\"The form of Gunnar",
+          "and shape thou gettest,",
+          "But mind and voice",
+          "thine own remain;",
+          "The hand of the fosterling",
+          "noble of Heimir",
+          "Now dost thou win,",
+          "and none can prevent.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Most evil it seems,",
+          "and men will say",
+          "Base is Sigurth",
+          "that so he did;",
+          "Not of my will shall",
+          "I cheat with wiles",
+          "The heroes' maiden",
+          "whom noblest I hold.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Gripir spake:",
+          "\"Thou dwellest, leader",
+          "lofty of men,",
+          "With the maid as if",
+          "thy mother she were;",
+          "Lofty as long",
+          "as the world shall live,",
+          "Ruler of men,",
+          "thy name shall remain.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Shall Gunnar have",
+          "a goodly wife,",
+          "Famed among men,",
+          "speak forth now, Gripir!",
+          "Although at my side",
+          "three nights she slept,",
+          "The warrior's bride?",
+          "Such ne'er has been.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Gripir spake:",
+          "\"The marriage draught",
+          "will be drunk for both,",
+          "For Sigurth and Gunnar,",
+          "in Gjuki's hall;",
+          "Your forms ye change,",
+          "when home ye fare,",
+          "But the mind of each",
+          "to himself remains.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Shall the kinship new",
+          "thereafter come",
+          "To good among us?",
+          "Tell me, Gripir!",
+          "To Gunnar joy",
+          "shall it later give,",
+          "Or happiness send",
+          "for me myself?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Gripir spake:",
+          "\"Thine oaths remembering,",
+          "silent thou art,",
+          "And dwellest with Guthrun",
+          "in wedlock good;",
+          "But Brynhild shall deem",
+          "she is badly mated,",
+          "And wiles she seeks,",
+          "herself to avenge.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Sigurth spake:",
+          "\"What may for the bride",
+          "requital be,",
+          "The wife we won",
+          "with subtle wiles?",
+          "From me she has",
+          "the oaths I made,",
+          "And kept not long;",
+          "they gladdened her little.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Gripir spake:",
+          "\"To Gunnar soon",
+          "his bride will say",
+          "That ill didst thou",
+          "thine oath fulfill, When the goodly king,",
+          "the son of Gjuki, With all his heart",
+          "the hero trusted.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Sigurth spake:",
+          "\"What sayst thou, Gripir?",
+          "give me the truth!",
+          "Am I guilty so",
+          "as now is said,",
+          "Or lies does the far-famed",
+          "queen put forth",
+          "Of me and herself?",
+          "Yet further speak.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Gripir spake:",
+          "\"In wrath and grief",
+          "full little good",
+          "The noble bride",
+          "shall work thee now;",
+          "No shame thou gavest",
+          "the goodly one,",
+          "Though the monarch's wife",
+          "with wiles didst cheat.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Shall Gunnar the wise",
+          "to the woman's words,",
+          "And Gotthorm and Hogni,",
+          "then give heed?",
+          "Shall Gjuki's sons,",
+          "now tell me, Gripir,",
+          "Redden their blades",
+          "with their kinsman's blood?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Gripir spake:",
+          "\"Heavy it lies",
+          "on Guthrun's heart,",
+          "When her brothers all",
+          "shall bring thee death;",
+          "Never again",
+          "shall she happiness know,",
+          "The woman so fair;",
+          "'tis Grimhild's work.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Now fare thee well!",
+          "our fates we shun not;",
+          "And well has Gripir",
+          "answered my wish;",
+          "More of joy",
+          "to me wouldst tell",
+          "Of my life to come",
+          "if so thou couldst.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Gripir spake:",
+          "\"Ever remember, ruler of men,",
+          "That fortune lies in the hero's life;",
+          "A nobler man shall never live",
+          "Beneath the sun than Sigurth shall seem.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

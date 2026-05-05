@@ -1,0 +1,1189 @@
+{
+  "slug": "gunnarsslagr",
+  "key": "Gunnarsslagr",
+  "title": {
+    "on": "Gunnarsslagr",
+    "ru": "Напев Гуннара",
+    "en": "Gunnar's Melody"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Исландский текст: Gunnar Pálsson (1714–1791). Текст на русском языке в переводе: Vanamær Eyvarsdóttir по подстрочнику Rín Ingvarsdóttir.",
+    "en": "An ancient Icelandic text, edited by Gunnar Pálsson (1714–1791). Translation by Benjamin Thorpe (1865)."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Ár var þat Gunnarr",
+          "gørðisk at deyja,",
+          "Gjúka sonr,",
+          "at Grábaks sölum.",
+          "Fœtr váru lausir",
+          "á fylkis nið",
+          "en hendr heptar",
+          "hörðum fjötri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Fengin var harpa",
+          "fólkdjörfum gram,",
+          "íþrótt sýndi,",
+          "ilkvistu um hrœrði,",
+          "steig hagliga",
+          "hörpustrengi,",
+          "vara sú list leikin",
+          "nema lofðungs kundi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Söng þá Gunnarr",
+          "svá mælandi,",
+          "fekk mál harpa",
+          "sem maðr væri,",
+          "en eigi sœtara",
+          "þó svanr væri,",
+          "glumði orma salr",
+          "við gullnum strengjum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "«Mína veit ek systur",
+          "manni verst gefna",
+          "ok Niflunga",
+          "níðingi festa.",
+          "Heim bauð Atli",
+          "Högna ok Gunnari,",
+          "mágum sínum",
+          "en myrði báða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Víg lét þá",
+          "fyrir veizlu taka",
+          "ok orrostu",
+          "fyrir ölteiti.",
+          "Þat mun æ uppi",
+          "meðan öld lifir,",
+          "léka svá við mága",
+          "mangi forðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Hví þú svá, Atli,",
+          "heiptir rœkir?",
+          "Sjálf olli Brynhildr",
+          "sínum dauða",
+          "ok Sigurðar",
+          "sárum bana.",
+          "Hví vildir Guðrúnu",
+          "grætta láta?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Sagði Huginn forðum",
+          "af hám meiði",
+          "ossar ófarir",
+          "at mög dauðan.",
+          "Sagði mér Brynhildr,",
+          "Buðla dóttir,",
+          "hvé Atli mundi",
+          "oss um véla."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Gat þess ok Glaumvör",
+          "er við gistum bæði",
+          "hinsta sinni",
+          "í hvílu einni,",
+          "minni váru málu",
+          "megnir draumar:",
+          "\"Farattu Gunnarr!",
+          "Flár er þér nú Atli."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Dör sá ek þínum",
+          "dreyra roðinn,",
+          "gálga görvan",
+          "Gjúka syni.",
+          "Hugða ek þér dísir",
+          "heimboð gøra.",
+          "Munu ykkr brœðrum",
+          "búin vélræði.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Kvað ok Kostbera,",
+          "kvæn var hon Högna,",
+          "rúnar vilt ristnar",
+          "ok ráðna drauma.",
+          "Snotrt var hjarta",
+          "í siklinga brjósti,",
+          "hvárgi knátti hræðask",
+          "harðan dauða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Oss hafa nornir",
+          "aldr um lagit,",
+          "örfum Gjúka",
+          "at Óðins vild.",
+          "Má við ørlögum",
+          "engi sjá",
+          "né heillum horfinn",
+          "hugum treysta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Hlær mik þat, Atli,",
+          "at þú hefir eigi",
+          "hringa rauða",
+          "sem Hreiðmarr átti.",
+          "Einn veit ek hvar fé þat",
+          "fólgit liggr,",
+          "síðan þér Högna",
+          "til hjarta skáru."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Hlær mik þat, Atli,",
+          "at þér Húna kindir",
+          "hlæjanda Högna",
+          "til hjarta skáruð.",
+          "Hnipnaðit Hniflungi",
+          "við holundu,",
+          "ne sér við brá",
+          "sáran dauða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Hlær mik þat, Atli,",
+          "at þú hefir látna",
+          "menn þína marga",
+          "er mæztir váru",
+          "fyr ossum sverðum",
+          "áðr svelta fengir.",
+          "Hefir ór mær systir",
+          "meiddan þinn bróður."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Skalat enn Gunnarr",
+          "æðru mæla,",
+          "Gjúka sonr,",
+          "at Grafvitnis bóli,",
+          "ne hryggr koma",
+          "til Herjaföður:",
+          "hefir fyrr buðlungr",
+          "böðvi vanizk."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Fyrr skal mér Góinn",
+          "grafa til hjarta",
+          "ok Níðhöggr",
+          "nýru sjúga,",
+          "Linnr ok Langbakr",
+          "lifrar slíta,",
+          "en ek minni hafni",
+          "hugarprýði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Þess mun Guðrún",
+          "grálega reka,",
+          "er okkr lét",
+          "Atli svikna.",
+          "Hon mun þér konungi",
+          "hjörtu gefa",
+          "húna þinna",
+          "heit at kveldverði,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "ok blandinn mjöð",
+          "blóði þeira",
+          "drekkr þú ór skálum",
+          "skararfjalla.",
+          "Sú mun þik hugraun",
+          "harðast bíta,",
+          "er þér Guðrún bregðr",
+          "glœpum slíkum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Skömm mun þín ævi",
+          "at skjöldunga liðna.",
+          "Fær þú illan enda",
+          "af órum sifspellum.",
+          "Er þér slík maklig",
+          "af umsýslan várrar",
+          "systur sárneyddrar",
+          "svik þér at gjalda."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Mun þik Guðrún",
+          "geiri leggja",
+          "ok Niflungr",
+          "nærri standa.",
+          "Leika mun þín höll",
+          "í loga rauðum,",
+          "síðan muntu á Náströndum",
+          "Níðhöggvi gefinn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Sofinn er nú Grábakr",
+          "ok Grafvitnir,",
+          "Góinn ok Móinn",
+          "ok Grafvölluðr,",
+          "Ófnir ok Sváfnir,",
+          "eitrfánir,",
+          "Naðr ok Niðhöggr,",
+          "ok nöðrur allar,",
+          "Hringr, Höggvarðr,",
+          "fyrir hörpuslætti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Ein vakir uppi",
+          "Atla móðir,",
+          "hefir sú mik holgrafit",
+          "at hjartarótum,",
+          "lifr um sýgr",
+          "ok lungu slítr.",
+          "Erat lengr líft",
+          "lofðungs kundi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Hættu nú, harpa,",
+          "heðan mun ek líða",
+          "ok Valhöllu",
+          "víða byggja,",
+          "drekka með ásum",
+          "dýrar veigar,",
+          "seðjask Sæhrímni",
+          "at sumblum Óðins."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Nú er Gunnars slagr",
+          "görva kveðinn,",
+          "hef ek höldum skemt",
+          "hinsta sinni.",
+          "Fár mun enn síðan",
+          "fylkir ilkvistum",
+          "hljóðfagra sveigja",
+          "hörpustrengi.»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "То было когда",
+          "Гуннар сын Гьюки",
+          "смерть свою встретил",
+          "в Грабака доме.",
+          "Хоть ноги свободны",
+          "у конунга сына",
+          "но скованы руки",
+          "крепко цепями."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Арфу он взял,",
+          "воин-правитель,",
+          "пальцами ног,",
+          "заиграл умело",
+          "нежно касаясь:",
+          "никто в мастерстве",
+          "с конунга сыном",
+          "не мог сравниться."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Гуннар же речи",
+          "такие завёл,",
+          "голосом звонким",
+          "арфа запела,",
+          "но с лебедя песней",
+          "она не сравнялась,",
+          "вторил дом змея",
+          "струне золоченой:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "«Знаю, сестру мою",
+          "отдали худшему,",
+          "ярому недругу",
+          "Нивлунгов в жёны —",
+          "и Гуннара с Хёгни,",
+          "даром, что родичи,",
+          "Атли коварно",
+          "жизни лишил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Убийство затеял",
+          "за пира столом,",
+          "раздором, не яствами",
+          "нас угостили.",
+          "Так будет всегда,",
+          "пока люди живы:",
+          "кровные узы",
+          "врагу не помеха."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Атли, зачем",
+          "ты гнев свой обрушил?",
+          "Жизни себя",
+          "Брюнхильд лишила,",
+          "и Сигруда смерти",
+          "причиной была.",
+          "Зачем тебе слёзы",
+          "Гудрун невиновной?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Хугин на древе",
+          "высоком сидел,",
+          "о горе и смерти",
+          "родных нам поведал.",
+          "Мне так говорила",
+          "Брюнхильд, дочь Будли:",
+          "обоих нас Атли",
+          "обманет жестоко."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Глаумвёр так мне",
+          "на ложе сказала,",
+          "в последний раз",
+          "отдыхали мы вместе,",
+          "снились супруге",
+          "виденья зловещие:",
+          "“Гуннар, врагом",
+          "тебе сделался Атли!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Копьё твоей кровью",
+          "омытое видела,",
+          "петлю для шеи",
+          "потомка Гьюки.",
+          "Думаю, дисы",
+          "ждут тебя к трапезе.",
+          "Знаю, что братьев",
+          "предательство ждёт\"."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Костбера видела,",
+          "Хёгни жена,",
+          "странные сны",
+          "и коварные руны.",
+          "Но страха не зная",
+          "сердце в груди",
+          "билось у князя",
+          "пред смертью жестокой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Норны отмерили",
+          "Гьюки сынам",
+          "краткого сроку,",
+          "по Одина воле.",
+          "Никто не посмеет",
+          "перечить судьбе",
+          "иль славу искать",
+          "коль удачи лишился."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Счастлив я, Атли,",
+          "что ты не получишь",
+          "Хрейдмара кольца",
+          "из золота красного.",
+          "Знаю один я",
+          "где клад тот запрятан:",
+          "своею рукою",
+          "ты Хёгни сразил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Счастлив я, Атли,",
+          "что Хёгни весёлому",
+          "гуннские копья",
+          "сердце пронзили.",
+          "Нивлунг смеялся",
+          "над раной жестокой,",
+          "смерти отважно",
+          "навстречу взирал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Счастлив я, Атли,",
+          "что наши мечи",
+          "воинов лучших",
+          "твоих поразили",
+          "раньше чем злая",
+          "смерть нас настигла.",
+          "Видишь ли, Гудрун,",
+          "как брат твой изранен?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Но Гуннар не знает,",
+          "Гьюки потомок,",
+          "страха, вступая",
+          "в Граввитнира залы.",
+          "Смело предстану",
+          "перед Воинств Отцом,",
+          "конунга сын",
+          "не боится страданий."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Гоин мне пусть",
+          "сердце пронзает",
+          "Ниддхёг в мои",
+          "чресла вопьётся",
+          "Лангбак и Линн",
+          "печень терзают,",
+          "но сердца отвагу",
+          "я не отрину."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Атли, послушай",
+          "Гудрун тебе",
+          "предательство наше",
+          "без мести не спустит",
+          "Сердца она, конунг,",
+          "обоих щенков",
+          "прижитых с тобой",
+          "приготовит на ужин,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "с кровью их смешанный",
+          "пить будешь мёд",
+          "из чаш-черепов",
+          "сыновей твоих, Атли.",
+          "Душа твоя мучиться",
+          "будет жестоко,",
+          "от тех злодеяний,",
+          "что Гудрун исполнит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Скроет позор твой",
+          "скьёльдунгов славу,",
+          "жалкий конец ждёт",
+          "предавшего узы.",
+          "Будет ответом",
+          "нашей сестры",
+          "страшная месть",
+          "на твоё вероломство."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Копьём тебя наземь",
+          "Гудрун повергнет",
+          "встанет с сестрою",
+          "Нивлунг могучий.",
+          "Пламя запляшет",
+          "в твердыне твоей",
+          "Нидхёгг глодать",
+          "будет в Настрёнде труса."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Грабак и Граввитнир",
+          "и Граввёллуд,",
+          "Гоин и Моин",
+          "очи сомкнули,",
+          "Овнир и Свавнир,",
+          "от жгучего яда,",
+          "Нидхёгг и Над,",
+          "и все прочие змеи,",
+          "Хёггвард и Хринг,",
+          "от звучания арфы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Только лишь Атли",
+          "мать не уснула,",
+          "крепко впилась она",
+          "в сердце героя",
+          "жадно терзала",
+          "чрево и грудь,",
+          "близок конец",
+          "конунга сына."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Арфа, умолкни!",
+          "Ведь я ухожу",
+          "в длинные залы",
+          "Вальхаллы прекрасной.",
+          "Пить сяду с асами,",
+          "мясо вкушать",
+          "Сэхримнира-вепря",
+          "на Одина пире."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Гуннара песня",
+          "к концу подошла",
+          "людей напоследок",
+          "я славно потешил.",
+          "Не часто князья",
+          "будут пальцами ног",
+          "струны златые",
+          "у арфы тревожить»."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"It of old befell that Gunnar,",
+          "Giuki's son,",
+          "was doomed to die",
+          "in Grábak's halls.",
+          "The feet were free",
+          "of the king's son,",
+          "but his hands were bound",
+          "with hard bonds.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"A harp he seized,",
+          "the warrior king",
+          "his skill displayed,",
+          "his foot-branches moved,",
+          "the harp-strings",
+          "sweetly touched:",
+          "that art had not been practised",
+          "save by the king's son.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Then sang Gunnar,",
+          "in these strains:",
+          "the harp got voice,",
+          "as it had been a man;",
+          "yet not a sweeter sound,",
+          "had it been a swan;",
+          "the hall of serpents echoed",
+          "to the golden strings:\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"I my sister know",
+          "wedded to the worst of men,",
+          "and to the Niflungs",
+          "base foe espoused.",
+          "To his home bade Atli",
+          "Högni and Gunnar,",
+          "his relations,",
+          "but murdered both.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Slaughter he made them",
+          "take for festivity,",
+          "and conflict for",
+          "convivial potations.",
+          "Ever will that survive",
+          "while men shall live:",
+          "so did relations never",
+          "any one delude.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Why, Atli! dost thou",
+          "so wreak thy anger?",
+          "Herself did Brynhild",
+          "cause to die,",
+          "and Sigurd's",
+          "cruel death.",
+          "Why wouldst thou Gudrún",
+          "cause to weep?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Long since the raven told,",
+          "from the high tree,",
+          "our calamities,",
+          "at our relation's death;",
+          "Brynhild told me,",
+          "Budli's daughter,",
+          "how Atli would",
+          "deceive us both.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"This also Glaumvör said,",
+          "when we both reposed,",
+          "for the last time,",
+          "in the same bed,",
+          "my consort had",
+          "portentous dreams",
+          "Go not Gunnar!",
+          "Atli is now false to thee.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"A lance I saw",
+          "red with thy blood,",
+          "a gallows ready",
+          "for Giuki's son:",
+          "I thought for thee the Dísir",
+          "prepared a feast;",
+          "I ween that for you brothers",
+          "treachery is at work.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Said also Kostbera",
+          "she was Högni's wife",
+          "the runes were falsely graved,",
+          "and the dreams interpreted.",
+          "But the heart beat high",
+          "In the princes breast,",
+          "neither knew fear",
+          "of a cruel death.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"The Norns have for us,",
+          "Giuki's heirs,",
+          "a life-time appointed,",
+          "at Odin's will;",
+          "no one may",
+          "against fate provide,",
+          "nor, of luck bereft,",
+          "in his valour trust.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Atli! I laugh",
+          "that thou hast not",
+          "the red-gold rings",
+          "that Hreidmar owned;",
+          "I alone know where that treasure",
+          "hidden lies,",
+          "since that Högni",
+          "to the heart ye cut.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Atli! I laugh,",
+          "that ye Huns",
+          "the laughing Högni",
+          "to the heart cut.",
+          "The Hniflung shrank not",
+          "from the scooping wound,",
+          "nor flinched he from",
+          "a painful death.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Atli! I laugh,",
+          "that thou hast lost",
+          "many of thy men",
+          "that choicest were,",
+          "beneath our swords,",
+          "before thy own death.",
+          "Our noble sister has",
+          "thy brother maimed.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Yet shall not Gunnar,",
+          "Giuki's son,",
+          "fear express",
+          "in Grafvitnir's dwelling;",
+          "nor dejected go",
+          "to the sire of hosts:",
+          "Already is the prince",
+          "inured to suffering.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "\"Sooner shall Góin",
+          "pierce me to the heart,",
+          "and Nidhögg",
+          "suck my reins,",
+          "Linn and Lángbak",
+          "my liver tear,",
+          "than I will abandon",
+          "my steadfastness of heart.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "\"Gudrún it will",
+          "grimly avenge,",
+          "that Atli us",
+          "has both deceived;",
+          "she to thee, king! will",
+          "give the hearts",
+          "of thy cubs,",
+          "hot at the evening meal;\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "\"And (mead mixed",
+          "with) their blood",
+          "thou from cups shalt drink",
+          "formed of their skulls.",
+          "That mental anguish shall",
+          "bite thee most cruelly,",
+          "when Gudrún sets",
+          "such crimes before thee.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"Short will be thy life",
+          "after the princes death;",
+          "an ill end thou wilt have,",
+          "for breach of our affinity:",
+          "such is befitting thee,",
+          "through the deed",
+          "of our sister sorely impelled",
+          "thy treachery to requite.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "\"Gudrún will thee",
+          "with a lance lay low,",
+          "and the Niflung",
+          "stand hard by;",
+          "in thy palace",
+          "will the red flame play;",
+          "then in Náströnd thou shalt",
+          "be to Nidhögg given.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "\"Now is Grábak lulled,",
+          "and Grafvitnir,",
+          "Góin and Móin,",
+          "and Grafvöllud,",
+          "Ofnir and Svafnir,",
+          "with venom glistening,",
+          "Nad and Nidhögg,",
+          "and the serpents all,",
+          "Hring, Höggvard,",
+          "by the harp's sound.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "\"Alone wakeful remains",
+          "Atli's mother,",
+          "she has pierced me",
+          "to the heart's roots,",
+          "my liver sucks,",
+          "and my lungs tears.",
+          "A longer life-space is not",
+          "for the king's son.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"Cease now, my harp!",
+          "hence I will depart,",
+          "and in the vast",
+          "Valhall abide,",
+          "with the Æsir drink",
+          "of costly cups,",
+          "be with Sæhrimnir sated",
+          "at Odin's feast.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "\"Now is Gunnar's melody",
+          "all sung out;",
+          "I have men delighted",
+          "for the last time.",
+          "Henceforth few princes will",
+          "with their foot-branches",
+          "the sweetly sounding",
+          "harp-strings strike.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

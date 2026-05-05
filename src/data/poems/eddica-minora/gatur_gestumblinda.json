@@ -1,0 +1,2960 @@
+{
+  "slug": "gatur-gestumblinda",
+  "key": "GaturGestumblinda",
+  "title": {
+    "on": "Gátur Gestumblinda",
+    "ru": "Загадки Гестумблинди",
+    "en": "The riddles of King Heithrek"
+  },
+  "subtitle": {
+    "on": "Heiðreksgátur",
+    "ru": "Загадки Хейдрека"
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Eddukvæði. Sæmundar-Edda. Guðni Jónsson bjó til prentunar. Перевод: Т. Ермолаев.",
+    "en": "An ancient Icelandic text, edited by Eddukvæði. Sæmundar-Edda. Guðni Jónsson bjó til prentunar. Translation by Lee M. Hollander (1936)."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Maðr hét Gestumblindi, ríkr ok mikill óvinr Heiðreks konungs. Konungr sendi honum orð, at hann kæmi á fund hans at sættast við hann, ef hann vill halda lífinu. Gestumblindi var ekki spekingr mikill, ok fyrir þá sök, at hann veit sik vanfæran til at skipta orðum við konunginn, hann veit ok, at þungt mun vera at hlíta dómi spekinganna, því at sakir eru nógar, þat ráð tekur Gestumblindi, at hann blótar Óðin til fulltings sér ok biðr hann líta á sitt mál ok heitr honum miklum gæðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "II Eitt kveld er þar drepit á dyrr síðla, ok gengr Gestumblindi  til hurðar ok sér mann kominn. Hann spyrr þann at nafni, en hann nefndist Gestumblindi ok mælti, at þeir skyldu klæðum skipta, ok svá gera þeir. Bóndi ferr nú í brott ok felr sik, en komandinn gengr inn, ok þykkjast allir þar kenna Gestumblinda, ok líðr af nóttin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "III Um daginn eptir gerir sjá Gestumblindi för sína á fund konungs, ok hann kvaddi vel konunginn. Konungr þagði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "IV «Herra,» segir hann, «því kom ek hingat, at ek vil við yðr sættast.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "V Þá svarar konungr: «Viltu þola dóm spekinga minna?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "lines": [
+          "VI Hann segir: «Er ekki fleiri undanlausnir?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "VII Konungr mælti: «Vera skulu fleiri, ef þú þykkist til færr at bera upp gátur.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "lines": [
+          "VIII Gestumblindi segir: «Lítt mun ek til þess færr, enda mun harðr á annat borð þykkja.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "prose",
+        "lines": [
+          "IX «Viltu,» segir konungr, «heldr þola dóm spekinga minna?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "X «Þat kýs ek,» segir hann, «at bera fyrr upp gáturnar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "prose",
+        "lines": [
+          "XI «Þat er rétt ok vel fallit,» segir konungr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hafa vildak",
+          "þat er ek hafða í gær,",
+          "vittu, hvat þat var:",
+          "Lýða lemill,",
+          "orða tefill",
+          "ok orða upphefill.",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "XII Konungr segir: «Góð er gáta þín, Gestumblindi, getit er þessar. Fæ­ri honum mungát. Þat lemr mar­gra vit, ok margir eru þá mar­g­mál­gari, er mungát ferr á, en su­mum vefst tungan, svá at ekki verðr at orði.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Heiman ek fór,",
+          "heiman ek för gerða,",
+          "sá ek á veg vega;",
+          "var þeim vegr undir",
+          "ok vegr yfir",
+          "ok vegr á alla vega.",
+          "Heiðrekr konungr",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "lines": [
+          "XIII «Góð er gáta þín, Gestumb­lin­di, getit er þessar. Þar fórtu yfir árbrú, ok var árvegr undir þér, en fuglar flugu yfir höfði þér ok hjá þér tveim megin, ok var þat þeira vegr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hvat er þat drykki,",
+          "er ek drakk í gær,",
+          "varat þat vín né vatn",
+          "né in heldr mungát",
+          "né matar ekki,",
+          "ok gekk ek þorstalauss þaðan?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "prose",
+        "lines": [
+          "XIV  «Góð er gáta þín, Gestumb­lindi, getit er þessar. Þar lagðist þú í forsælu, er dögg var fallin á grasi, ok kældir svá varir þínar ok stöðvaðir svá þorsta þinn.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverr er sá inn hvelli,",
+          "er gengr harðar götur",
+          "ok hefir hann þær fyrr of farit,",
+          "mjök fast kyssir,",
+          "sá er hefir munna tvá",
+          "ok á gulli einu gengr?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "XV «Góð er gáta þín, Gestumblin­di, getit er þessar. Þat er hamarr sá, er hafðr er at gullsmíð; hann kveðr hátt við, er hann kemr á harðan steðja, ok þat er hans gata.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hvat er þat undra,",
+          "er ek úti sá",
+          "fyr Dellings durum;",
+          "ókvikvir tveir",
+          "andalausir",
+          "sáralauk suðu?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "lines": [
+          "XVI «Góð er gáta þín, Gestumblindi, getit er þessar. Þat eru smiðbelgir; þeir hafa engan vind, nema þeim sé blásit ok eru þeir dauðir sem annat smíði, en fyrir þeim má líkt smíða sverð sem annat.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hvat er þat undra,",
+          "er ek úti sá",
+          "fyr Dellings durum;",
+          "fætr hefir átta,",
+          "en fjögur augu",
+          "ok berr ofar kné en kvið?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "lines": [
+          "XVII «Þat er köngurváfur.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hvat er þat undra,",
+          "er ek úti sá",
+          "fyr Dellings durum;",
+          "höfði sínu vísar",
+          "á helvega,",
+          "en fótum til sólar snýr?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "XVIII «Góð er gáta þín, Gestumb­lindi,",
+          "getit er þessar. Þat er laukr. Höfuð",
+          "hans er fast í jörðu, en hann kvíslar,",
+          "er hann vex upp.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hvat er þat undra,",
+          "er ek úti sá",
+          "fyr Dellings durum;",
+          "horni harðara,",
+          "hrafni svartara,",
+          "skildi hvítara,",
+          "skapti réttara?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "XIX Heiðrekr mælti: «Smækkast nú gáturnar, Gestumblindi, hvat þarf lengr yfir þessu at sitja? Þat er hrafntinna, ok skein á hana sólar­ geisli.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Báru brúðir",
+          "bleikhaddaðar",
+          "ambáttir tvær",
+          "öl til skemmu;",
+          "varat þat höndum horfit",
+          "né hamri at klappat,",
+          "þó var fyrir eyjar utan",
+          "örðigr sá, er gerði.",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "lines": [
+          "XX «Góð er gáta þín, Gestumb­lindi, getit er þessar. Þar fara svanbrúðir til hreiðrs síns ok verpa eggjum; skurm á eggi er eigi höndum gert né hamri klappat, en svanr er fyrir eyjar utan örðigr, sá er þær gátu eggin við.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverjar eru þær rýgjar",
+          "á reginfjalli,",
+          "elr við kván kona,",
+          "þar til er mög of getr,",
+          "ok eigut þær varðir vera?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "XXI «Góð er gáta þín, Gestumb­lin­di, getit er þessar. Þat eru hvannir tvær ok hvannarkálfr á milli þei­ra.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Fara ek sá",
+          "foldar moldbúa,",
+          "á sat naðr á nái;",
+          "blindr reið blindum",
+          "brimreiðar til,",
+          "þá jór var andar vanr.",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "prose",
+        "lines": [
+          "XXII «Góð er gáta þín, Gestum­blin­di, getit er þessar. Þar fanntu hest dauðan á ísjaka ok orm dauðan á hestinum, ok rak þat allt saman eptir ánni.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverir eru þeir þegnar,",
+          "er ríða þingi at",
+          "sáttir allir saman;",
+          "lýða sína",
+          "senda þeir lönd yfir",
+          "at byggja bólstaði?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "lines": [
+          "XXIII «Góð er gáta þín, Gestumb­lin­di, getit er þessar. Þat er Ítrekr ok Andaðr, er þeir sitja at tafli sínu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverjar eru þær brúðir,",
+          "er sinn drottin",
+          "vápnlausan vega;",
+          "inar jarpari hlífa",
+          "um alla daga,",
+          "en inar fegri fara?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "lines": [
+          "XXIV «Góð er gáta þín, Gestumb­lin­di, getit er þessar. Þat er hnettafl; inar dekkri verja hnefann, en hvít­ar sækja.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverr er sá inn eini,",
+          "er sefr í ösgrúa",
+          "ok af grjóti einu gerr;",
+          "föður né móður",
+          "á sá inn fagrgjarni,",
+          "þar mun hann sinn aldr ala?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "prose",
+        "lines": [
+          "XXV «Þat er eldr fólginn á arni, ok tekr ór tinnu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverr er sá inn mikli,",
+          "er líðr mold yfir,",
+          "svelgr hann vötn ok við;",
+          "glygg hann óast,",
+          "en gumna eigi",
+          "ok yrkir á sól til saka?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "prose",
+        "lines": [
+          "XXVI «Góð er gáta þín, Gestumb­lindi, getit er þessar. Þat er myrkvi; hann líðr yfir jörðina, svá at ekki sér fyrir honum ok eigi sól, en hann er af, þegar vind gerir á.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hvat er þat dýra,",
+          "er drepr fé manna",
+          "ok er járni kringt utan;",
+          "horn hefir átta,",
+          "en höfuð ekki,",
+          "ok fylgja því margir mjök?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "prose",
+        "lines": [
+          "XXVII «Þat er húnn í hnettafli.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hvat er þat dýra,",
+          "er Dönum hlífir,",
+          "berr blóðugt bak,",
+          "en bergr firum,",
+          "geirum mætir,",
+          "gefr líf sumum,",
+          "leggr við lófa",
+          "lík sitt guma?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "prose",
+        "lines": [
+          "XXVIII «Þat er skjöldr; hann verðr opt blóðugr í bardögum ok hlífir vel þeim mönnum, er skjaldfimir eru.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverjar eru þær leikur,",
+          "er líða lönd yfir",
+          "at forvitni föður,",
+          "hvítan skjöld",
+          "þær of vetr bera,",
+          "en svartan of sumar?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "lines": [
+          "XXIX «Þat eru rjúpur; þær eru hvítar um vetr, en svartar um sumar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverjar eru þær snótir,",
+          "er ganga syrgjandi",
+          "at forvitni föður;",
+          "mörgum mönnum",
+          "hafa þær at meini orðit,",
+          "við þat munu þær aldr ala?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "prose",
+        "lines": [
+          "XXX «Þat eru Hlés brúðir, er svá heita.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverjar eru þær meyjar,",
+          "er ganga margar saman",
+          "at forvitni föður;",
+          "hadda bleika",
+          "hafa þær, inar hvítfölduðu,",
+          "ok eigut þær varðir vera?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "prose",
+        "lines": [
+          "XXXI «Þat eru bylgjur, er svá heita.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverjar eru þær ekkjur,",
+          "er ganga allar saman",
+          "at forvitni föður;",
+          "sjaldan blíðar",
+          "eru þær við seggja lið",
+          "ok eigu þær í",
+          "vindi vaka?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "prose",
+        "lines": [
+          "XXXII «Þat eru Ægis ekkjur, svá hei­ta öldur.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Mjök var forðum",
+          "nösgás vaxin,",
+          "barngjörn sú er bar",
+          "bútimbr saman;",
+          "hlífðu henni",
+          "hálms bitskálmir,",
+          "þó lá drykkjar",
+          "drynhraun yfir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "prose",
+        "lines": [
+          "XXXIII «Þar hafði önd búit hreiðr sitt í milli nautskjálka, ok lá haussinn ofan yfir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverr er sá inn mikli,",
+          "er mörgu ræðr",
+          "ok horfir til heljar hálfr;",
+          "höldum bergr",
+          "ok við jörð sakast,",
+          "ef hann hefir sér vel traustan vin?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "prose",
+        "lines": [
+          "XXXIV «Góð er gáta þín, Gestumblindi, getit er þessar. Þat er akkeri með góðum streng; ef fleinn hans er í grunni, þá bergr þat.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverjar eru þær brúðir,",
+          "er ganga í brimskerjum",
+          "ok eiga eptir firði för;",
+          "harðan beð hafa þær",
+          "inar hvítfölduðu konur",
+          "ok leika í logni fátt.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "prose",
+        "lines": [
+          "XXXV «Þat eru bárur, en beðir þeira eru sker ok urðir, en þær verða lítt sénar í logni.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Sá ek á sumri",
+          "sólbjörgum á,",
+          "bað ek vel lifa",
+          "vilgi teiti,",
+          "drukku jarlar",
+          "öl þegjandi,",
+          "en æpanda",
+          "ölker stóð.",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "prose",
+        "lines": [
+          "XXXVI «Þar drukku grísir gylti, en hún hrein við.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hvat er þat undra,",
+          "er ek úti sá",
+          "fyrir Dellings durum;",
+          "tíu hefir tungur,",
+          "tuttugu augu,",
+          "fjóra tigu fóta,",
+          "fram líðr sú vættr?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "prose",
+        "lines": [
+          "XXXVII Konungr mælti þá: «Ef þú ert sá Gestumblindi, sem ek hugða, þá ertu vitrari en ek ætlaða. En frá gyltinni segir þú nú úti í garðinum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "prose",
+        "lines": [
+          "XXXVIII Þá lét konungr drepa gyltina, ok hafði hún níu grísi, sem Gestumblindi sagði. Nú grunar konung, hverr mað­ rinn mun vera."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Fjórir hanga,",
+          "fjórir ganga,",
+          "tveir veg vísa,",
+          "tveir hundum varða,",
+          "einn eptir drallar",
+          "ok jafnan heldr saurugr.",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "prose",
+        "lines": [
+          "XXXIX «Góð er gáta þín, Gestumb­lindi, getit er þessar. Þat er kýr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Sat ek á segli,",
+          "sá ek dauða menn",
+          "blóðugt hold bera",
+          "í börk viðar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "prose",
+        "lines": [
+          "XL «Þar saztu á vegg ok sátt val bera æði í hamra.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Hverir eru þeir tveir,",
+          "er tíu hafa fætr,",
+          "augu þrjú",
+          "ok einn hala?",
+          "Heiðrekr konungr,",
+          "hyggðu at gátu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "prose",
+        "lines": [
+          "XLI «Þat er þá, er Óðinn ríðr Sle­ipni.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Þá mælti Gestumblindi:",
+          "«Segðu þat þá hinzt,",
+          "ef þú ert hverjum",
+          "konungi vitrari:",
+          "Hvat mælti Óðinn",
+          "í eyra Baldri,",
+          "áðr hann væri",
+          "á bál hafiðr?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "prose",
+        "lines": [
+          "XLII Heiðrekr konungr segir: «Þat veiztu einn, rög vættr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "prose",
+        "lines": [
+          "XLIII Ok þá bregðr Heiðrekr Tyrfingi ok höggr til hans, en Óðinn brást þá í valslíki ok fló á brott. En ko­nungr hjó eptir ok af honum vé­lifiðrit aptan, ok því er valr svá vé­listuttr ávallt síðan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "prose",
+        "lines": [
+          "XLIV Óðinn mælti þá: «Fyrir þat, Hei­ðrekr konungr, er þú rétt til mín ok vildir drepa mik saklausan, skulu þér inir verstu þrælar at bana ver­ða.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "prose",
+        "lines": [
+          "XLV Eptir þat skilr með þeim."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "79",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Одного могущественного человека звали Гестумблинди, он был большой недруг конунга Хейдрека. Конунг послал ему сообщение, чтобы тот отправился к нему для примирения, если хочет сохранить жизнь. Гестумблинди не был великим мудрецом, считал себя неспособным обменяться речами с конунгом и знал, что тяжело полагаться на суд мудрецов, ибо обвинений будет достаточно. Тогда Гестумблинди решил, что он принесёт жертвы Одину в помощь себе, попросит его рассмотреть своё дело и пообещает ему большие дары."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "II Поздно вечером в дверь постучали, Гестумблинди подошёл и увидел, что явился некий человек. Он спросил у него имя, а тот назвался Гестумблинди и сказал, что они должны поменяться одеждой, так они и сделали. Затем бонд ушёл прочь и спрятался, а пришелец вошёл, и все приняли его за Гестумблинди, и так прошла ночь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "III На следующий день этот Гестумблинди отправился на встречу с конунгом. Он хорошо поприветствовал его. Конунг промолчал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "IV «Государь, — сказал он, — потому пришёл я сюда, что хочу с Вами помириться»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "V Тогда конунг спросил: «Хочешь подвергнуться суду моих мудрецов?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "lines": [
+          "VI Он сказал: «Нет ли других способов выкупа?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "VII Конунг ответил: «Будет их больше, если ты можешь предложить загадки»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "lines": [
+          "VIII Гестумблинди сказал: «Мало я к этому способен, даже если другой выбор кажется трудным»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "prose",
+        "lines": [
+          "IX «Ты всё-таки хочешь, — спросил конунг, — подвергнуться суду моих мудрецов?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "X «Лучше я выберу, — сказал он, — загадывать загадки»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "prose",
+        "lines": [
+          "XI «Это правильно и вполне подойдёт, — сказал конунг»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Иметь хочу то,",
+          "что имел вчера,",
+          "узнай, что это:",
+          "людей ломатель,",
+          "словам мешатель",
+          "и слов зачинатель.",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "XII Конунг говорит: «Хороша твоя загадка, Гестумблинди, отгадана она. Принесите ему пиво. У многих оно сокрушает ум, и многие становятся слишком болтливыми, когда подносят пиво, а у некоторых заплетаются языки, так что они не могут вымолвить ни слова»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Из дому я шёл,",
+          "из дому я путь держал,",
+          "видел я на дороге дороги;",
+          "была дорога внизу,",
+          "и дорога вверху,",
+          "и дорога по сторонам.",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "lines": [
+          "XIII «Хороша твоя загадка, Гестумблинди, отгадана она. Ты шёл по мосту через реку, и под тобой была речная дорога, а птицы летели над твоей головой и рядом с тобой с двух сторон, и это была их дорога.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что за напиток",
+          "пил я вчера,",
+          "не вино, не вода,",
+          "не пиво и не еда,",
+          "и шёл я оттуда,",
+          "утолив жажду?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "XIV «Хороша твоя загадка, Гестум-",
+          "блинди, отгадана она. Ты лежал в",
+          "тени, когда на траву выпала роса,",
+          "и так остудил свои губы и утолил",
+          "свою жажду»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Кто такой звонкий,",
+          "идёт дорогами твёрдыми",
+          "и шёл ими прежде,",
+          "очень крепко целует,",
+          "имеет два рта,",
+          "и лишь по золоту ходит?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "XV «Хороша твоя загадка, Гестумблинди, отгадана она. Это молот, который используют для ковки золота; он громко вскрикивает, когда попадает по твёрдой наковальне, и это его дорога»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что за чудо",
+          "видел я снаружи",
+          "пред дверью Деллинга:",
+          "двое неживых",
+          "бездыханных",
+          "ран чеснок варили?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "lines": [
+          "XVI «Хороша твоя загадка, Гестумблинди, отгадана она. Это кузнечные меха; в них нет никакого ветра, если их не надуют, и они мертвы, как любая вещь, но с ними можно выковать меч, как и ещё что-то»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что за чудо",
+          "видел я снаружи",
+          "пред дверью Деллинга:",
+          "восемь ног,",
+          "а глаза четыре,",
+          "и колени выше живота?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "lines": [
+          "XVII «Это паук»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что за чудо",
+          "видел я снаружи",
+          "пред дверью Деллинга:",
+          "головой показывает",
+          "на путь в Хель,",
+          "а ногами к солнцу повёрнут?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "prose",
+        "lines": [
+          "XVIII «Хороша твоя загадка, Гестумблинди, отгадана она. Это лук. Его голова крепко сидит в земле, и он ветвится, когда растёт»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что за чудо",
+          "видел я снаружи",
+          "пред дверью Деллинга:",
+          "рога твёрже,",
+          "ворона чернее,",
+          "щита белее,",
+          "рукояти прямее?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "XIX Хейдрек сказал: «Теперь загадки становятся проще, Гестумблинди, зачем дальше над ними сидеть? Это обсидиан, и на него посветил солнечный луч»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Несли невесты",
+          "светловолосые",
+          "две рабыни",
+          "пиво в светлицу;",
+          "ни руками скрученное,",
+          "ни молотком сколоченное,",
+          "но вне острова высился",
+          "тот, кто сделал его.",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "lines": [
+          "XX «Хороша твоя загадка, Гестумблинди, отгадана она. Это самки лебедя идут в своё гнездо и несут яйца; яичная скорлупа не руками сделана, не молотком сколочена, а высящийся вне острова — это лебедь, от которого они отложили яйца»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что за хозяйки",
+          "на высокой горе:",
+          "рожает от женщины женщина,",
+          "пока не родится отпрыск,",
+          "и нет у этих жён мужей?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "XXI «Хороша твоя загадка, Гестумблинди, отгадана она. Это два дягиля и побег дягиля между ними»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Я видел, едут",
+          "земли обитатели,",
+          "змей сидел на мертвеце;",
+          "слепой скакал на слепом",
+          "к дороге прибоя,",
+          "конь был бездыханный.",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "prose",
+        "lines": [
+          "XXII «Хороша твоя загадка, Гесту­м­ блинди, отгадана она. Ты нашёл мёртвого коня на льдине и мёртвую змею на этом коне, и всех вместе их несло по реке»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Кто эти мужи,",
+          "что прибывают на тинг",
+          "мирные совместно;",
+          "людей своих шлют",
+          "они через страны,",
+          "чтоб в дому поселить?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "lines": [
+          "XXIII «Хороша твоя загадка, Гесту­м­блинди, отгадана она. Это Ит­рек и Андад, которые сидят и играют в тавлеи»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что это за невесты,",
+          "что со своим господином",
+          "безоружным бьются;",
+          "те, что смуглей —",
+          "весь день защищают,",
+          "те, что красивей — наступают?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "lines": [
+          "XXIV «Хороша твоя загадка, Гестумблинди, отгадана она. Это хнеттавль 4; тёмные защищают короля, а белые нападают»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Кто сей одинокий,",
+          "что спит в яме пепла,",
+          "сотворённый из камня;",
+          "нет ни отца, ни матери",
+          "у сиять желающего,",
+          "там он жизнь проведёт?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "prose",
+        "lines": [
+          "XXV «Это огонь, скрытый в очаге, он загорается от кремня»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Кто сей великий,",
+          "что парит над землёй,",
+          "глотает он воду и дерево;",
+          "ветра он боится,",
+          "но не людей,",
+          "и к солнцу враждебен?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "prose",
+        "lines": [
+          "XXVI «Хороша твоя загадка, Гестумблинди, отгадана она. Это туман; он парит над землёй, и из-за него ничего не видно, и нет солнца, но он уходит, когда подует ветер»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что это за зверь,",
+          "что скот людской убивает,",
+          "и окружён снаружи железом:",
+          "имеет восемь рогов,",
+          "а головы не имеет,",
+          "и следуют ему весьма многие?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "prose",
+        "lines": [
+          "XXVII «Это медвежонок в хнеттавль»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что это за зверь,",
+          "что защищает данов,",
+          "кровавую несёт спину,",
+          "но людей спасает,",
+          "копья встречает,",
+          "даёт жизнь кому-то,",
+          "тело укладывает",
+          "у ладони человека?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "prose",
+        "lines": [
+          "XXVIII «Это щит; он часто становит­ ся окровавленным в битвах и хорошо бережёт людей, которые опытны со щитом»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что это за подруги,",
+          "что парят над землёй,",
+          "удивляя отца?",
+          "Белый щит",
+          "они несут зимой,",
+          "а чёрный летом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "lines": [
+          "XXIX «Это куропатки; они белые зимой, и чёрные летом»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Кто эти благородные девы,",
+          "что идут скорбящие,",
+          "удивляя отца?",
+          "Многим мужам",
+          "они вред причинили",
+          "и проведут так всю жизнь.",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "prose",
+        "lines": [
+          "XXX «Это невесты Хлера, как их называют»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что это за девы,",
+          "что ходят многие вместе,",
+          "удивляя отца:",
+          "светлые волосы",
+          "у них, белые уборы,",
+          "и нет у этих жён мужей?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "prose",
+        "lines": [
+          "XXXI «Это зыби, как их называют»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что это за вдовы,",
+          "что ходят многие вместе,",
+          "удивляя отца?",
+          "Редко ласковы",
+          "они к войску мужей",
+          "и на ветру должны",
+          "бодрствовать?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "prose",
+        "lines": [
+          "XXXII «Это вдовы Эгира, так называются волны»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Очень давно",
+          "выросла носатая гусыня,",
+          "собрала она, детолюбивая,",
+          "лес для дома;",
+          "защищали её",
+          "мечи соломы,",
+          "а лежала питья",
+          "лава шумная сверху."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "prose",
+        "lines": [
+          "XXXIII «Это утка построила своё гнездо между челюстей быка, и сверху лежал череп»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Кто этот великий,",
+          "что решает многое,",
+          "к Хель повёрнут наполовину;",
+          "людей спасает,",
+          "землю повреждает,",
+          "коль имеет надёжного друга?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "prose",
+        "lines": [
+          "XXXIV «Хороша твоя загадка, Гесту­мблинди, отгадана она. Это якорь с добрым канатом; если его лапа во дне, это помогает»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что это за невесты,",
+          "что ходят в пенных шхерах",
+          "и по фьорду путешествуют;",
+          "жёсткое ложе у тех",
+          "женщин в белых уборах,",
+          "и мало играют в затишье."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "prose",
+        "lines": [
+          "XXXV «Это волны, их ложе — скалы и камни, а в тихую погоду их становится мало»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Видел я летом",
+          "на закате,",
+          "добра пожелал я",
+          "весьма весёлым,",
+          "пили ярлы",
+          "молча пиво,",
+          "пивная бочка,",
+          "крича, стояла.",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "prose",
+        "lines": [
+          "XXXVI «Там поросята сосали свинью, а она визжала от этого»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что за чудо,",
+          "я видел снаружи",
+          "пред дверью Деллинга?",
+          "Десять языков,",
+          "двадцать глаз,",
+          "сорок ног,",
+          "снаружи ходит это существо.",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "prose",
+        "lines": [
+          "XXXVII Тогда конунг сказал: «Если ты — тот Гестумблинди, о котором я думал, то ты мудрее, чем я предполагал. А сейчас ты говоришь о свинье снаружи на дворе»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "prose",
+        "lines": [
+          "XXXVIII Конунг велел убить свинью, и в ней было девять поросят, как и сказал Гестумблинди. Тут конунг заподозрил, кто этот человек."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Четыре висят,",
+          "четыре идут,",
+          "два показывают путь,",
+          "два защищают от псов,",
+          "один болтается сзади",
+          "и всегда весьма грязный.",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "prose",
+        "lines": [
+          "XXXIX «Хороша твоя загадка, Гестумблинди, отгадана она. Это корова»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Сидел я на парусе,",
+          "видел я, мертвецы",
+          "кровавую плоть несут",
+          "в кору дерева."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "prose",
+        "lines": [
+          "XL «Ты сидел там на стене и видел сокола, несущего в скалы гагу»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Что это за двое,",
+          "у которых десять ног,",
+          "три глаза",
+          "и один хвост?",
+          "Конунг Хейдрек,",
+          "думай над загадкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "prose",
+        "lines": [
+          "XLI «Это Один скачет на Слейпнире». Тогда Гестумблинди сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Тогда сказал Гестумблинди:",
+          "Скажи последнее,",
+          "если ты мудрее",
+          "всех конунгов:",
+          "что сказал Один",
+          "Бальдру на ухо,",
+          "прежде чем на костёр",
+          "его подняли?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "prose",
+        "lines": [
+          "XLII Конунг Хейдрек говорит: «Об этом знаешь только ты, мерзкая тварь!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "prose",
+        "lines": [
+          "XLIII И тогда Хейдрек замахнулся Тюрвингом и рубанул по нему. Но Один обернулся соколом и полетел прочь. А конунг ударил его вслед и отсёк сзади хвостовое оперение, и поэтому сокол с тех пор такой короткохвостый."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "prose",
+        "lines": [
+          "XLIV Тогда Один сказал: «За то, что ты, конунг Хейдрек, посягнул на меня и хотел убить невиновного, тебя погубят наихудшие рабы»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "prose",
+        "lines": [
+          "XLV После этого они расстались."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "79",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"That would I have which I had yesterday;",
+          "heed what I had:",
+          "men’s hamperer, word’s hinderer,",
+          "and speeder of speech.",
+          "Aright read now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "give him ale! That hampers many a man’s wits; by it,",
+          "some become talkative, but other men’s wits are mazed.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"From home I hied me, and from home faring",
+          "I saw a way of ways:",
+          "was a way beneath and a way above,",
+          "and ways there were on all sides.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "You went over a bridge, the river ran under it, the birds flew above your head and on either side of you—that was their way.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What drink was it I drank yesterday?",
+          "twas neither wine nor water,",
+          "neither mead nor ale, nor meat, either;",
+          "yet went I thirstless thence.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is.",
+          "you lay down in the shade where the dew had fallen on the grass, and this cooled your lips and quenched your thirst.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Harshly he clangs, on hard paths treading",
+          "which he has fared before.",
+          "Two mouths he has, and mightily kisses,",
+          "and on gold alone he goes.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is the goldsmith’s hammer with which gold is beaten.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who is the great one that glides o’er the earth,",
+          "and swallows both waters and woods?",
+          "The wind he fears, but wights nowise,",
+          "and seeks to harm the sun.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "That is the fog. One cannot see the sun because of him, but he disappears when the wind blows, and men can do naught against him. He kills the light of the sun.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who is the mighty one who o’er much has sway,",
+          "the half of whom turns toward Hel?",
+          "He saves many men but slashes the earth,",
+          "if fast with trusty friend.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "That is the anchor, with a stout and strong rope. It guards many a ship. It grips the earth with one fluke which thus turns Hel-ward. Many a man has been saved by it.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"On high fells what lives? What falls in deep dales?",
+          "Without air what lives? What is not ever silent?",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "the raven always lives on high fells, the dew always falls in deep dales, the fish live without air, and the roaring waterfall is never silent.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What marvel is it which without I saw,",
+          "before Delling’s-door,",
+          "with his head ever Hel-ward turning,",
+          "with his feet seeking the sun.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "That is the leek: its head turns into the earth, but the leaves, upward.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What marvel is it which without I saw,",
+          "before Delling’s-door?",
+          "Were twain briskly, and breathless withal.",
+          "boiling a wand-of-wounds.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "they are the smith’s bellows; they blow but have no breath.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What marvel is it which without I saw,",
+          "before Delling’s-door?",
+          "The white fliers on the flagstones bounded.",
+          "but the swart ones sank in the sand.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "they are hail and rain; because the hail beats on the flags, but the rain drops sink in the sand and go into the ground.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What marvel is it which without I saw,",
+          "before Delling’s-door?",
+          "A black boar saw I bask in the mud,",
+          "yet no bristles stood on his back.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is the dung-beetle.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What marvel is it which without I saw,",
+          "before Delling’s-door?",
+          "Ten tongues has it, has twenty eyes",
+          "and forty feet, slowly fares that wight.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "you saw a sow in the farmyard with nine shoats in her. Then the king had the sow killed, and nine pigs were found in her, just as Gestumblindi had said.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What marvel is it which without I saw,",
+          "before Delling’s-door?",
+          "Upward it flies with eagle’s voice,",
+          "and hard grip its claws the helmet.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is the arrow.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What marvel is it which without I saw,",
+          "before Delling’s-door?",
+          "Eight feet it has and four eyes,",
+          "and its knees are above its belly.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "it is the spider.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What marvel is it which without I saw,",
+          "before Delling’s-door?",
+          "It lights for men, and swallows up lights,",
+          "and wolves seek ever to win it.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is the Sun. He lights all the world and shines on all men; but there are two wolves, hight Skalli and Hatti, one of whom goes before, and the other follows, the sun.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What marvel is it which without I saw,",
+          "before Delling’s-door?",
+          "Harder than horn, blacker than Hel,",
+          "whiter than shell of egg, straighter than shaft of spear.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is obsidian, with the sun shining on it.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Two brides did bear, white-blond their locks,",
+          "and house-maids were they ale-casks homeward;",
+          "were they not shaped by hand nor by hammers wrought;",
+          "yet upright sate he on the isles, who made them.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "you saw two female swans going to their nests to lay their eggs. Their shells are neither hand-made nor wrought by hammers; but the he-swan sits out on the islands, he that gat their eggs with them.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who be the women on wilding fell?",
+          "One bears a babe by the other,",
+          "and maid by maid a man-child begets,",
+          "yet man has not touched these maids.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "they are two angelica stalks standing together, with a shoot coming up between them.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who be the women who, weaponless,",
+          "for their king kill each other?",
+          "Every day the dark ones shield him,",
+          "but the fair ones aye go forth.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "That is the game of hneftafl: weaponless, the figures slay each other for the sake of their king. The red ones are his followers.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who be the playmates that pass over the lands,",
+          "seeming fair to their father?",
+          "A white shield they show in winter,",
+          "and a swart one in summer.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "they are the ptarmigans. They are white in winter and black in summer.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who be the sisters that sorrowing fare,",
+          "seeming fair to their father?",
+          "Many a man their might hath known",
+          "and thus they live their lives.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "They are the billows. They are called the maids of Ægir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who be the maids that fare, many together,",
+          "seeming fair to their father?",
+          "Whitish hair have the white-hooded ones,",
+          "and no man is with the maids.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "but these are the waves, as before.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who be the widows that band all together,",
+          "seeming fair to their father?",
+          "They are seldom kind to sailor-folk,",
+          "and are wide awake in the wind.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "they are Ægir’s widows. Thus are called the breakers.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who be the women that wade in the surf",
+          "and fare along the firths?",
+          "A hard bed have the white-hooded ones,",
+          "and quiet are they in calm.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "they are the billows—their beds are skerries and shingle, and they become somewhat sluggish in calm weather.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"I saw traveling a soil’s-earth-dweller,",
+          "a corpse sate on a corpse;",
+          "one blind rode a blind thing to the billows-road,",
+          "and no life was in the nag.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "you came to a river, and an ice-floe floated down it. On the floe lay a dead horse, and on the horse, a dead snake; so that one blind thing rode another blind thing.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What creature kills the cattle men have,",
+          "and is iron-clad, without?",
+          "Eight horns it has, but head it has none,",
+          "and runs when run it may.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is the húnn on the checkerboard. It shares its name with the bear, and it runs as soon as it is overthrown.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"What beast is it which brave men shelters?",
+          "It has a bloody back and wards off blows,",
+          "goes against spears, life-giving to some.",
+          "Against lords left hand it lays its body.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is the shield. It often becomes bloody in battle, shielding those men who are handy with it.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Greatly had grown a goose with big neb,",
+          "had brought timber together, for goslings eager.",
+          "Gave shelter to her the sheaves bite-swords;",
+          "but above it lay the drink’s dinful-rockcave,",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is a duck which had built her nest between the jaws of an ox, with the skull roofing above it.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Four do hang and four do gang;",
+          "two show the way, two ward off dogs;",
+          "one drags after, most often dirty.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is a cow. She has four feet and four tits, two horns and two eyes, and her tail drags after her.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who is the one that in the ashpit sleeps:",
+          "and is only struck out of stone?",
+          "Neither father nor mother has the greedy fiend",
+          "there he wants to live his life.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is the fire hidden in the hearth—it is struck out of flint.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "73",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"A stallion stood bestriding a mare;",
+          "he put buttock neath belly and bobbed with his tail.",
+          "Draw it out and in, work at it long!",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that horse is a piece of linen on the loom. His mare is the weaver’s reed, and up and down is the web to be shaken.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who be the thanes to the thing who ride?",
+          "Sixteen are in that set.",
+          "Their liege-men send they over all the lands,",
+          "to seek a place to settle.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "they are Itrek and Andath sitting on their checkerboard.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"In the summer saw I, at sunset time,",
+          "a merry band at festive board;",
+          "the men did drink their mead in peace,",
+          "the while the mead-keg muttering stood.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is a sow with her shoats. When the pigs suck her she grunts, while they keep quiet.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Maidens saw I which were much like dust;",
+          "boulders served them as beds.",
+          "Are they swart and sallow in sunny weather,",
+          "but the fairer, the fainter the light.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "they are the gledes dying on the hearth.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"On a sail I sate and saw dead men",
+          "who a blood-vein bore to the bark of a tree.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "You sate on a wall and saw a falcon bear an eider duck to the cliff.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Who are the twain that on ten feet run?",
+          "three eyes they have, but only one tail.",
+          "Aright guess now this riddle, Heithrek!\"",
+          "Heithrek said:",
+          "\"Good is thy riddle, Gestumblindi,",
+          "and guessed it is:",
+          "that is Óthin riding on Sleipnir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Gestumblindi said:",
+          "\"Guess one more riddle, since wiser thou seemest",
+          "than any other wight:",
+          "what said Óthin in Baldr’s ear",
+          "before he was borne to the fire?\"",
+          "Heithrek said:",
+          "\"But wicked spells and wantonness",
+          "I ween that it was:",
+          "the words thou spakest no wight knoweth",
+          "but thou, ill and unclean wight.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

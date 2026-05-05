@@ -1,20 +1,20 @@
-import React, { useMemo, useState } from "react";
-import { FlatList, Pressable, ScrollView, StyleSheet, Text, TextInput, View } from "react-native";
 import { router, Stack } from "expo-router";
+import React, { useMemo, useState } from "react";
 import { useTranslation } from "react-i18next";
+import { FlatList, Pressable, ScrollView, StyleSheet, Text, TextInput, View } from "react-native";
 
-import { getPoemsList } from "@/src/lib/poems";
+import ThmrIcon from "@/assets/images/thmr.svg";
+import PressableCard from "@/src/components/ui/PressableCard";
 import { useAppTheme } from "@/src/hooks/use-app-themes";
 import { useFontScale } from "@/src/hooks/use-font-scale";
+import { getPoemsList } from "@/src/lib/poems";
+import { normalizeSearchValue } from "@/src/lib/search";
 import { useAppSettingsStore } from "@/src/store/settings.store";
 import { radius } from "@/src/theme/radius";
 import { spacing } from "@/src/theme/spacing";
 import { typography } from "@/src/theme/typography";
-import ThmrIcon from "@/assets/images/thmr.svg";
-import { normalizeSearchValue } from "@/src/lib/search";
-import PressableCard from "@/src/components/ui/PressableCard";
-import { SafeAreaView, useSafeAreaInsets } from "react-native-safe-area-context";
 import { LinearGradient } from "expo-linear-gradient";
+import { SafeAreaView, useSafeAreaInsets } from "react-native-safe-area-context";
 
 export default function PoemsScreen() {
 	const { i18n } = useTranslation();
@@ -31,7 +31,7 @@ export default function PoemsScreen() {
 			return poems;
 		}
 		return poems.filter((poem) => {
-			return normalizeSearchValue(poem.title.on).includes(query) || normalizeSearchValue(poem.title.ru).includes(query) || normalizeSearchValue(poem.title.en).includes(query);
+			return normalizeSearchValue(poem.title.on).includes(query) || normalizeSearchValue(poem.title.ru).includes(query) || (poem.title.en ? normalizeSearchValue(poem.title.en).includes(query) : false);
 		});
 	}, [poems, searchQuery]);
 	const continueTitle = lastOpenedPoem ? (uiLanguage === "ru" ? lastOpenedPoem.titleRu : lastOpenedPoem.titleEn) : "";
@@ -250,7 +250,7 @@ export default function PoemsScreen() {
 						scrollEnabled={false}
 						contentContainerStyle={styles.listContent}
 						renderItem={({ item }) => {
-							const translatedTitle = uiLanguage === "ru" ? item.title.ru : item.title.en;
+							const translatedTitle = uiLanguage === "ru" ? item.title.ru : item.title.en || item.title.on;
 
 							return (
 								<PressableCard

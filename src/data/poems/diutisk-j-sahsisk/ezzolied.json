@@ -1,0 +1,134 @@
+{
+  "slug": "ezzolied",
+  "key": "Ezzolied",
+  "title": {
+    "on": "Ezzolied",
+    "ru": "Эццолид"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": "Cantilena de Miraculis Christi"
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Перевод: А. С. Центнер, \"Семиотический анализ явления «аутореферентности» и типология критериев устного в письменном.\"",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Vorauer Fassung (V)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "heading",
+        "lines": [
+          "5 (III)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Got mit sîner gewalt",
+          "der wurchet zeichen",
+          "vil manecvalt.",
+          "der worhte den",
+          "mennischen einen",
+          "ûzzen von aht teilen:",
+          "von dem leime",
+          "gab er ime das fleisch,",
+          "der tow becêchenit",
+          "den sweihc,",
+          "von dem steine",
+          "gab er ime daz pein",
+          "(des nist zwîvil nehein),",
+          "von den wurcen",
+          "gab er ime di âdren,",
+          "von dem grase",
+          "gab er ime daz hâr,",
+          "von dem mere",
+          "gab er ime daz pluot,",
+          "von den wolchen",
+          "daz muot;",
+          "duo habet er ime begunnen",
+          "der ougen von der sunnen.",
+          "er verlêh ime sînen âtem,",
+          "daz wir ime den behîlten,",
+          "unte sînen gesin,",
+          "daz wir ime îmer",
+          "woucherente sîn."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Вариант из Форау"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "heading",
+        "lines": [
+          "5 (III)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Бог своей силой,",
+          "он творит чудес (знаков?)",
+          "много разных.",
+          "он создал",
+          "человека одного",
+          "из восьми частей:",
+          "из глины (грязи)",
+          "дал он ему плоть,",
+          "роса означает пот,",
+          "из камня",
+          "дал он ему кости",
+          "(в том нет никакого",
+          "сомнения),",
+          "из ? (червей?)",
+          "дал он ему жилы,",
+          "из травы",
+          "дал он ему волосы,",
+          "из моря",
+          "дал он ему кровь,",
+          "из туч душу (ум)..."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

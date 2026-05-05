@@ -1,0 +1,1031 @@
+{
+  "slug": "haustlong",
+  "key": "Haustlong",
+  "title": {
+    "on": "Haustlöng",
+    "ru": "Длиною в осень",
+    "en": "As long as autumn"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред.  Guðni Jónsson, Edda Snorra Sturlusonar. Перевод на русский язык: О. А. Смирницкая (Младшая Эдда. — Л.: Наука, 1970)",
+    "en": "An ancient Icelandic text, edited by  Guðni Jónsson, Edda Snorra Sturlusonar. Translation by Henry Arthur Gilchrist Brodeur, 1916."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Hvé skalk góðs at gjöldum",
+          "gunnveggjar brú leggja",
+          "raums, es rökkum sœmi",
+          "raddsveif at Þorleifi.",
+          "Týframra sék tíva",
+          "trygglaust of far þriggja",
+          "á hreingöru hlýri",
+          "Hildar fats ok Þjaza."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Segjöndum fló sagna",
+          "snótar ulfr at móti",
+          "í gemlis ham gömlum",
+          "glamma ófyrskömmu.",
+          "Settisk örn, þars æsir,",
+          "ár-Gefnar mat báru",
+          "(vasa byrgi-Týr bjarga",
+          "bleyði vændr) á seyði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Tormiðlaðr vas tívum",
+          "tálhreinn meðal beina;",
+          "hvat kvað hapta snytrir",
+          "hjalmfaldinn því valda.",
+          "Margspakr of nam mæla",
+          "már valkastar báru",
+          "(vasa Hœnis vinr hánum",
+          "hollr) af fornum þolli."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Fjallgylðir bauð fyllar",
+          "fet-Meila sér deila",
+          "(hlaut) af helgum skutli",
+          "(hrafn-ásar vinr blása).",
+          "Ving-Rögnir lét vagna",
+          "vígfrekr ofan sígask,",
+          "þars vélsparir váru",
+          "varnendr goða farnir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Fljótt bað foldar dróttinn",
+          "Fárbauta mög Várar",
+          "þekkiligr með þegnum",
+          "þrymseilar hval deila.",
+          "En af breiðu bjóði",
+          "bragvíss at þat lagði",
+          "ósvífrandi ása",
+          "upp þjórhluti fjóra."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Ok slíðrliga síðan",
+          "svangr (vas þat fyr löngu)",
+          "át af eikirótum",
+          "okbjörn faðir Mörnar,",
+          "áðr djúphugaðr dræpi",
+          "dolg ballastan vallar",
+          "hirði-Týr meðal herða",
+          "herfangs ofan stöngu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Þá varð fastr við fóstra",
+          "farmr Sigynjar arma,",
+          "sás öll regin eygja,",
+          "öndurgoðs, í böndum;",
+          "loddi rá við ramman",
+          "reimuð Jötunheima,",
+          "en holls vinar Hœnis",
+          "hendr við stangar enda."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Fló með fróðgum tívi",
+          "fangsæll of veg langan",
+          "sveita nagr, svát slitna",
+          "sundr Ulfs faðir mundi.",
+          "Þá varð Þórs of rúni",
+          "(þungr vas Loptr of sprunginn)",
+          "málunaut, hvats mátti,",
+          "Miðjungs friðar biðja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Sér bað sagna hrœri",
+          "sorgœran mey fœra,",
+          "þás ellilyf ása,",
+          "áttrunnr Hymis, kunni.",
+          "Brunnakrs of kom bekkjar",
+          "Brísings goða dísi",
+          "girðiþjófr í garða",
+          "grjót-Níðaðar síðan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Urðut bjartra borða",
+          "byggvendr at þat hryggvir:",
+          "þá vas Ið- með jötnum",
+          "-unnr nýkomin sunnan.",
+          "Gerðusk allar áttir",
+          "Yngvi-Freys at þingi",
+          "(váru heldr) ok hárar",
+          "(hamljót regin) gamlar,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "unz hrunsævar hræva",
+          "hund öl-Gefnar fundu",
+          "leiðiþir ok læva",
+          "lund öl-Gefnar bundu.",
+          "\"Þú skalt véltr, nema vélum,\"",
+          "— vreiðr mælti svá — \"leiðir,",
+          "munstœrandi mæra",
+          "mey aptr, Loki, hapta.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Heyrðak svá, þat síðan",
+          "sveik apt ásu leiku",
+          "hugreynandi Hœnis",
+          "hauks flugbjalfa aukinn,",
+          "ok lómhugaðr lagði",
+          "leikblaðs Reginn fjaðrar",
+          "ern at öglis barni",
+          "arnsúg faðir Mörnar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Hófu skjótt, en skófu,",
+          "sköpt, ginnregin, brinna,",
+          "en sunr biðils sviðnar",
+          "(sveipr varð í för) Greipar.",
+          "Þats of fátt á fjalla",
+          "Finns iljabrú minni.",
+          "Baugs þák bifum fáða",
+          "bifkleif at Þórleifi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "Ásu er svá rétt at kenna at kalla einn hvern annars nafni ok kenna við verk sín eða eign eða ættir. ‖"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Eðr of sér, es jötna",
+          "ótti lét of sóttan",
+          "hellis bör, á hyrjar,",
+          "haugs Grjótúna, baugi.",
+          "Ók at ísarnleiki",
+          "Jarðar sunr, en dunði",
+          "(móðr svall Meila blóða)",
+          "mána vegr und hánum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Knáttu öll, en Ullar,",
+          "endilág, fyr mági ‖",
+          "grund vas grápi hrundin,",
+          "ginnunga vé brinna,",
+          "þás hofregin hafrar",
+          "hógreiðar framm drógu",
+          "(seðr gekk Svölnis ekkja",
+          "sundr) at Hrungnis fundi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Þyrmðit Baldrs of barmi",
+          "(berg) solgnum þar dolgi",
+          "(hristusk björg ok brustu)",
+          "brann upphiminn, manna.",
+          "Mjök frák móti hrøkkva",
+          "myrkbeins Haka reinar,",
+          "þás vígligan, vagna",
+          "vátt, sinn bana þátti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Brátt fló bjarga gæti",
+          "— bönd ollu því — randa",
+          "ímunfölr und iljar",
+          "íss; vildu svá dísir.",
+          "Varðat höggs frá hörðum",
+          "hraundrengr þaðan lengi",
+          "trjónu trolls of rúna",
+          "tíðs fjöllama at bíða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Fjörspillir lét falla",
+          "fjalfrs ólágra gjalfra",
+          "bölverðungar Belja",
+          "bolm á randar holmi.",
+          "Þar hné grundar gilja",
+          "gramr fyr skörpum hamri,",
+          "en berg-Dana bagði",
+          "brjótr við jörmunþrjóti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Ok harðbrotin herju",
+          "heimþingaðar Vingnis",
+          "hvein í hjarna mœni",
+          "hein at Grundar sveini,",
+          "þar svát eðr í Óðins",
+          "ólaus burar hausi",
+          "stála vikr of stokkin",
+          "stóð Eindriða blóði,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "áðr ór hneigihlíðum",
+          "hárs öl-Gefjun sára",
+          "reiði-Týs it rauða",
+          "ryðs hœliböl gœli.",
+          "Görla lítk á Geitis",
+          "garði þær of farðir.",
+          "Baugs þák bifum fáða",
+          "bifkleif at Þorleifi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "lines": [
+          "Þá mælti Ægir: «Mikill þótti mér Hrungnir fyrir sér. Vann Þórr meira þrekvirki nökkut, þá er hann átti við troll?»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Как добром ответить",
+          "за утёса голос,",
+          "мост стены сраженья —",
+          "Торлейва подарок?",
+          "Видит скальд: на глади",
+          "храброй Хильд наряда",
+          "трёх божеств фигуры —",
+          "рядом с ними Тьяци."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "К саг творцам на встречу",
+          "волк жены явился",
+          "с шумом в первобытном",
+          "облике орлином.",
+          "Сел Тюр скал чертога",
+          "к очагу, где асы",
+          "коня Гевн колосьев",
+          "возложили, смелый."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Перегноя лося",
+          "резать трудно, ратный",
+          "рёк Оков наставник:",
+          "«Чую, верно, чары».",
+          "Чайка трупов мудрый",
+          "молвить начал с древа —",
+          "Хенира друг к гостю",
+          "дружбой не проникся."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Хищник дерзкий — пламя",
+          "жжёт друг аса вранов —",
+          "просит поступь Мейли",
+          "жертвой поделиться.",
+          "Рёгнир, кровожадный",
+          "враг китов, спустился",
+          "с ветви к простодушным",
+          "стражам асов k верным."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Повелитель суши",
+          "Фарбаути сыну",
+          "повелел разделать",
+          "вепря волн Вар лука.",
+          "Вмиг четыре части",
+          "с трапезного места",
+          "утащил крылатый",
+          "неприятель асов."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Мёрн отец прожорлив —",
+          "враз увлёк в утробу",
+          "у корней дубовых",
+          "хомута медведя.",
+          "Хитрый изловчился",
+          "жердью Тюр проворства",
+          "наглого меж крыльев",
+          "Ёрд врага ударить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Груз рук Сигюн (ныне",
+          "скованный богами)",
+          "дисы лыж кормильца",
+          "чарами был пойман:",
+          "призрак Ётунхейма",
+          "к древку прилепился —",
+          "к жерди руки друга",
+          "Хенира пристали."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Вдаль орёл довольный",
+          "улетел с добычей.",
+          "Мудрый отец Волка",
+          "был истерзан сильно.",
+          "Молит спутник Тора,",
+          "сломлен и раздавлен,",
+          "о пощаде друга",
+          "Мидьюнга Лопт просит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Ётунy саг смутьяну",
+          "выкрасть велит деву,",
+          "ведавшую средство",
+          "молодости асов.",
+          "Бруннакра истоков",
+          "дису вор Брисинга",
+          "пояса доставил",
+          "в Нидуда скал залы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Рад народ скал граней",
+          "был, когда осталась",
+          "вихрь — меж великанов —",
+          "волн — богиня с юга.",
+          "Ингви-Фрейра разом",
+          "поседел род, боги",
+          "старыми на тинге",
+          "на скамьях сидели,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "не нашли покуда",
+          "пива Гевн пса моря",
+          "трупов, не связали",
+          "дерево обманов.",
+          "Гневный рёк: «Жди кары,",
+          "Лопт, не умыкнёшь коль",
+          "деву, что дарила",
+          "для Оков отраду»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Хенира пытатель",
+          "дум подругу асов",
+          "вызволил уловкой",
+          "на сокольих крыльях.",
+          "Мёрн отец коварный,",
+          "Регин лезвий перьев,",
+          "гнал дитя соколье",
+          "бурею орлиной."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Пламенем пожара",
+          "Асы путь прервали — Грейп любви потомок",
+          "опалённый сгинул.",
+          "На мосту скал финна",
+          "вижу я всё ясно:",
+          "щит, историй полный,",
+          "Торлейв подарил мне."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "Асов можно обозначать именем любого другого аса, прибавляя к этому имени название их собственности, деяния либо родства."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Зрю на щита кольцах",
+          "огненных — страх турсов",
+          "едет к древу грота",
+          "Грётуна могилы.",
+          "Ёрд сын к пляске стали",
+          "правил, сотрясалась",
+          "месяца дорога,",
+          "рос гнев брата Мейли."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Ястребов чертоги",
+          "заревом пылали,",
+          "градом молотило",
+          "почву — родич Улля",
+          "в колесницу впрыгнул,",
+          "к Хрунгниру помчался —",
+          "Свёльнира вдовица",
+          "чуть не раскололась."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Не щадил брат Бальдра",
+          "турса, бились скалы",
+          "рушились утёсы,",
+          "небеса пылали.",
+          "Слышал я, мол, житель",
+          "кости земли Хаки",
+          "скор был к обороне,",
+          "лишь узнав пришельца."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Льдистый щит под ноги",
+          "уронил страж камня —",
+          "так судили боги,",
+          "так решили дисы.",
+          "Скал хозяин долго",
+          "ждать не стал ударов",
+          "твёрдого знакомца",
+          "страшной морды тролля."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Бели войск убийца",
+          "злобных вмиг заставил",
+          "пасть медведя гротов",
+          "на ладьи глазницу.",
+          "Тотчас под могучим",
+          "молота ударом",
+          "гибели скал данов",
+          "сгинул гор правитель."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Твёрдое точило",
+          "Вингнира чертогов",
+          "гость со свистом бросил",
+          "в голову Грунд парня.",
+          "В кровле мозга сына",
+          "Одина осколок",
+          "залитый Эйндриди",
+          "кровью остаётся,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "пока Гевьюн эля",
+          "из чела ран Тюра",
+          "ржавчины убийцу",
+          "песней не изгонит.",
+          "На ограде ясно",
+          "Гейтира то вижу.",
+          "Получил я щит от",
+          "Торлейва в подарок."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "lines": [
+          "Тогда сказал Эгир: «Думается мне, Хрунгнир был могучим великаном! А приходилось ли Тору, имея дело с великанами, совершать и другие богатырские подвиги?»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "How shall I make voice-payment",
+          "Meetly for the shield-bridge",
+          ". . . . . . .",
+          "Of the war-wall Thórleifr gave me?",
+          "I survey the truceless faring",
+          "Of the three gods strife-foremost,",
+          "And Thjatsi's, on the shining",
+          "Cheek of the shield of battle."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "The Spoiler of the Lady",
+          "Swiftly flew with tumult",
+          "To meet the high god-rulers",
+          "Long hence in eagle-plumage;",
+          "The erne in old days lighted",
+          "Where the Æsir meat were bearing",
+          "To the fire-pit; the Giant",
+          "Of the rocks was called no faint-heart."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "The skilful god-deceiver",
+          "To the gods proved a stern sharer",
+          "Of bones: the high Instructor",
+          "Of Æsir, helmet-hooded,",
+          "Saw some power checked the seething;",
+          "The sea-mew, very crafty.",
+          "Spake from the ancient tree-trunk;",
+          "Loki was ill-willed toward him."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "The wolfish monster ordered",
+          "Meili's Sire to deal him",
+          "Food from the holy trencher:",
+          "The friend of Him of Ravens",
+          "To blow the fire was chosen;",
+          "The Giant-King, flesh-greedy,",
+          "Sank down, where the guileless",
+          "Craft-sparing gods were gathered."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "The comely Lord of All Things",
+          "Commanded Loki swiftly",
+          "To part the bull's-meat, slaughtered",
+          "By Skadi's ringing bow-string,",
+          "Among the folk, but straightway",
+          "The cunning food-defiler",
+          "Of the Æsir filched-the quarters,",
+          "All four, from the broad table."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "And the hungry Sire of Giants",
+          "Savagely ate the yoke-beast",
+          "From the oak-tree's sheltering branches,",
+          "That was in ancient ages,",
+          "Ere the wise-minded Loki,",
+          "Warder of war-spoil, smote him,",
+          "Boldest of foes of Earth-Folk,",
+          "With a pole betwixt the shoulders."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "The Arm-Burden then of Sigyn,",
+          "Whom all the gods in bonds see.",
+          "Firmly forthwith was fastened",
+          "To the Fosterer of Skadi;",
+          "To Jötunheim's Strong Dweller",
+          "The pole stuck, and the fingers",
+          "Of Loki too, companion",
+          "Of Hœnir, clung to the pole's end."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "The Bird of Blood flew upward",
+          "(Blithesome in his quarry)",
+          "A long way off with Loki,",
+          "The lither God, that almost",
+          "Wolf's Sire was rent asunder;",
+          "Thor's friend must sue for mercy,",
+          "Such peace as he might purchase",
+          "To pray: nigh slain was Loptr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Then Hymir's Kinsman ordered",
+          "The crafty god, pain-maddened,",
+          "To wile to him the Maiden",
+          "Who warded the Æsir's age-cure;",
+          "Ere long the necklace-robber,",
+          "Brísinga's thief, lured slyly",
+          "The Dame of Brunnakr's brooklet",
+          "Into the Base One's dwelling."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "At that the steep slope-dwellers",
+          "No sorrow felt; then Idunn",
+          "Was from the south, by giants",
+          "New-stolen, come among them.",
+          "All Ingvi-Freyr's high kindred,",
+          "Hoary and old, to council.",
+          "Hasted; grewsome of fashion",
+          "And ugly all the gods were."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "This heard I, that the Staunch Friend",
+          "Of Hœnir oft thereafter",
+          "With wiles he tricked the Æsir",
+          "Flew, in hawk-wings hidden;",
+          "And the vile Sire of Giants,",
+          "Vigorous Wing-Plume-Wielder,",
+          "Hurtled on eagle-pinion",
+          "After the hawk-shaped Loki."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Swiftly the gods have kindled",
+          "A fire; and the sovereign rulers",
+          "Sustained the flame with shavings:",
+          "Scorched was the flying giant,",
+          "He plunged down in mid-soaring:",
+          "Tis pictured on the giant's",
+          "Sole-bridge, the shield which, painted",
+          "With stories, Thórleifr gave me."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "On the high and painted surface",
+          "Of the hollow shield, still further",
+          "One may see how the Giant's Terror",
+          "Sought the home of Grjótún;",
+          "The angry son of Jörd drove",
+          "To the play of steel; below him",
+          "Thundered the moon-way; rage swelled",
+          "In the heart of Meili's Brother."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "All the bright gods high mansions",
+          "Burned before Ullr's kinsman;",
+          "With hail the earth was beaten",
+          "Along his course, when the he-goats",
+          "Drew the god of the smooth wain forward",
+          "To meet the grisly giant:",
+          "The Earth, the Spouse of Odin,",
+          "Straightway reft asunder."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "No truce made Baldr's brother",
+          "With the bitter foe of earth-folk.",
+          "Rocks shook, and crags were shivered;",
+          "The shining Upper Heaven",
+          "Burned; I saw the giant",
+          "Of the boat-sailed sea-reef waver",
+          "And give way fast before him,",
+          "Seeing his war-like Slayer."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Swiftly the shining shield-rim",
+          "Shot neath the Cliff-Ward's shoe-soles;",
+          "That was the wise gods mandate,",
+          "The War-Valkyrs willed it.",
+          "The champion of the Waste-Land",
+          "Not long thereafter waited",
+          "For the speedy blow delivered",
+          "By the Friend of the snout-troll's crusher."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "He who of breath despoileth",
+          "Beli's baleful hirelings",
+          "Felled on the shield rim-circled",
+          "The fiend of the roaring mountain;",
+          "The monster of the glen-field",
+          "Before the mighty hammer",
+          "Sank, when the Hill-Danes Breaker",
+          "Struck down the hideous caitiff."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Then the hone hard-broken",
+          "Hurled by the Ogress-lover",
+          "Whirred into the brain-ridge",
+          "Of Earth's Son, that the whetter",
+          "Of steels, sticking unloosened",
+          "In the skull of Odin's offspring.",
+          "Stood there all besprinkled",
+          "With Einridi's blood."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Until the wise ale-goddess,",
+          "With wondrous lays, enchanted",
+          "The vaunted woe, rust-ruddy,",
+          "From the Wain-God's sloping temples;",
+          "Painted on its circuit",
+          "I see them clearly pictured:",
+          "The fair-bossed shield, with stories",
+          "Figured, I had from Thórlelfr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

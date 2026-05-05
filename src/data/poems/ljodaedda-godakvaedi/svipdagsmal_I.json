@@ -1,0 +1,728 @@
+{
+  "slug": "svipdagsmal-I",
+  "key": "Svipdagsmal-I",
+  "title": {
+    "on": "Svipdagsmál I",
+    "ru": "Речи Свипдага I",
+    "en": "The Lay of Fjolsvinn"
+  },
+  "subtitle": {
+    "on": "Grógaldr, er hún gól syni sínum dauð",
+    "ru": "Заклинание Гроа, которое она, мертвая, спела своему сыну",
+    "en": "The spell of Groa, which she, dead, sang to her son"
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson, Eddukvæði (Sæmundar-Edda). 2 vols. 1949–54. Текст на русском языке в переводе Н. Топчий",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson, Eddukvæði (Sæmundar-Edda). 2 vols. 1949–54. Translation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Sonr kvað:",
+          "«Vaki þú, Gróa,",
+          "vaki þú, góð kona,",
+          "vek ek þik dauðra dura,",
+          "ef þú þat mant,",
+          "at þú þinn mög bæðir",
+          "til kumbldysjar koma.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Gróa kvað:",
+          "«Hvat er nú annt",
+          "mínum eingasyni,",
+          "hverju ertu nú bölvi borinn,",
+          "er þú þá móður kallar,",
+          "er til moldar er komin",
+          "ok ór ljóðheimum liðin?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Sonr kvað:",
+          "«Ljótu leikborði",
+          "skaut fyr mik in lævísa kona,",
+          "sú er faðmaði minn föður;",
+          "þar bað hon mik koma,",
+          "er kvæmtki veit,",
+          "móti Menglöðu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Gróa kvað:",
+          "«Löng er för,",
+          "langir ro farvegar,",
+          "langir ro manna munir,",
+          "ef þat verðr,",
+          "at þú þinn vilja bíðr,",
+          "ok skeikar þá Skuld at sköpum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Sonr kvað:",
+          "«Galdra þú mér gal,",
+          "þá er góðir eru,",
+          "bjarg þú, móðir, megi;",
+          "á vegum allr",
+          "hygg ek, at ek verða muna,",
+          "þykkjumk ek til ungr afi.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Gróa kvað:",
+          "«Þann gel ek þér fyrstan,",
+          "— þann kveða fjölnýtan,",
+          "þann gól Rindi Rani, —",
+          "at þú of öxl skjótir,",
+          "því er þér atalt þykkir;",
+          "sjalfr leið þú sjalfan þik."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Þann gel ek þér annan,",
+          "ef þú árna skalt",
+          "viljalauss á vegum,",
+          "Urðar lokur",
+          "haldi þér öllum megum,",
+          "er þú á sinnum sér."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Þann gel ek þér inn þriðja,",
+          "ef þér þjóðáar",
+          "falla at fjörlotum,",
+          "Horn ok Ruðr",
+          "snúisk til heljar meðan,",
+          "en þverri æ fyr þér."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Þann gel ek þér inn fjórða,",
+          "ef þik fjándr standa",
+          "görvir á galgvegi,",
+          "hugr þeim hverfi",
+          "til handa þér,",
+          "ok snúisk þeim til sátta sefi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Þann gel ek þér inn fimmta,",
+          "ef þér fjöturr verðr",
+          "borinn at boglimum,",
+          "Leifnis elda læt ek",
+          "þér fyr legg of kveðinn,",
+          "ok stökkr þá láss af limum,",
+          "en af fótum fjöturr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Þann gel ek þér inn sétta,",
+          "ef þú á sjó kemr",
+          "meira en menn viti,",
+          "logn ok lögr",
+          "gangi þér í lúðr saman",
+          "ok léi þér æ friðdrjúgrar farar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Þann gel ek þér inn sjaunda,",
+          "ef þik sækja kemr",
+          "frost á fjalli háu,",
+          "hræva kulði",
+          "megi-t þínu holdi fara,",
+          "ok haldisk æ lík at liðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Þann gel ek þér inn átta,",
+          "ef þik úti nemr",
+          "nótt á niflvegi,",
+          "at því firr megi",
+          "þér til meins gera",
+          "kristin dauð kona."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Þann gel ek þér inn níunda,",
+          "ef þú við inn naddgöfga",
+          "orðum skiptir jötun,",
+          "máls ok mannvits",
+          "sé þér á minni ok hjarta",
+          "gnóga of gefit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Far þú nú æva,",
+          "þar er forað þykkir,",
+          "ok standi-t þér mein fyr munum;",
+          "á jarðföstum steini",
+          "stóð ek innan dura,",
+          "meðan ek þér galdra gól."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Móður orð",
+          "ber þú, mögr, heðan",
+          "ok lát þér í brjósti búa;",
+          "iðgnóga heill",
+          "skaltu of aldr hafa,",
+          "meðan þú mín orð of mant.»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Сын сказал:",
+          "Пробуждайся, о Гроа,",
+          "пробуждайся, благая жена,",
+          "бужу я тебя перед",
+          "дверью смерти.",
+          "Если ты помнишь,",
+          "просила ты отпрыска",
+          "на холм могильный явиться."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Гроа сказала:",
+          "Что ныне тревожит,",
+          "единый мой сын,",
+          "кто зло причинил тебе,",
+          "что мать ты позвал,",
+          "в землю ушедшую,",
+          "людской мир покинувшую?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Сын сказал:",
+          "Игру непростую,",
+          "опасное дело",
+          "дала мне искусница,",
+          "которую мой отец обнимает;",
+          "велела она мне",
+          "вдаль отправляться,",
+          "встретиться с Менглёд."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Гроа сказала:",
+          "Долгое странствие,",
+          "до́лги дороги,",
+          "до́лги заботы людские,",
+          "коль так случиться,",
+          "что выдержать хочешь,",
+          "следуя Скульд приговору."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Сын сказал:",
+          "Заклятия спой",
+          "тогда мне благие,",
+          "защити ты, мать, сына.",
+          "Кажется мне,",
+          "отправившись в путь,",
+          "буду обижен по малолетству."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Гроа сказала:",
+          "Так пою тебе первым,",
+          "что зовут многонужным,",
+          "что пела Ринд Рану:",
+          "коль в оглядке поспешной",
+          "кто помни́тся свирепый,",
+          "себе путь обретаешь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Так пою я вторым,",
+          "если принудят",
+          "к пути против воли:",
+          "Урд оберег",
+          "поддержит во всём",
+          "на тропах твоих."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Так пою тебе третьим,",
+          "коли река",
+          "рушится смертью:",
+          "тогда Хорн и Руд",
+          "возвращаются в Хель,",
+          "пред тобою спадают."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Так пою я четвертым,",
+          "коль виселиц путь тебе",
+          "недруги ладят:",
+          "изменяются мысли",
+          "их о тебе,",
+          "замирившись, уходят."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Так пою тебе пятым,",
+          "коль оковы наложат",
+          "на члены твои:",
+          "Лейвнира огнь зову",
+          "на ноги словом,",
+          "оковы срываются с членов",
+          "и ножные путы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Так пою я шестым,",
+          "коль в море выходишь,",
+          "что больше, чем ведают:",
+          "влага и штиль",
+          "идут в жернова,",
+          "дают путь мирно-щедрый."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Так пою я седьмым,",
+          "коль приходит мороз",
+          "в горах высоко:",
+          "холод мертвящий",
+          "пред плотью бессилен,",
+          "сберегаешь ты члены."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Так пою я восьмым,",
+          "коль вовне застигнет",
+          "ночь на мглистом пути:",
+          "с ним сможешь избегнуть",
+          "вреда, сотворенного",
+          "мертвой христианкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Так пою я девятым,",
+          "коль с достойным меняешься",
+          "словом ты ётуном:",
+          "разум и речь",
+          "из Мимира сердца",
+          "в изобилье даруются."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Иди теперь навсегда;",
+          "там, где мнится опасность,",
+          "нет угрозы тебе.",
+          "На камне, вкопанном в землю,",
+          "стояла в дверях я,",
+          "пока заговор пела."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Материнское слово",
+          "неси ты, сын, впредь,",
+          "в груди пусть живет:",
+          "ведь достанет удачи",
+          "в жизни твоей,",
+          "пока речь мою помнишь."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Wake thee, Groa!",
+          "wake, mother good!",
+          "At the doors of the dead I call thee;",
+          "Thy son, bethink thee,",
+          "thou badst to seek",
+          "Thy help at the hill of death.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Groa spake:",
+          "\"What evil vexes",
+          "mine only son,",
+          "What baleful fate hast thou found,",
+          "That thou callest thy mother,",
+          "who lies in the mould,",
+          "And the world of the living has left?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Svipdag spake:",
+          "\"The woman false",
+          "whom my father embraced",
+          "Has brought me a baleful game;",
+          "For she bade me go forth",
+          "where none may fare,",
+          "And Mengloth the maid to seek.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Groa spake:",
+          "\"Long is the way,",
+          "long must thou wander,",
+          "But long is love as well;",
+          "Thou mayst find, perchance,",
+          "what thou fain wouldst have,",
+          "If the fates their favor will give.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Charms full good",
+          "then chant to me, mother,",
+          "And seek thy son to guard;",
+          "For death do I fear",
+          "on the way I shall fare,",
+          "And in years am I young, methinks.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Groa spake:",
+          "\"Then first I will chant thee",
+          "the charm oft-tried,",
+          "That Rani taught to Rind;",
+          "From the shoulder whate'er",
+          "mislikes thee shake,",
+          "For helper thyself shalt thou have.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Then next I will chant thee,",
+          "if needs thou must travel,",
+          "And wander a purposeless way:",
+          "The bolts of Urth",
+          "shall on every side",
+          "Be thy guards on the road thou goest.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"Then third I will chant thee,",
+          "if threatening streams",
+          "The danger of death shall bring:",
+          "Yet to Hel shall turn",
+          "both Horn and Ruth,",
+          "And before thee the waters shall fail.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Then fourth I will chant thee,",
+          "if come thy foes",
+          "On the gallows-way against thee:",
+          "Into thine hands",
+          "shall their hearts be given,",
+          "And peace shall the warriors wish.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Then fifth I will chant thee,",
+          "if fetters perchance",
+          "Shall bind thy bending limbs:",
+          "O'er thy thighs do I chant",
+          "a loosening-charm,",
+          "And the lock is burst from the limbs,",
+          "And the fetters fall from the feet.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Groa spake:",
+          "\"Then sixth I will chant thee,",
+          "if storms on the sea",
+          "Have might unknown to man:",
+          "Yet never shall wind",
+          "or wave do harm,",
+          "And calm is the course of thy boat.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Then seventh I chant thee,",
+          "if frost shall seek",
+          "To kill thee on lofty crags:",
+          "The fatal cold",
+          "shall not grip thy flesh,",
+          "And whole thy body shall be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Then eighth will I chant thee,",
+          "if ever by night",
+          "Thou shalt wander on murky ways:",
+          "Yet never the curse",
+          "of a Christian woman",
+          "From the dead shall do thee harm.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Then ninth will I chant thee,",
+          "if needs thou must strive",
+          "With a warlike giant in words:",
+          "Thy heart good store",
+          "of wit shall have,",
+          "And thy mouth of words full wise.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Now fare on the way",
+          "where danger waits,",
+          "Let evils not lessen thy love!",
+          "I have stood at the door",
+          "of the earth-fixed stones,",
+          "The while I chanted thee charms.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "\"Bear hence, my son,",
+          "what thy mother hath said,",
+          "And let it live in thy breast;",
+          "Thine ever shall be the",
+          "best of fortune,",
+          "So long as my words shall last.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

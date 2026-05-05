@@ -1,0 +1,918 @@
+{
+  "slug": "hrokskvida",
+  "key": "Hrokskvida",
+  "title": {
+    "on": "Hrókskviða",
+    "ru": "Песнь о Хроке"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Andreas Heusler, Wilhelm Ranisch: Eddica minora (Dortmund 1903), pp. 44–48. Перевод: Т. Ермолаев; редакция перевода: Н. Топчий.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Hrókr inn svarti var með Haka konungi. Dóttir Haka kon - ungs var Brynhildr. Sveinn inn sigrsæli hét sá konungr, er beðit hafði Brynhildar, en Haki konungr synjaði. Sveinn strengdi heit at verða bani þess manns, er ætti Brynhildi, ok svá föður hennar. Heðinn hét jarl Haka konungs, en Vífill sonr hans. Hann bað Brynhildar, ok var honum heitit, ef hann verði land fyrir Sveini."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "II Hrókr inn svarti var þar ekki kenndr, ok var hann í engum metnaði ok sat í gestasæti. Þat var einn dag, at hirðin fór á dýraveiðar, en konur á hnetskóg. Brynhildr konungsdóttir sá, hvar maðr stórr stóð við eik eina. Hún heyrði at hann kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Nú mun segja",
+          "sonr Hámundar,",
+          "hvert öðli var",
+          "okkart bræðra:",
+          "Minn var faðir",
+          "miklu fremri,",
+          "haukr görr at hug,",
+          "en Haki yðvarr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Vildi engi",
+          "við Vífil jafnast,",
+          "þó at Hámundar",
+          "hjarðar gætti.",
+          "Sá ek engan þar",
+          "svínahirði",
+          "huglausara",
+          "en Heðins arfa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Mín var ævi",
+          "miklu æðri,",
+          "þá er vér Hálfi konungi",
+          "horskum fylgdum.",
+          "Bárum allir",
+          "eitt ráð saman",
+          "ok herjuðum",
+          "hvert land yfir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Höfðu vér allir",
+          "haukmanna lið,",
+          "hvar sem fróðhugaðr",
+          "frama kostaði.",
+          "Gengu vér í gögnum",
+          "með grá hjálma",
+          "fullstór öll",
+          "fóstrlönd níu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Hálf sá ek höggva",
+          "höndum báðum,",
+          "hafði eigi hilmir",
+          "hlífskjöld fyr sér.",
+          "Finnr engi maðr,",
+          "þótt fari víða,",
+          "hæfra hjarta",
+          "ok hugprúðara."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Mæla virðar,",
+          "þeir er vitu eigi,",
+          "at Hálfs frami",
+          "heimsku sætti.",
+          "Kann eigi sá",
+          "konung háleygskan,",
+          "er heimsku þrótt",
+          "honum eignaði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Bað hann eigi við dauða",
+          "drengi kvíða",
+          "né æðruorð",
+          "ekki mæla.",
+          "Engi skyldi",
+          "jöfri fylgja,",
+          "nema forlögum",
+          "fylkis heldi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Skyldi eigi stynja,",
+          "þó at stór hlyti",
+          "sár í sóknum",
+          "siklings vinir,",
+          "né benjar sér",
+          "binda láta,",
+          "fyrr en annars dags",
+          "jafnlengd kæmi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Bað hann eigi í her",
+          "höptu græta",
+          "né manns konu",
+          "mein at vinna.",
+          "Mey bað hann hverja",
+          "mundi kaupa,",
+          "fögru gulli,",
+          "at föður ráði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Váru eigi svá margir",
+          "menn á skeiðum,",
+          "at vér á flótta",
+          "fyrir heldim,",
+          "þó at miklu lið",
+          "minna hefðim,",
+          "svá at ellifu",
+          "einum gegndi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Höfðum vér allir",
+          "inn öfra hlut,",
+          "hvar sem Hildar",
+          "hlífar knúði;",
+          "einn vissa ek",
+          "jafnsnjallan gram:",
+          "Sigurð konung",
+          "at sölum Gjúka."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Margir váru",
+          "menn á skeiðum",
+          "góðir ok frœknir",
+          "með gram sjálfum:",
+          "Börkr ok Brynjólfr,",
+          "Bölverkr ok Haki,",
+          "Egill ok Erlingr",
+          "Ásláks synir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Mest váru mér",
+          "manna hugðir",
+          "Hrókr, bróðir minn,",
+          "ok Hálfr konungr,",
+          "Styrr ok Steinarr,",
+          "sterkir báðir,",
+          "snarráðir menn,",
+          "synir Gunnlaðar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Hringr ok Hálfdanr,",
+          "haukar báðir,",
+          "réttir dómendr.",
+          "Dagr inn prúði,",
+          "Stari ok Steingrímr,",
+          "Styrr ok Gauti.",
+          "Finnr þú aldri",
+          "fríðari drengi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Valr ok Haukr",
+          "í víkingu",
+          "báðir frœknir,",
+          "buðlungs vinir.",
+          "Fáir mundu þeim",
+          "fylkis rekkum",
+          "hæfri þykkja",
+          "ór Haka veldi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Hvergi þóttak",
+          "í því liði",
+          "opt aukvisi",
+          "ættar minnar.",
+          "Mik kváðu þeir",
+          "mann snarpastan,",
+          "því at hverr öðrum",
+          "hróðrs leitaði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Vé bar Vémundr,",
+          "er vega þorði,",
+          "Björn ok Bersi,",
+          "fyr buðlungi.",
+          "Fylkti sínu",
+          "sá framligast",
+          "lofðungr liði,",
+          "meðan lifa mátti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Naut eigi svá",
+          "aldrs sem skyldi",
+          "frœkn landreki",
+          "við frama dáðir.",
+          "Tólf vetra nam",
+          "tiggi at herja,",
+          "en þá var þengill",
+          "þrítugr, er dó."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Slíkt kennir mér",
+          "at sofa lítit",
+          "marga grímu",
+          "ok mjök vaka,",
+          "er bróðir minn",
+          "brenna skyldi",
+          "kvikr í eldi",
+          "með konungs rekkum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Sá hefir dagr of mik",
+          "daprastr komit",
+          "miklu í heimi,",
+          "svá at menn vitu.",
+          "Una þykkjumst vér",
+          "aldri síðan,",
+          "er fylgja máttum",
+          "frændum hollum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Alls mundi mér",
+          "angrs léttara,",
+          "ef ek Hálfs konungs",
+          "hefna mættak,",
+          "svá at Ásmundi",
+          "eggfránum hjör,",
+          "baugbrjóts bana,",
+          "brjóst raufaðak."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Hefnt mun verða",
+          "Hálfs ins frœkna,",
+          "því at þeir göfgan gram",
+          "í griðum véltu.",
+          "Olli morði",
+          "ok mannskaða",
+          "Ásmundr konungr",
+          "illu heilli."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Þá mun reyna",
+          "ok raun gefa,",
+          "ef við Svein kómum",
+          "saman í rómu,",
+          "hvárir í vígi",
+          "verða hæfri,",
+          "Hámundar burr",
+          "eða Haka þegnar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Segi ek svá kveðit",
+          "snotru vífi,",
+          "at ek Brynhildar",
+          "biðja mundak,",
+          "ef vita þættumst,",
+          "at vildi hún",
+          "Hróki unna",
+          "Hámundar bur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Ván væri mér",
+          "vitra manna,",
+          "snarpra seggja,",
+          "ef vér saman ættim,",
+          "því at ek fann eigi mey",
+          "margsvinnari",
+          "hvergi landa",
+          "en Haka dóttur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Hér þykki ek nú",
+          "í Haka veldi",
+          "hornungr vera",
+          "hverrar þjóðar.",
+          "Allir eigu",
+          "innar at sitja",
+          "hallar gumnar",
+          "en Hálfsrekkar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "lines": [
+          "III Brynhildr, dóttir Haka kon­ungs, sagði föður sínum þat, er hún hafði heyrt, ok kvað þar mun­du kominn einn af Hálfs­rek­kum. En er konungr vissi þat, þá leiddi hann Hrók til sætis í ön­dugi, ok var hann þá í in­um mes­ta kærleik við konung. Hrókr inn svarti fekk Brynhildar, dóttur Ha­ka konungs. Eptir um várit fór Hrókr með her í móti Sveini inum sig­rsæla, ok áttu þeir orrostu. Þar fell Sveinn, en Hrókr kom aptr með sigri til Haka konungs."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Хрок Чёрный был с конунгом Хаки. Дочерью конунга Хаки была Брюнхильд. Свейном Победоносным звали конунга, который сватался к Брюнхильд, однако конунг Хаки отказал ему. Свейн дал обет убить того человека, который женится на Брюнхильд, а также и её отца. Хедином звали ярла конунга Хаки, а Вивиль был его сыном. Он посватался к Брюнхильд, и она была ему обещана, если он защитит страну от Свейна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "II Хрок Чёрный был там неизвестен, его никто не признавал, и сидел он на месте гостей. Однажды было так, что дружина отправилась на охоту, а женщины — в орешник. Брюнхильд, дочь конунга, увидела, что у одного дуба стоит высокий человек. Она услышала, как он сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Теперь расскажет",
+          "Хамунда сын,",
+          "каков был род",
+          "наших братьев:",
+          "отец мой намного",
+          "превосходил,",
+          "ястреб по духу,",
+          "вашего Хаки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Нет пожелавших",
+          "сравниться с Вивилем,",
+          "хотя он Хамунда",
+          "стада стерёг.",
+          "Не видел я там",
+          "свинопаса",
+          "трусливее",
+          "наследника Хедина."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Век мой был",
+          "лучше намного,",
+          "когда за мудрым",
+          "мы Хальвом следовали.",
+          "Вместе рождали",
+          "одно решение,",
+          "опустошали",
+          "другие страны."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Было у нас",
+          "ястребиное войско,",
+          "там, где мудрец",
+          "добивался славы.",
+          "Шли мы с победами",
+          "в серых шлемах,",
+          "гордые, по",
+          "девяти отчизнам."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Хальва видел я,",
+          "с двух рук рубившего,",
+          "не было князю",
+          "щита защиты.",
+          "Не найти человека,",
+          "иди хоть сколько,",
+          "с сердцем вернее",
+          "и более мужественным."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Болтают люди,",
+          "те, кто не ведает,",
+          "что Хальва слава",
+          "мирилась с глупостью.",
+          "Тот не знал",
+          "конунга халейгов,",
+          "кто глупую силу",
+          "ему приписывает."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Он воинам смерти",
+          "велел не бояться,",
+          "речей малодушных",
+          "не говорить.",
+          "Не должен был тот",
+          "за князем следовать,",
+          "кто его судьбы",
+          "не мог выдержать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Стонать не должны,",
+          "хоть бы рану великую",
+          "получили в атаке",
+          "друзья предводителя,",
+          "раненья свои",
+          "не перевязывали,",
+          "пока в новый день",
+          "тот же час не настанет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Велел взятых с бою",
+          "к слёзам не нудить,",
+          "мужним жёнам",
+          "вред не чинить.",
+          "Дев любых сватал,",
+          "платя приданое",
+          "прекрасным золотом,",
+          "с отцом советуясь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Столь много не было",
+          "людей на палубах,",
+          "чтоб обратились",
+          "пред ними мы в бегство,",
+          "хоть много войско",
+          "имели меньшее:",
+          "одиннадцать",
+          "на одного."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Была наша доля —",
+          "победы одерживать,",
+          "где б ни стучали",
+          "защитою Хильд;",
+          "одного я знаю",
+          "князя столь храброго:",
+          "конунга Сигурда",
+          "из палат Гьюки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Много было",
+          "мужей на судне",
+          "добрых и храбрых",
+          "с самим князем:",
+          "Бёрк и Брюньольв,",
+          "Бёльверк и Хаки,",
+          "Эгиль и Эрлинг,",
+          "сыновья Аслака."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Людей всех дороже",
+          "были мне",
+          "Хрок, мой брат,",
+          "и Хальв конунг,",
+          "Стюр и Стейнар,",
+          "сильные оба,",
+          "в решеньях быстрые,",
+          "сыновья Гуннлёд."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Хринг и Хальвдан,",
+          "ястреба два,",
+          "правые судьи.",
+          "Даг Гордый,",
+          "Стари и Стейнгрим,",
+          "Стюр и Гаути.",
+          "Ввек не найдешь",
+          "ты красивее воина."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Хаук и Валь",
+          "в походе морском",
+          "отважные оба,",
+          "друзья конунга.",
+          "Мало достойней",
+          "воинов у князя,",
+          "кажется, есть",
+          "во владеньях Хаки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Не был, думаю,",
+          "в этом войске",
+          "трусом никто",
+          "из моего рода.",
+          "Меня они звали",
+          "самым удалым,",
+          "ведь каждый другому",
+          "хвалу подыскивал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Знамя нёс Вемунд,",
+          "поднять посмевший,",
+          "Бьёрн и Берси,",
+          "перед будлунгом.",
+          "Выстраивал своё",
+          "наипрекраснейшее",
+          "войско ловдунг,",
+          "пока был жив."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Не так насладился",
+          "веком, как должно,",
+          "защитник страны",
+          "блещущий подвигами.",
+          "Двенадцать зим",
+          "князь воевал,",
+          "а тридцать было,",
+          "когда он умер."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Вот почему",
+          "много ночей",
+          "мало я сплю",
+          "и много бодрствую:",
+          "брат мой был",
+          "должен сгореть",
+          "живым в огне",
+          "с воинами конунга."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Был тот день мне",
+          "наипечальнейшим",
+          "из всех в мире,",
+          "как людям ведомо.",
+          "Полагаю, с тех пор",
+          "мы довольны не будем,",
+          "пока не последуем",
+          "за верными родичами."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Совсем моё",
+          "горе утихнет,",
+          "коли за Хальва",
+          "смогу отомстить,",
+          "кольцеломателя",
+          "убийце, Асмунду",
+          "сверкающим лезвием,",
+          "грудь пронзить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Отомщён будет",
+          "Хальв Храбрый,",
+          "ибо благородного князя",
+          "в мире обманули.",
+          "Учинил убийство",
+          "и людей гибель",
+          "Асмунд конунг",
+          "в недобрый час."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Тогда испытаем",
+          "узнав на деле,",
+          "коли со Свейном",
+          "встретимся в битве,",
+          "кто для сраженья",
+          "пригоднее будет,",
+          "Хамунда сын",
+          "или люди Хаки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Так я скажу",
+          "женщине мудрой,",
+          "Брюнхильд не буду",
+          "сватать, если",
+          "я не уверюсь,",
+          "что хочет она",
+          "Хрока любить",
+          "Хамунда сына."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Будут, надеюсь, мне",
+          "мудрые люди,",
+          "крепкие воины,",
+          "если поженимся,",
+          "ведь нигде на земле",
+          "я не встречал",
+          "девы премудрее",
+          "дочери Хаки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Считаюсь здесь я",
+          "во владениях Хаки",
+          "изгоем сейчас",
+          "среди люда любого.",
+          "Мужи все в палате",
+          "место имеют",
+          "дальше от двери,",
+          "чем воины Хальва."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "lines": [
+          "III Брюнхильд, дочь конунга Хаки, расказала своему отцу, что она услышала, и добавила, что, должно быть, это пришёл один из воинов Хальва. Как только конунг узнал об этом, он усадил Хрока на почётное место и оказал ему большое расположение. Хрок Чёрный взял в жёны Брюнхильд, дочь конунга Хаки. Следующей весной Хрок пошёл с войском против Свейна Победоносного, и у них была битва. Там Свейн погиб, а Хрок вернулся с победой к конунгу Хаки."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

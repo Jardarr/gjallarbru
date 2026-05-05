@@ -1,0 +1,624 @@
+{
+  "slug": "gudrunarkvida-in-tridja",
+  "key": "GudrunarkvidaInTridja",
+  "title": {
+    "on": "Guðrúnarkviða in þriðja",
+    "ru": "Третья Песнь о Гудрун",
+    "en": "The Third Lay of Gudrún"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе А. И. Корсуна",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Capitulum"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Herkja hét ambótt Atla; hon hafði verið frilla hans. Hon sagði Atla að hon hefði séð Þjóðrek ok Guðrúnu bæði saman. Atli var þá allókátr. Þá kvað Guðrún:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«Hvað er þér, Atli?",
+          "Æ, Buðla sonr,",
+          "er þér hryggt í hug;",
+          "hví hlær þú æva?",
+          "Hitt myndi æðra",
+          "jörlum þikkja",
+          "að við menn mæltir",
+          "ok mik sæir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "[Atli kvað:]",
+          "«Tregr mik það, Guðrún,",
+          "Gjúka dóttir:",
+          "Mér í höllu",
+          "Herkja sagði",
+          "að þið Þjóðrekr",
+          "undir þaki svæfið",
+          "ok léttliga",
+          "líni verðiz.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Guðrún kvað:]",
+          "«Þér mun ek allz þess",
+          "eiða vinna,",
+          "að inum hvíta",
+          "helga steini,",
+          "að ek við Þjóðmar",
+          "þat ki átta k",
+          "er vörð né verr",
+          "vinna knátti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Nema ek hálsaða",
+          "herja stilli,",
+          "jöfur óneisinn,",
+          "einu sinni;",
+          "aðrar vóru",
+          "okkrar spekjur",
+          "er við hörmug tvau",
+          "hnigum að rúnum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Hér kom Þjóðrekr",
+          "með þrjá tögu,",
+          "lifa þeir né einir,",
+          "þriggja tega manna;",
+          "hrinktu mik ‖ að bræðrum",
+          "ok að brynjuðum,",
+          "hrinktu mik að öllum",
+          "á höfuðniðjum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Sent u að Saxa,",
+          "sunnmanna gram;",
+          "hann kann helga",
+          "hver vellanda,»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "sjau hundruð manna",
+          "í sal gengu",
+          "áðr kvæn konungs",
+          "í ketil tæki."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Guðrún kvað:]",
+          "«Kemr a nú Gunnarr,",
+          "kalli g a ek Högna,",
+          "sé k a ek síðan",
+          "svása bræðr;",
+          "sverði myndi Högni",
+          "slíks harms reka,",
+          "nú verð ek sjálf fyr mik",
+          "synja lýta.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Brá hon til botns",
+          "björtum lófa",
+          "ok hon upp um tók",
+          "jarknasteina:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "[Guðrún kvað:]",
+          "«Sé nú seggir",
+          "sykn em ek orðin",
+          "heilagliga —",
+          "hvé sjá hverr velli.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Hló þá Atla",
+          "hugr í brjósti",
+          "er hann heilar sá",
+          "hendr Guðrúnar:",
+          "[Atli kvað:]",
+          "«Nú skal Herkja",
+          "til hvers ganga,",
+          "sú er Guðrúnu",
+          "grandi vænti.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Sá at maðr armligt,",
+          "hverr er það sá at,",
+          "hvé þar á Herkju",
+          "hendur sviðnuðu;",
+          "leiddu þá mey",
+          "í mýri fúla,",
+          "svá þá Guðrún",
+          "sinna harma."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Херкьей звалась служанка Атли. Она когда-то была его любовницей. Она сказала Атли, что видела Тьодрека и Гудрун вместе. Атли очень опечалился. Тогда Гудрун сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«Что с тобой, Атли,",
+          "сын Будли, скажи мне!",
+          "Отчего ты невесел,",
+          "чем ты встревожен?",
+          "Были бы ярлы",
+          "более рады,",
+          "коль ты привечал бы",
+          "людей и меня!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "[Атли сказал:]",
+          "«Недоброе, Гудрун,",
+          "дочь Гьюки, узнал я, —",
+          "Херкья сейчас мне",
+          "в палате сказала:",
+          "с Тьодреком ты",
+          "уснула на ложе,",
+          "обняв его ласково",
+          "под покрывалом»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Гудрун сказала:]",
+          "«В том я поклясться",
+          "тебе готова",
+          "клятвой на белом",
+          "священном камне:",
+          "с сыном Тьодмара",
+          "я не свершала",
+          "дел, недостойных",
+          "мужчины и женщины!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Не обнимала",
+          "его никогда я,",
+          "вождя дружины,",
+          "достойного конунга.",
+          "С ним встречаясь,",
+          "речи вели мы,",
+          "и скорбными были",
+          "наши беседы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Тьодрек привел",
+          "тридцать воителей,",
+          "никто из дружины",
+          "в живых не остался!",
+          "С близкой родней",
+          "меня разлучили.",
+          "нет моих братьев.",
+          "ни воинов храбрых!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "За Сакси пошли,",
+          "за князем южан:",
+          "он может котел",
+          "освятить кипящий!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Семь сотен людей",
+          "в палату вступили,",
+          "прежде чем Гудрун",
+          "к котлу подошла."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Гудрун сказала:]",
+          "«Гуннара с Хёгни",
+          "позвать не могу я,",
+          "братьев моих",
+          "мне не увидеть, —",
+          "Хёгни мечом бы",
+          "отмстил за обиду, —",
+          "сама я должна",
+          "позор этот смыть»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Ладонь в кипяток",
+          "до дна погрузила,",
+          "со дна подняла",
+          "драгоценные камни.",
+          "[Гудрун сказала:]",
+          "«Взгляните, вот суд",
+          "свершился священный, —",
+          "пусть влага кипит",
+          "в котле — я оправдана!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "У Атли в груди",
+          "душа взыграла,",
+          "когда он руки",
+          "Гудрун увидел.",
+          "[Атли сказал:]",
+          "«Пусть Херкья теперь",
+          "к котлу подойдет,",
+          "та, что сгубить",
+          "собиралась Гудрун!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Жалок для взора",
+          "вид был у Херкьи,",
+          "руки свои",
+          "в котле обварившей.",
+          "Повели тогда деву",
+          "в глухое болото —",
+          "так смыть обиду",
+          "Гудрун смогла."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Herkja was the name of a serving-woman of Atli's; she had been his concubine. She told Atli that she had seen Thjothrek and Guthrun both together. Atli was greatly angered thereby. Then Guthrun said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"What thy sorrow, Atli,",
+          "Buthli's son?",
+          "Is thy heart heavy-laden?",
+          "Why laughest thou never?",
+          "It would better befit",
+          "the warrior far",
+          "To speak with men,",
+          "and me to look on.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Atli spake:",
+          "\"It troubles me, Guthrun,",
+          "Gjuki's daughter,",
+          "What Herkja here",
+          "in the hall hath told me,",
+          "That thou in the bed",
+          "with Thjothrek liest,",
+          "Beneath the linen",
+          "in lovers' guise.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Guthrun spake:",
+          "\"This shall I",
+          "with oaths now swear,",
+          "Swear by the sacred",
+          "stone so white,",
+          "That nought was there",
+          "with Thjothmar's son",
+          "That man or woman",
+          "may not know.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Nor ever once",
+          "did my arms embrace",
+          "The hero brave,",
+          "the leader of hosts;",
+          "In another manner",
+          "our meeting was,",
+          "When our sorrows we",
+          "in secret told.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"With thirty warriors",
+          "Thjothrek came,",
+          "Nor of all his men",
+          "doth one remain;",
+          "Thou hast murdered my brothers",
+          "and mail-clad men,",
+          "Thou hast murdered all",
+          "the men of my race.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Summon Saxi,",
+          "the southrons' king,",
+          "For be the boiling",
+          "kettle can hallow.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Seven hundred",
+          "there were in the hall,",
+          "Ere the queen her hand",
+          "in the kettle thrust.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Guthrun spake:",
+          "\"Gunnar comes not,",
+          "Hogni I greet not,",
+          "No longer I see",
+          "my brothers loved;",
+          "My sorrow would Hogni",
+          "avenge with the sword,",
+          "Now myself for my woes",
+          "I shall payment win.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "To the bottom she reached",
+          "with hand so bright,",
+          "And forth she brought",
+          "the flashing stones:",
+          "\"Behold, ye warriors,",
+          "well am I cleared",
+          "Of sin by the kettle's",
+          "sacred boiling.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Then Atli's heart",
+          "in happiness laughed,",
+          "When Guthrun's hand",
+          "unhurt he saw;",
+          "\"Now Herkja shall come",
+          "the kettle to try,",
+          "She who grief",
+          "for Guthrun planned.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"Ne'er saw man sight",
+          "more sad than this,",
+          "How burned were the hands",
+          "of Herkja then;",
+          "In a bog so foul",
+          "the maid they flung,",
+          "And so was Guthrun's",
+          "grief requited.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

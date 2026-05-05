@@ -1,0 +1,829 @@
+{
+  "slug": "eddubrot",
+  "key": "Eddubrot",
+  "title": {
+    "on": "Eddubrot",
+    "ru": "Эддические отрывки"
+  },
+  "subtitle": {
+    "ru": "Фрагменты неизвестных целиком песен Эдды",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Guðni Jónsson, Eddukvæði (Sæmundar-Edda). 2 vols. 1949–54: Eddubrot (1–15). Перевод: Смирницкая О. А. (1–11), E. T. (12–14), Ярхо Б. И. (15–19).",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "1 FRA GYLFAGINNING"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "Hár segir, at hann (Gylfi) kom eigi heill út, nema hann sé fróðari, ok"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«Stattu fram,",
+          "meðan þú fregn,",
+          "sitja skal sá, er segir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "heading",
+        "lines": [
+          "2. Brot af Skaðamölum"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "Njörðr á þá konu, er Skaði heitir, dóttir Þjaza jötuns. Skaði vill hafa bústað þann, er átt hafði faðir hennar, — þat er á fjöllum nökkurum, þar sem heitir Þrymheimr, — en Njörðr vill vera nær sæ. Þau sættust á þat, at þau skyldu vera níu nætr í Þrymheimi, en þá aðrar níu at Nóatúnum. En er Njörðr kom aftr til Nóatúna af fjallinu, þá kvað hann þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "«Leið erumk fjöll,",
+          "vark-a ek lengi á,",
+          "nætr einar níu;",
+          "ulfa þytr",
+          "mér þótti illr vera",
+          "hjá söngvi svana.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "Þá kvað Skaði þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "«Sofa ek né máttak",
+          "sævar beðjum á",
+          "fugls jamri fyrir,",
+          "sá mik vekr,",
+          "er af víði kemr,",
+          "morgun hverjan már.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "heading",
+        "lines": [
+          "3. Brot af Heimdallargaldri"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Ok enn segir hann (Heimdallr)",
+          "sjálfr í Heimdallargaldri:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "«Níu em ek mæðra mögr,",
+          "níu em ek systra sonr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "heading",
+        "lines": [
+          "4. Brot af Gnárljóðum"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "(In fjórtánda ásynja er) Gná. Hana sendir Frigg í ýmsa heima at erindum sínum. Hon á þann hest, er renn loft ok lög ok heitir Hófvarpnir. Þat var eitt sinn, er hon reið; at Vanir nökkurir sáu reið hennar í loftinu. Þá mælti einn:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "«Hvat þar flýgr,",
+          "hvat þat ferr",
+          "eða at lofti líðr?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "lines": [
+          "Hon svarar:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "«Né ek flýg",
+          "þó ek ferk",
+          "ok at lofti líðk",
+          "á Hófvarpni,",
+          "þeim er Hamskerpir",
+          "gat við Garðrofu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "heading",
+        "lines": [
+          "5. Þakkarmál"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "prose",
+        "lines": [
+          "Því næst sendu æsir um allan heim erindreka at biðja, at Baldr væri grátinn ór helju, en allir gerðu þat; mennirnir ok kykvendin ok jörðin ok steinarnir ok tré ok allr málmr [...]  Þá er sendimenn fóru heim ok höfðu vel rekit sín erindi, finna þeir í helli nökkurum, hvar gýgr sat. Hon nefndist Þökk. Þeir biðja hana gráta Baldr ór Helju."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Hon svarar:",
+          "«Þökk mun gráta",
+          "þurrum tárum",
+          "Baldrs bálfarar;",
+          "kyks né dauðs",
+          "nautk-a ek karls sonar,",
+          "haldi Hel því, er hefir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "lines": [
+          "En þess geta menn, at þar hafi verit Loki Laufeyjarson, er flest hefir illt gert með ásum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "heading",
+        "lines": [
+          "FRA SKÁLDSKAPARMÁL"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "heading",
+        "lines": [
+          "6. Brot af Geirraðarmölum"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "lines": [
+          "Þá fór Þórr til ár þeirar, er Vimur heitir, allra áa mest. Þá spennti hann sik megingjörðum ok studdi forstreymis Gríðarvöl, en Loki helt undir megingjarðar. Ok þá er Þórr kom í miðja ána, þá óx svá mjök áin, at uppi braut á öxl honum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "prose",
+        "lines": [
+          "Þá kvað Þórr þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "«Vax-at-tu nú, Vimr,",
+          "alls mik þik vaða tíðir",
+          "jötna garða í;",
+          "veiztu, ef þú vex,",
+          "at þá vex mér ásmegin",
+          "jafnhátt upp sem himin.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "heading",
+        "lines": [
+          "7. Brot af Geirraðarmölum"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "En er Þórr kom til Geirröðar, þá var þeim félögum vísat fyrst í geitahús til herbergis, ok var þar einn stóll til sætis, og sat þar Þórr. Þá varð hann þess varr, at stóllinn fór undan honum upp at ræfri. Hann stakk Gríðarveli upp í raftana og lét sígast fast á stólinn. Varð þá brestr mikill, og fylgði skrækr. Þar höfðu verit undir stólinum dætr Geirröðar, Gjálp ok Greip, ok hafði hann brotit hrygginn í báðum. Þá kvað Þórr:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "«Einu sinni",
+          "neyttak ásmegins",
+          "jötna görðum í,",
+          "þá er Gjalp ok Greip,",
+          "dætr Geirröðar,",
+          "vildu hefja mik til himins.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "heading",
+        "lines": [
+          "8."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Í Ásgarði fyrir dyrum Valhall-",
+          "ar stendr lundr, sá er glasi er",
+          "kallaðr, en lauf hans allt er gull",
+          "rautt, svá sem hér er kveðit, at:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Glasir stendr",
+          "með gullnu laufi",
+          "fyrir Sigtýs sölum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Sá er viðr fegrstr með goðum",
+          "ok mönnum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "heading",
+        "lines": [
+          "9. FRA ET ANDET HÅNDSKRIFT AF SNORRES EDDA"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Sægr heitir sár,",
+          "en Simul stöng,",
+          "Bil ok Hjúki",
+          "bera hann."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "lines": [
+          "Þat er kallat, at þau sé í tungli."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "heading",
+        "lines": [
+          "10. Brot af Fenrisljóðum"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Fjöturrinn heitir Gleipnir, er",
+          "honum (Fenrisúlfi) heldr. Gervir",
+          "váru tveir fjötrar til hans, fyrst",
+          "þeir Drómi ok Læðingr, ok helt",
+          "hvárgi. Þá var Gleipnir síðan gerr",
+          "ór sex hlutum:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Ór kattar dyn",
+          "ok ór konu skeggi,",
+          "ór fisks anda",
+          "ok ór fugla mjólk,",
+          "ór bergs rótum",
+          "ok ór bjarnar sinum,",
+          "ór því var hann Gleipnir gerr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "heading",
+        "lines": [
+          "11. FRA ÞRIÐJA MÁLFRÆÐIRITGERÐIN (Óláfr hvítaskáld Þórðarson, 1210–1259)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Flugu hrafnar tveir",
+          "af Hnikars öxlum:",
+          "Huginn til hanga,",
+          "en á hræ Muninn."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "1 ИЗ «ВИДЕНИЙ ГЮЛЬВИ»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "Высокий на это отвечает, что не уйти ему (Гюлви) живым, если не окажется он мудрее."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«И стой, покуда",
+          "ты вопрошаешь.",
+          "Пусть сидит отвечающий.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "heading",
+        "lines": [
+          "2. Отрывок Речей Скади"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "Ньёрд взял в жены Скади, дочь великана Тьяци. Скади хочет поселиться там, где жил ее отец, в горах, в месте, что зовется Трюм­хейм, Ньёрд же хочет жить у моря. И они порешили, что девять суток они станут жить в Трюмхейме, а другие девять оставаться в Ноа­туне. Но, вернувшись раз с гор в Ноатун, так промолвил Ньёрд:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "«Не любы мне горы,",
+          "хоть я и был там",
+          "девять лишь дней.",
+          "Я не сменяю",
+          "клик лебединый",
+          "на вой волков.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "Тогда Скади сказала так:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "«Спать не дают мне",
+          "птичьи крики",
+          "на ложе моря,",
+          "всякое утро",
+          "будит меня",
+          "морская чайка.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "heading",
+        "lines": [
+          "3. Отрывок Заклинания Хеймдалля"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "И так еще говорит он сам в «Зак­ли­нании Хеймдалля»:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "«Девяти матерей я дитя,",
+          "сын девяти сестер.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "heading",
+        "lines": [
+          "4. Отрывок Песни о Гна"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "(Четырнадцатая асинья) Гна. Её шлет Фригг в разные страны с поручениями. У нее есть конь, Ховварпнир, что скачет по водам и воздуху. Случилось раз, что увидали ваны, как Гна несется по воздуху. Тогда сказал один из них:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "«Что там летит,",
+          "что там скользит,",
+          "в выси словно парит?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "lines": [
+          "Она отвечает:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "«Я не лечу,",
+          "хоть я скольжу,",
+          "в выси словно парю",
+          "на Ховварпнире,",
+          "зачатом Хамскерпиром",
+          "от Гардровы.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "heading",
+        "lines": [
+          "5. Речь Тёкк"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "prose",
+        "lines": [
+          "Асы тут же разослали гонцов по всему свету просить, чтобы все пла­кали и тем вызволили Бальдра из Хель. Все так и сделали: люди и звери, земля и камни, деревья и все металлы [...] Когда гонцы возвращались домой, свое дело как должно исполнив, ви­дят: сидит в одной пещере вели­кан­ша. Она назвалась Тёкк. Они про­сят ее вызволить плачем Бальдра из Хель. Она отвечает:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "«Сухими слезами",
+          "Тёкк оплачет",
+          "кончину Бальдра.",
+          "Ни живой, ни мертвый",
+          "он мне не нужен,",
+          "пусть хранит его Хель»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "lines": [
+          "И люди полагают, что это был не кто иной, как Локи, сын Лаувейи, причинивший асам величайшее зло."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "lines": [
+          "ИЗ «ЯЗЫКА ПОЭЗИИ»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "heading",
+        "lines": [
+          "6. Отрывок речей Гейррёда"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "lines": [
+          "Тогда Тор пошел к реке Вимур, величайшей из рек. Опоясался  он Поясом Силы и воткнул посох Грид ниже по течению, а Локи ухватился за Пояс Силы. И когда Тор дошел до середины реки, вода внезапно поднялась так высоко, что стала перекатываться через плечи Тора."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "prose",
+        "lines": [
+          "Тогда Тор сказал так:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "«Вимур, спади,",
+          "вброд я иду",
+          "в Страну Великанов.",
+          "Если растешь,",
+          "то знай, что растет",
+          "до неба мощь аса.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "heading",
+        "lines": [
+          "7. Отрывок речей Гейррёда"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "Когда Тор пришел к Гейррёду, его вместе со спутником провели сперва на ночлег в козий хлев. Там стояла скамья, и Тор сел на нее. Тут он чувствует: поднимается под ним скамья к самой крыше. Он уперся посохом Грид в стропила и покрепче прижался к скамье. Тут раздался гром­кий хруст, а затем и громкий крик: под скамьей то были дочери Гейррёда — Гьяльпи Грейп, и он переломил спины им обеим. Тогда сказал Тор:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "«Раз однажды",
+          "явил аса-мощь",
+          "в Стране Великанов,",
+          "когда Гьяльп и Грейп,",
+          "Гейррёда дочки,",
+          "хотели поднять меня к небесам.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "heading",
+        "lines": [
+          "8."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "В Асгарде перед воротами Валь­",
+          "галлы есть роща по имени Гласир,",
+          "все листья в ней из красного золо-",
+          "та. Так здесь об этом сказано:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Гласир златолистый",
+          "стоит пред чертогом",
+          "Тюра Победы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Это прекраснейший лес у богов",
+          "и людей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "heading",
+        "number": "13.",
+        "lines": [
+          "9. ИЗ ДРУГИХ РУКОПИСЕЙ",
+          "«МЛАДШЕЙ ЭДДЫ»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Сэг — ведро",
+          "а Симуль — шест,",
+          "Биль и Хьюки",
+          "их несут."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "lines": [
+          "Зовётся то, что видно на луне."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "heading",
+        "lines": [
+          "10. Отрывок Песни о Фенрире"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "lines": [
+          "Путы те названы Глейпнир, что его (Фенрира-волка) держат. Изготовлены были сначала двое пут для него, Дроми и Лединг, но не выдержали ни одни. Тогда слелан был Глейпнир из шести частей:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Из топота кошек",
+          "и женских бород,",
+          "из дыхания рыб",
+          "и птичьего млека,",
+          "из корня горы",
+          "и медвежьих жил, —",
+          "вот из чего Глейпнир сковали."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "11. ИЗ ТРЕТЬЕГО ГРАММА­",
+          "ТИЧЕС­КОГО ТРАКТАТА",
+          "(Олав Белый Скальд, 1210–1259)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Врана слетели два",
+          "с Хникара плеч:",
+          "Хугин к висящему,",
+          "к павшему — Мунин."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

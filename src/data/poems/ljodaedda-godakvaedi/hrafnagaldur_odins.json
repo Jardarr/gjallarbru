@@ -1,0 +1,1279 @@
+{
+  "slug": "hrafnagaldur-odins",
+  "key": "HrafnagaldurOdins",
+  "title": {
+    "on": "Hrafnagaldr Óðins",
+    "ru": "Воронова ворожба Одина",
+    "en": "Odin’s Ravens’ Song"
+  },
+  "subtitle": {
+    "on": "Forspjallsljóð",
+    "ru": "Предваряющая песнь"
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Lassen, Annette (2011), \"Hrafnagaldur Óðinns\". Текст на русском языке в переводе Н. Топчий",
+    "en": "An ancient Icelandic text, edited by Lassen, Annette (2011), \"Hrafnagaldur Óðinns\". Translation by Benjamin Thorpe (1865)."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Alföður orkar,",
+          "álfar skilja,",
+          "Vanir vitu,",
+          "vísa nornir,",
+          "elur Íviðja,",
+          "aldir bera,",
+          "þreyja þursar,",
+          "þjá valkyrjur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Ætlun æsir",
+          "alla gátu,",
+          "verpir villtu",
+          "vættar rúnum.",
+          "Óðhrærir skyldi",
+          "Urðar geyma,",
+          "máttkat verja",
+          "mestum þorra."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Hverfur því hugur,",
+          "hinna leitar,",
+          "grunar guma",
+          "grand, ef dvelur;",
+          "þótti er Þráins",
+          "þungadraumur,",
+          "Dáins dulu",
+          "draumur þótti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Dugir með dvergum.",
+          "Dvína heimar,",
+          "niður að Ginnungs",
+          "niði sökkva;",
+          "oft Alsviður",
+          "ofan fellir,",
+          "oft of föllnum",
+          "aftur safnar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Stendur æva",
+          "strind né röðull,",
+          "lofti með lævi",
+          "linnir ei straumi;",
+          "mærum dylst í",
+          "Mímis brunni",
+          "vissa vera;",
+          "vitið enn eða hvað?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Dvelur í dölum",
+          "dís forvitin,",
+          "Yggdrasils frá",
+          "aski hnigin,",
+          "álfa ættar.",
+          "Iðunni hétu",
+          "Ívalds eldri",
+          "yngsta barna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Eirði illa",
+          "ofankomu,",
+          "harðbaðms undir",
+          "haldin meiði;",
+          "kunni síst að",
+          "kundar Nörva,",
+          "vön að værri",
+          "vistum heima."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Sjá sigtívar",
+          "syrgja nönnu",
+          "Viggjar að véum;",
+          "vargsbelg seldu,",
+          "lét í færast,",
+          "lyndi breytti,",
+          "lék að lævísi,",
+          "litum skipti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Valdi Viðrir",
+          "vörð Bifrastar",
+          "Gjallar sunnu",
+          "gátt að frétta,",
+          "heims hvívetna",
+          "hvort er vissi;",
+          "Bragi og Loftur",
+          "báru kvíðu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Galdur gólu,",
+          "göndum riðu",
+          "Rögnir og regin",
+          "að rann heimis;",
+          "hlustar Óðinn",
+          "Hliðskjálfi í,",
+          "lét braut vera",
+          "langa vegu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Frá hinn vitri",
+          "veiga selju",
+          "banda burða",
+          "og brauta sinna,",
+          "Hlýrnis, Heljar,",
+          "heims, ef vissi,",
+          "ártíð, ævi,",
+          "aldurtila."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Né mun mælti,",
+          "né mál knátti",
+          "gífum greiða,",
+          "né glaum hjaldi;",
+          "tár af tíndust",
+          "törgum hjarnar,",
+          "eljunfeldinn",
+          "endurrjóða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Eins kemur austan",
+          "úr Élivogum",
+          "þorn af akri",
+          "þurs hrímkalda,",
+          "hveim drepur dróttir",
+          "Dáinn allar",
+          "mæran of Miðgarð",
+          "með nótt hverja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Dofna þá dáðir,",
+          "detta hendur,",
+          "svífur of svimi",
+          "sverð Áss hvíta;",
+          "rennir örvit",
+          "rýgjar glyggvi,",
+          "sefa sveiflum",
+          "sókn gjörvallri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Jafnt þótti Jórunn",
+          "jólnum komin,",
+          "sollin sútum,",
+          "svars er ei gátu;",
+          "sóttu því meir",
+          "að syn var fyrir,",
+          "mun þó miður",
+          "mælgi dyggði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Fór frumkvöðull",
+          "fregnar brauta,",
+          "hirðir að Herjans",
+          "horni Gjallar;",
+          "Nálar nefa",
+          "nam til fylgis;",
+          "greppur Grímnis",
+          "grund varðveitti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Vingólf tóku",
+          "Viðars þegnar,",
+          "Fornjóts sefum",
+          "fluttir báðir;",
+          "í þar ganga,",
+          "Æsi kveðja,",
+          "Yggjar þegar",
+          "við ölteiti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Heilan Hangatý,",
+          "heppnastan Ása,",
+          "virt öndvegis",
+          "valda báðu,",
+          "sæla að sumbli",
+          "sitja día,",
+          "æ með Yggjungi",
+          "yndi halda."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Bekkjarsett",
+          "að Bölverks ráði",
+          "sjót Sæhrímni",
+          "saddist ragna;",
+          "Skögul að skutlum",
+          "skaftker Hnikars",
+          "mat af miði",
+          "minnishornum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Margs of frágu",
+          "máltíð yfir",
+          "Heimdall hágoð,",
+          "hörgar Loka,",
+          "spár eða spakmál",
+          "sprund ef kendi,",
+          "undorn ofram,",
+          "uns nam húma."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Illa létu",
+          "orðið hafa",
+          "erindisleysu",
+          "oflítilfræga;",
+          "vant að væla",
+          "verða myndi,",
+          "svo af svanna",
+          "svars of gæti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Ansar Ómi,",
+          "allir hlýddu:",
+          "«Nótt skal nema",
+          "nýræða til,",
+          "hugsi til morguns",
+          "hver sem orkar",
+          "ráð til leggja",
+          "rausnar Ásum»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Rann með röstum",
+          "Rindar móðir,",
+          "föður larður",
+          "Fenris varla",
+          "gengu frá gildi;",
+          "goðin kvöddu",
+          "Hroft og Frigg,",
+          "sem Hrímfaxa fór."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Dýrum settan",
+          "Dellings mögur",
+          "jó framkeyrði",
+          "jarknasteinum;",
+          "mars of mannheim",
+          "mön af glóar,",
+          "dró leik Dvalins",
+          "drösull í reið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Jörmungrundar",
+          "í jöður nyrðra",
+          "und rót yztu",
+          "aðalþollar",
+          "gengu til rekkju",
+          "gýgjur og þursar,",
+          "náir, dvergar",
+          "og dökkálfar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Risu ragnar,",
+          "rann Álfröðull,",
+          "norður að Niflheim",
+          "Njóla sótti;",
+          "upp nam ár Gjöll",
+          "Úlfrúnar niður",
+          "hornþyt, valdur",
+          "Himinbjarga."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Вершит Всеотец,",
+          "альвы вникают,",
+          "ведают ваны,",
+          "норны велят,",
+          "тролльша растит,",
+          "люди рождают,",
+          "турсы томятся,",
+          "терзают валькирии."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Замысел асы",
+          "весь разгадали,",
+          "противники спутали",
+          "недругу руны.",
+          "Был Одрёрир должен",
+          "Урд-долю хранить,",
+          "сберечь не сумел",
+          "большею частью."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Духом упал тут,",
+          "ищет других,",
+          "предвидят мужи",
+          "беду, коль промедлит.",
+          "Траина разум",
+          "в тяжёлых снах,",
+          "Даина разум",
+          "во снах потаённых."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Довольно о двергах.",
+          "Дряхлеют миры,",
+          "в Гиннунга бездне",
+          "тонут безлунной.",
+          "Часто Альсвинн",
+          "туда опускается,",
+          "часто павших",
+          "потом собирает."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Светилу и тверди,",
+          "не вечно стоять,",
+          "воздух с отравой",
+          "льётся потоком.",
+          "В славном укрыта",
+          "источнике Мимира",
+          "мудрость была.",
+          "Довольно ль вам этого?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "В доле живёт",
+          "любопытная диса,",
+          "с ясеня Иггдрасиль",
+          "раз соскользнула.",
+          "Родом из альвов,",
+          "Идунн назвали",
+          "младшую Ивальди",
+          "отпрыски старшие."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Милость плохая",
+          "сверху спустившейся,",
+          "под грубою ветвью",
+          "Древа сидящей.",
+          "Понравилось мало",
+          "у родичей Нёрви",
+          "привыкшей к уютному",
+          "в доме пристанищу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Зрят Тюры Побед,",
+          "что Нанна горюет",
+          "у капища Конского.",
+          "Волка шкуру послали,",
+          "решила надеть,",
+          "нрав поменяла,",
+          "хитро сыграла,",
+          "внешность сменив."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Видрир велел",
+          "Биврёста стражу",
+          "дверь солнца Гьёлль",
+          "о мирах расспросить,",
+          "что бы о них",
+          "ни стало ей ведомо.",
+          "Встревожены были",
+          "Браги и Лофт."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Заклятья запели,",
+          "Властители с Рёгниром",
+          "помчались на жезлах",
+          "к мира жилищу.",
+          "Слушает Один,",
+          "на Хлидскьяльве сидя,",
+          "велел, чтобы вдаль",
+          "дорога вела."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Мудрый спросил",
+          "у мёд подающей",
+          "про рожденье Оков",
+          "и про пути их,",
+          "Хели, небес,",
+          "миров, если ведает,",
+          "исток, жизни век,",
+          "а так же кончину."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Не выдала дум,",
+          "не одарила",
+          "жаждущих словом,",
+          "бесед не звучало.",
+          "Слёзы текли",
+          "из щитов головы,",
+          "опять покраснели",
+          "силы повязки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "С востока грядёт так",
+          "от Эливагара",
+          "шип луга турса",
+          "льдисто-холодного,",
+          "которым людей",
+          "поражает Даин",
+          "славного Мидгарда",
+          "каждую ночь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Дела встают тут,",
+          "из рук всё валится,",
+          "клонит бессилье",
+          "меч Белого Аса.",
+          "Вялость струится",
+          "на ветер тролльш,",
+          "суету успокоив",
+          "по всей округе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Вот так и Йорунн,",
+          "казалась Йольским,",
+          "печали полной,",
+          "ответа ж не было.",
+          "Вновь посещали",
+          "им отказавшую:",
+          "слов было много,",
+          "да мало толку."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Исток вопросов",
+          "в дорогу двинулся,",
+          "хранитель рога",
+          "Херьяна Гьяллар.",
+          "Потомка Нали",
+          "имел он в спутниках,",
+          "Гримнира скальд",
+          "землю стал охранять."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Видара воины",
+          "достигли Вингольва,",
+          "сынами Форньота",
+          "перенесённые.",
+          "Вовнутрь вступили,",
+          "асов приветствовали",
+          "тотчас на Игга",
+          "пиру весёлом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Хангатюру здоровья,",
+          "из асов счастливейшему,",
+          "властителю сусла",
+          "на сиденьи почётном,",
+          "они пожелали,",
+          "и хранить на пиру",
+          "радость всем диям",
+          "с Иггьюнгом вечно."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "На ска́мьях сидящий",
+          "по Бёльверка слову",
+          "Сэхримниром сонм",
+          "асов насытился.",
+          "На подносах Скёгуль",
+          "из Хникара чана",
+          "мёд разливала",
+          "в рога заздравные."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Много вопросов",
+          "за трапезой задали",
+          "Хеймдаллю боги,",
+          "Святыни — Локи:",
+          "предсказаньем",
+          "и мудростью",
+          "поделилась ли гордая? —",
+          "после полудня",
+          "и вплоть до сумерек."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Исполнили плохо",
+          "то, что поручено,",
+          "дело бесплодное",
+          "вышло бесславным.",
+          "Трудно бы было",
+          "так исхитриться,",
+          "чтоб от надменной",
+          "ответ получить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Речь ведёт Оми,",
+          "и слушали все:",
+          "«Ночь у нас будет",
+          "для новых решений.",
+          "До утра размышляйте,",
+          "каждый, кто сможет",
+          "совет предложить",
+          "к величию асов»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Помчалась вёрстами",
+          "матерь Ринд,",
+          "едва с усталым",
+          "родичем Фенрира",
+          "с пира ушли.",
+          "Боги простились",
+          "с Хрофтом и Фригг,",
+          "при Хримфакси выезде."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Деллинга сын",
+          "дорогими украшенного",
+          "каменьями яркими",
+          "вдаль погнал жеребца.",
+          "Над миром людским",
+          "коня грива сияет,",
+          "забаву вёз Двалина",
+          "скакун в повозке."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "На великой земле",
+          "в краю, что на севере,",
+          "под дальним корнем",
+          "Главного Древа",
+          "к ложу пошли",
+          "тролльши и турсы,",
+          "мёртвые, дверги,",
+          "и тёмные альвы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Встали Властители,",
+          "Альврёдуль поехала,",
+          "к северу в Нивльхейм",
+          "Ночь устремилась.",
+          "Рано рог Гьёлль",
+          "поднял звучащий",
+          "Ульврун потомок,",
+          "Химинбьёрга владыка."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Alfather works,",
+          "the Alfar discern,",
+          "the Vanir know,",
+          "the Nornir indicate,",
+          "the Ividia brings forth,",
+          "men endure,",
+          "the Thursar await,",
+          "The Valkyruir long.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"The forebodings of the Æsir",
+          "suspected to be evil;",
+          "treacherous Vættar had",
+          "the runes confounded.",
+          "Urd was enjoined",
+          "to guard Odhroerir,",
+          "powerfully to protect it",
+          "against the increasing multitude.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Hug then goes forth,",
+          "explores the heavens,",
+          "the powers fear",
+          "disaster from delay.",
+          "Twas Thráin’s belief",
+          "that the dream was ominous;",
+          "Dáin’s thought that",
+          "the dream was dark.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Among the dwarfs",
+          "virtue decays;",
+          "worlds sink down",
+          "to Ginnung’s abyss",
+          "Oft will Alswid",
+          "strike them down,",
+          "often the fallen",
+          "again collect.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Stand no longer shall",
+          "earth or sun.",
+          "The stream of air",
+          "with corruption laden",
+          "shall not cease.",
+          "Hidden is in Mim’s",
+          "limpid well",
+          "men’s certain knowledge.",
+          "Understand ye yet, or what?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"In the dales dwells",
+          "the prescient Dis,",
+          "from Yggdrasil’s",
+          "ash sunk down,",
+          "of alfen race,",
+          "Idun by name,",
+          "the youngest of Ivaldi’s",
+          "elder children.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"She ill brooked",
+          "her descent,",
+          "under the hoar tree’s",
+          "trunk confined.",
+          "She would not happy be",
+          "with Nörvi’s daughter,",
+          "accustomed to a pleasanter",
+          "abode at home.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"The triumphant gods saw",
+          "Nanna sorrowing",
+          "in earth’s deep sanctuaries;",
+          "a wolf’s skin they gave her,",
+          "in which herself she clad,",
+          "changed her feelings,",
+          "practised guile,",
+          "alter’d her aspect.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Vidrir selected",
+          "Bifröst’s guardian,",
+          "of the Giöll-sun’s",
+          "keeper to inquire",
+          "all that she knew",
+          "of every world;",
+          "Bragi and Lopt",
+          "should witness bear.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Magic songs they sung,",
+          "rode on wolves",
+          "the god and gods.",
+          "At the heavenly house,",
+          "Odin listened,",
+          "in Hlidskiálf;",
+          "let them go forth",
+          "on their long way.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"The wise god asked",
+          "the cupbearer",
+          "of the gods’ progeny",
+          "and their associates,",
+          "Whether of heaven, or Hel,",
+          "or earth, she knew",
+          "the origin, duration,",
+          "or dissolution?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"She spoke not,",
+          "she could no words",
+          "to the anxious gods",
+          "bring forth,",
+          "nor a sound uttered;",
+          "tears flowed from the head’s orbs;",
+          "with pain repressed",
+          "they flow anew\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"As from the east",
+          "from Elivágar,",
+          "the thorn is impelled by",
+          "the ice-cold Thurs,",
+          "wherewith Dáin",
+          "all people strikes",
+          "over the fair mid-earth;\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"when every faculty is lulled,",
+          "the hands sink,",
+          "totters with drowsiness",
+          "the bright, sword-girt As;",
+          "drives away the current",
+          "the giantess’s blandishment",
+          "of the mind’s agitations",
+          "of all people,\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"so the gods appeared",
+          "Jorun to be affected,",
+          "with sorrows swollen,",
+          "when they no answer got;",
+          "the strove the more",
+          "the greater the repulse;",
+          "still less than they had hoped",
+          "did their words prevail.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "\"When then the leader",
+          "of the inquiring travellers,",
+          "the guardian of Herian’s",
+          "loud sounding horn",
+          "took the son of Nál",
+          "for his companion,",
+          "Grimnir’s skalld",
+          "at the place kept watch.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "\"Vingólf reached",
+          "Vidur’s ministers,",
+          "both borne",
+          "by Fornióts kin.",
+          "They entered,",
+          "and the Æsir",
+          "forthwith saluted,",
+          "at Ygg’s convivial meeting.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "\"Hangatýr they hailed,",
+          "of Æsir the most blissfull;",
+          "potent drink in the high seat",
+          "they wished him to enjoy,",
+          "and the gods to sit",
+          "happy at the feast,",
+          "ever with Yggiung",
+          "pleasure to share.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"On the benches seated,",
+          "at Bölverk’s bidding,",
+          "the company of gods",
+          "where with Sæhrímnir sated.",
+          "Skögul at the tables,",
+          "from Hnikar’s vessel",
+          "measured out the mead,",
+          "in Mimir’s horns.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "\"Of many things inquired,",
+          "when the meal was over.",
+          "the high gods of Heimdall,",
+          "the godesses of Loki,",
+          "where the maid had uttered",
+          "divinations or wise words?",
+          "from noon",
+          "until twilight’s advent.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "\"Ill they showed",
+          "it had fallen out,",
+          "their errand bootless,",
+          "little to glory in.",
+          "A lack of counsel",
+          "seemed likely,",
+          "how from the maiden they",
+          "might an answer get.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "\"Omi answered;",
+          "all listened;",
+          "\"Night is the time",
+          "for new counsels;",
+          "till the morrow let reflect",
+          "each one competent",
+          "to give advice",
+          "helpful to the Æsir.\"\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"Ran along the ways",
+          "of mother Rind,",
+          "the desired repast",
+          "of Fenrisulf.",
+          "Went from the guild,",
+          "bade the gods farewell",
+          "Hropt and Frigg,",
+          "as, before Hrimfaxi,\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "\"the son of Delling",
+          "urged on his horse",
+          "adorned with precious jewels.",
+          "Over Mannheim shines",
+          "the horse’s mane,",
+          "the steed Dvalin’s deluder",
+          "drew in his chariot.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "\"In the north boundary",
+          "of the spacious earth,",
+          "under the outmost root",
+          "of the noble tree,",
+          "went to their couches",
+          "Gýgiar and Thursar,",
+          "spectres, dwarfs,",
+          "and Murk Alfs.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "\"The powers rose,",
+          "the Alf’s illuminator",
+          "northwards towards Niflheim",
+          "chased the night.",
+          "Up Argiöll ran",
+          "Ulfrún’s son,",
+          "the mighty hornblower",
+          "of heaven’s hights.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

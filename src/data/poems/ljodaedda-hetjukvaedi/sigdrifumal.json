@@ -1,0 +1,1876 @@
+{
+  "slug": "sigdrifumal",
+  "key": "Sigdrifumal",
+  "title": {
+    "on": "Sigrdrífumál",
+    "ru": "Речи Сигрдривы",
+    "en": "The Lay of Sigrdrífa"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "Сигурд поднялся на гору Хиндарфьялль и направился на юг во Фраккланд. На горе он увидел яркий свет, как будто горел огонь, и зарево стояло до самого неба. Когда он приблизился, он увидел ограду из щитов и в ограде — знамя. Сигурд вошел в огражденное место и увидел, что там лежит и спит человек в доспехах. Сигурд сперва снял шлем с его головы, и тут он увидел, что это женщина. Кольчуга сидела на ней крепко, словно приросла к телу. Тогда он рассек Грамом кольчугу от ворота вниз и еще поперек, по обоим рукавам. Затем он снял с нее кольчугу, и женщина проснулась, села, увидела Сигурда и сказала:",
+    "en": "Sigurth rode up on Hindarfjoll and turned southward toward the land of the Franks. On the mountain he saw a great light, as if fire were burning, and the glow reached up to heaven."
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе А. И. Корсуна",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Sigurðr reið upp á Hindarfjall ok stefndi suðr til Frakklands. Á fjallinu sá hann ljós mikið svá sem eldr brynni ok ljómaði af til himins. En er hann kom að þá stóð þar skjaldborg ok upp ór merki. Sigurðr gekk í skjaldborgina ok sá að þar lá maðr ok svaf með öllum hervápnum Hann tók fyrst hjálminn af höfði hánum; þá sá hann að það var kona. Brynjan var föst sem hon væri holdgróin. Þá reist hann með Gram frá höfuðsmátt brynjuna í gögnum niðr ok svá út í gögnum báðar ermar. Þá tók hann brynju af henni en hon vaknaði ok settiz hon upp ok sá Sigurð ok mælti:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«Hvað beit bry‖nju?",
+          "Hví brá ek svefni?",
+          "Hverr felldi af mér",
+          "fölvar nauðir?»",
+          "Hann svaraði:",
+          "«Sigmundar burr,",
+          "sleit fyr skömmu",
+          "hrafns hrælundir",
+          "hjörr Sigurðar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "[Hon kvað:]",
+          "«Lengi ek svaf,",
+          "lengi ek sofnuð var,",
+          "löng eru lýða læ;",
+          "Óðinn því veldr",
+          "er ek eigi mátta-k",
+          "bregða blundstöfum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "II Sigurðr settiz niðr ok spyrr hana nafns. Hon tók þá horn fullt mjaðar ok gaf hánum minnisveig."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Heill dagr!",
+          "Heilir dags synir!",
+          "Heil nótt ok nift!",
+          "Óreiðum augum",
+          "lítið okkr þinig",
+          "ok gefið sitjöndum sigr!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Heilir æsir!",
+          "Heilar ásynjur!",
+          "Heil sjá in fjölnýta fold!",
+          "Mál ok manvit",
+          "gefið okkr mærum tveim",
+          "ok læknishendr meðan lifum!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "III  Hon nefndiz Sigrdrífa ok var valkyrja. Hon sagði að tveir kon­un­gar börðuz. Hét annarr Hjálm-Gun­narr. Hann var þá ga­mall ok inn mesti hermaðr ok hafði Óðinn hánum sigri heitið en"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "«annarr hét Agnarr,",
+          "Hauðu bróðir,",
+          "er vættr engi",
+          "vildi þiggja.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "prose",
+        "lines": [
+          "IV Sigrdrífa felldi Hjálm-Gunnar  í orrustunni. En Óðinn stakk hana svefn­þorni í hefnd þess ok kvað hana aldri skyldu síðan sigr vega í orrustu ok kvað hana giftaz skyldu. «En ek sag­ða-k hánum að ek strengda-k heit þar í mót að giftaz öngum þeim manni er hræðaz kynni.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "V Hann segir ok biðr hana kenna sér speki ef hon vissi tíðindi ór öllum heimum. Sigrdrífa kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "«Bjór færi ek þér,",
+          "brynþings apaldr,",
+          "magni blandinn",
+          "ok megintíri;",
+          "fullr er hann ljóða",
+          "ok líknstafa,",
+          "góðra galdra",
+          "ok gamanrúna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Sigrúnar þú skalt rísta",
+          "ef þú vilt sigr hafa",
+          "ok rísta á hjalti hjörs,",
+          "sumar á véttrimum,",
+          "sumar á valböstum,",
+          "ok nefna tysvar Tý."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Ölrúnar skalt u kunna",
+          "ef þú vill annars kvæn",
+          "véli t þik í tryggð ef þú trúir;",
+          "á horni skal þær rísta",
+          "ok á handar baki",
+          "ok merkja á nagli Nauð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Full skal signa",
+          "ok við fári sjá",
+          "ok verpa lauki í lög.",
+          "Þá ek þat veit,",
+          "at þér verðr aldri",
+          "meinblandinn mjöðr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Bjargrúnar skalt u kunna",
+          "ef þú bjarga vilt",
+          "ok leysa kind frá konum;",
+          "á lófa þær skal rísta",
+          "ok of liðu spenna",
+          "ok biðja þá dísir duga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Brimrúnar skalt u rísta",
+          "ef þú vilt borgið hafa",
+          "á sundi seglmörum;",
+          "á stafni skal rísta",
+          "ok á stjórnar blaði",
+          "ok leggja eld í ár;",
+          "er a svá brattr breki",
+          "né svá blár unnir,",
+          "þó kjömz tu heill af hafi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Limrúnar skalt u kunna",
+          "ef þú vilt læknir vera",
+          "ok kunna sár að sjá;",
+          "á berki skal þær rísta",
+          "ok á baðmi viðar,",
+          "þeim er lúta austr limar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Málrúnar skalt u kunna",
+          "ef þú vilt að manngi þér",
+          "heiftum gjaldi harm;",
+          "þær um vindr,",
+          "þær um vefr,",
+          "þær um setr allar saman,",
+          "á því þingi",
+          "er þjóðir skulu",
+          "í fulla dóma fara."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Hugrúnar skalt u kunna",
+          "ef þú vilt hv‖erjum vera",
+          "geðsvinnari guma;",
+          "þær of réð,",
+          "þær of reist,",
+          "þær um hugði Hroftr,",
+          "af þeim legi",
+          "er lekið hafði",
+          "ór hausi Heiðdraupnis",
+          "ok ór horni Hoddrofnis;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "á bjargi stóð",
+          "með Brimis eggjar,",
+          "hafði sér á höfði hjálm.",
+          "Þá mælti Míms höfuð",
+          "fróðligt ið fyrsta orð.",
+          "ok sagði sanna stafi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Á skildi kvað ristnar",
+          "þeim er stendr fyr skínanda goði,",
+          "á eyra Árvakrs,",
+          "ok á Alsvinnz hófi,",
+          "á því hvéli er snýz",
+          "undir reið Rungnis,",
+          "á Sleipnis tönnum",
+          "ok á sleða fjötrum,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "á bjarnar hrammi",
+          "ok á Braga tungu,",
+          "á úlfs klóm",
+          "ok á arnar nefi,",
+          "á blóðgum vængjum",
+          "ok á brúar sporði,",
+          "á lausnar lófa",
+          "ok á líknar spori,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "á gleri ok á gulli",
+          "ok á gumna heillum,",
+          "í víni ok virtri",
+          "ok vilisessi.",
+          "Á Gungnis oddi",
+          "ok á Grana brjósti,",
+          "á nornar nagli",
+          "ok á nefi uglu;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "allar vóru af skafnar,",
+          "þær er vóru á ristnar,",
+          "ok hverfðar við inn helga mjöð",
+          "ok sendar á víða vega.",
+          "Þær ru með ásum,",
+          "þær ru með álfum,",
+          "sumar með vísum vönum,",
+          "sumar hafa mennzkir menn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Það eru bókrúnar,",
+          "það eru bjargrúnar",
+          "ok allar ölrúnar",
+          "ok mætar meginrúnar",
+          "hveim er þær kná óvilltar",
+          "ok óspilltar",
+          "sér að heillum hafa;",
+          "njót tu ef þú namt",
+          "unz rjúfaz regin!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Nú skalt u kjósa",
+          "allz þér er kostr um boðinn,",
+          "hvassa vápna hlynr,",
+          "sögn eða þögn",
+          "haf ðu þér sjálfr í hug,",
+          "öll eru mein of metin.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Sigurðr kvað:",
+          "«Mun-k a ek flæja",
+          "þótt mik feigan vitir,",
+          "em-k a ek með bleyði borinn;",
+          "ástráð þín",
+          "ek vil öll hafa",
+          "svá lengi sem ek lifi.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Sigrdrífa kvað:",
+          "«Það ræð ek þér ið fyrsta",
+          "að þú við frændr þína",
+          "vammalaust verir;",
+          "síðr þú hefnir",
+          "þótt þeir sakar gjöri;",
+          "það kveða dauðum duga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Það ræð ek þér annað",
+          "að þú eið né sverir",
+          "nema þann er saðr sé;",
+          "grimmar símar",
+          "ganga að tryggðrofi,",
+          "armr er vára vargr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Það ræð ek þér þriðja",
+          "að þú þingi á",
+          "deili t við heimska hali",
+          "því að ósviðr maðr",
+          "lætr oft kveðin",
+          "verri orð en viti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Allt er vant",
+          "ef þú við þegir;",
+          "þá þikkir þú með bleyði borinn",
+          "eða sönnu sagðr;",
+          "hættr er heimiskviðr",
+          "nema sér góðan geti.",
+          "Annars dags",
+          "lát tu hans öndu farið",
+          "ok launa svá lýðum lygi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Það ræð ek þér ið fjórða:",
+          "Ef býr fordæða",
+          "vammafull á vegi",
+          "ganga er betra",
+          "en gista sé",
+          "þótt þik nótt um nemi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Fornjósnar augu",
+          "þurfu fira synir",
+          "hvar s skulu reiðir vega;",
+          "oft bölvísar konur",
+          "sitja brautu nær;",
+          "þær er deyfa sverð ok sefa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Það ræð ek þér ið fimmta:",
+          "Þótt u fagrar sér",
+          "brúðir bekkjum á,",
+          "sifja silfr",
+          "lát a þú þínum svefni ráða,",
+          "teygj att u þér að kossi konur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Það ræð ek þér ið sétta:",
+          "Þótt með seggjum fari ‖ 21",
+          "-- -- -- -- -- -- -- -- --",
+          "ölðrmál til öfug,",
+          "drukkin deila",
+          "skal-at-tu við dolgviðu;",
+          "margan stelr vín viti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Söngr ok öl",
+          "hefr seggjum verit",
+          "mörgum at móðtrega,",
+          "sumum at bana,",
+          "sumum at bölstöfum;",
+          "fjölð er, þat er fira tregr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Þat ræð ek þér it sjaunda,",
+          "ef þú sakar deilir",
+          "við hugfulla hali,",
+          "berjask er betra",
+          "en brenna sé",
+          "inni auðstöfum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Þat ræð ek þér it átta,",
+          "at þú skalt við illu sjá",
+          "ok firrask flærðarstafi;",
+          "mey þú teygj-at",
+          "né manns konu",
+          "né eggja ofgamans."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Þat ræð ek þér it níunda,",
+          "at þú náum bjargir,",
+          "hvars þú á foldu finnr,",
+          "hvárts eru sóttdauðir",
+          "eða eru sædauðir",
+          "eða eru vápndauðir verar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Laug skal gera,",
+          "þeim er liðnir eru,",
+          "þváa hendr ok höfuð,",
+          "kemba ok þerra,",
+          "áðr í kistu fari,",
+          "ok biðja sælan sofa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Þat ræð ek þér it tíunda,",
+          "at þú trúir aldregi",
+          "várum vargdropa,",
+          "hvárstu ert bróður bani",
+          "eða hafir þú felldan föður;",
+          "ulfr er í ungum syni,",
+          "þó sé hann gulli gladdr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Sakar ok heiftir",
+          "hyggja-t svefngar vera",
+          "né harm in heldr;",
+          "vits ok vápna",
+          "vant er jöfri at fá",
+          "þeim er skal fremstr",
+          "með firum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Þat ræð ek þér it ellifta,",
+          "at þú við illu séir",
+          "hvern veg at vini;",
+          "langt líf þykkjumk-a-k",
+          "lofðungs vita;",
+          "römm eru róg of risin.»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Сигурд поднялся на гору Хиндарфьялль и направился на юг во Фраккланд. На горе он увидел яркий свет, как будто горел огонь, и зарево стояло до самого неба. Когда он приблизился, он увидел ограду из щитов и в ограде — знамя. Сигурд вошел в огражденное место и увидел, что там лежит и спит человек в доспехах. Сигурд сперва снял шлем с его головы, и тут он увидел, что это женщина. Кольчуга сидела на ней крепко, словно приросла к телу. Тогда он рассек Грамом кольчугу от ворота вниз и еще поперек, по обоим рукавам. Затем он снял с нее кольчугу, и женщина проснулась, села, увидела Сигурда и сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«Кто кольчугу рассек?",
+          "Кто меня разбудил?",
+          "Кто сбросил с меня",
+          "стальные оковы?»",
+          "Он ответил:",
+          "«Сигмунда сын,",
+          "рубил недавно",
+          "мясо для воронов",
+          "Сигурда меч»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "[Она сказала:]",
+          "«Долго спала я,",
+          "долог был сон мой —",
+          "долги несчастья!",
+          "Виновен в том Один,",
+          "что руны сна",
+          "не могла я сбросить»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "II Сигурд сел и спросил, как ее зовут. Тогда она взяла рог, полный меда, и дала ему напиток памяти."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Она сказала:]",
+          "«Славься, день!",
+          "И вы, дня сыны!",
+          "И ты, ночь с сестрою!",
+          "Взгляните на нас",
+          "благостным взором,",
+          "победу нам дайте!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Славьтесь, асы!",
+          "И асиньи, славьтесь!",
+          "И земля благодатная!",
+          "Речь и разум",
+          "и руки целящие",
+          "даруйте нам!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "III Она назвалась Сигрдривой и была валькирией. Она рассказала, что два конунга вели войну: одного звали Хьяльм-Гуннар, он тогда был старым и очень воинственным, и Один обещал ему победу;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "другой — Агнар,",
+          "Ауды брат,",
+          "но не нашёлся",
+          "защитник ему."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "prose",
+        "lines": [
+          "IV Сигрдрива погубила в битве Хьяльм-Гуннара. А Один, в отместку за это, уколол ее шипом сна и сказал, что никогда больше она не победит в битве и что будет выдана замуж. «Но я ответила ему, что дала обет не выходить замуж ни за кого, кто знает страх»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "V Тогда он просит поучить его мудрости, раз она знает, что нового во всех мирах. Она сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "«Клену тинга кольчуг",
+          "даю я напиток,",
+          "исполненный силы",
+          "и славы великой;",
+          "в нем песни волшбы",
+          "и руны целящие,",
+          "заклятья благие",
+          "и радости руны."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Руны победы,",
+          "коль ты к ней стремишься, —",
+          "вырежи их",
+          "на меча рукояти",
+          "и дважды пометь",
+          "именем Тюра!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Руны пива",
+          "познай, чтоб обман",
+          "тебе не был страшен!",
+          "Нанеси их на рог,",
+          "на руке начертай,",
+          "руну Науд — на ногте."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Рог освяти,",
+          "опасайся коварства,",
+          "лук брось во влагу;",
+          "тогда знаю твердо,",
+          "что зельем волшебным",
+          "тебя не напоят."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Повивальные руны",
+          "познай, если хочешь",
+          "быть в помощь при родах!",
+          "На ладонь нанеси их,",
+          "запястья сжимай,",
+          "к дисам взывая."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Руны прибоя",
+          "познай, чтоб спасать",
+          "корабли плывущие!",
+          "Руны те начертай",
+          "на носу, на руле",
+          "и выжги на веслах, —",
+          "пусть грозен прибой",
+          "и черны валы, —",
+          "невредимым причалишь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Целебные руны",
+          "для врачевания",
+          "ты должен познать;",
+          "на стволе, что ветви",
+          "клонит к востоку,",
+          "вырежи их."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Познай руны речи,",
+          "если не хочешь,",
+          "чтоб мстили тебе!",
+          "Их слагают,",
+          "их составляют,",
+          "их сплетают",
+          "на тинге таком,",
+          "где люди должны",
+          "творить правосудье."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Познай руны мысли,",
+          "если мудрейшим",
+          "хочешь ты стать!",
+          "Хрофт разгадал их",
+          "и начертал их,",
+          "он их измыслил",
+          "из влаги такой,",
+          "что некогда вытекла",
+          "из мозга Хейддраупнира",
+          "и рога Ходдрофнира."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Стоял на горе",
+          "с Бримира лезвием,",
+          "голова под шеломом.",
+          "Тогда голова Мима сказала",
+          "мудрое слово",
+          "и правду рекла,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "что руны украсили",
+          "щит бога света,",
+          "копыто Альсвинна",
+          "и Арвака уши",
+          "и колесницу",
+          "убийцы Хрунгнира,",
+          "Слейпнира зубы",
+          "и санный подрез,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "лапу медведя",
+          "и Браги язык,",
+          "волчьи когти",
+          "и клюв орлиный,",
+          "кровавые крылья",
+          "и край моста,",
+          "ладонь повитухи",
+          "и след помогающий,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "стекло и золото",
+          "и талисманы,",
+          "вино и сусло,",
+          "скамьи веселья,",
+          "железо Гунгнира,",
+          "грудь коня Грани,",
+          "ноготь норны",
+          "и клюв совиный."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Руны разные",
+          "все соскоблили,",
+          "с медом священным",
+          "смешав, разослали, —",
+          "у асов одни,",
+          "другие у альвов,",
+          "у ванов мудрых,",
+          "у сынов человечьих."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "То руны письма,",
+          "повивальные руны,",
+          "руны пива",
+          "и руны волшбы, —",
+          "не перепутай,",
+          "не повреди их,",
+          "с пользой владей ими;",
+          "пользуйся знаньем",
+          "до смерти богов!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Теперь выбирай,",
+          "коль выбор предложен,",
+          "лезвия клен, —",
+          "речь иль безмолвье;",
+          "решай, а несчастья",
+          "судьба уготовит»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Не побегу,",
+          "даже смерть увидав,",
+          "я не трус от рожденья;",
+          "советы благие",
+          "твои я приму,",
+          "покуда я жив»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "[Сигрдрива сказала:]",
+          "«Первый совет мой —",
+          "с родней не враждуй,",
+          "не мсти, коль они",
+          "ссоры затеют;",
+          "и в смертный твой час",
+          "то будет ко благу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Совет мой второй —",
+          "клятв не давай",
+          "заведомо ложных;",
+          "злые побеги",
+          "у лживых обетов,",
+          "и проклят предатель."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "А третий совет —",
+          "на тинг придешь ты,",
+          "с глупцами не спорь;",
+          "злые слова",
+          "глупый промолвит,",
+          "о зле не помыслив."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Но и смолчать",
+          "ты не должен в ответ, —",
+          "трусом сочтут",
+          "иль навету поверят;",
+          "славы дурной",
+          "опасайся всегда;",
+          "назавтра убей",
+          "лжеца — тем отплатишь",
+          "за подлую ложь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Четвертый совет —",
+          "если в пути",
+          "ведьму ты встретишь,",
+          "прочь уходи,",
+          "не ночуй у нее,",
+          "если ночь наступила."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Бдительный взор",
+          "каждому нужен,",
+          "где гневные бьются;",
+          "придорожные ведьмы",
+          "воинам тупят",
+          "смелость и меч."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Пятый совет мой —",
+          "увидишь красивых",
+          "жен на скамьях,",
+          "да не смутится",
+          "твой сон, и объятьями",
+          "не соблазняй их!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Совет мой шестой —",
+          "если за пивом",
+          "-- -- -- -- -- -- -- -- --",
+          "свара затеется,",
+          "не спорь, если пьян,",
+          "с деревом битвы, —",
+          "хмель разуму враг."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Песни и пиво",
+          "для многих мужей",
+          "стали несчастьем,",
+          "убили иных",
+          "или ввергли в беду,",
+          "печальна их участь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Совет мой седьмой —",
+          "если ты в распре",
+          "с мужами смелыми,",
+          "лучше сражаться,",
+          "чем быть сожженным",
+          "в доме своем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Совет мой восьмой —",
+          "зла берегись",
+          "и рун коварных;",
+          "дев не склоняй",
+          "и мужниных жен",
+          "к любви запретной!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Девятый совет —",
+          "хорони мертвецов",
+          "там, где найдешь их,",
+          "от хвори умерших,",
+          "в волнах утонувших",
+          "и павших в бою."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Омой мертвецу",
+          "голову, руки,",
+          "пригладь ему волосы;",
+          "в гроб положив,",
+          "мирного сна",
+          "пожелай умершему."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Десятый совет —",
+          "не верь никогда",
+          "волчьим клятвам, —",
+          "брата ль убил ты,",
+          "отца ли сразил:",
+          "сын станет волком",
+          "и выкуп забудет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Гнев и вражда",
+          "и обида не спят;",
+          "ум и оружие",
+          "конунгу надобны,",
+          "чтоб меж людей",
+          "первым он был."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Последний совет мой —",
+          "друзей коварства",
+          "ты берегись;",
+          "недолго, сдается мне,",
+          "жив будет конунг —",
+          "множатся распри»."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "Sigurth rode up on Hindarfjoll and turned southward toward the land of the Franks. On the mountain he saw a great light, as if fire were burning, and the glow reached up to heaven. And when he came thither, there stood a tower of shields, and above it was a banner. Sigurth went into the shield-tower, and saw that a man lay there sleeping with all his war-weapons. First he took the helm from his head, and then he saw that it was a woman. The mail-coat was as fast as if it had grown to the flesh. Then he cut the mail-coat from the head-opening downward, and out to both the arm-holes. Then he took the mail-coat from her, and she awoke, and sat up and saw Sigurth, and said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"What bit through the byrnie?",
+          "how was broken my sleep?",
+          "Who made me free",
+          "of the fetters pale?\"",
+          "",
+          "He answered:",
+          "\"Sigmund's son,",
+          "with Sigurth's sword,",
+          "That late with flesh",
+          "hath fed the ravens.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "Sigurth sat beside her and asked her name. She took a horn full of mead and gave him a memory-draught."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"Hail, day!",
+          "Hail, sons of day!",
+          "And night and her daughter now!",
+          "Look on us here",
+          "with loving eyes,",
+          "That waiting we victory win.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Hail to the gods!",
+          "Ye goddesses, hail,",
+          "And all the generous earth!",
+          "Give to us wisdom",
+          "and goodly speech,",
+          "And healing hands, life-long.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "Her name was Sigrdrifa, and she was a Valkyrie. She said that two kings fought in battle; one was called Hjalmgunnar, an old man but a mighty warrior, and Othin had promised him the victory, and"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Long did I sleep,",
+          "my slumber was long,",
+          "And long are the griefs of life;",
+          "Othin decreed",
+          "that I could not break",
+          "The heavy spells of sleep.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "prose",
+        "lines": [
+          "Sigrdrifa, slew Hjalmgunnar in the battle, and Othin pricked her with the sleep-thorn in punishment for this, and said that she should never thereafter win victory in battle, but that she should be wedded. \"And I said to him that I had made a vow in my turn, that I would never marry a man who knew the meaning of fear.\" Sigurth answered and asked her to teach him wisdom, if she knew of what took place in all the worlds. Sigrdrifa said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"The other was Agnar,",
+          "brother of Autha,",
+          "None he found",
+          "who fain would shield him.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Beer I bring thee,",
+          "tree of battle,",
+          "Mingled of strength",
+          "and mighty fame;",
+          "Charms it holds",
+          "and healing signs,",
+          "Spells full good,",
+          "and gladness-runes.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Winning-runes learn,",
+          "if thou longest to win,",
+          "And the runes on thy sword-hilt write;",
+          "Some on the furrow,",
+          "and some on the flat,",
+          "And twice shalt thou call on Tyr.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"Ale-runes learn,",
+          "that with lies the wife",
+          "Of another betray not thy trust;",
+          "On the horn thou shalt write,",
+          "and the backs of thy hands,",
+          "And Need shalt mark on thy nails.",
+          "Thou shalt bless the draught,",
+          "and danger escape,",
+          "And cast a leek in the cup;",
+          "(For so I know",
+          "thou never shalt see",
+          "Thy mead with evil mixed.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Birth-runes learn,",
+          "if help thou wilt lend,",
+          "The babe from the mother to bring;",
+          "On thy palms shalt write them,",
+          "and round thy joints,",
+          "And ask the fates to aid.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Wave-runes learn,",
+          "if well thou wouldst shelter",
+          "The sail-steeds out on the sea;",
+          "On the stem shalt thou write,",
+          "and the steering blade,",
+          "And burn them into the oars;",
+          "Though high be the breakers,",
+          "and black the waves,",
+          "Thou shalt safe the harbor seek.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"Branch-runes learn,",
+          "if a healer wouldst be,",
+          "And cure for wounds wouldst work;",
+          "On the bark shalt thou write,",
+          "and on trees that be",
+          "With boughs to the eastward bent.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Speech-runes learn,",
+          "that none may seek",
+          "To answer harm with hate;",
+          "Well he winds",
+          "and weaves them all, And sets them side by side,",
+          "At the judgment-place,",
+          "when justice there",
+          "The folk shall fairly win.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Thought-runes learn,",
+          "if all shall think",
+          "Thou art keenest minded of men.",
+          "*********\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Them Hropt arranged,",
+          "and them he wrote,",
+          "And them in thought he made,",
+          "Out of the draught",
+          "that down had dropped",
+          "From the head of Heithdraupnir,",
+          "And the horn of Hoddrofnir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"On the mountain he stood",
+          "with Brimir's sword,",
+          "On his head the helm he bore;",
+          "Then first the head",
+          "of Mim spoke forth,",
+          "And words of truth it told.",
+          "*********\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "\"He bade write on the shield",
+          "before the shining goddess,",
+          "On Arvak's ear,",
+          "and on Alsvith's hoof,",
+          "On the wheel of the car",
+          "of Hrungnir's killer,",
+          "On Sleipnir's teeth,",
+          "and the straps of the sledge.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "\"On the paws of the bear,",
+          "and on Bragi's tongue,",
+          "On the wolf's claws bared,",
+          "and the eagle's beak,",
+          "On bloody wings,",
+          "and bridge's end,",
+          "On freeing hands",
+          "and helping foot-prints.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "\"On glass and on gold,",
+          "and on goodly charms,",
+          "In wine and in beer,",
+          "and on well-loved seats,",
+          "On Gungnir's point,",
+          "and on Grani's breast,",
+          "On the nails of Norns,",
+          "and the night-owl's beak.",
+          "*********\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"Shaved off were the runes",
+          "that of old were written,",
+          "And mixed with the holy mead,",
+          "And sent on ways so wide;",
+          "So the gods had them,",
+          "so the elves got them,",
+          "And some for the Wanes so wise,",
+          "And some for mortal men.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "\"Beech-runes are there,",
+          "birth-runes are there,",
+          "And all the runes of ale,",
+          "And the magic runes of might;",
+          "Who knows them rightly",
+          "and reads them true,",
+          "Has them himself to help;",
+          "Ever they aid,",
+          "Till the gods are gone.",
+          "*********\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Brynhild spake:",
+          "\"Now shalt thou choose,",
+          "for the choice is given,",
+          "Thou tree of the biting blade;",
+          "Speech or silence,",
+          "'tis thine to say,",
+          "Our evil is destined all.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Sigurth spake:",
+          "\"I shall not flee,",
+          "though my fate be near,",
+          "I was born not a coward to be;",
+          "Thy loving word",
+          "for mine will I win,",
+          "As long as I shall live.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"Then first I rede thee,",
+          "that free of guilt",
+          "Toward kinsmen ever thou art;",
+          "No vengeance have,",
+          "though they work thee harm,",
+          "Reward after death thou shalt win.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "\"Then second I rede thee,",
+          "to swear no oath",
+          "If true thou knowest it not;",
+          "Bitter the fate",
+          "of the breaker of troth,",
+          "And poor is the wolf of his word.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "\"Then third I rede thee,",
+          "that thou at the Thing",
+          "Shalt fight not in words with fools;",
+          "For the man unwise",
+          "a worser word",
+          "Than he thinks doth utter oft.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "\"Ill it is",
+          "if silent thou art,",
+          "A coward born men call thee,",
+          "And truth mayhap they tell;",
+          "Seldom safe is fame,",
+          "Unless wide renown be won;",
+          "On the day thereafter",
+          "send him to death,",
+          "Let him pay the price of his lies.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "\"Then fourth I rede thee,",
+          "if thou shalt find",
+          "A wily witch on thy road,",
+          "It is better to go",
+          "than her guest to be,",
+          "Though night enfold thee fast.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "\"Eyes that see",
+          "need the sons of men",
+          "Who fight in battle fierce;",
+          "Oft witches evil",
+          "sit by the way,",
+          "Who blade and courage blunt.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "\"Then fifth I rede thee,",
+          "though maidens fair",
+          "Thou seest on benches sitting,",
+          "Let the silver of kinship",
+          "not rob thee of sleep,",
+          "And the kissing of women beware.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "\"Then sixth I rede thee,",
+          "if men shall wrangle,",
+          "And ale-talk rise to wrath,",
+          "No words with a drunken",
+          "warrior have,",
+          "For wine steals many men's wits.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "\"Brawls and ale",
+          "full oft have been",
+          "An ill to many a man,",
+          "Death for some,",
+          "and sorrow for some;",
+          "Full many the woes of men.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "\"Then seventh I rede thee,",
+          "if battle thou seekest",
+          "With a foe that is full of might;",
+          "It is better to fight",
+          "than to burn alive",
+          "In the hall of the hero rich.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "\"Then eighth I rede thee,",
+          "that evil thou shun,",
+          "And beware of lying words;",
+          "Take not a maid,",
+          "nor the wife of a man,",
+          "Nor lure them on to lust.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "\"Then ninth I rede thee:",
+          "burial render",
+          "If thou findest a fallen corpse,",
+          "Of sickness dead,",
+          "or dead in the sea,",
+          "Or dead of weapons' wounds.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "\"A bath shalt thou give them",
+          "who corpses be,",
+          "And hands and head shalt wash;",
+          "Wipe them and comb,",
+          "ere they go in the coffin,",
+          "And pray that they sleep in peace.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "\"Then tenth I rede thee,",
+          "that never thou trust",
+          "The word of the race of wolves,",
+          "(If his brother thou broughtest to death,",
+          "Or his father thou didst fell;)",
+          "Often a wolf",
+          "in a son there is,",
+          "Though gold he gladly takes.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "\"Battle and hate",
+          "and harm, methinks,",
+          "Full seldom fall asleep;",
+          "Wits and weapons",
+          "the warrior needs",
+          "If boldest of men he would be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "\"Then eleventh I rede thee,",
+          "that wrath thou shun,",
+          "And treachery false with thy friends;",
+          "Not long the leader's",
+          "life shall be,",
+          "For great are the foes he faces.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

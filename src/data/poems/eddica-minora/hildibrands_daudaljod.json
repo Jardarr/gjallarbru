@@ -1,0 +1,345 @@
+{
+  "slug": "hildibrands-daudaljod",
+  "key": "HildibrandsDaudaljod",
+  "title": {
+    "on": "Hildibrands dauðaljóð",
+    "ru": "Предсмертная песнь Хильдибранда",
+    "en": "Hildibrand's Death Song"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Andreas Heusler, Wilhelm Ranisch: Eddica minora (Dortmund 1903), pp. 53–54, Guðni Jónsson, 1954. Перевод: И. Г. Матюшина. Самые забавные лживые саги: Cборник статей в честь Г. В. Глазыриной. — М.: Русский Фонд Содействия Образованию и Науке, 2012,",
+    "en": "An ancient Icelandic text, edited by Finnur Jónsson, Fagrskinna, 1902–1903, pp. 28–30. Translation by Lee M. Hollander (1936)."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Mjök er vandgætt,",
+          "hvé verða skal",
+          "of borinn öðrum",
+          "at banorði.",
+          "Þik Drótt of bar",
+          "af Danmörku,",
+          "en mik sjálfan",
+          "á Svíþjóðu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Tveir váru þeir",
+          "tyrvir gjarnir",
+          "Buðla nautar,",
+          "nú er brotinn annarr.",
+          "Svá höfðu dvergar",
+          "dauðir smíðat",
+          "sem engi mun",
+          "áðr né síðan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Stendr mér at höfði",
+          "hlíf in brotna,",
+          ".........",
+          "eru þar taldir",
+          "tigar ins átta",
+          "manna þeira,",
+          "er ek at morði varð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Liggr þar inn svási",
+          "sonr at höfði,",
+          "eptirerfingi,",
+          "er ek eiga gat,",
+          ".........",
+          "óviljandi",
+          "aldrs synjaðak."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Bið ek þik, bróðir,",
+          "bænar einnar,",
+          "einnar bænar,",
+          "eigi þú synja!",
+          "Mik skaltu verja",
+          "váðum þínum,",
+          "sem fjörs bani",
+          "fár annars mun."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          ".........",
+          "Nú verð ek liggja",
+          "lífs andvana,",
+          "mæki undaðr,",
+          "þeims magnar sár."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Нелегко предвидеть,",
+          "Что может выйти,",
+          "Коли один другому",
+          "Рожден на погибель.",
+          "Дротт из Дании",
+          "Тебя родила,",
+          "Меня же самого —",
+          "В земле свейской."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Два было их",
+          "Рьяных меча,",
+          "Подарка Будли",
+          "Теперь один разбит.",
+          "Дверги так их",
+          "Сковали мёртвые,",
+          "Как никто не смог бы",
+          "Ни прежде, ни впредь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Стоит у меня в головах",
+          "Щит расколотый,",
+          ",,,,,,,,,",
+          "На нём посчитаны",
+          "Восемь десятков",
+          "Воинов тех,",
+          "Что мною убиты."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Лежит там милый",
+          "Сын во главе,",
+          "Наследник мой,",
+          "Мною рожденный,",
+          ".........",
+          "Не желая того,",
+          "Его жизни лишил я."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Я прошу тебя, брат,",
+          "Об одном одолжении,",
+          "Всего об одном,",
+          "Не откажи!",
+          "Оберни ты меня",
+          "В одежды свои,",
+          "Как забравший жизнь",
+          "Для другого не сделает."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          ".........",
+          "Теперь должен я лежать",
+          "Лишённый жизни,",
+          "Раненный мечом,",
+          "Который множит раны."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "(“ Tis time to tell, on turf as I lie,",
+          "felled by the sword, what fate was ours:",
+          "unlike our lot in life hath been,",
+          "to Hel fare I while whole thou livest.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Not easy is it ever to know",
+          "who will be born his brother’s slayer.",
+          "Did Drótt bear thee in Danish lands;",
+          "myself she bore in Sweden’s realm."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "(“By the same mother suckled we were;",
+          "yet neither the other knew as brother",
+          "until the twain, trusting their weapon,",
+          "for the fray eager, fought the other:)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Trusty broad-swords twain were forged—",
+          "heirlooms from Buthli; now one is broken.",
+          "So deftly had the dwarfs forged them",
+          "as none e’er did or will do, hereafter."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "By my head, broken, my buckler stands,",
+          "(round-shaped, shining, but shattered now;)",
+          "on it are scored eighty notches",
+          "for doughty men given to death by me."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "My liefest son lies by my head,",
+          "the after-heir whom I did have—",
+          "* * *",
+          "unwittingly in war I slew him."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "One boon, brother, I beg of thee—",
+          "one boon only albeit one",
+          "which slayer not often to slain man grants:",
+          "in thy weeds of war wind my body!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "(Have hateful norns knit our fate-thread:",
+          "to fight against fate the fey one avails not:)",
+          "lifeless shall I now lie on the ground,",
+          "slain by the sword, sorely wounded."
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

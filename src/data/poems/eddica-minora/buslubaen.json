@@ -1,0 +1,1608 @@
+{
+  "slug": "buslubaen",
+  "key": "Buslubaen",
+  "title": {
+    "on": "Buslubæn",
+    "ru": "Мольба Буслы",
+    "en": "The Curse of Busla"
+  },
+  "subtitle": {
+    "ru": "и стих Сюрпы",
+    "en": "ok Syrpuvers"
+  },
+  "description": {
+    "on": "",
+    "ru": "Творение неизвестного скальда, посвященное конунгу Эйрику I Кровавая Секира (Eiríkr blóðøx; 885–954), сыну Харальда Прекрасноволосого, сохранилось в манускрипте «Красивая кожа» (Fagrskinna, ок. 1220 г.) в тексте «Nóregs Kononga Tal». Сообщается, что песнь создана по желанию Гуннхильд, вдовы Эйрика, после гибели супруга. Отрывок из Песни приводит также Снорри Стурлусон в «Языке поэзии» (Яз 9:20).",
+    "en": "A composition by an unknown skald dedicated to King Eiríkr I Bloodaxe (Eiríkr blóðøx; 885–954), son of Harald Fairhair, is preserved in the manuscript \"Fagrskinna\" (Faðrskinna, ca. 1220) in the text \"Nóregs Kononga Tal.\" The song is reported to have been composed at the request of Gunnhild, Eiríkr's widow, after her husband's death. An excerpt from the Lay is also cited by Snorri Sturluson in \"The Language of Poetry\" (Laz 9:20)."
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: рукопись Lbs 423 fol. Перевод: Т. Ермолаев; редакция перевода, перевод вис: Н. Топчий, перевод вис a1–a2, b1–b6, с1–c8 — E. T. по подстрочнику Н. Топчий.",
+    "en": "An ancient Icelandic text: manuscript Lbs 423 fol. Translation by Lee M. Hollander (1936)."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Þetta kveld it sama kom Busla í þat herbergi, sem Hringr konungr svaf í, ok hóf upp bæn þá, er síðan er kölluð Buslubæn, ok hefir hún víðfræg orðit síðan, ok eru þar í mörg orð ok ill, þau sem kristnum mönnum er þarfleysa í munni at hafa, en þó er þetta upphaf á henni:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "heading",
+        "lines": [
+          "I"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Hér liggr Hringr konungr,",
+          "hilmir Gauta,",
+          "einráðastr",
+          "allra manna;",
+          "ætlar þú son þinn",
+          "sjálfr at myrða,",
+          "Þau munu fádæmi",
+          "fréttast víða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Heyr þú bæn Buslu,",
+          "brátt mun hún sungin,",
+          "svá at heyrast skal",
+          "um heim allan,",
+          "ok óþörf öllum,",
+          "þeim sem á heyra,",
+          "en þeim þó fjándligust,",
+          "sem ek vil fortala."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Villist vættir,",
+          "verði ódæmi,",
+          "hristist hamrar,",
+          "heimr sturlist,",
+          "versni veðrátta,",
+          "verði ódæmi,",
+          "nema þú, Hringr konungr,",
+          "Herrauð friðir",
+          "ok honum Bósa",
+          "bjargir veitir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Svá skal ek þjarma",
+          "þér at brjósti,",
+          "at hjarta þitt",
+          "höggormar gnagi,",
+          "en eyru þín",
+          "aldregi heyri",
+          "ok augu þín",
+          "úthverf snúist,",
+          "nema þú Bósa",
+          "björg of veitir",
+          "ok honum Herrauð",
+          "heipt upp gefir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Ef þú siglir,",
+          "slitni reiði,",
+          "en af stýri",
+          "stökkvi krókar,",
+          "rifni reflar,",
+          "reki segl ofan,",
+          "en aktaumar",
+          "allir slitni,",
+          "nema þú Herrauð",
+          "heipt upp gefir",
+          "ok svá Bósa",
+          "biðir til sátta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Þá þú ríðr",
+          "Rævils hestum",
+          "hóvar úðar",
+          "haf glymjanda,",
+          "seglvigg verði",
+          "sveita storkin,",
+          "so að vágmarar",
+          "vind ei standist."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Hvar eð þú sætréum",
+          "sveima gerir,",
+          "sé þér byrr gefinn",
+          "við bana sjálfan,",
+          "falli breki brattr",
+          "bröndum hæri,",
+          "hlunnvigg hrapi",
+          "hafs af megni",
+          "nema þú Bósa",
+          "bjargir veitir,",
+          "[ok] Herr.",
+          "heipt upp gefir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Ef þú ríðr,",
+          "raskist taumar,",
+          "heltist hestar,",
+          "en hrumist klárar,",
+          "en götur allar",
+          "ok gagnstígar",
+          "troðist allar",
+          "í tröllhendr fyrir þér,",
+          "nema þú Bósa",
+          "bjargir veitir",
+          "ok Herrauð",
+          "heipt upp gefir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Sé þér í hvílu",
+          "sem í hálmeldi,",
+          "en í hásæti",
+          "sem á hafbáru;",
+          "þó skal þér seinna",
+          "sýnu verra,",
+          "en ef þú vilt við meyjar",
+          "manns gaman hafa,",
+          "villist þú þá vegarins;",
+          "eða viltu þulu lengri?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "II Þá svarar konungr: «Þegi þú, vánd vættr, ok vert í burtu, elligar mun ek láta meiða þik fyrir for­bænir þínar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "lines": [
+          "III «Svá höfum vit nú fundizt,» se­gir Busla, «at vit munum eigi ski­ja, fyrr en ek hefi minn vilja.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "prose",
+        "lines": [
+          "IV Konungr vildi þá upp standa, ok var hann þá fastr við sængina, en smásveinar vöknuðu eigi. Bus­la lét þá frammi annan þriðjung bænarinnar [ok mun ek láta þat um líða at skrifa hann, því at þat er öllum þarfleysa at hafa hann eptir, en þó má svá sízt eptir hafa hann, at hann sé eigi skrifaðr. En þó er þetta þar upphaf á]:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "heading",
+        "lines": [
+          "II"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Tröll ok álfar",
+          "ok töfrnornir,",
+          "búar, bergrisar",
+          "brenni þínar hallir,",
+          "hati þik hrímþursar,",
+          "hestar streði þik,",
+          "stráin stangi þik,",
+          "en stormar æri þik,",
+          "ok vei verði þér,",
+          "nema þú vilja",
+          "minn gerir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Þá við gumna",
+          "villt gamni skipta,",
+          "það verði þér",
+          "að volgi og harmi,",
+          "auðs andvana",
+          "[o]g alls gamans,",
+          "hafir [e]i[g]i (í?) mátt,",
+          "nema á hræum spryngir",
+          "nema þú Bósa",
+          "bjargir veitir",
+          "ok Herrauð",
+          "heipt upp gefir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Drífi þig valdrótt",
+          "til draumþinga,",
+          "og háði sér",
+          "til draughúsa,",
+          "hvar öflgari verða",
+          "allir á nóttu[m],",
+          "dólgar dauðir",
+          "en um daga ljósa",
+          "nema þú Bósa",
+          "bjargir veitir",
+          "ok Herrauð",
+          "heipt upp gefir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Vartu þar byrgðr,",
+          "bolr í haugi,",
+          "hjá burtuliðnum",
+          "lafða dysum.",
+          "Þar kreisti þig kóngr,",
+          "krumr ólifðar,",
+          "so verði þitt hjartað,",
+          "helju þrungið,",
+          "nema þú Bósa",
+          "bjargir veitir",
+          "ok Herrauð",
+          "heipt upp gefir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Þar þú fylli",
+          "grimhugaðastur",
+          "að berjast [?] bolur",
+          "þegar burt er höfuð,",
+          "hnygi að jörðu",
+          "allra flestir",
+          "niðjar þíner",
+          "og að náttverði",
+          "nema þú Bósa",
+          "bjargir veitir",
+          "ok Herrauð",
+          "heipt upp gefir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Allt sé það svik",
+          "er þú sjá þykkist,",
+          "sem Ragnarök,",
+          "ríði menn dauðir,",
+          "er sýna",
+          "oddum keyra,",
+          "þá Нaddingum er",
+          "heimför gefinn",
+          "nema þú Bósa",
+          "bjargir veitir",
+          "ok Herrauð",
+          "heipt upp gefir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Heyr þú Heimgrymir",
+          "Herjans þussinn,",
+          "haf Hring kóng",
+          "neðan fyrir hágrindur",
+          "þar þú vílmegir",
+          "á viðarrótum gefir,",
+          "bur Gauta",
+          "geyhland",
+          "drekka æðra aldri,",
+          "ó skallt ðrekka,",
+          "þó þitt hjarta",
+          "af hita springi,",
+          "skal kostur þessi,",
+          "þér i koll koma,",
+          "og kappillsku",
+          "þér kvenna að halda",
+          "nema þú Bósa",
+          "bjargir veitir",
+          "ok Herrauð",
+          "heipt upp gefir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "prose",
+        "lines": [
+          "V En er sú þula var úti, mælti ko­nungr til hennar: «Fyrr en þú ill­mælir mér lengr, þá mun ek gefa Her­rauði líf, en Bósi fari ór landi ok sé dræpr, nær ek get hann áhent.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "VI «Þá skal taka þér fram betr,» se­gir Busla."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "VII Hóf hún þá upp þat vers, er Syrpuvers er kallat ok mestr galdr er í fólginn ok eigi er lofat at kveða eptir dagsetr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "heading",
+        "lines": [
+          "III. Syrpuvers"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Nú skal til formála",
+          "flest framleiða,",
+          "og láta Oðins þín,",
+          "þér aldur um skapa,",
+          "skal það þá hrífa",
+          "sem ég hóf fyrri,",
+          "og með Syrpu vísu",
+          "þér sá má at höfði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Hér bið ég Æsi",
+          "alla að ganga",
+          "og Ægis bekki",
+          "alla að skipa,",
+          "so þú með trylltum",
+          "taufra kyngum,",
+          "utan og innan",
+          "allur hertakist."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Fylli nú flokk minn",
+          "Fjölnir og Fengur,",
+          "so ég tautandi",
+          "þig trylli í rekkju,",
+          "Grímnir þig óri",
+          "og Gangleri,",
+          "Þunður og Þekkur,",
+          "þér þrótti týna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Beri þér Baleigur",
+          "bráðar nauðir",
+          "Svipull og Siðhötur",
+          "sutir auki,",
+          "Hroptur og Hnikar",
+          "heiptir gjollði,",
+          "Ómur og Ippur,",
+          "osk mína villi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Skal þú hreifa,",
+          "hvork skins stafi,",
+          "ristna og rjóðna,",
+          "rjóðna í blóði,",
+          "lyng fisk lagar",
+          "lands haddingi",
+          "ax oskorit",
+          "öngum hlaðna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Með sex vel stinnum,",
+          "hér stöfum risti,",
+          "ergi æði",
+          "og óþola,",
+          "þér ég á risti,",
+          "ef þú skipast eigi,",
+          "en afristi,",
+          "ef heipt upp gefur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Hér skulu helrúnir",
+          "Hropts að fylgja,",
+          "er Heiðdraupnis",
+          "nam af heila laugi",
+          "ok ór Hoddrofnis",
+          "horni skýru,",
+          "er bjargi á stóð",
+          "með Brímis eggjar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Heyri hrimþursar,",
+          "heyri jötnar,",
+          "heyri Syrpu söng mín",
+          "synir Suttunga,",
+          "heyri ásaliður",
+          "hvað eg formáli,",
+          "heyri nú allir",
+          "hvað ég fyrir muna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Komi hér seggir sex,",
+          "seg þú mér nöfn þeira",
+          "öll óbundin,",
+          "ek mun þér sýna:",
+          "getr þú eigi ráðit,",
+          "svá at mér rétt þykki,",
+          "þá skulu þik hundar",
+          "í hel gnaga,",
+          "en sál þín",
+          "sökkvi í víti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "prose",
+        "lines": [
+          "VIII Ráð nú þessi nöfn, svá at rétt sé, elligar hríni allt þat á þér, sem ek hefi verst beðit, ne­ma þú gerir minn vilja.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "prose",
+        "lines": [
+          "IX En er Busla hafði úti bæ­ni­na, vissi konungr varla, hverju hann vildi svara fyrir fortölum hennar. «Hverr er nú þinn vi­li?» se­gir konungr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "lines": [
+          "X «Sentu þá forsending,» se­gir ker­ling, «þá sem tvísýni er á, hversu þeim gengr, ok áb­yr­gist þeir sik sjálfir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "prose",
+        "lines": [
+          "XI Konungr bað hana þá í burt fara, en hún vildi þat eigi, fyrr en konungr sór hen­ni trúnaðareið, at hann skyl­di halda þat, sem hann hafði hen­ni lofat, en þá skyldi Bus­lu­bæn ekki á honum hrína. Hvarf kerling þá í burtu."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Тем же самым вечером Бусла пришла в комнату, где спал конунг Хринг, и начала мольбу, которую потом назвали «Мольбой Буслы». Позже она стала широко известна, и было в ней много злых слов, которые нет нужды произносить христианам, но всё же вот её начало:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "heading",
+        "lines": [
+          "I"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Вот лежит Хринг,",
+          "конунг гаутов,",
+          "из людей",
+          "своенравнейший.",
+          "Сам ты сына",
+          "убить собрался,",
+          "став неслыханно",
+          "тем известен."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Слушай ты",
+          "мольбу Буслы,",
+          "станет петь —",
+          "мир услышит,",
+          "бесполезную",
+          "всем внимающим,",
+          "беспощадную",
+          "к убеждаемым."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Духи заблудятся,",
+          "сбудется страшное,",
+          "дрогнут утёсы,",
+          "мир обезумеет,",
+          "погода испортится,",
+          "сбудется страшное,",
+          "коль ты, конунг Хринг,",
+          "мира с Херраудом",
+          "не заключишь",
+          "и Боси не выручишь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Так я на грудь",
+          "тебе надавлю,",
+          "что твоё сердце",
+          "сгложут гадюки,",
+          "уши твои",
+          "никогда не услышат,",
+          "очи твои",
+          "наизнанку повывернет,",
+          "коль не поможешь",
+          "выручить Боси,",
+          "не укротишь",
+          "к Херрауду ненависть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Сядешь на судно —",
+          "снасти порвутся,",
+          "крепленья руля",
+          "вмиг отлетят,",
+          "холст разорвётся,",
+          "парус сорвётся,",
+          "тугие канаты",
+          "все перетрутся,",
+          "коль не укротишь",
+          "к Херрауду ненависть",
+          "и не предложишь",
+          "мира для Боси."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Коль ты поскачешь",
+          "на Рэвиля конях",
+          "по высоким валам,",
+          "по бурному морю,",
+          "паруса-кони",
+          "пеной покроются,",
+          "комони-волн",
+          "ветра не выдержат."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Где б ты ни странствовал",
+          "моря-деревьями,",
+          "ветер попутный",
+          "тебе и смерти,",
+          "встанет волна",
+          "выше бортов",
+          "на коня-катков",
+          "силой обрушится,",
+          "коль не поможешь",
+          "выручить Боси,",
+          "не укротишь",
+          "к Херрауду ненависть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Сядешь верхом —",
+          "вожжи завяжутся,",
+          "конь захромает,",
+          "измучится кляча,",
+          "дороги любые,",
+          "пути напрямик",
+          "тебя приведут",
+          "в логово троллей,",
+          "коль не поможешь",
+          "выручить Боси,",
+          "не укротишь",
+          "к Херрауду ненависть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Будешь в постели",
+          "спать как на углях,",
+          "на месте почётном",
+          "сидеть как при качке;",
+          "покажется хуже",
+          "дальше намного:",
+          "захочешь с девицей",
+          "как муж позабавиться —",
+          "собъёшься с пути.",
+          "Продолжить ли перечень?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "II Тогда конунг ответил: «Замолчи, злобный дух, и убирайся прочь, иначе я велю тебя искалечить за твои проклятия»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "lines": [
+          "III «Раз уж мы встретились, — сказала Бусла, — то не расстанемся, пока я не получу желаемого»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "prose",
+        "lines": [
+          "IV Конунг захотел встать, но не смог и шевельнуться в постели, а слуги не просыпались. Тогда Бусла начала вторую треть своей мольбы [и я воздержусь от того, чтобы написать её, ибо никому нет необходимости повторять подобное, но в крайнем случае можно повторить так, чтобы она не была записана. Но всё же вот её начало]:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "heading",
+        "lines": [
+          "II"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Тролли и альвы,",
+          "волшебные норны,",
+          "жители гор и великаны",
+          "спалят палаты,",
+          "хримтурсы невзлюбят,",
+          "кони покроют,",
+          "исколет солома,",
+          "с ума сведут бури,",
+          "сбудется горе,",
+          "коли не выполнишь",
+          "волю мою."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Жажда с мужами",
+          "добром поделиться",
+          "желчью и горем",
+          "тебе обернётся.",
+          "Нищий и сирый",
+          "и вечно голодный",
+          "сил наберёшься,",
+          "лишь падаль терзая,",
+          "коль не поможешь",
+          "выручить Боси,",
+          "не укротишь",
+          "к Херрауду ненависть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Поведут тебя трупы",
+          "на тинг сновидений,",
+          "себя истерзаешь",
+          "в мёртвых чертоге,",
+          "где ночью сильнее",
+          "становятся все",
+          "недруги мёртвые,",
+          "чем при дня свете,",
+          "коль не поможешь",
+          "выручить Боси,",
+          "не укротишь",
+          "к Херрауду ненависть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Будешь сокрыт",
+          "отныне в кургане,",
+          "в сонме заложных",
+          "мужей нечестивых.",
+          "Про́клятый конунг,",
+          "лапой костлявой",
+          "грудь твою сдавит,",
+          "сожмёт твоё сердце,",
+          "коль не поможешь",
+          "выручить Боси,",
+          "не укротишь",
+          "к Херрауду ненависть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Ужас кромешный",
+          "тебя одолеет,",
+          "ринешься в бой —",
+          "отлетит голова,",
+          "многие родичи",
+          "наземь падут,",
+          "трупы их станут",
+          "пищей ночной,",
+          "коль не поможешь",
+          "выручить Боси,",
+          "не укротишь",
+          "к Херрауду ненависть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Одолеют виденья",
+          "яви сильней:",
+          "что настал Рагнарёк,",
+          "и мёртвые скачут,",
+          "неистово гонят,",
+          "шпорят коней —",
+          "Хаддингов сонм",
+          "над миром промчится,",
+          "коль не поможешь",
+          "выручить Боси,",
+          "не укротишь",
+          "к Херрауду ненависть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Призываю Хеймгрюмира",
+          "Херьяна турса —",
+          "да бросит, Хринг конунг,",
+          "тебя в заточенье!",
+          "Там тебя тролли",
+          "гнилью накормят,",
+          "сучьей мочой",
+          "напоят, сын Гаутов,",
+          "лучше питья",
+          "ты не получишь —",
+          "пусть даже сердце",
+          "лопнет от жара;",
+          "всё ты сожрёшь,",
+          "что бросит в лохань",
+          "с бешеной злобой",
+          "свирепая ведьма,",
+          "коль не поможешь",
+          "выручить Боси,",
+          "не укротишь",
+          "к Херрауду ненависть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "prose",
+        "lines": [
+          "V Когда этот стих закончился, ко­нунг сказал ей: «Прежде чем ты будешь дальше злословить, я подарю Херрауду жизнь, но Боси покинет страну и, если я смогу его схватить, будет убит»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "VI «Раз так, лучше продолжим», — сказала Бусла."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "VII Тут она начала стих, который называется «Стих Сюрпы», в нём заключены самые сильные чары и его нельзя читать после захода солнца."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "heading",
+        "lines": [
+          "III. Стих Сюрпы"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Теперь закрепляю",
+          "заклятья зачина:",
+          "предстанешь пред Одином —",
+          "как предначертано,",
+          "сбудется тотчас",
+          "пропетое прежде,",
+          "с висою Сюрпы",
+          "что тут торжествует."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Здесь к асам взываю:",
+          "скорее придите",
+          "и Хлера скамьи",
+          "займите скорее.",
+          "Будешь так околдован,",
+          "опутан волшбой,",
+          "внутри и снаружи",
+          "весь будешь захвачен."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Флокк мой подхватят,",
+          "Фьёльнир и Фенг,",
+          "Который пою,",
+          "Колдуя над ложем.",
+          "Презрит тебя Гримнир,",
+          "невзлюбит Ганглери,",
+          "Текк и Тунд",
+          "недуг посылают."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Принесёт тебе Балейг",
+          "беды и нужды,",
+          "Свипуль и Сидхётт",
+          "скорби умножат,",
+          "Хрофт и Хникар",
+          "враждой отплатят.",
+          "Оми и Ипп — моей",
+          "воле внемлите."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Будешь в плену,",
+          "сияющих знаков,",
+          "резов и черт,",
+          "кровью окрашенных:",
+          "вереска рыба,",
+          "Хаддингов земли,",
+          "колос несжатый,",
+          "на горе сложенный."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Тайные шесть",
+          "тут режу ставы —",
+          "похоть, безумье —",
+          "ими колдую —",
+          "и смуту вырежу",
+          "коль не отступишь.",
+          "Но резьбу уберу,",
+          "если лада достигнем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Теперь же последуют",
+          "Хрофта хель-руны —",
+          "из Хейддраупнира",
+          "священной купели",
+          "и из Ходдрофнира",
+          "ясного рога,",
+          "что стоял на горе",
+          "с Бримира лезвием."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Слушайте, турсы,",
+          "слушайте, ётуны,",
+          "Суттунга семя —",
+          "песнь Сюрпы мою.",
+          "Слушай, асов",
+          "гордый народ.",
+          "Я ныне спою,",
+          "что вспомнила прежде."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Придут мужей шестеро,",
+          "скажи имена их",
+          "все, что несвязаны.",
+          "Я тебе покажу:",
+          "не сможешь решить,",
+          "думаю, правильно,",
+          "тогда станут псы",
+          "глодать тебя в Хель,",
+          "душа же твоя",
+          "погрузится в муки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "prose",
+        "lines": [
+          "VIII Теперь истолкуй верно эти имена, или на тебя подействует всё, что я попросила самого худшего, если ты не исполнишь мою волю»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "prose",
+        "lines": [
+          "IX Но когда Бусла закончила мольбу, конунг вряд ли знал, что ей сказать. «Чего же ты хочешь?» — спросил конунг."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "lines": [
+          "X «Дай им опасное поручение, — сказала старуха, — чтобы было неясно, что с ними случится, и они ответят сами за себя»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "prose",
+        "lines": [
+          "XI Конунг попросил её уйти прочь, но она не сделала этого, пока конунг не принёс ей клятву, что выполнит обещанное, и лишь тогда мольба Буслы не подействовует на него. Затем старуха исчезла."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Here liest thou, Hring, Lord of the Gauts,",
+          "the most headstrong of human kind—",
+          "minded, to-morrow to murther thy son:",
+          "will this foul deed be told far and wide."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Hear thou Busla’s song— ’t will be sung full soon;",
+          "so that it be heard the whole world about—",
+          "harmful to him who heareth it,",
+          "but fellest for him whom fain I would curse."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "May wights be wildered, and wonders happen,",
+          "may cliffs be shattered and the world shaken,",
+          "may the weather worsen, and wonders happen,",
+          "but thou, King Hring, forgive Herrauth,",
+          "and eke to Bósi no ill threaten."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "O’er thy chest such charms now chant I shall",
+          "that evil asps shall eat thy heart,",
+          "that thy ears henceforth shall hear no more,",
+          "and thy seeing eyes leave their sockets,",
+          "but thou with Bósi wilt bear, hereafter,",
+          "nor harbor hate against Herrauth, either."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "If boat thou sailest, shall burst the ropes,",
+          "if boat thou steerest, shall break the tholepins—",
+          "shall the sail-cloth be slit and sag downward,",
+          "and all the tackle be torn asunder,",
+          "but thou harbor no hate against Herrauth,",
+          "and but thou with Bósi will bear hereafter."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Shall the reins ravel when thou ridest forth,",
+          "shall horses go halt, and nags be hamstrung—",
+          "shall both highways and bridle-paths",
+          "take thee where trolls may tear thee straightway,",
+          "but thou with Bósi wilt bear hereafter,",
+          "nor harbor hate against Herrauth, either."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "May thy bed be for thee like burning straw,",
+          "thy high-seat unsteady like heaving sea-wave.",
+          "Yet woe awaits thee much worse by far:",
+          "if with maid thou meanest a man’s joy to have,",
+          "shalt lose thy way then: doest wish to hear more?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "The king attempts to silence her and to rise, but finds himself charmed fast to his bed and unable to wake his attendants. As he is still unwilling to give in, Busla chants the second part of her curse:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Shall trolls and elves and tricking witches,",
+          "shall dwarfs and etins burn down thy mead-hall—",
+          "shall thurses hate thee and horses ride thee,",
+          "shall all straws stick thee,10 all storms stun thee:",
+          "and woe worth thee but my will thou doest!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "prose",
+        "lines": [
+          "Then the king is ready to pardon his son Herrauth, but to declare Bósi outlaw.) Then started she to chant what is called Syrpuvers (i.e., “the Verses of Syrpa”), in which is the strongest magic, so that it is not permitted to chant them after nightfall; and toward the end it goes like this:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Come here six fellows: say thou their names:",
+          "I shall show them to thee unshackled all.",
+          "But thou get them guessed as good meseemeth,",
+          "shall ravening hounds rive thee to pieces,",
+          "and thy soul sink to hell-fire!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "Then, after the king’s swearing an oath that he will do her bidding, she “takes the curse off.”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "16",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "17",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "25",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "28",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "38",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "39",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "41",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

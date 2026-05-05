@@ -1,0 +1,244 @@
+{
+  "slug": "bjarkis-old-speeches",
+  "key": "BjarkisOldSpeeches",
+  "title": {
+    "on": "Bjarkamál in fornu",
+    "ru": "Древние речи Бьярки",
+    "en": "Bjarkis Old Speeches"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, Guðni Jónsson. Перевод: Т. Ермолаев",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Dagr es upp kominn,",
+          "dynja hana fjaðrar,",
+          "mál es vílmögum",
+          "at vinna erfiði.",
+          "Vaki ok æ vaki",
+          "vina höfuð,",
+          "allir enir œztu",
+          "Aðils of sinnar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Hár enn harðgreipi,",
+          "Hrólfr skjótandi,",
+          "ættum góðir menn,",
+          "þeirs ekki flýja,",
+          "vekka yðr at víni",
+          "né at vífs rúnum,",
+          "heldr vekk yðr at hörðum",
+          "Hildar leiki."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Hniginn’s í hadd jarðar",
+          "Hrólfr enn stórláti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Gramr hinn gjöflasti",
+          "gœddi hirð sína",
+          "Fenju forverki,",
+          "Fáfnis miðgarði,",
+          "Glasis glóbarri,",
+          "Grana fagrbyrði,",
+          "Draupnis dýrsveita,",
+          "dúni Grafvitnis."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "*Ýtti örr hilmir,",
+          "aldir við tóku,",
+          "Sifjar svarðfestum,",
+          "svelli *dalnauðar,",
+          "tregum Otrs gjöldum,",
+          "tárum Mardallar,",
+          "eldi Órunar,",
+          "Iðja glysmálum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Gladdi gunnveitir",
+          "— gengum fagrbúnir —",
+          "Þjaza þingskilum",
+          "þjóðir hermargar",
+          "Rínar rauðmalmi,",
+          "rógi Niflunga,",
+          "vísi hinn vígdjarfi.",
+          "Varði hann Baldr þögli."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Svá skalk hann kyrkja",
+          "sem enn kámleita",
+          "véli viðbjarnar",
+          "veggja aldinna."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Близится день,",
+          "бьет крылами петел,",
+          "пора рабам",
+          "за работу браться,",
+          "вставайте, вставайте,",
+          "друзья первейшие,",
+          "вы, достославные",
+          "товарищи Адильса."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Хар Крепкорукий",
+          "и Хрольв Стрелец,",
+          "вы доброго рода,",
+          "не дрогните духом.",
+          "Вас зову не на пир,",
+          "не на встречу с подругой,",
+          "зову вас на бранные",
+          "игры валькирий."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          ".........",
+          "........."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Вождь тароватый",
+          "дружинникам даровал",
+          "Феньи работу,",
+          "Фавнира землю,",
+          "Гласира иглы,",
+          "Грани поклажу,",
+          "Драупнира капли,",
+          "перину Змея."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Щедрый одаривал,",
+          "мужи принимали,",
+          "волосы Сив,",
+          "лёд му́ки лука,",
+          "выкуп за выдру,",
+          "Мардёлль слезинки,",
+          "огонь реки Орун,",
+          "речь великана."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Битвы вершитель",
+          "дарил — мы украсились",
+          "Тьяци речами —",
+          "народы без счета —",
+          "Рейна рудою,",
+          "распрею Нивлунгов —",
+          "витязь отважный.",
+          "Не хранил его Бальдр."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Придушил бы его",
+          "как тёмный предатель",
+          "древ-медведя",
+          "стен древних."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

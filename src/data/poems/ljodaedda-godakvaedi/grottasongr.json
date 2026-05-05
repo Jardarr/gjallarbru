@@ -1,0 +1,1170 @@
+{
+  "slug": "grottasongr",
+  "key": "Grottasongr",
+  "title": {
+    "on": "Gróttasöngr",
+    "ru": "Песнь о Гротти",
+    "en": "The Song of Grotti"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson. Текст на русском языке в переводе А. И. Корсуна, СЭ–1963, с. 169–172.",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson. Translation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Nú eru komnar",
+          "til konungs húsa",
+          "framvísar tvær,",
+          "Fenja ok Menja;",
+          "þær ro at Fróða",
+          "Friðleifssonar",
+          "máttkar meyjar",
+          "at mani hafðar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Þær at lúðri",
+          "leiddar váru",
+          "ok grjóts gréa",
+          "gangs of beiddu;",
+          "hét hann hvárigri",
+          "hvíld né ynði,",
+          "áðr hann heyrði",
+          "hljóm ambátta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Þær þyt þulu",
+          "þögnhorfinnar:",
+          "«Leggjum lúðra,",
+          "léttum steinum.»",
+          "Bað hann enn meyjar,",
+          "at þær mala skyldu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "4 Sungu ok slungu",
+          "snúðga-steini,",
+          "svá at Fróða man",
+          "flest sofnaði;",
+          "þá kvað þat Menja,",
+          "var til meldrs komin:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "«Auð mölum Fróða,",
+          "mölum alsælan,",
+          "mölum fjölð féar",
+          "á feginslúðri;",
+          "siti hann á auði,",
+          "sofi hann á dúni,",
+          "vaki hann at vilja,",
+          "þá er vel malit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Hér skyli ‖ engi",
+          "öðrum granda,",
+          "til böls búa",
+          "né til bana orka,",
+          "né höggva því",
+          "hvössu sverði,",
+          "þó at bana bróður",
+          "bundinn finni.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "En hann kvað ekki",
+          "orð it fyrra:",
+          "«Sofið eigi meir",
+          "en of sal gaukar",
+          "eða lengr en svá",
+          "ljóð eitt kveðak.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "«Var-at-tu, Fróði,",
+          "fullspakr of þik,",
+          "málvinr manna,",
+          "er þú man keyptir;",
+          "kaustu at afli",
+          "ok at álitum,",
+          "en at ætterni",
+          "ekki spurðir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Harðr var Hrungnir",
+          "ok hans faðir,",
+          "þó var Þjazi",
+          "þeim öflgari;",
+          "Iði ok Aurnir,",
+          "okkrir niðjar,",
+          "bræðr bergrisa,",
+          "þeim erum bornar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Kæmi-a Grótti",
+          "ór gréa fjalli",
+          "né sá inn harði",
+          "hallr ór jörðu,",
+          "né mæli svá",
+          "mær bergrisa,",
+          "ef vissi vit",
+          "vætr til hennar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Vér vetr níu",
+          "várum leikur",
+          "öflgar alnar",
+          "fyr jörð neðan;",
+          "stóðu meyjar",
+          "at meginverkum,",
+          "færðum sjalfar",
+          "setberg ór stað."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Veltum grjóti",
+          "of garð risa,",
+          "svá at fold fyrir",
+          "fór skjalfandi;",
+          "svá slöngðum vit",
+          "snúðga-steini,",
+          "höfga-halli,",
+          "at halir tóku."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "En vit síðan",
+          "á Svíþjóðu",
+          "framvísar tvær",
+          "í folk stigum,",
+          "beiddum björnu,",
+          "en brutum skjöldu,",
+          "gengum í gögnum",
+          "gráserkjat lið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Steypðum stilli,",
+          "studdum annan,",
+          "veittum góðum",
+          "Gothormi lið;",
+          "var-a kyrrseta,",
+          "áðr Knúi felli."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Fram heldum því",
+          "þau misseri,",
+          "at vit at köppum",
+          "kenndar ‖ várum;",
+          "þar sorðu vit",
+          "skörpum geirum",
+          "blóð ór benjum",
+          "ok brand ruðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Nú erum komnar",
+          "til konungs húsa",
+          "miskunnlausar",
+          "ok at mani hafðar;",
+          "aurr etr iljar,",
+          "en ofan kulði,",
+          "drögum dolgs sjötul,",
+          "daprt er at Fróða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Hendr skulu hvílask,",
+          "hallr standa mun,",
+          "malit hefi ek fyr mik;",
+          "mitt of leiti;",
+          "nú mun-a höndum",
+          "hvíld vel gefa,",
+          "áðr fullmalit",
+          "Fróða þykki."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Hendr skulu höndla",
+          "harðar trjónur,",
+          "vápn valdreyrug,",
+          "vaki þú, Fróði,",
+          "vaki þú, Fróði,",
+          "ef þú hlýða vill",
+          "söngum okkrum",
+          "ok sögnum fornum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Eld sé ek brenna",
+          "fyr austan borg,",
+          "vígspjöll vaka,",
+          "þat mun viti kallaðr,",
+          "mun herr koma",
+          "hinig af bragði",
+          "ok brenna bæ",
+          "fyr buðlungi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Mun-at þú halda",
+          "Hleiðrar stóli,",
+          "rauðum hringum",
+          "né regingrjóti;",
+          "tökum á möndli",
+          "mær, skarpara,",
+          "erum-a varmar",
+          "í valdreyra."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Mól míns föður",
+          "mær rammliga,",
+          "því at hon feigð fira",
+          "fjölmargra sá;",
+          "stukku stórar",
+          "steðr frá lúðri",
+          "járni varðar,",
+          "mölum enn framar!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Mölum enn framar!",
+          "Mun Yrsu sonr,",
+          "niðr Halfdanar,",
+          "hefna Fróða;",
+          "sá mun hennar",
+          "heitinn verða",
+          "burr ok bróðir,",
+          "vitum báðar þat.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Mólu meyjar,",
+          "megins kostuðu,",
+          "váru ungar",
+          "í jötunmóði;",
+          "skulfu skaptré,",
+          "skauzk lúðr ofan,",
+          "hraut inn höfgi",
+          "hallr sundr í tvau."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "En bergrisa",
+          "brúðr orð of kvað:",
+          "«Malit höfum, Fróði,",
+          "sem munum hætta,",
+          "hafa fullstaðit",
+          "fljóð at meldri.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Einarr Skúlason kvað svá:",
+          "Frá ek at Fróða meyjar",
+          "fullgóliga mólu,",
+          "lætr stillir grið golli,",
+          "Grafvitnis beð, slitna.",
+          "Mjúks, bera mínar öxar",
+          "meldr þann við hlyn feldrar,",
+          "konungs dýrkar fé, Fenju",
+          "fögr hlýr, bragar stýri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Svá kvað Egill:",
+          "...glaðar flotna fjölð",
+          "við Fróða mjöl."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Вот появились",
+          "в палатах конунга",
+          "вещие девы",
+          "Фенья и Менья;",
+          "Фроди они,",
+          "Фридлейва сыну,",
+          "сильные девы,",
+          "отданы в рабство."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "К мельнице их",
+          "подвели обеих,",
+          "жернов вращать",
+          "велели тяжелый;",
+          "не дал им Фроди",
+          "ни на миг передышки,",
+          "пока они песню",
+          "ему не запели."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Начали песню,",
+          "прервали молчанье:",
+          "«Поставим-ка жернов,",
+          "камни поднимем!»",
+          "Дальше молоть",
+          "повелел он девам."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Пели, швыряя",
+          "вертящийся камень,",
+          "спали в тот час",
+          "челядинцы Фроди;",
+          "молвила Менья,",
+          "молоть продолжая:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "«Намелем для Фроди",
+          "богатства немало,",
+          "сокровищ намелем",
+          "на жернове счастья;",
+          "в довольстве сидеть ему,",
+          "спать на пуху,",
+          "просыпаться счастливым;",
+          "славно мы мелем!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Никто здесь не должен",
+          "зло замышлять,",
+          "вред учинять",
+          "иль убийство готовить;",
+          "рубить не пристало",
+          "острым мечом",
+          "даже брата убийцу,",
+          "в узах лежащего!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Он им сказал;",
+          "«Срок вам для сна —",
+          "пока куковать",
+          "не кончит кукушка",
+          "иль, замолчав,",
+          "опять не начнет!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "«Фроди, ты не был",
+          "достаточно мудр, —",
+          "приязненный к людям,",
+          "рабынь покупая:",
+          "ты выбрал по силе,",
+          "судил по обличью,",
+          "да не проведал,",
+          "кто они родом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Хрунгнир с отцом",
+          "храбрейшими были,",
+          "но Тьяци мог с ними",
+          "в силе тягаться;",
+          "Иди и Аурнир",
+          "родичи наши,",
+          "ётунов братья,",
+          "мы их порожденье."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Гротти не вышла б",
+          "из серого камня,",
+          "камень бы твердый",
+          "земли не покинул,",
+          "так не мололи бы",
+          "ётунов девы,",
+          "когда б волшебства",
+          "не было в мельнице."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Мы девять зим,",
+          "подруги могучие,",
+          "в царстве подземном",
+          "росли и трудились;",
+          "нелегкое дело",
+          "девам досталось —",
+          "утесы и скалы",
+          "мы с места сдвигали."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Камни вздымали",
+          "на стену турсов",
+          "так, что вокруг",
+          "содрогалась земля,",
+          "так мы швырнули",
+          "вертящийся камень,",
+          "что впору мужам лишь",
+          "было схватить его."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "За этим вослед",
+          "мы, вещие девы,",
+          "в Свитьоде вместе",
+          "вступали в сраженья;",
+          "рубили кольчуги,",
+          "щиты рассекали,",
+          "путь через войско",
+          "себе пробивая."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Конунга свергли,",
+          "сражаясь за Готторма,",
+          "смелому князю",
+          "помочь мы смогли;",
+          "не было мира",
+          "до гибели Кнуи."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Так, дни за днями,",
+          "мы доблестно бились,",
+          "что слава пошла",
+          "о сраженьях наших;",
+          "мы копьями там",
+          "кровь проливали,",
+          "мечи обагряли",
+          "вражеской кровью."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Вот мы пришли",
+          "к палатам конунга,",
+          "мы обездолены,",
+          "отданы в рабство;",
+          "холод нас мучит,",
+          "и ноги ест грязь,",
+          "мы жернов вращаем,",
+          "нам плохо у Фроди!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Рукам дать покой бы,",
+          "жернов не двигать, —",
+          "смолола я больше,",
+          "чем было мне сказано!",
+          "Нельзя дать покой",
+          "рукам, пока вдоволь",
+          "помола для Фроди",
+          "мы не намелем!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "В руки бы дали",
+          "крепкие древки,",
+          "мечи обагренные!",
+          "Фроди, проснись!",
+          "Фроди, проснись,",
+          "если хочешь ты слышать",
+          "старые песни",
+          "и древние саги!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "От палат на восток",
+          "вижу я пламя —",
+          "то весть о войне,",
+          "знак это вещий;",
+          "войско сюда",
+          "скоро приблизится,",
+          "князя палаты",
+          "пламя охватит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Ты потеряешь",
+          "Хлейдра престол,",
+          "червонные кольца",
+          "и камень волшебный.",
+          "Девы, беритесь",
+          "за рычаги!",
+          "Нам здесь не согреться",
+          "кровью сраженных."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Сильно молоть",
+          "я постаралась,",
+          "видя грядущую",
+          "гибель для многих;",
+          "прочь с основанья,",
+          "в ободьях железных,",
+          "сброшена мельница, —",
+          "мелем мы снова!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Мелем мы снова:",
+          "сын Ирсы местью",
+          "Фроди ответит",
+          "за гибель Хальвдана;",
+          "братом ее",
+          "назван он будет",
+          "и сыном ее;",
+          "мы это знаем»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Девы мололи,",
+          "меряясь силами,",
+          "юные были",
+          "как ётуны в гневе;",
+          "балки тряслись,",
+          "основа слетела,",
+          "надвое жернов",
+          "тяжелый расколот."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Слово сказала",
+          "тогда исполинша:",
+          "«Мы Фроди смололи",
+          "славный помол;",
+          "вдосталь над жерновом",
+          "девы стояли»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Так пел Эйнар Скуласон:",
+          "Слышал: девы Фроди",
+          "Граввитнира ложе",
+          "размололи, конунг",
+          "недругом был злата.",
+          "Короля достаток",
+          "доброго я славлю",
+          "мой топор украсил",
+          "он помолом Феньи."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Так пел Эгиль:",
+          "Радует люд",
+          "Фроди мукой."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Skjöldr was a son of Odin from whom the Skjöldungs are descended. He had his residence in and ruled the land that is now called Denmark, which was then called Gotland. Skjöldr's son was called Friðleifr, who ruled the land after him. Friðleif's son was called Frodi. King Frodi succeeded to the kingdom of Denmark at the time when the emperor Augustus had proclaimed peace over all the world. At that time Christ was born. And as Frodi was the most powerful king in the North, the peace was attributed to him and called Frodi's peace, wherever the Danish tongue was spoken. No man injured another, though he might have before him his father's killer or his brother's killer, loose or bound. At that time there was also no thief or robber, so that a gold ring would lie long unmolested on Jalangr Heath.",
+          "When on a visit to king Fiolnir in Sweden, he bought two female slaves, whose names were Fenia and Menia, both of great strength and stature. At this time two millstones were found in Denmark so large that no one could drag them. These stones possessed the property of grinding whatever the grinder asked for. The quern, or mill, was named Grotti. Hengikjöfr (Hangjaw) was the name of the man who gave it to King Frodi. Frodi set the two slaves to work at the quern and commanded them to grind gold, peace, and prosperity to Frodi; but he allowed them not a moment's rest nor even sleep longer than while the cuckoo was silent, or a song might be sung.",
+          "It is said that they then sang the song called Grottasongr, and ceased not before they had ground an army against Frodi, so that in the night a sea-king, named Mysing, came, slew Frodi, and carried off great booty. Such was the end of Frodi's peace. Mysing took Grotti, together with Fenia and Menia, and ordered them to grind salt. He ordered them to grind more. They ground only a little while before the ship sank in Fentland Firth.",
+          "There is ever since a vortex where the sea falls into Grotti's eye; there the sea roars as it (Grotti) roars, and then it was that the sea first became salt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"Now are come to the king's house",
+          "two prescient damsels, Fenia and Menia;",
+          "they are with Frodi, Fridleif's son,",
+          "the powerful maidens, in thraldom held.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"To the mill they both were led,",
+          "and the grey stone to set a going ordered;",
+          "he to both forbade rest and solace,",
+          "before he heard the maidens voice.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"They made resound the clattering quern,",
+          "with their arms swung the light stones.",
+          "The maidens he commanded yet more to grind.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"They sung and swung the whirling stone,",
+          "until Frodi's thralls nearly all slept.",
+          "Then said Menia, to the meal twas come\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Riches we grind for Frodi,",
+          "all happiness we grind, wealth in abundance,",
+          "in gladness mill.",
+          "On riches may he sit, on down may be sleep,",
+          "to joy may he wake:",
+          "then tis well ground!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Here shall not one another harm,",
+          "evil machinate, nor occasion death,",
+          "nor yet strike with the biting sword,",
+          "although a brother's slayer he find bound.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "He had not yet said one word before:",
+          "\"Sleep ye not longer than the gowks round",
+          "the house, or than while one song I sing.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"Thou wast not, Frodi for thyself over-wise,",
+          "or a friend of men, when thralls thou boughtest;",
+          "for strength thou chosest them, and for their looks,",
+          "but of their race didst not inquire.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"Stout was Hrungnir, and his father,",
+          "yet was Thiassi stronger than they ;",
+          "Idi and Ornir our relations are,",
+          "brothers of the mountain-giants from whom we are born.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"Grotti had not come from the grey fell,",
+          "nor yet the hard stone from the earth;",
+          "nor so had ground the giant maid,",
+          "if her race had aught of her known.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Nine winters we playmates were,",
+          "strong and nurtured beneath the earth.",
+          "We maidens stood at mighty works;",
+          "ourselves we moved the fast rock from its place.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"We rolled the stone o'er the giants' house,",
+          "so that earth thereby shrank trembling;",
+          "so hurled we the whirling rock,",
+          "that men could take it.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"But afterwards, in Sweden,",
+          "we prescient two among people went,",
+          "chased the bear, and shattered shields;",
+          "went against a grey-sarked horse.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Aided one prince, another overthrew,",
+          "afforded the good Guthorm help.",
+          "Quiet I sat not ere we warriors felled.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "\"Thus we went on all those winters,",
+          "so that in conflicts we were known;",
+          "there we carved, with our sharp spears,",
+          "blood from wounds, and reddened brands.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "\"Now are we come to a king's house, unpitied both,",
+          "and in thraldom held; gravel gnaws our feet,",
+          "and above 'tis cold; a foe's host we draw.",
+          "Sad 'tis at Frodi's!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "\"Hands must rest, the stone shall stand still;",
+          "for me I have my portion ground.",
+          "To hands will not rest be given,",
+          "until Frodi thinks enough is ground.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"Hands shall hold falchions hard,",
+          "the weapon slaughter-gory.",
+          "Wake thou, Frodi! Wake thou, Frodi!",
+          "If thou wilt listen to our songs and sagas old.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "\"Fire I see burning east of the burgh;",
+          "tidings of war are rife:",
+          "that should be a token;",
+          "a host will forthwith hither come,",
+          "and the town burn over the king.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "\"Thou wilt not hold the throne of Lethra,",
+          "rings of red gold, or mighty mill-stone.",
+          "Let us ply the winch, girl! yet more rapidly:",
+          "are we not grown up in deadly slaughter?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "\"My father's daughter has stoutly ground,",
+          "because the fate of many men she saw.",
+          "Huge fragments spring from the mill-stone",
+          "into the Orneflord. Let us grind on!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"Let us grind on! Yrsa's son,",
+          "Halfdan's kinsman,",
+          "will avenge Frodi:",
+          "he will of her be called son and brother:",
+          "we both know that.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "\"The maidens ground,",
+          "their might applied;",
+          "the damsels were in Jotun-mood,",
+          "the axes trembled;",
+          "the stone fell from above,",
+          "the ponderous rock was in shivers split.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "\"But the mountain giants maiden said:",
+          "Frodi! we have ground; together we cease.",
+          "the maidens have stood at the grinding long.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

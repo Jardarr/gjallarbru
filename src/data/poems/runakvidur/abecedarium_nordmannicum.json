@@ -1,0 +1,111 @@
+{
+  "slug": "abecedarium-nordmannicum",
+  "key": "AbecedariumNordmannicum",
+  "title": {
+    "on": "Abecedarium nord[mannicum]",
+    "ru": "Нормандский азбуковник"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": " Перевод: Анна Блейз.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "ᚠ",
+          "ᚠ feu forman \\ ᚹᚱᛠᛏ |",
+          "ᚢ ur after |",
+          "ᚦ thuris thrit[c]en stabu |",
+          "ᚭ os ist [he]mo \\ oboro |",
+          "ᚱ rat end\\os uuritan"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "ᚴ cha · thanne \\ [cliuot]",
+          "ᚻᚼ hagal ᚾᚾ nau[t] hab& |",
+          "ᛁ is ᚪᛅ ar ᛋ endi so[l]"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[ᛐ] ᛒ brica ᛗᛙ endi man midi |",
+          "ᛚ lagu the leohto ·",
+          "ᛦᚣyr al bihab[et]"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "ᚠ",
+          "ᚠ Вначале — плата,",
+          "ᚢ за нею — тур,",
+          "ᚦ турс — третий став,",
+          "ᚭ ас — над ним.",
+          "ᚱ под конец — колесо,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "ᚴ и прорвался нарыв,",
+          "ᚻᚼ у града — ᚾᚾ нужда,",
+          "ᛁ лед, ᚪᛅ год и ᛋ солнце,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "ᛐ Тиу, ᛒ береза, ᛗᛙ человек посредине,",
+          "ᛚ вода блестит,",
+          "ᛦᚣ тис держит все."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

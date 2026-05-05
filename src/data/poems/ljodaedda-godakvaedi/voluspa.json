@@ -1,0 +1,3284 @@
+{
+  "slug": "voluspa",
+  "key": "Voluspa",
+  "title": {
+    "on": "Völuspá",
+    "ru": "Прорицание вёльвы",
+    "en": "The Prophecy of the Seeress"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Haraldur Bernharðsson. Текст на русском языке в переводе А. И. Корсуна, СЭ–1963, с. 9–15. Уточнение перевода в строфе 47 по переводу В. Г. Тихомирова: Корни Иггдрасиля. — М.: Терра, 1997.",
+    "en": "An ancient Icelandic text, edited by Haraldur Bernharðsson. Translation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Hljóðs bið ek",
+          "allar kindir,",
+          "meiri ok minni",
+          "mögu Heimdalar;",
+          "vild u að ek, Valföðr,",
+          "vel fram telja",
+          "forn spjöll fira,",
+          "þau er fremst um man."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Ek man jötna",
+          "ár um borna,",
+          "þá er forðum mik",
+          "fædda höfðu;",
+          "níu man ek heima,",
+          "níu íviðjur,",
+          "mjötvið mæran",
+          "fyr mold neðan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Ár var alda",
+          "þar er Ymir byggði,",
+          "var a sandr né sær",
+          "né svalar unnir,",
+          "jörð fannz æva",
+          "né upphiminn,",
+          "gap var ginnunga",
+          "en gras hvergi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Áðr Burs synir",
+          "bjöðum um yppðu,",
+          "þeir er Miðgarð",
+          "mæran skópu;",
+          "sól skein sunnan",
+          "á salar steina,",
+          "þá var grund gróin",
+          "grænum lauki."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Sól varp sunnan,",
+          "sinni mána,",
+          "hendi inni hægri",
+          "um himinjódýr;",
+          "sól það né vissi",
+          "hvar hon sali átti,",
+          "stjörnur það né vissu",
+          "hvar þær staði áttu,",
+          "máni það né vissi",
+          "hvað hann megins átti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Þá gengu regin öll",
+          "á rökstóla,",
+          "ginnheilög goð,",
+          "ok um það gættuz: Nótt ok niðjum",
+          "nöfn um gáfu,",
+          "morgin hétu",
+          "ok miðjan dag,",
+          "undorn ok aftan,",
+          "árum að telja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Hittuz æsir",
+          "á Iðavelli,",
+          "þeir er hörg ok hof",
+          "hátimbruðu;",
+          "afla lögðu,",
+          "auð smíðuðu,",
+          "tangir skópu",
+          "ok tól gjörðu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Teflðu í túni,",
+          "teitir vóru,",
+          "var þeim vettergis",
+          "vant ór gulli",
+          "unz þrjár kvómu",
+          "þursa meyjar",
+          "ámáttkar mjök",
+          "ór jötunheimum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Þá gengu regin öll",
+          "á rökstóla,",
+          "ginnheilög goð,",
+          "ok um það gættuz",
+          "hverr skyldi dverga",
+          "dróttin skepja",
+          "ór Brimis blóði",
+          "ok ór Bláins leggjum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Þar var Mótsognir",
+          "mæztr um orðinn",
+          "dverga allra",
+          "en Durinn annarr;",
+          "þeir mannlíkun",
+          "mörg um gjörðu,",
+          "dvergar, ór jörðu",
+          "sem Durinn sagði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Nýi ok Niði,",
+          "Norðri ok Suðri,",
+          "Austri ok Vestri,",
+          "Alþjófr, Dvalinn,",
+          "Nár ok Náinn,",
+          "Nípingr, Dáinn,",
+          "Bífurr, Báfurr,",
+          "Bömburr, Nóri,",
+          "Án ok Ánarr,",
+          "Ái, Mjöðvitnir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Veigr ok Gandálfr,",
+          "Vindálfr, Þráinn,",
+          "Þekkr ok Þorinn,",
+          "Þrór, Vitr ok Litr,",
+          "Nýr ok Nýráðr,",
+          "nú hefi ek dverga,",
+          "Reginn ok Ráðsviðr,",
+          "rétt um talða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Fíli, Kíli,",
+          "Fundinn, Náli,",
+          "Hefti, Víli,",
+          "Hanarr, Svíurr,",
+          "Billingr, Brúni,",
+          "Bíldr ok Buri,",
+          "Frár, Hornbori,",
+          "Frægr ok Lóni,",
+          "Aurvangr, Jari,",
+          "Eikinskjaldi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Mál er dverga",
+          "í Dvalins liði",
+          "ljóna kindum",
+          "til Lofars telja,",
+          "þeir er sóttu",
+          "frá salar steini",
+          "aurvanga sjöt",
+          "til Jöruvalla."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Þar var Draupnir",
+          "ok Dólgþrasir,",
+          "Hár, Haugspori,",
+          "Hlévangr, Glói,",
+          "Dóri, Óri",
+          "Dúfr, Andvari",
+          "Skirfir, Virfir,",
+          "Skáfiðr, Ái,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Álfr ok Yngvi,",
+          "Eikinskjaldi,",
+          "Fjalarr ok Frosti,",
+          "Finnr ok Ginnarr;",
+          "það mun uppi, ‖",
+          "meðan öld lifir,",
+          "langniðja tal",
+          "Lofars hafað."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Unz þrír kvómu",
+          "ór því liði",
+          "öflgir ok ástgir",
+          "æsir að húsi,",
+          "fundu á landi",
+          "lítt megandi",
+          "Ask ok Emblu",
+          "örlöglausa;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "önd þau né áttu,",
+          "óð þau né höfðu,",
+          "lá né læti",
+          "né litu góða.",
+          "Önd gaf Óðinn,",
+          "óð gaf Hænir,",
+          "lá gaf Lóðurr",
+          "ok litu góða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Ask veit ek standa,",
+          "heitir Yggdrasill,",
+          "hár baðmr, ausinn",
+          "hvítaauri;",
+          "þaðan koma döggvar",
+          "þær s í dala falla;",
+          "stendr æ yfir grænn",
+          "Urðar brunni."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Þaðan koma meyjar",
+          "margs vitandi",
+          "þrjár ór þeim sæ",
+          "er und þolli stendr,",
+          "Urð hétu eina,",
+          "aðra Verðandi,",
+          "skáru á skíði,",
+          "Skuld ina þriðju.",
+          "Þær lög lögðu,",
+          "þær líf kuru",
+          "alda börnum,",
+          "örlög seggja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Það man hon fólkvíg",
+          "fyrst í heimi",
+          "er Gullveig",
+          "geirum studdu",
+          "ok í höll Hárs",
+          "hana brenndu.",
+          "Þrysvar brenndu",
+          "þrysvar borna,",
+          "oft, ósjaldan;",
+          "þó hon enn lifir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Heiði hana hétu",
+          "hvar s til húsa kom,",
+          "völu velspá,",
+          "vitti hon ganda;",
+          "seið hon kunni,",
+          "seið hon leikinn,",
+          "æ var hon angan",
+          "illrar brúðar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Þá gengu regin öll",
+          "á rökstóla,",
+          "ginnheilög goð,",
+          "ok um það gættuz",
+          "hvárt skyldu æsir",
+          "afráð gjalda",
+          "eða skyldu goðin öll",
+          "gildi eiga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Fleygði Óðinn",
+          "ok í fólk um skaut,",
+          "það var enn fólkvíg",
+          "fyrst í heimi;",
+          "brotinn var borðvegr",
+          "borgar ása,",
+          "knáttu vanir vígspá",
+          "völlu sporna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Þá gengu regin öll",
+          "á rökstóla,",
+          "ginnheilög goð,",
+          "ok um það gættuz",
+          "hverir hefði loft allt",
+          "lævi blandið",
+          "eða ætt jötuns",
+          "Óðs mey gefna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Þórr einn þar var,",
+          "þrunginn móði,",
+          "hann sjaldan sitr",
+          "er hann slíkt um fregn;",
+          "á genguz eiðar,",
+          "orð ok særi,",
+          "mál öll meginlig",
+          "er á meðal fóru."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Veit hon Heimdalar",
+          "hljóð um fólgið",
+          "undir heiðvönum",
+          "helgum baðmi;",
+          "á sér hon ausaz",
+          "aurgum forsi",
+          "af veði Valföðrs;",
+          "vituð ér enn, eða hvað?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Ein sat hon úti",
+          "þá er inn aldni kom,",
+          "yggjungr ása,",
+          "ok í augu leit:",
+          "Hvers fregnið mik?",
+          "Hví freistið mín?",
+          "Allt veit ek, Óðinn,",
+          "hvar þú auga falt:",
+          "Í inum mæra",
+          "Mímis brunni!",
+          "Drekkr mjöð Mímir",
+          "morgin hverjan",
+          "af veði Valföðrs;",
+          "vituð ér enn, eða hvað?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Valði henni Herföðr",
+          "hringa ok men,",
+          "féspjöll spaklig",
+          "ok spáganda,",
+          "sá hon vítt ok um vítt,",
+          "of veröld hverja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Sá hon valkyrjur,",
+          "vítt um komnar,",
+          "görvar að ríða",
+          "til goðþjóðar;",
+          "Skuld helt skildi",
+          "en Skögul önnur,",
+          "Gunnr, Hildr, Göndul",
+          "ok Geir‖skögul.",
+          "Nú eru talðar",
+          "nönnur Herjans,",
+          "görvar að ríða",
+          "grund, valkyrjur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Ek sá Baldri,",
+          "blóðgum tívur,",
+          "Óðins barni,",
+          "örlög fólgin;",
+          "stóð um vaxinn",
+          "völlum hæri",
+          "mjór ok mjök fagr",
+          "mistilteinn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Varð af þeim meiði,",
+          "er mær sýndiz,",
+          "harmflaug hættlig,",
+          "Höðr nam skjóta.",
+          "Baldrs bróðir var",
+          "of borinn snemma,",
+          "sá nam, Óðins sonr,",
+          "einnættr vega."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Þó hann æva hendr",
+          "né höfuð kembði",
+          "áðr á bál um bar",
+          "Baldrs andskota",
+          "en Frigg um grét",
+          "í Fensölum",
+          "vá Valhallar;",
+          "vituð ér enn, eða hvað?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Þá kná Váli",
+          "vígbönd snúa,",
+          "heldr váru harðgör",
+          "höft ór þörmum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Haft sá hon liggja",
+          "undir hvera lundi,",
+          "lægjarns líki",
+          "Loka áþekkjan;",
+          "þar sitr Sigyn,",
+          "þeygi um sínum",
+          "ver velglýjuð;",
+          "vituð þér enn, eða hvað?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Á fellr austan",
+          "um eitrdala",
+          "söxum ok sverðum:",
+          "Slíðr heitir sú."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Stóð fyr norðan,",
+          "á Niðavöllum,",
+          "salr ór gulli",
+          "Sindra ættar",
+          "en annarr stóð",
+          "á Ókólni,",
+          "bjórsalr jötuns,",
+          "en sá Brimir heitir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Sal sá hon standa",
+          "sólu fjarri,",
+          "Náströndu á,",
+          "norðr horfa dyrr;",
+          "fellu eitrdropar",
+          "inn um ljóra,",
+          "sá er undinn salr",
+          "orma hryggjum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Sá hon þar vaða",
+          "þunga strauma",
+          "menn meinsvara",
+          "ok morðvarga",
+          "ok þann z annars glepr",
+          "eyrarúnu;",
+          "þar saug Níðhöggr",
+          "nái framgengna,",
+          "sleit vargr vera;",
+          "vituð ér enn, eða hvað?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Austr sat in aldna",
+          "í Járnviði",
+          "ok fæddi þar",
+          "Fenris kindir;",
+          "verðr af þeim öllum",
+          "einna nokkurr",
+          "tungls tjúgari",
+          "í trollz hami."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Fylliz fjörvi",
+          "feigra manna,",
+          "rýðr ragna sjöt",
+          "rauðum dreyra;",
+          "svart var þá sólskin",
+          "of sumur eftir,",
+          "veðr öll válynd;",
+          "vituð ér enn, eða hvað?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Sat þar á haugi",
+          "ok sló hörpu",
+          "gýgjar hirðir,",
+          "glaðr Eggþér;",
+          "gól um hánum",
+          "í gaglviði",
+          "fagrrauðr hani",
+          "sá er Fjalarr heitir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Gól um ásum",
+          "Gullinkambi,",
+          "sá vekr hölða",
+          "að Herjaföðrs",
+          "en annarr gelr",
+          "fyr jörð neðan,",
+          "sótrauðr hani,",
+          "að sölum Heljar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Geyr Garmr mjök",
+          "fyr Gnipahelli,",
+          "festr mun slitna",
+          "en Freki renna;",
+          "fjölð veit hon fræða,",
+          "fram sé ek lengra",
+          "um ragna rök",
+          "römm sigtíva."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Bræðr munu berjaz",
+          "ok að bönum verða,",
+          "munu systrungar",
+          "sifjum spilla;",
+          "hart er í heimi,",
+          "hórdómr mikill,",
+          "skeggöld, skálmöld,",
+          "skildir ru klofnir,",
+          "vindöld, vargöld,",
+          "áðr veröld steypiz;",
+          "[grundir gjalla,",
+          "gífr fljúgandi]",
+          "mun engi maðr",
+          "öðrum þyrma."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Leika Míms synir",
+          "en mjötuðr kyndiz",
+          "að inu galla",
+          "Gjal‖larhorni;",
+          "hátt blæss Heimdallr,",
+          "horn er á lofti,",
+          "mælir Óðinn",
+          "við Míms höfuð;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "ymr ið aldna tré",
+          "en jötunn losnar,",
+          "skelfr Yggdrasils",
+          "askr standandi.",
+          "hræðask allir",
+          "á helvegum",
+          "áðr Surtar þann",
+          "sefi of gleypir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Geyr nú Garmr mjök",
+          "fyr Gnipahelli,",
+          "festr mun slitna",
+          "en Freki renna;",
+          "fjölð veit hon fræða,fram sé ek lengra",
+          "um ragna rök",
+          "römm sigtíva."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Hrymr ekr austan,",
+          "hefiz lind fyr;",
+          "snýz jörmungandr",
+          "í jötunmóði;",
+          "ormr knýr unnir",
+          "en ari hlakkar,",
+          "slítr nái neffölr;",
+          "Naglfar losnar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Kjóll ferr austan,",
+          "koma munu Múspellz",
+          "um lög lýðir",
+          "en Loki stýrir;",
+          "fara fífls megir",
+          "með freka allir,",
+          "þeim er bróðir",
+          "Býleifts í för."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Hvað er með ásum?",
+          "Hvað er með álfum?",
+          "Gnýr allr jötunheimr,",
+          "æsir ru á þingi,",
+          "stynja dvergar",
+          "fyr steindurum,",
+          "veggbergs vísir;",
+          "vituð ér enn, eða hvað?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Surtr ferr sunnan",
+          "með sviga lævi,",
+          "skínn af sverði",
+          "sól valtíva;",
+          "grjótbjörg gnata",
+          "en gífr rata,",
+          "troða halir helveg",
+          "en himinn klofnar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Þá kjömr Hlínar",
+          "harmr annarr fram",
+          "er Óðinn ferr",
+          "við úlf vega",
+          "en bani Belja",
+          "bjartr að Surti,",
+          "þá mun Friggjar",
+          "falla angantýr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Geyr nú Garmr mjök",
+          "fyr Gnipahelli,",
+          "festr mun slitna,",
+          "en freki renna;",
+          "fjölð veit ek fræða,",
+          "fram sé ek lengra",
+          "um ragna rök",
+          "römm sigtíva."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Þá kjömr inn mikli",
+          "mögr Sigföður,",
+          "Víðarr, vega",
+          "að valdýri;",
+          "lætr hann megi Hveðrungs",
+          "mund um standa",
+          "hjör til hjarta;",
+          "þá er hefnt föður."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Gín loft yfir",
+          "lindi jarðar.",
+          "Gapa ýgs kjaftar",
+          "orms í hæðum.",
+          "Mun Óðins son",
+          "eitri mæta",
+          "vargs að dauða",
+          "Víðars niðja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Þá kjömr inn mæri",
+          "mögr Hlöðynjar,",
+          "gengr Óðins sonr",
+          "við úlf vega,",
+          "drepr hann af móði",
+          "Miðgarðs véur,",
+          "munu halir allir",
+          "heimstöð ryðja,",
+          "gengr fet níu",
+          "Fjörgynjar burr",
+          "neppr frá naðri",
+          "níðs ókvíðnum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Sól tér sortna,",
+          "sígr fold í mar,",
+          "hverfa af himni",
+          "heiðar stjörnur;",
+          "geisar eimi",
+          "við aldrnara,",
+          "leikr hár hiti",
+          "við himin sjálfan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Geyr nú Garmr mjök",
+          "fyr Gnipahelli,",
+          "festr mun slitna",
+          "en freki renna;",
+          "fjölð veit hon fræða,",
+          "fram sé ek lengra",
+          "um ragna rök",
+          "römm sigtíva."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Sér hon upp koma",
+          "öðru sinni",
+          "jörð ór ægi",
+          "iðjagræna;",
+          "falla forsar,",
+          "flýgr örn yfir,",
+          "sá er á fjalli",
+          "fiska veiðir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Finnaz æsir",
+          "á Iðavelli",
+          "ok um moldþinur",
+          "máttkan dæma",
+          "ok minnaz þar",
+          "á megindóma",
+          "ok á Fimbultýs",
+          "fornar rúnar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Þar munu eftir",
+          "undrsamligar",
+          "gullnar töflur",
+          "í grasi finnaz,",
+          "þær s í árdaga",
+          "áttar höfðu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Munu ósánir",
+          "akrar vaxa,",
+          "böls mun allz batna,",
+          "Baldr mun koma;",
+          "búa þeir Höðr ok Baldr",
+          "Hrofts sigtóftir",
+          "vel, valtívar,",
+          "vituð ér enn, eða hvað?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Þá kná Hænir",
+          "hlautvið kjósa",
+          "ok byrir byggja",
+          "bræðra tveggja",
+          "vindheim víðan,",
+          "vituð ér enn, eða hvað?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          "Sal sér hon standa",
+          "sólu fegra,",
+          "gulli þakðan",
+          "á Gimlé:",
+          "Þar ‖ skulu dyggvar",
+          "dróttir byggja",
+          "ok um aldrdaga",
+          "ynðis njóta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "Þá kemr inn ríki",
+          "at regindómi",
+          "öflugr ofan,",
+          "sá er öllu ræðr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "67.",
+        "lines": [
+          "Þar kjömr inn dimmi",
+          "dreki fljúgandi,",
+          "naðr fránn, neðan",
+          "frá Niðafjöllum;",
+          "berr sér í fjöðrum,",
+          "flýgr völl yfir,",
+          "Níðhöggr nái,",
+          "nú mun hon sökkvaz."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Внимайте мне все",
+          "священные роды,",
+          "великие с малыми",
+          "Хеймдалля дети!",
+          "О́дин, ты хочешь,",
+          "чтоб я рассказала",
+          "о прошлом всех сущих,",
+          "о древнем, что помню."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Великанов я помню,",
+          "рожденных до века,",
+          "породили меня они",
+          "в давние годы;",
+          "помню девять миров",
+          "и девять корней",
+          "и древо предела,",
+          "еще не проросшее."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "В начале времен,",
+          "когда жил Имир,",
+          "не было в мире",
+          "ни песка, ни моря,",
+          "земли еще не было",
+          "и небосвода,",
+          "бездна зияла,",
+          "трава не росла."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Пока сыны Бора,",
+          "Мидгард создавшие",
+          "великолепный,",
+          "земли не подняли,",
+          "солнце с юга",
+          "на камни светило,",
+          "росли на земле",
+          "зеленые травы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Солнце, друг месяца,",
+          "правую руку",
+          "до края небес",
+          "простирало с юга;",
+          "солнце не ведало,",
+          "где его дом,",
+          "звезды не ведали,",
+          "где им сиять,",
+          "месяц не ведал",
+          "мощи своей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Тогда сели боги",
+          "на троны могущества",
+          "и совещаться",
+          "стали священные,",
+          "ночь назвали",
+          "и отпрыскам ночи —",
+          "вечеру, утру",
+          "и дня середине —",
+          "прозвище дали,",
+          "чтоб время исчислить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Встретились асы",
+          "на Идавёлль-поле,",
+          "капища стали",
+          "высокие строить,",
+          "сил не жалели,",
+          "ковали сокровища,",
+          "создали клещи,",
+          "орудья готовили."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "На лугу, веселясь,",
+          "в тавлеи играли,",
+          "все у них было",
+          "только из золота, —",
+          "пока не явились",
+          "три великанши,",
+          "могучие девы",
+          "из Ётунхейма."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Тогда сели боги",
+          "на троны могущества",
+          "и совещаться",
+          "стали священные:",
+          "кто должен племя",
+          "двергов сделать",
+          "из Бримира крови",
+          "и кости Блаина."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Мотсогнир старшим",
+          "из племени двергов",
+          "назван тогда был,",
+          "а Дурин — вторым;",
+          "дверги много",
+          "из глины слепили",
+          "подобий людских,",
+          "как Дурин велел."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Нии и Ниди,",
+          "Нордри и Судри,",
+          "Аустри и Вестри,",
+          "Альтиов, Двалин,",
+          "Нар и Наин,",
+          "Нипинг, Даин,",
+          "Бивёр и Бавёр,",
+          "Бёмбур, Нори,",
+          "Ан и Анар,",
+          "Аи, Мьёдвитнир,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Гандальв и Вейг,",
+          "Виндальв, Траин,",
+          "Текк и Торин,",
+          "Трор, Вит и Лит,",
+          "Нюр и Нюрад —",
+          "вот я двергов —",
+          "Регин и Радсвинн —",
+          "всех назвала."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Фили и Кили,",
+          "Фундин, Нали,",
+          "Хефти, Вили,",
+          "Ханар, Свиор,",
+          "Биллинг, Бруни,",
+          "Бильд и Бури,",
+          "Фрар и Хорнбори,",
+          "Фрег и Лони,",
+          "Аурванг, Яри,",
+          "Эйкинскьяльди."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Ещё надо двергов",
+          "Двалина войска",
+          "роду людскому",
+          "назвать до Ловара;",
+          "они появились",
+          "из камня земли,",
+          "пришли через топь",
+          "на поле песчаное."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Это был Драупнир",
+          "и Дольгтрасир с ним,",
+          "Хар и Хаугспори,",
+          "Хлеванг и Глои,",
+          "Дори и Ори,",
+          "Дув и Андвари,",
+          "Скирвир, Вирвир,",
+          "Скафинн и Аи,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Альв и Ингви,",
+          "Эйкинскьяльди,",
+          "Фьялар и Фрости,",
+          "Финн и Гиннар;",
+          "перечень этот",
+          "предков Ловара",
+          "вечно пребудет,",
+          "пока люди живы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "И трое пришло",
+          "из этого рода",
+          "асов благих",
+          "и могучих к морю,",
+          "бессильных увидели",
+          "на берегу",
+          "Аска и Эмблу,",
+          "судьбы не имевших."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Они не дышали,",
+          "в них не было духа,",
+          "румянца на лицах,",
+          "тепла и голоса;",
+          "дал Один дыханье,",
+          "а Хёнир — дух,",
+          "а Лодур — тепло",
+          "и лицам румянец."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Ясень я знаю",
+          "по имени Иггдрасиль,",
+          "древо, омытое",
+          "влагою мутной;",
+          "росы с него",
+          "на долы нисходят;",
+          "над источником Урд",
+          "зеленеет он вечно."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Мудрые девы",
+          "оттуда возникли,",
+          "три из ключа",
+          "под древом высоким;",
+          "Урд имя первой,",
+          "вторая Верданди, —",
+          "резали руны, —",
+          "Скульд имя третьей;",
+          "судьбы судили,",
+          "жизнь выбирали",
+          "детям людей,",
+          "жребий готовят."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Помнит войну она",
+          "первую в мире:",
+          "Гулльвейг погибла,",
+          "пронзенная копьями,",
+          "жгло ее пламя",
+          "в чертоге Одина,",
+          "трижды сожгли ее,",
+          "трижды рожденную,",
+          "и все же она",
+          "доселе живет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Хейд ее называли,",
+          "в домах встречая, —",
+          "вещей колдуньей, —",
+          "творила волшбу",
+          "жезлом колдовским;",
+          "умы покорялись",
+          "ее чародейству",
+          "злым женам на радость."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Тогда сели боги",
+          "на троны могущества",
+          "и совещаться",
+          "стали священные:",
+          "стерпят ли асы",
+          "обиду без выкупа",
+          "иль боги в отмщенье",
+          "выкуп возьмут."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "В войско метнул",
+          "Один копье,",
+          "это тоже свершилось",
+          "в дни первой войны;",
+          "рухнули стены",
+          "крепости асов,",
+          "ваны в битве",
+          "врагов побеждали."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Тогда сели боги",
+          "на троны могущества",
+          "и совещаться",
+          "священные стали:",
+          "кто небосвод",
+          "сгубить покусился",
+          "и Ода жену",
+          "отдать великанам?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Разгневанный Тор",
+          "один начал битву —",
+          "не усидит он,",
+          "узнав о подобном! —",
+          "крепкие были",
+          "попраны клятвы,",
+          "тот договор,",
+          "что досель соблюдался."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Знает она,",
+          "что Хеймдалля слух",
+          "спрятан под древом,",
+          "до неба встающим;",
+          "видит, что мутный",
+          "течет водопад",
+          "с залога Владыки, —",
+          "довольно ли вам этого?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Она колдовала",
+          "тайно однажды,",
+          "когда князь асов",
+          "в глаза посмотрел ей:",
+          "«Что меня вопрошать?",
+          "Зачем испытывать?",
+          "Знаю я, Один,",
+          "где глаз твой спрятан:",
+          "скрыт он в источнике",
+          "славном Мимира!»",
+          "Каждое утро",
+          "Мимир пьет мед",
+          "с залога Владыки —",
+          "довольно ли вам этого?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Один ей дал",
+          "ожерелья и кольца,",
+          "взамен получил",
+          "с волшбой прорицанья,–",
+          "сквозь все миры",
+          "взор ее проникал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Валькирий видала",
+          "из дальних земель,",
+          "готовых спешить",
+          "к племени готов;",
+          "Скульд со щитом,",
+          "Скёгуль другая,",
+          "Гунн, Хильд и Гёндуль",
+          "и Гейрскёгуль.",
+          "Вот перечислены",
+          "девы Одина,",
+          "любо скакать им",
+          "повсюду, валькириям."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Видала, как Бальдр,",
+          "бог окровавленный,",
+          "Одина сын,",
+          "смерть свою принял:",
+          "стройный над полем",
+          "стоял, возвышаясь,",
+          "тонкий, прекрасный",
+          "омелы побег."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Стал тот побег,",
+          "тонкий и стройный,",
+          "оружьем губительным,",
+          "Хёд его бросил.",
+          "У Бальдра вскоре",
+          "брат народился, —",
+          "ночь проживя,",
+          "он начал сражаться."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Ладоней не мыл он,",
+          "волос не чесал,",
+          "пока не убил",
+          "Бальдра убийцу;",
+          "оплакала Фригг,",
+          "в Фенсалир сидя,",
+          "Вальхаллы скорбь —",
+          "довольно ли вам этого?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Сплел тогда Вали.",
+          "страшные узы,",
+          "крепкие узы",
+          "связал из кишок."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Пленника видела",
+          "под Хвералундом,",
+          "обликом схожего",
+          "с Локи зловещим;",
+          "там Сигюн сидит,",
+          "о муже своем",
+          "горько печалясь, —",
+          "довольно ли вам этого?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Льется с востока",
+          "поток холодный,",
+          "мечи он несет, —",
+          "Слид ему имя."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Стоял на севере",
+          "в Нидавеллир",
+          "чертог золотой, —",
+          "то двергов дом;",
+          "другой же стоял",
+          "на Окольнир дом,",
+          "чертог великанов,",
+          "зовется он Бримир."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Видела дом,",
+          "далекий от солнца,",
+          "на Береге Мертвых,",
+          "дверью на север;",
+          "падали капли",
+          "яда сквозь дымник,",
+          "из змей живых",
+          "сплетен этот дом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Там она видела —",
+          "шли чрез потоки",
+          "поправшие клятвы,",
+          "убийцы подлые",
+          "и те, кто жен",
+          "чужих соблазняет;",
+          "Нидхёгг глодал там",
+          "трупы умерших,",
+          "терзал он мужей —",
+          "довольно ли вам этого?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Сидела старуха",
+          "в Железном Лесу",
+          "и породила там",
+          "Фенрира род;",
+          "из этого рода",
+          "станет один",
+          "мерзостный тролль",
+          "похитителем солнца."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Будет он грызть",
+          "трупы людей,",
+          "кровью зальет",
+          "жилище богов;",
+          "солнце померкнет",
+          "в летнюю пору,",
+          "бури взъярятся —",
+          "довольно ли вам этого?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Сидел на холме,",
+          "на арфе играл",
+          "пастух великанши,",
+          "Эггдер веселый;",
+          "над ним распевал",
+          "на деревьях лесных",
+          "кочет багряный",
+          "по имени Фьялар."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Запел над асами",
+          "Гуллинкамби,",
+          "он будит героев",
+          "Отца Дружин;",
+          "другой под землей",
+          "первому вторит",
+          "петух черно-красный",
+          "у Хель чертога."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Гарм лает громко",
+          "у Гнипахеллира,",
+          "привязь не выдержит —",
+          "вырвется Жадный.",
+          "Ей многое ведомо,",
+          "все я провижу",
+          "судьбы могучих",
+          "славных богов."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Братья начнут",
+          "биться друг с другом,",
+          "родичи близкие",
+          "в распрях погибнут;",
+          "тягостно в мире,",
+          "великий блуд,",
+          "век мечей и секир,",
+          "треснут щиты,",
+          "век бурь и волков",
+          "до гибели мира;",
+          "[земли гудят,",
+          "тролльши летящие] 58",
+          "щадить человек",
+          "человека не станет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Игру завели",
+          "Мимира дети,",
+          "конец возвещен",
+          "рогом Гьяллархорн;",
+          "Хеймдалль трубит,",
+          "поднял он рог,",
+          "с черепом Мимира",
+          "Один беседует."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Трепещет Иггдрасиль,",
+          "ясень высокий,",
+          "гудит древний ствол,",
+          "турс вырывается;",
+          "все устрашится",
+          "в подземных землях,",
+          "когда он явится,",
+          "родич Сурта."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Гарм лает громко",
+          "у Гнипахеллира,",
+          "привязь не выдержит —",
+          "вырвется Жадный.",
+          "Ей многое ведомо,",
+          "все я провижу",
+          "судьбы могучих",
+          "славных богов."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Хрюм едет с востока,",
+          "щитом заслонясь;",
+          "Ёрмунганд гневно",
+          "поворотился;",
+          "змей бьет о волны,",
+          "клекочет орел,",
+          "павших терзает;",
+          "Нагльфар плывет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "С востока в ладье",
+          "Муспелля люди",
+          "плывут по волнам,",
+          "а Локи правит;",
+          "едут с Волком",
+          "сыны великанов,",
+          "в ладье с ними брат",
+          "Бюлейста едет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Что же с асами?",
+          "Что же с альвами?",
+          "Гудит Ётунхейм,",
+          "асы на тинге;",
+          "дверги стонут",
+          "пред каменным входом",
+          "в скалах родных —",
+          "довольно ли вам этого?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Сурт едет с юга",
+          "с губящим ветви,",
+          "солнце блестит",
+          "на мечах богов;",
+          "рушатся горы,",
+          "мрут великанши;",
+          "в Хель идут люди,",
+          "расколото небо."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Настало для Хлин",
+          "новое горе,",
+          "Один вступил",
+          "с Волком в сраженье,",
+          "а Бели убийца",
+          "с Суртом схватился, —",
+          "радости Фригг",
+          "близится гибель."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Гарм лает громко",
+          "у Гнипахеллира,",
+          "привязь не выдержит —",
+          "вырвется Жадный.",
+          "Ей многое ведомо,",
+          "все я провижу",
+          "судьбы могучих",
+          "славных богов."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Сын тут приходит",
+          "Отца Побед,",
+          "Видар, для боя",
+          "со зверем трупным;",
+          "меч он вонзает,",
+          "мстя за отца, —",
+          "в сердце разит он",
+          "Хведрунга сына."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Зев разверзнул",
+          "пояс земли,",
+          "пасть нависла",
+          "змея над воздухом —",
+          "желает ужалить",
+          "Одина сына",
+          "[мстя за] волка по гибели",
+          "Видара родича."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Тут славный приходит",
+          "Хлодюн потомок,",
+          "со змеем идет",
+          "биться сын Одина,",
+          "в гневе разит",
+          "Мидгарда страж,",
+          "все люди должны",
+          "с жизнью расстаться, —",
+          "на девять шагов",
+          "отступает сын ­Фьёргюн,",
+          "змеем сраженный —",
+          "достоин он славы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Солнце померкло,",
+          "земля тонет в море,",
+          "срываются с неба",
+          "светлые звезды,",
+          "пламя бушует",
+          "питателя жизни,",
+          "жар нестерпимый",
+          "до неба доходит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Гарм лает громко",
+          "у Гнипахеллира,",
+          "привязь не выдержит —",
+          "вырвется Жадный.",
+          "Ей многое ведомо,",
+          "все я провижу",
+          "судьбы могучих",
+          "славных богов."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Видит она:",
+          "вздымается снова",
+          "из моря земля,",
+          "зеленея, как прежде;",
+          "падают воды,",
+          "орел пролетает,",
+          "рыбу из волн",
+          "хочет он выловить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Встречаются асы",
+          "на Идавёлль-поле,",
+          "о поясе мира",
+          "могучем беседуют",
+          "и вспоминают",
+          "о славных событьях",
+          "и рунах древних",
+          "великого бога."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Снова найтись",
+          "должны на лугу",
+          "в высокой траве",
+          "тавлеи золотые,",
+          "что им для игры",
+          "служили когда-то."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Заколосятся",
+          "хлеба без посева,",
+          "зло станет благом,",
+          "Бальдр вернется,",
+          "жить будет с Хёдом",
+          "у Хрофта в чертогах,",
+          "в жилище богов —",
+          "довольно ли вам этого?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Хёнир берет",
+          "прут жеребьевый,",
+          "братьев обоих",
+          "живут сыновья",
+          "в доме ветров —",
+          "довольно ли вам этого?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          "Чертог она видит",
+          "солнца чудесней,",
+          "на Гимле стоит он,",
+          "сияя золотом:",
+          "там будут жить",
+          "дружины верные,",
+          "вечное счастье",
+          "там суждено им."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "Нисходит тогда",
+          "мира владыка,",
+          "правящий всем",
+          "властелин могучий."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "67.",
+        "lines": [
+          "Вот прилетает",
+          "черный дракон,",
+          "сверкающий змей",
+          "с Темных Вершин;",
+          "Нидхёгг несет,",
+          "над полем летя,",
+          "под крыльями трупы —",
+          "пора ей исчезнуть."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Hearing I ask",
+          "from the holy races,",
+          "From Heimdall's sons,",
+          "both high and low;",
+          "Thou wilt, Valfather,",
+          "that well I relate",
+          "Old tales I remember",
+          "of men long ago."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "I remember yet",
+          "the giants of yore,",
+          "Who gave me bread",
+          "in the days gone by;",
+          "Nine worlds I knew,",
+          "the nine in the tree",
+          "With mighty roots",
+          "beneath the mold."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Of old was the age",
+          "when Ymir lived;",
+          "Sea nor cool waves",
+          "nor sand there were;",
+          "Earth had not been,",
+          "nor heaven above,",
+          "But a yawning gap,",
+          "and grass nowhere."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Then Bur's sons lifted",
+          "the level land,",
+          "Mithgarth the mighty",
+          "there they made;",
+          "The sun from the south",
+          "warmed the stones of earth,",
+          "And green was the ground",
+          "with growing leeks."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "The sun, the sister",
+          "of the moon, from the south",
+          "Her right hand cast",
+          "over heaven's rim;",
+          "No knowledge she had",
+          "where her home should be,",
+          "The moon knew not",
+          "what might was his,",
+          "The stars knew not",
+          "where their stations were."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Then sought the gods",
+          "their assembly-seats,",
+          "The holy ones,",
+          "and council held;",
+          "Names then gave they",
+          "to noon and twilight,",
+          "Morning they named,",
+          "and the waning moon,",
+          "Night and evening,",
+          "the years to number."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "At Ithavoll met",
+          "the mighty gods,",
+          "Shrines and temples",
+          "they timbered high;",
+          "Forges they set, and",
+          "they smithied ore,",
+          "Tongs they wrought,",
+          "and tools they fashioned."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "In their dwellings at peace",
+          "they played at tables,",
+          "Of gold no lack",
+          "did the gods then know,",
+          "Till thither came",
+          "up giant-maids three,",
+          "Huge of might,",
+          "out of Jotunheim."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Then sought the gods",
+          "their assembly-seats,",
+          "The holy ones,",
+          "and council held,",
+          "To find who should raise",
+          "the race of dwarfs",
+          "Out of Brimir's blood",
+          "and the legs of Blain."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "There was Motsognir",
+          "the mightiest made",
+          "Of all the dwarfs,",
+          "and Durin next;",
+          "Many a likeness",
+          "of men they made,",
+          "The dwarfs in the earth,",
+          "as Durin said."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Nyi and Nithi,",
+          "Northri and Suthri,",
+          "Austri and Vestri,",
+          "Althjof, Dvalin,",
+          "Nar and Nain,",
+          "Niping, Dain,",
+          "Bifur, Bofur,",
+          "Bombur, Nori,",
+          "An and Onar,",
+          "Ai, Mjothvitnir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Vigg and Gandalf",
+          "Vindalf, Thrain,",
+          "Thekk and Thorin,",
+          "Thror, Vit and Lit,",
+          "Nyr and Nyrath,",
+          "now have I told",
+          "Regin and Rathsvith",
+          "the list aright."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Fili, Kili,",
+          "Fundin, Nali,",
+          "Heptifili,",
+          "Hannar, Sviur,",
+          "Frar, Hornbori,",
+          "Fræg and Loni,",
+          "Aurvang, Jari,",
+          "Eikinskjaldi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "The race of the dwarfs",
+          "in Dvalin's throng",
+          "Down to Lofar",
+          "the list must I tell;",
+          "The rocks they left,",
+          "and through wet lands",
+          "They sought a home",
+          "in the fields of sand."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "There were Draupnir",
+          "and Dolgthrasir,",
+          "Hor, Haugspori,",
+          "Hlevang, Gloin,",
+          "Dori, Ori,",
+          "Duf, Andvari,",
+          "Skirfir, Virfir,",
+          "Skafith, Ai."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Alf and Yngvi,",
+          "Eikinskjaldi,",
+          "Fjalar and Frosti,",
+          "Fith and Ginnar;",
+          "So for all time",
+          "shall the tale be known,",
+          "The list of all",
+          "the forbears of Lofar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Then from the throng",
+          "did three come forth,",
+          "From the home of the gods,",
+          "the mighty and gracious;",
+          "Two without fate",
+          "on the land they found,",
+          "Ask and Embla,",
+          "empty of might."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Soul they had not,",
+          "sense they had not,",
+          "Heat nor motion,",
+          "nor goodly hue;",
+          "Soul gave Othin,",
+          "sense gave Hönir,",
+          "Heat gave Lothur",
+          "and goodly hue."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "An ash I know,",
+          "Yggdrasil its name,",
+          "With water white",
+          "is the great tree wet;",
+          "Thence come the dews",
+          "that fall in the dales,",
+          "Green by Urth's well",
+          "does it ever grow."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Thence come the maidens",
+          "mighty in wisdom,",
+          "Three from the dwelling",
+          "down 'neath the tree;",
+          "Urth is one named,",
+          "Verthandi the next,",
+          "On the wood they scored,",
+          "and Skuld the third.",
+          "Laws they made there,",
+          "and life allotted",
+          "To the sons of men,",
+          "and set their fates."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "The war I remember,",
+          "the first in the world,",
+          "When the gods with spears",
+          "had smitten Gollveig,",
+          "And in the hall",
+          "of Hor had burned her,",
+          "Three times burned,",
+          "and three times born,",
+          "Oft and again,",
+          "yet ever she lives."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Heith they named her",
+          "who sought their home,",
+          "The wide-seeing witch,",
+          "in magic wise;",
+          "Minds she bewitched",
+          "that were moved by her magic,",
+          "To evil women",
+          "a joy she was."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "On the host his spear",
+          "did Othin hurl,",
+          "Then in the world",
+          "did war first come;",
+          "The wall that girdled",
+          "the gods was broken,",
+          "And the field by the warlike",
+          "Wanes was trodden."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Then sought the gods",
+          "their assembly-seats,",
+          "The holy ones,",
+          "and council held,",
+          "Whether the gods",
+          "should tribute give,",
+          "Or to all alike",
+          "should worship belong."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Then sought the gods",
+          "their assembly-seats,",
+          "The holy ones,",
+          "and council held,",
+          "To find who with venom",
+          "the air had filled,",
+          "Or had given Oth's bride",
+          "to the giants' brood."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "In swelling rage",
+          "then rose up Thor,",
+          "Seldom he sits",
+          "when he such things hears,",
+          "And the oaths were broken,",
+          "the words and bonds,",
+          "The mighty pledges",
+          "between them made."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "I know of the horn",
+          "of Heimdall, hidden",
+          "Under the high-reaching",
+          "holy tree;",
+          "On it there pours",
+          "from Valfather's pledge",
+          "A mighty stream:",
+          "would you know yet more?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Alone I sat",
+          "when the Old One sought me,",
+          "The terror of gods,",
+          "and gazed in mine eyes:",
+          "\"What hast thou to ask?",
+          "why comest thou hither?",
+          "Othin, I know",
+          "where thine eye is hidden.\"",
+          "I know where Othin's",
+          "eye is hidden,",
+          "Deep in the wide-famed",
+          "well of Mimir;",
+          "Mead from the pledge",
+          "of Othin each mom",
+          "Does Mimir drink:",
+          "would you know yet more?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Necklaces had I",
+          "and rings from Heerfather,",
+          "Wise was my speech",
+          "and my magic wisdom;",
+          "*********",
+          "Widely I saw",
+          "over all the worlds."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "On all sides saw I",
+          "Valkyries assemble,",
+          "Ready to ride",
+          "to the ranks of the gods;",
+          "Skuld bore the shield,",
+          "and Skogul rode next,",
+          "Guth, Hild, Gondul,",
+          "and Geirskogul.",
+          "Of Herjan's maidens",
+          "the list have ye heard,",
+          "Valkyries ready",
+          "to ride o'er the earth."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "I saw for Baldr,",
+          "the bleeding god,",
+          "The son of Othin,",
+          "his destiny set:",
+          "Famous and fair",
+          "in the lofty fields,",
+          "Full grown in strength",
+          "the mistletoe stood."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "From the branch which seemed",
+          "so slender and fair",
+          "Came a harmful shaft",
+          "that Hoth should hurl;",
+          "But the brother of Baldr",
+          "was born ere long,",
+          "And one night old",
+          "fought Othin's son."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "His hands he washed not,",
+          "his hair he combed not,",
+          "Till he bore to the bale-blaze",
+          "Baldr's foe.",
+          "But in Fensalir",
+          "did Frigg weep sore",
+          "For Valhall's need:",
+          "would you know yet more?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Then did Váli slaughter bonds twist:",
+          "made farily grim were those fetters of guts."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "One did I see",
+          "in the wet woods bound,",
+          "A lover of ill,",
+          "and to Loki like;",
+          "By his side does Sigyn",
+          "sit, nor is glad",
+          "To see her mate:",
+          "would you know yet more?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "From the east there pours",
+          "through poisoned vales",
+          "With swords and daggers",
+          "the river Slith."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Northward a hall",
+          "in Nithavellir",
+          "Of gold there rose",
+          "for Sindri's race;",
+          "And in Okolnir",
+          "another stood,",
+          "Where the giant Brimir",
+          "his beer-hall had."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "A hall I saw,",
+          "far from the sun,",
+          "On Nastrond it stands,",
+          "and the doors face north,",
+          "Venom drops",
+          "through the smoke-vent down,",
+          "For around the walls",
+          "do serpents wind."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "I saw there wading",
+          "through rivers wild",
+          "Treacherous men",
+          "and murderers too,",
+          "And workers of ill",
+          "with the wives of men;",
+          "There Nithhogg sucked",
+          "the blood of the slain,",
+          "And the wolf tore men;",
+          "would you know yet more?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "The giantess old",
+          "in Ironwood sat,",
+          "In the east, and bore",
+          "the brood of Fenrir;",
+          "Among these one",
+          "in monster's guise",
+          "Was soon to steal",
+          "the sun from the sky."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "There feeds he full",
+          "on the flesh of the dead,",
+          "And the home of the gods",
+          "he reddens with gore;",
+          "Dark grows the sun,",
+          "and in summer soon",
+          "Come mighty storms:",
+          "would you know yet more?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "On a hill there sat,",
+          "and smote on his harp,",
+          "Eggther the joyous,",
+          "the giants warder;",
+          "Above him the cock",
+          "in the bird-wood crowed,",
+          "Fair and red",
+          "did Fjalar stand."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Then to the gods",
+          "crowed Gollinkambi,",
+          "He wakes the heroes",
+          "in Othin's hall;",
+          "And beneath the earth",
+          "does another crow,",
+          "The rust-red bird",
+          "at the bars of Hel."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Now Garm howls loud",
+          "before Gnipahellir,",
+          "The fetters will burst,",
+          "and the wolf run free;",
+          "Much do I know,",
+          "and more can see",
+          "Of the fate of the gods,",
+          "the mighty in fight."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Brothers shall fight",
+          "and fell each other,",
+          "And sisters sons",
+          "shall kinship stain;",
+          "Hard is it on earth,",
+          "with mighty whoredom;",
+          "Axe-time, sword-time,",
+          "shields are sundered,",
+          "Wind-time, wolf-time,",
+          "ere the world falls;",
+          "Nor ever shall men",
+          "each other spare."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Fast move the sons",
+          "of Mim, and fate",
+          "Is heard in the note",
+          "of the Gjallarhorn;",
+          "Loud blows Heimdall,",
+          "the horn is aloft,",
+          "In fear quake all",
+          "who on Hel-roads are."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Yggdrasil shakes,",
+          "and shiver on high",
+          "The ancient limbs,",
+          "and the giant is loose;",
+          "To the head of Mim",
+          "does Othin give heed,",
+          "But the kinsman of Surt",
+          "shall slay him soon."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "How fare the gods?",
+          "how fare the elves?",
+          "All Jotunheim groans,",
+          "the gods are at council;",
+          "Loud roar the dwarfs",
+          "by the doors of stone,",
+          "The masters of the rocks:",
+          "would you know yet more?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Now Garm howls loud",
+          "before Gnipahellir,",
+          "The fetters will burst,",
+          "and the wolf run free",
+          "Much do I know,",
+          "and more can see",
+          "Of the fate of the gods,",
+          "the mighty in fight."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "From the east comes Hrym",
+          "with shield held high;",
+          "In giant-wrath",
+          "does the serpent writhe;",
+          "O'er the waves he twists,",
+          "and the tawny eagle",
+          "Gnaws corpses screaming;",
+          "Naglfar is loose."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "O'er the sea from the east",
+          "there sails a ship",
+          "With the people of Muspell,",
+          "at the helm stands Loki;",
+          "After the wolf",
+          "do wild men follow,",
+          "And with them the brother",
+          "of Byleist goes."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Surt fares from the south",
+          "with the scourge of branches,",
+          "The sun of the battle-gods",
+          "shone from his sword;",
+          "The crags are sundered,",
+          "the giant-women sink,",
+          "The dead throng Hel-way,",
+          "and heaven is cloven."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Now comes to Hlin",
+          "yet another hurt,",
+          "When Othin fares",
+          "to fight with the wolf,",
+          "And Beli's fair slayer",
+          "seeks out Surt,",
+          "For there must fall",
+          "the joy of Frigg."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Then comes Sigfather's",
+          "mighty son,",
+          "Vithar, to fight",
+          "with the foaming wolf;",
+          "In the giant's son",
+          "does he thrust his sword",
+          "Full to the heart:",
+          "his father is avenged."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Hither there comes",
+          "the son of Hlothyn,",
+          "The bright snake gapes",
+          "to heaven above;",
+          "*********",
+          "Against the serpent",
+          "goes Othin's son."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "In anger smites",
+          "the warder of earth,",
+          "Forth from their homes",
+          "must all men flee;",
+          "Nine paces fares",
+          "the son of Fjorgyn,",
+          "And, slain by the serpent,",
+          "fearless he sinks."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "The sun turns black,",
+          "earth sinks in the sea,",
+          "The hot stars down",
+          "from heaven are whirled;",
+          "Fierce grows the steam",
+          "and the life-feeding flame,",
+          "Till fire leaps high",
+          "about heaven itself."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Now Garm howls loud",
+          "before Gnipahellir,",
+          "The fetters will burst,",
+          "and the wolf run free;",
+          "Much do I know,",
+          "and more can see",
+          "Of the fate of the gods,",
+          "the mighty in fight."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Now do I see",
+          "the earth anew",
+          "Rise all green",
+          "from the waves again;",
+          "The cataracts fall,",
+          "and the eagle flies,",
+          "And fish he catches",
+          "beneath the cliffs."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "The gods in Ithavoll",
+          "meet together,",
+          "Of the terrible girdler",
+          "of earth they talk,",
+          "And the mighty past",
+          "they call to mind,",
+          "And the ancient runes",
+          "of the Ruler of Gods."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "In wondrous beauty",
+          "once again",
+          "Shall the golden tables",
+          "stand mid the grass,",
+          "Which the gods had owned",
+          "in the days of old,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Then fields unsowed",
+          "bear ripened fruit,",
+          "All ills grow better,",
+          "and Baldr comes back;",
+          "Baldr and Hoth dwell",
+          "in Hropt's battle-hall,",
+          "And the mighty gods:",
+          "would you know yet more?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Then Hönir wins",
+          "the prophetic wand,",
+          "And the sons of the brothers",
+          "of Tveggi abide",
+          "In Vindheim now:",
+          "would you know yet more?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "More fair than the sun,",
+          "a hall I see,",
+          "Roofed with gold,",
+          "on Gimle it stands;",
+          "There shall the righteous",
+          "rulers dwell,",
+          "And happiness ever",
+          "there shall they have."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          "There comes on high,",
+          "all power to hold,",
+          "A mighty lord,",
+          "all lands he rules."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "From below the dragon",
+          "dark comes forth,",
+          "Nithhogg flying",
+          "from Nithafjoll;",
+          "The bodies of men on",
+          "his wings he bears,",
+          "The serpent bright:",
+          "but now must I sink."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,2352 @@
+{
+  "slug": "rigstula",
+  "key": "Rigstula",
+  "title": {
+    "on": "Rígsþula",
+    "ru": "Тула о Риге",
+    "en": "The Song of Ríg"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "Текст приведён в соответствие с рукописью AM 242 fol. Традиционная нумерация строф приводится в скобках.",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson, Eddukvæði (Sæmundar-Edda). 2 vols. 1949–54. Текст на русском языке в переводе А. И. Корсуна, СЭ–1963, с. 159–164.",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson, Eddukvæði (Sæmundar-Edda). 2 vols. 1949–54. Translation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Svá segja menn í fornum sögum, at einnhverr af ásum, sá er Heimdallr hét, fór ferðar sinnar ok fram með sjóvarströndu nökkurri, kom at einum húsabæ ok nefndist Rígr. Eftir þeiri sögu er kvæði þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Át kváðu ganga",
+          "grænar brautir",
+          "öflgan ok aldinn",
+          "ás kunnigan,",
+          "ramman ok röskvan",
+          "Ríg stíganda."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Gekk hann meir at þat",
+          "miðrar brautar;",
+          "kom hann at húsi,",
+          "hurð var á gætti;",
+          "inn nam at ganga,",
+          "eldr var á golfi;",
+          "hjón sátu þar",
+          "hár at arni,",
+          "Ái ok Edda,",
+          "aldinfalda."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Rígr kunni þeim",
+          "ráð at segja;",
+          "meir settisk hann",
+          "miðra fletja,",
+          "en á hlið hvára",
+          "hjón salkynna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Þá tók Edda",
+          "ökkvinn hleif,",
+          "þungan ok þykkvan,",
+          "þrunginn sáðum;",
+          "bar hon meir at þat",
+          "miðra skutla,",
+          "soð var í bolla,",
+          "setti á bjóð;",
+          "var kalfr soðinn",
+          "krása beztr;",
+          "reis hann upp þaðan,",
+          "réðsk at sofna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Rígr kunni þeim",
+          "ráð at segja;",
+          "meir lagðisk hann",
+          "miðrar rekkju,",
+          "en á hlið hvára",
+          "hjón salkynna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Þar var hann at þat",
+          "þríar nætr saman,",
+          "gekk hann meir at þat",
+          "miðrar brautar;",
+          "liðu meir at þat",
+          "mánuðr níu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Jóð ól Edda",
+          "jósu vatni,",
+          "hörvi svartan,",
+          "hétu Þræl."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Hann nam at vaxa",
+          "ok vel dafna;",
+          "var þar á höndum",
+          "hrokkit skinn,",
+          "kropnir knúar,",
+          "fingr digrir,",
+          "fúlligt andlit,",
+          "lotr hryggr,",
+          "langir hælar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Nam han meir at þat",
+          "magns of kosta,",
+          "bast at binda,",
+          "byrðar gerva;",
+          "bar hann heim at þat",
+          "hrís gerstan dag."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Þar kom at garði",
+          "gengilbeina,",
+          "aurr var á iljum,",
+          "armr sólbrunninn,",
+          "niðrbjúgt er nef,",
+          "nefndisk Þír."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Miðra fletja",
+          "meir settisk hon;",
+          "sat hjá henni",
+          "sonr húss;",
+          "ræddu ok rýndu,",
+          "rekkju gerðu",
+          "Þræll ok Þír",
+          "þrungin dægr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Börn ólu þau,",
+          "— bjuggu ok unðu, —",
+          "hygg ek at héti",
+          "Hreimr ok Fjósnir,",
+          "Klúrr ok Kleggi,",
+          "Kefsir, Fúlnir,",
+          "Drumbr, Digraldi,",
+          "Dröttr ok Hösvir.",
+          "Lútr ok Leggjaldi;",
+          "lögðu garða,",
+          "akra töddu,",
+          "unnu at svínum,",
+          "geita gættu,",
+          "grófu torf."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Dætr váru þær",
+          "Drumba ok Kumba,",
+          "Ökkvinkalfa",
+          "ok Arinnefja,",
+          "Ysja ok Ambátt,",
+          "Eikintjasna,",
+          "Tötrughypja",
+          "ok Trönubeina.",
+          "Þaðan eru komnar",
+          "þræla ættir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Gekk Rígr at þat",
+          "réttar brautir,",
+          "kom hann at höllu,",
+          "hurð var á skíði,",
+          "inn nam at ganga,",
+          "eldr var á golfi,",
+          "hjón sátu þar,",
+          "heldu á sýslu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Maðr teglði þar",
+          "meið til rifjar;",
+          "var skegg skapat,",
+          "skör var fyrir enni,",
+          "skyrtu þröngva,",
+          "skokkr var á golfi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Sat þar kona,",
+          "sveigði rokk,",
+          "breiddi faðm,",
+          "bjó til váðar;",
+          "sveigr var á höfði,",
+          "smokkr var á bringu,",
+          "dúkr var á halsi,",
+          "dvergar á öxlum.",
+          "Afi ok Amma",
+          "áttu hús."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "(19) Rígr kunni þeim",
+          "ráð at segja.",
+          "Reis frá borði,",
+          "réð at sofna;",
+          "meir lagðisk hann",
+          "miðrar rekkju,",
+          "en á hlið hvára",
+          "hjón salkynna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "(20) Þar var hann at þat",
+          "þríar nætr saman;",
+          "liðu meir at þat",
+          "mánuðr níu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "(21) Jóð ól Amma",
+          "jósu vatni,",
+          "kölluðu Karl,",
+          "kona sveip rifti,",
+          "rauðan ok rjóðan,",
+          "riðuðu augu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "(22) Hann nam at vaxa",
+          "ok vel dafna,",
+          "öxn nam at temja,",
+          "arðr at gerva,",
+          "hús at timbra",
+          "ok hlöður smíða,",
+          "karta at gerva",
+          "ok keyra plóg."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "(23) Heim óku þá",
+          "hanginluklu,",
+          "geitakyrtlu,",
+          "giftu Karli;",
+          "Snör heitir sú,",
+          "settisk und rifti;",
+          "bjuggu hjón,",
+          "bauga deildu,",
+          "breiddu blæjur",
+          "ok bú gerðu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "(24) Börn ólu þau,",
+          "— bjuggu ok unðu, —",
+          "hét Halr ok Drengr,",
+          "Hölðr, Þegn ok Smiðr,",
+          "Breiðr, Bóndi,",
+          "Bundinskeggi,",
+          "Búi ‖ ok Boddi,",
+          "Brattskeggr ok Seggr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "(25) Enn hétu svá",
+          "öðrum nöfnum,",
+          "Snót, Brúðr, Svanni,",
+          "Svarri, Sprakki,",
+          "Fljóð, Sprund ok Víf,",
+          "Feima, Ristill.",
+          "Þaðan eru komnar",
+          "karla ættir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "(26) Gekk Rígr þaðan",
+          "réttar brautir;",
+          "kom hann at sal,",
+          "suðr horfðu dyrr,",
+          "var hurð hnigin,",
+          "hringr var í gætti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "(27) Gekk hann inn at þat,",
+          "golf var stráat;",
+          "sátu hjón,",
+          "sáusk í augu,",
+          "Faðir ok Móðir,",
+          "fingrum at leika."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "(28) Sat húsgumi",
+          "ok sneri streng,",
+          "alm of bendi,",
+          "örvar skefti;",
+          "en húskona",
+          "hugði at örmum,",
+          "strauk of rifti,",
+          "sterti ermar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "(29) Keisti fald,",
+          "kinga var á bringu,",
+          "síðar slæður,",
+          "serk bláfáan;",
+          "brún bjartari,",
+          "brjóst ljósara,",
+          "hals hvítari",
+          "hreinni mjöllu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "(30) Rígr kunni þeim",
+          "ráð at segja;",
+          "meir settisk hann",
+          "miðra fletja,",
+          "en á hlið hvára",
+          "hjón salkynna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "(31) Þá tók Móðir",
+          "merkðan dúk,",
+          "hvítan af hörvi,",
+          "hulði bjóð;",
+          "hon tók at þat",
+          "hleifa þunna,",
+          "hvíta af hveiti,",
+          "ok hulði dúk."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "(32) Framm setti hon",
+          "skutla fulla,",
+          "silfri varða,",
+          "á bjóð fáin ok fleski",
+          "ok fugla steikða,",
+          "vín var í könnu,",
+          "varðir kálkar;",
+          "drukku ok dæmðu,",
+          "dagr var á sinnum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "(33) Rígr kunni þeim",
+          "ráð at segja.",
+          "Reis hann at þat,",
+          "rekkju gerði.",
+          "Þar var hann at þat",
+          "þríar nætr saman;",
+          "gekk hann meir at þat",
+          "miðrar brautar;",
+          "liðu meir at þat",
+          "mánuðr níu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "(34) Svein ól Móðir,",
+          "silki vafði,",
+          "jósu vatni,",
+          "Jarl létu heita;",
+          "bleikt var hár,",
+          "bjartir vangar,",
+          "ötul váru augu",
+          "sem yrmlingi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "(35) Upp óx þar",
+          "Jarl á fletjum;",
+          "lind nam at skelfa,",
+          "leggja strengi,",
+          "alm at beygja,",
+          "örvar skefta,",
+          "flein at fleygja,",
+          "frökkur dýja,",
+          "hestum ríða,",
+          "hundum verpa,",
+          "sverðum bregða,",
+          "sund at fremja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "(36) Kom þar ór runni",
+          "Rígr gangandi.",
+          "Rígr gangandi,",
+          "rúnar kendi;",
+          "sitt gaf heiti,",
+          "son kveðsk eiga;",
+          "þann bað hann eignask",
+          "óðalvöllu.",
+          "Óðalvöllu,",
+          "aldnar byggðir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "(37) Reið hann meir þaðan",
+          "myrkvan við,",
+          "hélug fjöll,",
+          "unz at höllu kom;",
+          "skaft nam at dýja,",
+          "skelfði lind,",
+          "hesti hleypði",
+          "ok hjörvi brá;",
+          "víg nam at vekja,",
+          "völl nam at rjóða,",
+          "val nam at fella,",
+          "vá til landa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "(38) Réð hann einn at þat",
+          "átján búum.",
+          "Auð nam skipta,",
+          "öllum veita",
+          "meiðmar ok mösma,",
+          "mara svangrifja,",
+          "hringum hreytti,",
+          "hjó sundr baug."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "(39) Óku ærir",
+          "úrgar brautir,",
+          "kómu at höllu,",
+          "þar er Hersir bjó;",
+          "mey átti hann",
+          "mjófingraða,",
+          "hvíta ok horska,",
+          "hétu Erna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "(40) Báðu hennar",
+          "ok heim óku,",
+          "giftu Jarli,",
+          "gekk hon und líni;",
+          "saman bjuggu þau",
+          "ok sér unðu,",
+          "ættir jóku",
+          "ok aldrs nutu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "(41) Burr var inn ellsti,",
+          "en Barn annat,",
+          "Jóð ok Aðal,",
+          "Arfi, Mögr,",
+          "Niðr ok Niðjungr,",
+          "— námu leika, —",
+          "Sonr ok Sveinn,",
+          "— sund ok tafl, —",
+          "Kundr hét enn,",
+          "Konr var inn yngsti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "(42) Upp óxu þar",
+          "Jarli bornir,",
+          "hesta tömðu,",
+          "hlífar bendu,",
+          "skeyti skófu,",
+          "skelfðu aska."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "(43) En Konr ungr",
+          "kunni rúnar,",
+          "ævinrúnar",
+          "ok aldrrúnar;",
+          "meir kunni hann",
+          "mönnum bjarga,",
+          "eggjar deyfa,",
+          "ægi lægja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "(44) Klök nam fugla,",
+          "kyrra elda,",
+          "sefa of svefja,",
+          "sorgir lægja,",
+          "afl ok eljun",
+          "átta manna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "(45) Hann við Ríg jarl",
+          "rúnar deildi,",
+          "brögðum beitti",
+          "ok betr kunni;",
+          "þá öðlaðisk",
+          "ok þá eiga gat",
+          "Rígr at heita,",
+          "rúnar kunna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "(46) Reið Konr ungr",
+          "kjörr ok skóga,",
+          "kolfi fleygði,",
+          "kyrrði fugla."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "(47) Þá kvað þat kráka,",
+          "sat kvisti ein:",
+          "«Hvat skaltu, Konr ungr,",
+          "kyrra fugla?",
+          "Heldr mætti ér",
+          "hestum ríða,",
+          "ok her fella."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "(48) Á Danr ok Danpr",
+          "dýrar hallir,",
+          "æðra óðal",
+          "en ér hafið;",
+          "þeir kunnu vel",
+          "kjóli at ríða,",
+          "egg at kenna,",
+          "undir rjúfa.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "Люди рассказывают в древних сагах, что один из асов, тот, которого звали Хеймдалль, шел однажды своей дорогой вдоль берега одного озера, пришел на какой-то двор и назвался Ригом. Об этом рассказывается в следующей песне:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "В давние дни",
+          "доблестный старый",
+          "ас многомудрый,",
+          "храбрый и сильный,",
+          "странствовал Риг",
+          "по дорогам зелёным."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Шагал он по самой",
+          "средине дороги;",
+          "к дому пришёл,",
+          "дверь была отперта;",
+          "внутрь вошёл он:",
+          "пылал там огонь,",
+          "чета стариков",
+          "у огня сидела,",
+          "прадед с прабабкой",
+          "в уборе старушечьем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Риг им советы",
+          "умел преподать;",
+          "сел он потом",
+          "посредине помоста,",
+          "а с обеих сторон",
+          "сели хозяева."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Хлеб им тяжёлый",
+          "достала прабабка,",
+          "грубый, простой,",
+          "пополам с отрубями;",
+          "блюдо ещё им",
+          "с едою поставила,",
+          "в миске похлебку",
+          "на стол принесла",
+          "и лучшее лакомство —",
+          "мясо телячье;",
+          "встал от стола он,",
+          "спать собираясь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Риг им советы",
+          "умел преподать;",
+          "лёг он потом",
+          "посредине постели,",
+          "с обеих сторон",
+          "улеглись хозяева."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Пробыл он там",
+          "три ночи подряд;",
+          "и снова пошёл",
+          "серединой дороги;",
+          "девять прошло",
+          "после этого месяцев."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Дитя родила та —",
+          "водой окропили,",
+          "завернули в дерюгу,",
+          "назвали Трэлем.",
+          "Лут и Леггьяльди.",
+          "Удобряли поля,",
+          "строили тыны,",
+          "торф добывали.",
+          "кормили свиней,",
+          "коз стерегли."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Стал он расти,",
+          "сильней становился,",
+          "кожа в морщинах",
+          "была на руках,",
+          "узловаты суставы,",
+          "толстые пальцы",
+          "и длинные пятки,",
+          "был он сутул",
+          "и лицом безобразен."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Стал он затем",
+          "пробовать силы,",
+          "лыко он вил,",
+          "делал вязанки",
+          "и целыми днями",
+          "хворост носил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Дева пришла —",
+          "с кривыми ногами,",
+          "грязь на подошвах,",
+          "загар на руках,",
+          "нос приплюснут,",
+          "и Тир назвалась."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Села потом",
+          "посредине помоста,",
+          "сел рядом с нею",
+          "хозяйский сын;",
+          "болтали, шептались,",
+          "постель расстилали",
+          "Тир вместе с Трэлем",
+          "целыми днями."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Детей родили они, —",
+          "жили в довольстве, —",
+          "сдается мне, звали их",
+          "Хрейм и Фьоснир,",
+          "Клур и Клегги,",
+          "Кефсир и Фульнир,",
+          "Друмб и Дигральди,",
+          "Дрётт и Хёсвир,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Были их дочери",
+          "Друмба и Кумба,",
+          "и Экквинкальва,",
+          "и Аринневья,",
+          "Исья и Амбот,",
+          "Эйкинтьясна,",
+          "Тётругхюпья",
+          "и Трёнубейна, —",
+          "отсюда весь род",
+          "рабов начался."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Пошёл снова Риг",
+          "по прямым дорогам,",
+          "к чертогу пришёл,",
+          "дверь была отперта,",
+          "внутрь он проник:",
+          "пылал там огонь,",
+          "чета сидела,",
+          "дружно трудясь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Мужчина строгал",
+          "вал для навоя, —",
+          "с чёлкой на лбу,",
+          "с бородою подстриженной,",
+          "в узкой рубахе;",
+          "был в горнице ларь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Женщина там",
+          "прялку вращала:",
+          "пряжу она",
+          "пряла для ткани, —",
+          "была в безрукавке,",
+          "на шее платок,",
+          "убор головной",
+          "и пряжки наплечные.",
+          "Бабка и дед",
+          "были дома хозяева."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "(19) Риг им советы",
+          "умел преподать.",
+          "Встал от стола он,",
+          "спать собираясь,",
+          "лег он потом",
+          "посредине постели,",
+          "с обеих сторон",
+          "улеглись хозяева."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "(20) Пробыл он там",
+          "три ночи подряд;",
+          "девять прошло",
+          "после этого месяцев."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "(21) Дитя родила та —",
+          "водой окропли,",
+          "назвали Карлом;",
+          "спеленат он был,",
+          "рыжий, румяный,",
+          "с глазами живыми."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "(22) Стал он расти,",
+          "сильней становился,",
+          "быков приручал,",
+          "и сохи он ладил,",
+          "строил дома,",
+          "возводил сараи,",
+          "делал повозки,",
+          "и землю пахал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "(23) Хозяйку в одежде",
+          "из козьей шерсти,",
+          "с ключами у пояса,",
+          "в дом привезли —",
+          "невесту для Карла;",
+          "Снёр её звали;",
+          "жили супруги,",
+          "слуг награждали,",
+          "ложе стелили,",
+          "о доме заботились."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "(24) Детей родили они, —",
+          "жили в довольстве, —",
+          "звали их Дренг, Халь,",
+          "Хёльд, Тегн и Смид,",
+          "Брейд, Бонди,",
+          "и Бундинскегги,",
+          "Буи и Бодди,",
+          "Браттскегг и Сегг."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "(25) Другим имена",
+          "ещё они дали:",
+          "Снот, Бруд и Сванни,",
+          "Сварри и Спракки,",
+          "Фльод, Спрунд и Вив,",
+          "Фейма и Ристилль.",
+          "Отсюда все бонды",
+          "род свой ведут."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "(26) Пошёл снова Риг",
+          "по прямым дорогам;",
+          "к хоромам пришёл,",
+          "с юга был вход,",
+          "не заперт он был,",
+          "и на двери кольцо."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "(27) Внутрь он вошёл, —",
+          "пол устлан соломой, —",
+          "там двое сидели,",
+          "смотря друг на друга,",
+          "пальцы сплетая, —",
+          "Мать и Отец."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "(28) Стрелы хозяин",
+          "строгал и для лука",
+          "плёл тетиву",
+          "и к луку прилаживал;",
+          "хозяйка, любуясь",
+          "нарядом своим,",
+          "то одежду оправит,",
+          "то вздёрнет рукав."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "(29) Убор был высокий",
+          "и бляха на шее,",
+          "одежда до пят,",
+          "голубая рубашка,",
+          "брови ярче,",
+          "а грудь светлее,",
+          "и шея белее",
+          "снега чистейшего."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "(30) Риг им советы",
+          "умел преподать;",
+          "сел он потом",
+          "посредине помоста,",
+          "а с обеих сторон",
+          "сели хозяева."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "(31) Мать развернула",
+          "скатерть узорную,",
+          "стол покрыла",
+          "тканью льняной;",
+          "потом принесла,",
+          "положила на скатерть",
+          "тонкий и белый",
+          "хлеб из пшеницы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "(32) Затем подала она",
+          "полные блюда —",
+          "посеребренные —",
+          "свинины и сала",
+          "и жареных птиц,",
+          "в кувшине вино",
+          "и ценные кубки;",
+          "беседуя, пили",
+          "до позднего вечера."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "(33) Риг им советы",
+          "умел преподать.",
+          "Встал от стола он,",
+          "постель разостлал.",
+          "Пробыл он там",
+          "три ночи подряд",
+          "и снова пошёл",
+          "серединой дороги;",
+          "девять прошло",
+          "после этого месяцев."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "(34) Сына Мать родила,",
+          "спеленала шелками,",
+          "водой окропила,",
+          "он назван был Ярлом;",
+          "румяный лицом,",
+          "а волосы светлые,",
+          "взор его был,",
+          "как змеиный, страшен."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "(35) Ярл в палатах",
+          "начал расти;",
+          "щитом потрясал,",
+          "сплетал тетивы,",
+          "луки он гнул,",
+          "стрелы точил,",
+          "дротик и копья",
+          "в воздух метал,",
+          "скакал на коне,",
+          "натравливал псов,",
+          "махал он мечом,",
+          "плавал искусно."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "(36) Тут из лесов",
+          "Риг появился,",
+          "Риг появился,",
+          "стал рунам учить;",
+          "сыном назвал его,",
+          "дал свое имя,",
+          "дал во владенье",
+          "наследные земли,",
+          "наследные земли,",
+          "селения древние."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "(37) Потом через лес",
+          "он оттуда поехал",
+          "по снежным нагорьям",
+          "к высоким палатам;",
+          "копье стал метать,",
+          "щитом потрясать,",
+          "скакать на коне,",
+          "вздымая свой меч;",
+          "затевал он сраженья,",
+          "поля обагрял,",
+          "врагов убивал,",
+          "завоевывал земли."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "(38) Восемнадцать дворов —",
+          "вот чем владел он,",
+          "щедро раздаривал",
+          "людям сокровища,",
+          "поджарых коней,",
+          "дорогие уборы,",
+          "разбрасывал кольца,",
+          "запястья рубил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "(39) По влажным дорогам",
+          "посланцы поехали,",
+          "путь свой держали",
+          "к дому Херсира;",
+          "дочь его умная,",
+          "с белым лицом",
+          "и тонкими пальцами,",
+          "Эрной звалась."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "(40) Посватались к ней,",
+          "и в брачном покрове",
+          "замуж она",
+          "за Ярла пошла;",
+          "вместе супруги",
+          "жили в довольстве,",
+          "достатке и счастье",
+          "и множили род свой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "(41) Бур звали старшего,",
+          "Барн — второго,",
+          "Йод и Адаль,",
+          "Арви и Мёг,",
+          "Нид и Нидьюнг —",
+          "играм учились, —",
+          "Сон и Свейн —",
+          "тавлеям и плаванью, —",
+          "был ещё Кунд,",
+          "а Кон был младшим."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "(42) Ярла сыны",
+          "молодые росли,",
+          "щиты мастерили,",
+          "стрелы строгали,",
+          "укрощали коней,",
+          "потрясали щитами."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "(43) Кон юный ведал",
+          "волшебные руны,",
+          "целебные руны,",
+          "могучие руны;",
+          "мог он родильницам",
+          "в родах помочь,",
+          "мечи затупить,",
+          "успокоить море."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "(44) Знал птичий язык,",
+          "огонь усмирял,",
+          "дух усыплял,",
+          "тоску разгонял он;",
+          "восьмерым он по силе",
+          "своей был равен."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "(45) В знании рун",
+          "с Ярлом Ригом он спорил,",
+          "на хитрость пускаясь,",
+          "отца был хитрее:",
+          "тогда приобрел он",
+          "право назваться",
+          "Ригом и ведать",
+          "могучие руны."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "(46) Кон юный поехал",
+          "по тёмному лесу,",
+          "дротик метал он,",
+          "приманивал птиц."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "(47) Ворона прокаркала",
+          "с ветки высокой:",
+          "«Что ты, Кон юный,",
+          "птиц приручаешь?",
+          "Пристойней тебе",
+          "скакать на коне,",
+          "врагов поражать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "(48) У Дана и Данпа",
+          "богаче дома,",
+          "земли их лучше",
+          "владений твоих;",
+          "ладьей они править",
+          "привыкли искусно",
+          "и раны умело",
+          "наносят мечом»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "They tell in old stories that one of the gods, whose name was Heimdall, went on his way along a certain seashore, and came to a dwelling, where he called himself Rig. According to these stories is the following poem:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Men say there went",
+          "by ways so green",
+          "Of old the god,",
+          "the aged and wise,",
+          "Mighty and strong",
+          "did Rig go striding.",
+          "*********\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"Forward he went",
+          "on the midmost way,",
+          "He came to a dwelling,",
+          "a door on its posts;",
+          "In did he fare,",
+          "on the floor was a fire,",
+          "Two hoary ones",
+          "by the hearth there sat,",
+          "Ai and Edda,",
+          "in olden dress.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Rig knew well",
+          "wise words to speak,",
+          "Soon in the midst",
+          "of the room he sat,",
+          "And on either side",
+          "the others were.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"A loaf of bread",
+          "did Edda bring,",
+          "Heavy and thick",
+          "and swollen with husks;",
+          "Forth on the table",
+          "she set the fare,",
+          "And broth for the meal",
+          "in a bowl there was.",
+          "(Calf's flesh boiled",
+          "was the best of the dainties.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"Rig knew well",
+          "wise words to speak,",
+          "Thence did he rise,",
+          "made ready to sleep;",
+          "Soon in the bed",
+          "himself did he lay,",
+          "And on either side",
+          "the others were.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Thus was he there",
+          "for three nights long,",
+          "Then forward he went",
+          "on the midmost way,",
+          "And so nine months",
+          "were soon passed by.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"A son bore Edda,",
+          "with water they sprinkled him,",
+          "With a cloth his hair",
+          "so black they covered;",
+          "Thræll they named him,",
+          "*********\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"The skin was wrinkled",
+          "and rough on his hands,",
+          "Knotted his knuckles,",
+          "*********",
+          "Thick his fingers,",
+          "and ugly his face,",
+          "Twisted his back,",
+          "and big his heels.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"He began to grow,",
+          "and to gain in strength,",
+          "Soon of his might",
+          "good use he made;",
+          "With bast he bound,",
+          "and burdens carried,",
+          "Home bore faggots",
+          "the whole day long.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"One came to their home,",
+          "crooked her legs,",
+          "Stained were her feet,",
+          "and sunburned her arms,",
+          "Flat was her nose;",
+          "her name was Thir.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "\"Soon in the midst",
+          "of the room she sat,",
+          "By her side there sat",
+          "the son of the house;",
+          "They whispered both,",
+          "and the bed made ready,",
+          "Thræll and Thir,",
+          "till the day was through.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "\"Children they had,",
+          "they lived and were happy,",
+          "Fjosnir and Klur",
+          "they were called, methinks,",
+          "Hreim and Kleggi,",
+          "Kefsir, Fulnir,",
+          "Drumb, Digraldi,",
+          "Drott and Leggjaldi,",
+          "Lut and Hosvir;",
+          "the house they cared for,",
+          "Ground they dunged,",
+          "and swine they guarded,",
+          "Goats they tended,",
+          "and turf they dug.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Daughters had they,",
+          "Drumba and Kumba,",
+          "Ökkvinkalfa,",
+          "Arinnefla,",
+          "Ysja and Ambott,",
+          "Eikintjasna,",
+          "Totrughypja",
+          "and Tronubeina;",
+          "And thence has risen",
+          "the race of thralls.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Forward went Rig,",
+          "his road was straight,",
+          "To a hall he came,",
+          "and a door there hung;",
+          "In did he fare,",
+          "on the floor was a fire:",
+          "Afi and Amma",
+          "owned the house.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"There sat the twain,",
+          "and worked at their tasks:",
+          "The man hewed wood",
+          "for the weaver's beam;",
+          "His beard was trimmed,",
+          "o'er his brow a curl,",
+          "His clothes fitted close;",
+          "in the corner a chest.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "\"The woman sat",
+          "and the distaff wielded,",
+          "At the weaving with arms",
+          "outstretched she worked;",
+          "On her head was a band,",
+          "on her breast a smock;",
+          "On her shoulders a kerchief",
+          "with clasps there was.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "\"Rig knew well",
+          "wise words to speak,",
+          "Soon in the midst",
+          "of the room he sat,",
+          "And on either side",
+          "the others were.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "\"Then took Amma",
+          "*********",
+          "The vessels full",
+          "with the fare she set,",
+          "Calf's flesh boiled",
+          "was the best of the dainties.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"Rig knew well",
+          "wise words to speak,",
+          "He rose from the board,",
+          "made ready to sleep;",
+          "Soon in the bed",
+          "himself did he lay,",
+          "And on either side",
+          "the others were.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "\"Thus was he there",
+          "for three nights long,",
+          "Then forward he went",
+          "on the midmost way,",
+          "And so nine months",
+          "were soon passed by.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "\"A son bore Amma,",
+          "with water they sprinkled him,",
+          "Karl they named him;",
+          "in a cloth she wrapped him,",
+          "He was ruddy of face,",
+          "and flashing his eyes.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "\"He began to grow,",
+          "and to gain in strength,",
+          "Oxen he ruled,",
+          "and plows made ready,",
+          "Houses he built,",
+          "and barns he fashioned,",
+          "Carts he made,",
+          "and the plow he managed.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"Home did they bring",
+          "the bride for Karl,",
+          "In goatskins clad,",
+          "and keys she bore;",
+          "Snör was her name,",
+          "neath the veil she sat;",
+          "A home they made ready,",
+          "and rings exchanged,",
+          "The bed they decked,",
+          "and a dwelling made.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "\"Sons they had,",
+          "they lived and were happy:",
+          "Hal and Dreng,",
+          "Holth, Thegn and Smith,",
+          "Breith and Bondi,",
+          "Bundinskeggi,",
+          "Bui and Boddi,",
+          "Brattskegg and Segg.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "\"Daughters they had,",
+          "and their names are here:",
+          "Snot, Bruth, Svanni,",
+          "Svarri, Sprakki,",
+          "Fljoth, Sprund and Vif,",
+          "Feima, Ristil:",
+          "And thence has risen",
+          "the yeomen's race.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "\"Thence went Rig,",
+          "his road was straight,",
+          "A hall he saw,",
+          "the doors faced south;",
+          "The portal stood wide,",
+          "on the posts was a ring,",
+          "Then in he fared;",
+          "the floor was strewn.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "\"Within two gazed",
+          "in each other's eyes,",
+          "Fathir and Mothir,",
+          "and played with their fingers;",
+          "There sat the house-lord,",
+          "wound strings for the bow,",
+          "Shafts he fashioned,",
+          "and bows he shaped.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "\"The lady sat,",
+          "at her arms she looked,",
+          "She smoothed the cloth,",
+          "and fitted the sleeves;",
+          "Gay was her cap,",
+          "on her breast were clasps,",
+          "Broad was her train,",
+          "of blue was her gown,",
+          "Her brows were bright,",
+          "her breast was shining,",
+          "Whiter her neck",
+          "than new-fallen snow.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "\"Rig knew",
+          "well wise words to speak,",
+          "Soon in the midst",
+          "of the room he sat,",
+          "And on either side",
+          "the others were.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "\"Then Mothir brought",
+          "a broidered cloth,",
+          "Of linen bright,",
+          "and the board she covered;",
+          "And then she took",
+          "the loaves so thin,",
+          "And laid them, white",
+          "from the wheat, on the cloth.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "\"Then forth she brought",
+          "the vessels full,",
+          "With silver covered,",
+          "and set before them,",
+          "Meat all browned,",
+          "and well-cooked birds;",
+          "In the pitcher was wine,",
+          "of plate were the cups,",
+          "So drank they and talked",
+          "till the day was gone.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "\"Rig knew well",
+          "wise words to speak,",
+          "Soon did he rise,",
+          "made ready to sleep;",
+          "So in the bed",
+          "himself did he lay,",
+          "And on either side",
+          "the others were.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "\"Thus was he there",
+          "for three nights long,",
+          "Then forward he went",
+          "on the midmost way,",
+          "And so nine months",
+          "were soon passed by.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "\"A son had Mothir,",
+          "in silk they wrapped him,",
+          "With water they sprinkled him,",
+          "Jarl he was;",
+          "Blond was his hair,",
+          "and bright his cheeks,",
+          "Grim as a snake's",
+          "were his glowing eyes.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "\"To grow in the house",
+          "did Jarl begin,",
+          "Shields he brandished,",
+          "and bow-strings wound,",
+          "Bows he shot,",
+          "and shafts he fashioned,",
+          "Arrows he loosened,",
+          "and lances wielded,",
+          "Horses he rode,",
+          "and hounds unleashed,",
+          "Swords he handled,",
+          "and sounds he swam.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "\"Straight from the grove",
+          "came striding Rig,",
+          "Rig came striding,",
+          "and runes he taught him;",
+          "By his name he called him,",
+          "as son he claimed him,",
+          "And bade him hold",
+          "his heritage wide,",
+          "His heritage wide,",
+          "the ancient homes.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "\"*********",
+          "Forward he rode",
+          "through the forest dark,",
+          "O'er the frosty crags,",
+          "till a hall he found.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "\"His spear he shook,",
+          "his shield he brandished,",
+          "His horse he spurred,",
+          "with his sword he hewed;",
+          "Wars he raised,",
+          "and reddened the field,",
+          "Warriors slew he,",
+          "and land he won.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "\"Eighteen halls",
+          "ere long did he hold,",
+          "Wealth did he get,",
+          "and gave to all,",
+          "Stones and jewels",
+          "and slim-flanked steeds,",
+          "Rings he offered,",
+          "and arm-rings shared.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "\"His messengers went",
+          "by the ways so wet,",
+          "And came to the hall",
+          "where Hersir dwelt;",
+          "His daughter was fair",
+          "and slender-fingered,",
+          "Erna the wise",
+          "the maiden was.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "\"Her hand they sought,",
+          "and home they brought her,",
+          "Wedded to Jarl",
+          "the veil she wore;",
+          "Together they dwelt,",
+          "their joy was great,",
+          "Children they had,",
+          "and happy they lived.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "\"Bur was the eldest,",
+          "and Barn the next,",
+          "Joth and Athal,",
+          "Arfi, Mog,",
+          "Nith and Svein,",
+          "soon they began",
+          "Sun and Nithjung",
+          "to play and swim;",
+          "Kund was one,",
+          "and the youngest Kon.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "\"Soon grew up",
+          "the sons of Jarl,",
+          "Beasts they tamed,",
+          "and bucklers rounded,",
+          "Shafts they fashioned,",
+          "and spears they shook.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "\"But Kon the Young",
+          "learned runes to use,",
+          "Runes everlasting,",
+          "the runes of life;",
+          "Soon could he well",
+          "the warriors shield,",
+          "Dull the swordblade,",
+          "and still the seas.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "\"Bird-chatter learned he,",
+          "flames could he lessen.,",
+          "Minds could quiet,",
+          "and sorrows calm;",
+          "*********",
+          "The might and strength",
+          "of twice four men.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "\"With Rig-Jarl soon",
+          "the runes he shared,",
+          "More crafty he was,",
+          "and greater his wisdom;",
+          "The right he sought,",
+          "and soon he won it,",
+          "Rig to be called,",
+          "and runes to know.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "\"Young Kon rode forth",
+          "through forest and grove,",
+          "Shafts let loose,",
+          "and birds he lured;",
+          "There spake a crow",
+          "on a bough that sat:",
+          "Why lurest thou, Kon,",
+          "the birds to come?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "\"Twere better forth",
+          "on thy steed to fare,",
+          "*********",
+          "and the host to slay.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "\"The halls of Dan",
+          "and Danp are noble,",
+          "Greater their wealth",
+          "than thou bast gained;",
+          "Good are they",
+          "at guiding the keel,",
+          "Trying of weapons,",
+          "and giving of wounds.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

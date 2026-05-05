@@ -1,0 +1,975 @@
+{
+  "slug": "torsdrapa",
+  "key": "Torsdrapa",
+  "title": {
+    "on": "Þórsdrápa",
+    "ru": "Хвалебная песнь Тору",
+    "en": "A Song of Praise to Thor"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред.  Guðni Jónsson, Edda Snorra Sturlusonar. Перевод на русский язык: О. А. Смирницкая (Младшая Эдда. — Л.: Наука, 1970)",
+    "en": "An ancient Icelandic text, edited by  Guðni Jónsson, Edda Snorra Sturlusonar. Translation by Henry Arthur Gilchrist Brodeur, 1916."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Flugstalla réð felli*",
+          "fjörnets goða at hvetja,",
+          "— drjúgr var Loptr at ljúga —",
+          "lögseims faðir heiman.",
+          "Geðreynir kvað grænar",
+          "Gauts herþrumu brautir",
+          "vilgi tryggr til veggjar",
+          "viggs Geirröðar liggja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Geðstrangr of lét göngu",
+          "gammleið Þórr fyr skömmu",
+          "— fýstusk þeir at þrýsta",
+          "Þorns niðjum — sik biðja,",
+          "þás gjarðvani*ðr görðisk",
+          "Gandvíkr skotum ríkri",
+          "endr til Ymsa kindar",
+          "Iðja setrs frá Þriðja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Görr varð í för fyrri",
+          "farmr, meinsvarra arma",
+          "sóknar hapts með svipti",
+          "sagna galdrs en Rögnir.",
+          "Þylk granstrauma Grímnis:",
+          "gall- manntælendr halla",
+          "-ópnis ilja gaupnum",
+          "Endils um mó spendi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Váru vötn ok mýrar,",
+          "verðr hitt, at þau skerða,",
+          "(svell var áðr um alla)",
+          "ól torráðin (hóla)."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Ok gangs vanir gingu",
+          "gunnvargs himintörgu",
+          "fríðar vers; til fljóða",
+          "frumseyris kom dreyra,",
+          "þás bölkveitir brjóta",
+          "bragðmildr Loka vildi,",
+          "bræði vændr á brúði",
+          "bág Sefgrímnis mága."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Ok vegþverrir varra",
+          "vann fetrunnar Nönnu",
+          "hjalts af hagli oltnar",
+          "hlaupár um ver gaupu.",
+          "Mjök leið ór stað stökkvir",
+          "stikleiðar veg breiðan",
+          "urðar þrjóts, þars eitri,",
+          "æstr, þjóðáar fnæstu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Þar í mörk fyrir markar",
+          "málhvettan byr settu",
+          "(ne hvélvölur Hállar",
+          "háfs) skotnaðra (sváfu).",
+          "Knátti, hreggi höggvin*,",
+          "hlymþél við möl glymja,",
+          "en fellihryn fjalla",
+          "Feðju þaut með steðja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Harðvaxnar leit herðir",
+          "hallands of sik falla",
+          "(gatat maðr) njótr (in neytri)",
+          "njarð- (ráð fyrir sér) -gjarðar.",
+          "Þverrir lét, nema þyrri",
+          "Þorns barna sér, Mörnar",
+          "snerriblóð, til svíra",
+          "salþaks megin vaxa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Óðu fast, en Fríðar",
+          "flaut, eiðsvara Gauta",
+          "setrs víkingar snotrir,",
+          "sverðrunnit fen, gunnar.",
+          "Þurði hrönn at herði",
+          "hauðrs run*kykva nauðar",
+          "jarðar skafls af afli",
+          "áss hretviðri blásin,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "unz með ýta sinni,",
+          "— aflraun vas þat — skaunar",
+          "á seil‖[himin sjóla",
+          "sjálflopta kom Þjálfi.",
+          "Œddu stáli stríðan",
+          "straum Hrekkmímis ekkjur;",
+          "stophnísu fór steypir",
+          "stríðlund með v]öl Gríðar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Né djúpakörn drápu",
+          "dolgs vamms firum glamma,",
+          "stríðkviðjundum stöðvar",
+          "stall við rastar falli.",
+          "Ógndjarfan hlaut Atli",
+          "eirfjarðan hug meira;",
+          "skalfa Þórs ne Þjálfa",
+          "þróttar steinn við ótta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Ok sífuna síðan",
+          "sverðs liðhat*ar gerðu",
+          "hlífar borðs við Hörða",
+          "harðgleypnis dyn barða,",
+          "áðr hylriðar hæði",
+          "hrjóðendr fjöru þjóðar,",
+          "við skyld-Breta skytju",
+          "skálleik Heðins reikar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Dreif fyr dróttar kneyfi,",
+          "dólg-Svíþjóðar kólgu",
+          "(sótti ferð á flótta)",
+          "flesdrótt, í vé (nesja),",
+          "þá er funhristis fasta",
+          "(flóðrifs Danir) stóðu",
+          "(knáttu) jólnis ættir",
+          "(útvés fyrir lúta),"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "þars í þróttarhersar",
+          "Þornranns hugumbornir",
+          "— hlymr varð hellis Kumra —",
+          "hringbalka* fram gingu.",
+          "List* færðr í fasta",
+          "— friðseinn vas þar — hreina",
+          "gnípu hlöðr á greypan",
+          "gránhött risa kvánar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Ok hám loga himna",
+          "hall- fylvingum -vallar",
+          "tráðusk þærs við tróði",
+          "tungls brásali* þrungu.",
+          "Hofstjóri braut hváruhreggs váfreiðar -tveggja",
+          "hlátrelliða hellis",
+          "hundfornan kjöl sprundi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Fátíða nam fræði,",
+          "(fjarðeplis) kon Jarðar,",
+          "(mærar legs né mýgðu",
+          "menn ölteiti) kenna.",
+          "Almtaugar laust ægir",
+          "angrþjóf sega tangar",
+          "Óðins afli soðnum,",
+          "áttruðr í gin Suðra."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Svát hraðskyndir handa",
+          "hrapmunnum svalg gunnar",
+          "lyptisylg á lopti",
+          "langvinr síu þröngvar,",
+          "þás örþrasis eisa",
+          "ós Hrímnis fló drósar",
+          "til þrámóðnis Þrúðar",
+          "þjósts af greipar brjósti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Bifðisk höll, þás höfði",
+          "Heiðreks of kom breiðu",
+          "und fletbjarnar fornan",
+          "fótlegg Þrasis veggjar.",
+          "Ítr gulli laust Ullar",
+          "jótrs vegtaugar þrjóti",
+          "meina niðr í miðjan",
+          "mest bígyrðil nestum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Glaums niðjum fór görva",
+          "gramr með dreyrgum hamri;",
+          "of salvanið Synjar",
+          "sigr hlaut arinbrautar.",
+          "Kom at tvíviðar tívi,",
+          "tollurr karms þás harmi,",
+          "-brautar liðs, of beitti",
+          "bekk- fall, jötuns rekka."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Herblótinn vá hneitir",
+          "hógbrotningi skógar",
+          "undirfjálfrs at álfi",
+          "álfheims bliku kálfa,",
+          "ne liðföstum Lista",
+          "látrs val-Rygir máttu",
+          "aldrminnkanda aldar",
+          "Ellu steins of bella."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Горних горных капищ",
+          "юдолей удильщик",
+          "лживым Лоптом ловко",
+          "побуждён к походу —",
+          "разума пытатель",
+          "Гаута гроз ратиá",
+          "слал стезёй зелёной",
+          "к коню стен Гейррёда."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Тор тропы орлиной",
+          "приглашенье принял,",
+          "думая не долго,",
+          "в путь к потомкам Торна.",
+          "Гандвика бил скоттовe",
+          "пояса носитель —",
+          "ныне семя Имси",
+          "встретит в доме Иди."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Загодя готов был",
+          "груз рук жены горя",
+          "в путь с вождём отряда —",
+          "Рёгнира битв бойче.",
+          "Гримнира уст струи",
+          "оглашу: дружина",
+          "мерит дланью шага",
+          "Эндиля долину."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Топи да болота",
+          "проходить случалось —",
+          "непроста дорога.",
+          "Лёд покрыл утёсы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Держат путь к пучинам",
+          "хищника светила.",
+          "Кровь злодея женщин",
+          "подступ преградила —",
+          "отвратитель пагуб",
+          "лиходейства Локи",
+          "сечи ждал с невестой",
+          "рода Севгримнира."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Нанны вод снижатель",
+          "вброд мечей стремнины",
+          "с глади рыси льющи",
+          "переходит споро.",
+          "Прошагал изрядно",
+          "гневный сокрушитель",
+          "грубиянов камня",
+          "в ядовитых струях."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "В рубежах мерёжи",
+          "змеями удара",
+          "ходу помогали",
+          "против ветра русла.",
+          "Грохота точило",
+          "било Хёлль суставы,",
+          "рёв быстрины встретил",
+          "Федьи наковальню."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Гор рамён бурьян вдруг",
+          "забурлил лавиной,",
+          "пояса владетель",
+          "покорён стихией.",
+          "Рёк враг рода Торна,",
+          "что до крыши неба",
+          "станет его сила,",
+          "коль кровь Мёрн не схлынет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Связанные клятвой",
+          "Гаута жилища",
+          "викинги вброд стойко",
+          "шли в мечей Фрид топях,",
+          "яростно хлестали",
+          "волны дрейфа кряжа",
+          "недруга творящих",
+          "пагубы обвалов,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "тут явился Тьяльви",
+          "на ремня светиле,",
+          "мощною рукою",
+          "брошенном, парящий.",
+          "Хреккмимира вдовы",
+          "вертят водоверти —",
+          "вепрей гор погибель",
+          "с жезлом Грид ступает."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Пред потоком крепок",
+          "жёлудь зыби распри",
+          "гроз народа варгов",
+          "края недостойных.",
+          "Укрепился Атли",
+          "паче в битве правой,",
+          "и кремень отваги",
+          "хладен Тора с Тьяльви."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "И затем поддержки",
+          "недруги оружья",
+          "долго рать держали",
+          "с хёрдами обрывов,",
+          "прежде чем явиться",
+          "водным пешеходам",
+          "к бриттам девы лука,",
+          "к Хедина шляп буйству."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Резво разбегались",
+          "люди шхер, завидя",
+          "бедствие владыки",
+          "свеев вод холодных.",
+          "Покорились воле",
+          "полымя несущих",
+          "стойких йольнов рода",
+          "даны скальных капищ."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "А когда вступили",
+          "храбрецы в дом Торна",
+          "круглых стен, нор кимры",
+          "страшный шум подняли,",
+          "ловчий скал оленей",
+          "сам в силок попался",
+          "тесный — серой шляпы",
+          "жуткой великанши."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Жар небес высокий",
+          "рушит стен орехи",
+          "на ресниц лун кровли",
+          "балку прижимавших.",
+          "Грозный колесничий",
+          "раздробил обеим",
+          "великаншам смеха",
+          "корабля киль древний."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Знанием заветным",
+          "завладел Ёрд родич;",
+          "яблок фьорда люди",
+          "пир свой не прервали.",
+          "Тетивы ужасный",
+          "жахнул жаром горна",
+          "в уста татю скорби",
+          "Одина, друг Судри."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Битвы ускоритель,",
+          "старина расселин,",
+          "быстрым рук укусом",
+          "жар питья хватает,",
+          "посланного другом",
+          "Хримнира супруги ee",
+          "в направленье сердца,",
+          "что за Труд в тревоге."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Задрожали залы —",
+          "Трасира стен Хейдрек",
+          "головой широкой",
+          "посчитал опоры.",
+          "Бравый отчим Улля",
+          "зуба пути лески",
+          "изверга железом",
+          "не щадя ударил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Глаума потомков",
+          "всех извёл правитель",
+          "с молотом кровавым,",
+          "род поверг Сюн камня.",
+          "Свору бога лука",
+          "разметал свирепый;",
+          "мачтой колесницы",
+          "ётуны побиты."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Тот, кто чтим народом,",
+          "посохом бил грозно",
+          "туров нор, укрытых",
+          "от Альвхейма блеска.",
+          "Руги гнёзд сокольих",
+          "не имели силы",
+          "против горя жизней",
+          "рода Эллы камня."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "[The winding sea-snake's father",
+          "Did wile from home the slayer",
+          "Of the life of the gods' grim foemen;",
+          "--(Ever was Loptr a liar)--",
+          "The never faithful Searcher",
+          "Of the heart of the fearless Thunderer",
+          "Declared green ways were lying",
+          "To the walled stead of Geirrödr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "No long space Thor let Loki",
+          "Lure him to the going:",
+          "They yearned to overmaster",
+          "Thorn's offspring, when the Seeker",
+          "Of Idi's garth, than giants",
+          "Greater in might, made ready",
+          "In ancient days, for faring",
+          "To the Giants' Seat, from Odin's."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Further in the faring",
+          "Forward went warlike Thjálfi",
+          "With the divine Host-Cheerer",
+          "Than the deceiving lover",
+          "Of her of enchanted singing:",
+          "--(I chant the Ale of Odin)--",
+          "The hill dame's Mocker measured",
+          "The moor with hollow foot-soles."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "And the war-wonted journeyed",
+          "Till the hill-women's Waster",
+          "Came to Gangr's blood, the Vimur;",
+          "Then Loki's bale-repeller,",
+          "Eager in anger, lavish",
+          "Of valor, longed to struggle.",
+          "Against the maid, kinswoman",
+          "Of the sedge-cowled giant."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "And the honor-lessener",
+          "Of the Lady of the Sea-Crag",
+          "Won foot-hold in the surging",
+          "Of the hail-rolled leaping hill-spate;",
+          "The rock-knave's swift Pursuer",
+          "Passed the broad stream of his staff's road,",
+          "Where the foam-flecked mighty rivers",
+          "Frothed with raging venom."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "There they set the staves before them",
+          "In the streaming grove of dogfish;",
+          "The wind-wood's slippery pebbles,",
+          "Smitten to speech, slept not;",
+          "The clashing rod did rattle",
+          "Gainst the worn rocks, and the rapid",
+          "Of the fells howled, storm-smitten,",
+          "On the river's stony anvil."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "The Weaver of the Girdle",
+          "Beheld the washing slope-stream",
+          "Fall on his hard-grown shoulders:",
+          "No help he found to save him;",
+          "The Minisher of hill-folk",
+          "Caused Might to grow within him",
+          "Even to the roof of heaven,",
+          "Till the rushing flood should ebb.",
+          "The fair warriors of the Æsir,",
+          "In battle wise, fast waded."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "And the surging pool, sward-sweeping,",
+          "Streamed: the earth-drift's billow,",
+          "Blown by the mighty tempest,",
+          "Tugged with monstrous fury",
+          "At the terrible oppressor",
+          "Of the earth-born tribe of cave-folk."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Till Thjálfi came uplifted",
+          "On his lord Thor's wide shield-strap:",
+          "That was a mighty thew-test",
+          "For the Prop of Heaven; the maidens",
+          "Of the harmful giant stiffly",
+          "Held the stream stubborn against them;",
+          "The Giantess-Destroyer",
+          "With Grídr's staff fared sternly."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Nor did their hearts of rancor",
+          "Droop in the men unblemished,",
+          "Nor courage 'gainst the headlong",
+          "Fall of the current fail them:",
+          "A fiercer-daring spirit",
+          "Flamed in the dauntless God's breast,",
+          "With terror Thor's staunch heart-stone",
+          "Trembled not, nor Thjálfi's."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "And afterward the haters",
+          "Of the host of sword-companions,",
+          "The shatterers of bucklers,",
+          "Dinned on the shield of giants,",
+          "Ere the destroying peoples",
+          "Of the shingle-drift of monsters",
+          "Wrought the helm-play of Hedinn",
+          "Gainst the rock-dwelling marksmen."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "The hostile folk of sea-heights",
+          "Fled before the Oppressor",
+          "Of headland tribes; the dalesmen",
+          "Of the hill-tops, imperilled,",
+          "Fled, when Odin's kindred",
+          "Stood, enduring staunchly;",
+          "The Danes of the flood-reef's border",
+          "Bowed down to the Flame-Shaker."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Where the chiefs, with thoughts of valor",
+          "Imbued, marched into Thorn's house,",
+          "A mighty crash resounded",
+          "Of the cave's ring-wall; the slayer",
+          "Of the mountain-reindeer-people",
+          "On the giant-maiden's wide hood",
+          "Was brought in bitter peril:",
+          "There was baleful peace-talk."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "And they pressed the high head, bearing",
+          "The piercing brow-moon's eye-flame",
+          "Against the hill-hall's rafters;",
+          "On the high roof-tree broken",
+          "He crushed those raging women:",
+          "The swinging Storm-car's Guider",
+          "Burst the stout, ancient back-ridge",
+          "And breast-bones of both women.",
+          "Earth's Son became familiar",
+          "With knowledge strange; the cave-men"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Of the land of stone o'ercame not,",
+          "Nor long with ale were merry:",
+          "The frightful elm-string's plucker,",
+          "The friend of Sudri, hurtled",
+          "The hot bar, in the forge fused,",
+          "Into the hand of Odin's Gladdener."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "So that Gunnr's Swift-Speeder",
+          "Seized (the Friend of Freyja),",
+          "With quick hand-gulps, the molten",
+          "High-raised draught of metal,",
+          "When the fire-brand, glowing,",
+          "Flew with maddened fury",
+          "From the giant's gripping fingers",
+          "To the grim Sire of Thrúdr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "The hall of the doughty trembled",
+          "When he dashed the massy forehead",
+          "Of the hill-wight 'gainst the bottom",
+          "Of the house-wall's ancient column;",
+          "Ullr's glorious step-sire",
+          "With the glowing bar of mischief",
+          "Struck with his whole strength downward",
+          "At the hill-knave's mid-girdle."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "The God with gory hammer",
+          "Crushed utterly Glaumr's lineage;",
+          "The Hunter of the Kindred",
+          "Of the hearth-dame was victorious;",
+          "The Plucker of the Bow-String",
+          "Lacked not his people's valor,",
+          "The Chariot-God, who swiftly",
+          "Wrought grief to the Giant's bench-thanes."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "He to whom hosts make offering",
+          "Hewed down the dolt-like dwellers",
+          "Of the cloud-abyss of Elf-Home,",
+          "Crushing them with the fragment",
+          "Of Grídr's Rod: the litter",
+          "Of hawks, the race of Listi",
+          "Could not harm the help-strong",
+          "Queller of Ella's Stone-Folk.]"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,3352 @@
+{
+  "slug": "solarljod",
+  "key": "Solarljod",
+  "title": {
+    "on": "Sólarljóð",
+    "ru": "Песнь о Солнце",
+    "en": "The Song of the Sun"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson, Eddukvæði (Sæmundar-Edda). 2 vols. 1949–54: Sólarljóð. Текст на русском языке в переводе М. В. Раевского // Атлантика. Записки по исторической поэтике. Вып. III. М., 1997.",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson, Eddukvæði (Sæmundar-Edda). 2 vols. 1949–54: Sólarljóð. Translation by Benjamin Thorpe (1866)."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "I"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Fé ok fjörvi",
+          "rænti fyrða kind",
+          "sá hinn grimmi Greppr;",
+          "yfir þá vegu,",
+          "er hann varðaði,",
+          "náði engi kvikr komask."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Einn hann át",
+          "oft harðla,",
+          "aldri bauð hann manni til matar,",
+          "áðr enn móðr",
+          "ok meginlítill",
+          "Gestr af götu kom."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Drykks of þurfi",
+          "lézk inn dæsti maðr",
+          "ok vanmettr vera;",
+          "hræddu hjarta",
+          "hann lézk trúa,",
+          "þeim er áðr hafði vályndr verit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Mat ok drykk",
+          "veitti hann þeim, er móðr var,",
+          "allt af heilum hug;",
+          "guðs hann gáði,",
+          "góðu honum beindi,",
+          "því hann hugðisk váligr vera."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Upp hinn stóð,",
+          "illt hann hugði,",
+          "eigi var þarfsamliga þegit;",
+          "synð hans svall,",
+          "sofanda myrði",
+          "fróðan, fjölvaran."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Himna guð",
+          "bað hann hjálpa sér,",
+          "þá hann veginn vaknaði;",
+          "en sá gat",
+          "við synðum taka,",
+          "er hann hafði saklausan svikit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Helgir englar",
+          "kómu ór himnum ofan",
+          "ok tóku sál hans til sín;",
+          "í hreinu lífi",
+          "hon skal lifa",
+          "æ með almáttkum guði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "prose",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Auð né heilsu",
+          "ræðr engi maðr,",
+          "þótt honum gangi greitt;",
+          "margan þat sækir",
+          "er minnst of varir,",
+          "engi ræðr sættum sjálfr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Ekki þeir hugðu",
+          "Unnarr ok Sævaldi,",
+          "at þeim myndi heill hrapa;",
+          "nakðir þeir urðu",
+          "ok næmðir hvívetna,",
+          "ok runnu sem vargar til viðar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Munaðar ríki",
+          "hefir margan tregat,",
+          "oft verðr kvalræði af konum;",
+          "meingar þær urðu,",
+          "þó inn máttki guð",
+          "skapaði skírliga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Sáttir þeir váru",
+          "Sváfaðr ok Skartheðinn,",
+          "hvárrgi mátti annars án vera,",
+          "fyrr enn þeir æddusk",
+          "fyr einni konu:",
+          "hon var þeim til lýta lagin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Hvárskis þeir gáðu",
+          "fyr þá hvítu mey,",
+          "leiks né ljóss daga;",
+          "engan hlut",
+          "máttu þeir annan muna",
+          "en þat ljósa lík."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Daprar þeim urðu",
+          "inar dimmu nætr,",
+          "engan máttu þeir sætan sofa;",
+          "en af þeim harmi",
+          "rann heift saman",
+          "millum virkðavina."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Fádæmi verða",
+          "í flestum stöðum",
+          "goldin grimmliga;",
+          "á hólm þeir gengu",
+          "fyr it horska víf",
+          "ok fengu báðir bana."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Ofmetnað drýgja",
+          "skyldi engi maðr,",
+          "þat hefik sannliga sét,",
+          "því at þeir hverfa,",
+          "er honum fylgja,",
+          "flestir guði frá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Rík þau váru",
+          "Ráðný ok Véboði",
+          "ok hugðusk gott eitt gera;",
+          "nú þau sitja",
+          "ok sárum snúa",
+          "ýmsum elda til."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Á sik þau trúðu",
+          "ok þóttusk ein vera",
+          "allri þjóð yfir;",
+          "en þó leizk",
+          "þeira hagr",
+          "annan veg almáttkum guði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Munað þau drýgðu",
+          "á marga vegu",
+          "ok höfðu gull fyr gaman;",
+          "nú er þeim goldit,",
+          "er þau ganga skulu",
+          "milli frosts ok funa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Óvinum þínum",
+          "trúðu aldregi,",
+          "þó þér fagrt mæli fyrir;",
+          "góðu þú heit,",
+          "gott er annars",
+          "víti hafa at varnaði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Svá honum gafsk",
+          "Sörla inum góðráða,",
+          "þá er hann lagði á Vígúlfs vald;",
+          "tryggliga hann trúði,",
+          "— en hinn at tálum varð, —",
+          "sínum bróðurbana."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Grið hann þeim seldi",
+          "af góðum hug,",
+          "en þeir hétu honum gulli í gegn;",
+          "sáttir létusk,",
+          "meðan saman drukku,",
+          "en þó kómu flærðir fram."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "En þá eftir",
+          "á öðrum degi,",
+          "er þeir höfðu í Rýgjardal riðit,",
+          "sverðum þeir meiddu,",
+          "þann er saklauss var",
+          "ok létu hans fjörvi farit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Lík hans þeir drógu",
+          "á leynigötu",
+          "ok brytjuðu í brunn niðr;",
+          "dylja þeir vildu,",
+          "en dróttinn sá",
+          "heilagr himnum af."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Sál hans bað",
+          "inn sanni guð",
+          "í sinn fögnuð fara;",
+          "en sökudólgar",
+          "hygg ek síðla muni",
+          "kallaðir frá kvölum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "heading",
+        "lines": [
+          "II"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Dísir bið þú þér",
+          "dróttins mála",
+          "vera hollar í hugum;",
+          "viku eftir",
+          "mun þér vilja þíns",
+          "alt at óskum ganga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Reiðiverk,",
+          "þau er þú unnit hefr,",
+          "bæt þú eigi illu yfir;",
+          "grættan gæla",
+          "skaltu með góðum hlutum,",
+          "þat kveða sálu sama."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Á guð skal heita",
+          "til góðra hluta,",
+          "þann er hefir skatna skapat;",
+          "mjök fyrir verðr",
+          "manna hverr,",
+          "er seinar finna föður."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Æsta dugir",
+          "einkum vandliga",
+          "þess er þykkir vant vera;",
+          "alls á mis verðr,",
+          "sá er einskis biðr;",
+          "fár hyggr þegjanda þörf."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Síðla ek kom,",
+          "snemma kallaðr,",
+          "til dómvalds dyra;",
+          "þangat ek ætlumk,",
+          "því mér heitit var:",
+          "sá hefir krás, er krefr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Syndir því valda,",
+          "at vér hryggvir förum",
+          "ægisheimi ór;",
+          "engi óttask,",
+          "nema illt geri;",
+          "gott er vammalausum vera."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Úlfum glíkir",
+          "þykkja allir þeir,",
+          "sem eiga hverfan hug;",
+          "svá mun gefask,",
+          "þeim er ganga skal",
+          "þær inar glæddu götur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Vinsamlig ráð",
+          "ok viti bundin",
+          "kenni ek þér sjau saman;",
+          "görla þau mun",
+          "ok glata aldregi,",
+          "öll eru þau nýt at nema."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "heading",
+        "lines": [
+          "III"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Frá því er at segja,",
+          "hvé sæll ek var",
+          "ynðisheimi í,",
+          "ok hinu öðru,",
+          "hvé ýta synir",
+          "verða nauðgir at náum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Vil ok dul",
+          "tælir virða sonu,",
+          "þá er fíkjask á fé;",
+          "ljósir aurar",
+          "verða at löngum trega;",
+          "margan hefir auðr apat."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Glaðr at mörgu",
+          "þótta ek gumnum vera,",
+          "því at ek vissa fátt fyrir;",
+          "dvalarheim",
+          "hefr dróttinn skapat",
+          "munafullan mjök."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Lútr ek sat,",
+          "lengi ek hölluðumk,",
+          "mjök var ek þá lystr at lifa;",
+          "en sá réð,",
+          "sem ríkr var;",
+          "frammi eru feigs götur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Heljar reip",
+          "kómu harðliga",
+          "sveigð at síðum mér;",
+          "slíta ek vilda,",
+          "en þau seig váru;",
+          "létt er lauss at fara."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Einn ek vissa,",
+          "hvé alla vega",
+          "sullu sútir mér;",
+          "Heljar meyar",
+          "er mér hrolla buðu",
+          "heim á hverju kveldi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Sól ek sá,",
+          "sanna dagstjörnu,",
+          "drúpa dynheimum í;",
+          "en Heljar grind",
+          "heyrðak ek á annan veg",
+          "þjóta þungliga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Sól ek sá",
+          "setta dreyrstöfum;",
+          "mjök var ek þá ór heimi hallr;",
+          "máttug hon leizk",
+          "á marga vegu",
+          "frá því sem fyrri var."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Sól ek sá,",
+          "svá þótti mér,",
+          "sem ek sæja göfgan guð;",
+          "henni ek laut",
+          "hinzta sinni",
+          "aldaheimi í."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Sól ek sá,",
+          "svá hon geislaði,",
+          "at ek þóttumk vættki vita;",
+          "en gylfar straumar",
+          "grenjuðu annan veg,",
+          "blandnir mjök við blóð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Sól ek sá",
+          "á sjónum skjálfandi,",
+          "hræðslufullr ok hnipinn;",
+          "því at hjarta mitt",
+          "var harðla mjök",
+          "runnit sundr í sega."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Sól ek sá",
+          "sjaldan hryggvari;",
+          "mjök var ek þá ór heimi hallr;",
+          "tunga mín",
+          "var til trés metin,",
+          "ok kólnat at fyrir utan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Sól ek sá",
+          "síðan aldregi",
+          "eftir þann dapra dag,",
+          "því at fjalla vötn",
+          "lukðusk fyrir mér saman,",
+          "en ek hvarf kallaðr frá kvölum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Vánarstjarna flaug",
+          "— þá var ek fæddr, —",
+          "brott frá brjósti mér;",
+          "hátt-at hon fló,",
+          "hvergi settisk,",
+          "svá at hon mætti hvíld hafa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Öllum lengri",
+          "var sú in eina nótt,",
+          "er ek lá stirðr á stráum;",
+          "þá merkir þat,",
+          "er guð mælti,",
+          "at maðr er moldu samr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Virði þat ok viti",
+          "in virki guð,",
+          "sá er skóp hauðr ok himin;",
+          "hversu munaðarlausir",
+          "margir fara,",
+          "þótt við skylda skili."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Sinna verka",
+          "nýtr seggja hverr;",
+          "sæll er sá, sem gott gerir;",
+          "auði frá",
+          "er mér ætluð var",
+          "sandi orpin sæng."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Hörundar hungr",
+          "tælir hölða oft,",
+          "hann hefir margr til mikinn;",
+          "lauga vatn",
+          "er mér leiðast var",
+          "eitt allra hluta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Á norna stóli",
+          "sat ek níu daga,",
+          "þaðan var ek á hest hafinn;",
+          "gýgjar sólir",
+          "skinu grimmliga",
+          "ór skýdrúpnis skýjum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Utan ok innan",
+          "þóttumk ek alla fara",
+          "sigrheima sjau;",
+          "upp ok niðr",
+          "leitaða ek æðra vegar,",
+          "hvar mér væri greiðastar götur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Frá því er at segja,",
+          "hvat ek fyrst of sá,",
+          "þá er ek var í kvölheima kominn:",
+          "sviðnir fuglar,",
+          "er sálir váru,",
+          "flugu svá margir sem mý."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Vestan sá ek",
+          "fljúga Vánar dreka,",
+          "ok fell á glævalds götu;",
+          "vængi þeir skóku,",
+          "svá víða þótti mér",
+          "springa hauðr ok himinn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Sólar hjört",
+          "leit ek sunnan fara,",
+          "hann teymðu tveir saman;",
+          "fætr hans",
+          "stóðu foldu á,",
+          "en tóku horn til himins."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Norðan sá ek",
+          "ríða niðja sonu,",
+          "ok váru sjau saman;",
+          "hornum fullum",
+          "drukku þeir inn hreina mjöð",
+          "ór brunni Baugregins."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Vindr þagði,",
+          "vötn stöðvaði,",
+          "þá heyrða ek grimmligan gný;",
+          "sínum mönnum",
+          "svipvísar konur",
+          "mólu mold til matar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Dreyra steina",
+          "þær inar dökku konur",
+          "drógu daprliga;",
+          "blóðug hjörtu",
+          "hengu þeim fyrir brjóst utan,",
+          "mædd við miklum trega."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Margan mann",
+          "sá ek meiddan fara",
+          "á þeim glæddu götum;",
+          "andlit þeira",
+          "sýndusk mér öll vera",
+          "rýgjar blóði roðin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Marga menn",
+          "sá ek moldar gengna,",
+          "þá er eigi máttu þjónustu ná;",
+          "heiðnar stjörnur",
+          "stóðu yfir höfði þeim",
+          "fáðar feiknstöfum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Menn sá ek þá,",
+          "er mjök ala",
+          "öfund um annars hagi;",
+          "blóðgar rúnar",
+          "váru á brjósti þeim",
+          "merkðar meinliga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Menn sá ek þar",
+          "marga ófegna,",
+          "þeir váru villir vega;",
+          "þat kaupir sá,",
+          "er þessa heims",
+          "apask at óheillum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Menn sá ek þá,",
+          "er mörgum hlutum",
+          "véltu um annars eign;",
+          "flokkum þeir fóru",
+          "til Fégjarnsborgar",
+          "ok höfðu byrðar af blýi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Menn sá ek þá,",
+          "er margan höfðu",
+          "fé ok fjörvi rænt;",
+          "brjóst í gegnum",
+          "renndu brögnum þeim",
+          "öflgir eitrdrekar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          "Menn sá ek þá,",
+          "er minnst vildu",
+          "halda helga daga;",
+          "hendr þeira",
+          "váru á heitum steinum",
+          "negldar nauðliga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "Menn sá ek þá,",
+          "er af mikillæti",
+          "virðusk vánum framar;",
+          "klæði þeira",
+          "váru kynliga",
+          "eldi um slegin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "67.",
+        "lines": [
+          "Menn sá ek þá,",
+          "er margt höfðu",
+          "orð á annan logit;",
+          "heljar hrafnar",
+          "ór höfði þeim",
+          "harðliga sjónir slitu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "68.",
+        "lines": [
+          "Allar ógnir",
+          "fær þú eigi vitat,",
+          "þær sem helgengnir hafa;",
+          "sætar syndir",
+          "verða at sárum bótum;",
+          "æ koma mein eftir munuð.",
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "stanza",
+        "number": "69.",
+        "lines": [
+          "Menn sá ek þá,",
+          "er margt höfðu",
+          "gefit at guðs lögum;",
+          "hreinir kyndlar",
+          "váru yfir höfði þeim",
+          "brenndir bjartliga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "70.",
+        "lines": [
+          "Menn sá ek þá,",
+          "er af miklum hug",
+          "veittu fátækum frama;",
+          "lásu englar bækr",
+          "ok ymna skrift",
+          "helgar yfir höfði þeim."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "71.",
+        "lines": [
+          "Menn sá ek þá,",
+          "er mjök höfðu",
+          "hungri farit hörund;",
+          "englar guðs",
+          "lutu öllum þeim;",
+          "þat er æðsta unað."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "72.",
+        "lines": [
+          "Menn sá ek þá,",
+          "er móður höfðu",
+          "látit mat í munn;",
+          "hvílur þeira",
+          "váru á himingeislum",
+          "hafðar hagliga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "stanza",
+        "number": "73.",
+        "lines": [
+          "Helgar meyjar",
+          "höfðu hreinliga",
+          "sál af syndum þvegit",
+          "manna þeira,",
+          "er á mörgum degi",
+          "pína sjálfa sik."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "stanza",
+        "number": "74.",
+        "lines": [
+          "Hávar reiðir",
+          "sá ek með himnum fara,",
+          "þær eiga götur til guðs;",
+          "menn þeim stýra,",
+          "er myrðir eru",
+          "alls fyrir engar sakir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "stanza",
+        "number": "75.",
+        "lines": [
+          "Inn máttki faðir!",
+          "Inn mæzti sonr!",
+          "Heilagr andi himins!",
+          "Þik bið ek skilja,",
+          "er skapat hefr,",
+          "oss alla eymðum frá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "heading",
+        "lines": [
+          "IV"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "87",
+        "type": "stanza",
+        "number": "76.",
+        "lines": [
+          "Hringvör ok Listvör",
+          "sitja í Herðis dyrum",
+          "organs stóli á;",
+          "járn dreyri",
+          "fellr ór nösum þeim,",
+          "sá vekr fjón með fyrðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "88",
+        "type": "stanza",
+        "number": "77.",
+        "lines": [
+          "Óðins kván",
+          "rær á jarðar skipi,",
+          "móðug á munað;",
+          "seglum hennar",
+          "verðr síð hlaðit,",
+          "þeim er á þráreipum þruma."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "89",
+        "type": "stanza",
+        "number": "78.",
+        "lines": [
+          "Arfi, faðir",
+          "einn þér ráðit hefi",
+          "ok þeir Sólkötlu synir",
+          "hjartar horn,",
+          "þat er ór haugi bar",
+          "inn vitri Vígdvalinn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "90",
+        "type": "stanza",
+        "number": "79.",
+        "lines": [
+          "Hér eru rúnar,",
+          "sem ristit hafa",
+          "Njarðar dætr níu:",
+          "Böðveig hin elzta",
+          "ok Kreppvör hin yngsta",
+          "ok þeira systr sjau."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "91",
+        "type": "stanza",
+        "number": "80.",
+        "lines": [
+          "Bölvi hverju",
+          "þeir bellt hafa",
+          "Sváfr ok Sváfrlogi;",
+          "blóð þeir vökðu",
+          "ok benjar sugu",
+          "illum ey vana."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "92",
+        "type": "heading",
+        "lines": [
+          "V"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "93",
+        "type": "stanza",
+        "number": "81.",
+        "lines": [
+          "Kvæði þetta,",
+          "er þér kennt hefik,",
+          "skaltu fyrir kvikum kveða:",
+          "Sólarljóð,",
+          "er sýnask munu",
+          "minnst at mörgu login."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "94",
+        "type": "stanza",
+        "number": "82.",
+        "lines": [
+          "Hér vit skiljumk,",
+          "ok hittask munum",
+          "á feginsdegi fira;",
+          "dróttinn minn",
+          "gefi dauðum ró,",
+          "en hinum líkn, er lifa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "95",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "96",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "I"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Убивал и грабил",
+          "жестокий разбойник",
+          "встреченных им людей.",
+          "Дорогой, где жертву",
+          "себе поджидал он,",
+          "еще никто не прошел."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Жадный, ел он",
+          "всегда в одиночестве,",
+          "пищу ни с кем не делил,",
+          "пока не пришел",
+          "к нему, силы теряя,",
+          "путник, дышавший с трудом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Поесть и напиться",
+          "дать усталому",
+          "просит разбойника гость.",
+          "Со страхом в сердце",
+          "ему он доверился,",
+          "ранее столь коварному."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Еду и питье",
+          "он дал истощенному,",
+          "помыслы злые презрев.",
+          "Бога он чтил,",
+          "воздал ему должное,",
+          "ужаснувшись своей жестокости"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Гость просыпается,",
+          "гибель замысливший,",
+          "плохо он платит за кров.",
+          "Грех овладел им,",
+          "и он убивает",
+          "многомудрого мужа во сне."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "К богу воззвавший",
+          "хозяин о помощи",
+          "просит, предчувствуя смерть.",
+          "Грехи его будет",
+          "трусливый убийца",
+          "нести, сгубивший невинного."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Святые ангелы",
+          "сошли с неба",
+          "и приняли душу его.",
+          "Жизнь в чистоте",
+          "ждет ее",
+          "близ всемогущего бога."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "heading",
+        "lines": [
+          "II"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Не властны мужи",
+          "над богатством и силой,",
+          "хоть сопутствует им успех.",
+          "Несчастье приходит",
+          "всегда неожиданно,",
+          "никому не подвластна судьба"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Твердо верили",
+          "Уннарр и Сэвальди:",
+          "суждено им счастье всегда.",
+          "Стали нагими они",
+          "и нищими",
+          "и как волки загнаны в лес."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Власть любви",
+          "измучила многих,",
+          "из-за женщин страдали они.",
+          "Вред и раздоры",
+          "исходят от женщин,",
+          "хоть чистыми создал их бог."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Вместе были",
+          "Свавадр и Скартхединн,",
+          "неразлучные были друзья,",
+          "пока не лишила",
+          "ума их женщина;",
+          "жизнь ее была гибелью их."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Белолицая дева",
+          "собой заслонила",
+          "свет и веселье для них.",
+          "Опротивело им все,",
+          "что раньше любили,",
+          "лишь дева была им мила."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Мрак ночной",
+          "не приносит им отдыха,",
+          "сон покидает их.",
+          "Разум недужный",
+          "рождает ненависть",
+          "между двумя друзьями."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Злодейство замысливших",
+          "рано иль поздно",
+          "ожидает жестокая месть.",
+          "Из-за девы коварной",
+          "пошли они биться",
+          "и оба нашли себе смерть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "heading",
+        "lines": [
+          "III"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Быть надменным",
+          "не должен никто,",
+          "в том я сам убедился.",
+          "Многие люди",
+          "из тех, кто надменен,",
+          "уходят от Бога прочь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Мощными были",
+          "Радню и Вебоди,",
+          "мнили: верной дорогой идут.",
+          "Ныне врачуют",
+          "несчастьем повержены",
+          "раны свои у костра."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Верили в силу",
+          "свою эти двое,",
+          "думали: равных им нет.",
+          "Но совсем иначе",
+          "их судьбу",
+          "повернул всемогущий Господь"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Чрезмерно они",
+          "предавались радости,",
+          "но нерадостен был их конец.",
+          "И в наказание",
+          "оба должны",
+          "идти меж морозом и пламенем"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "heading",
+        "lines": [
+          "IV"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Никогда не верь",
+          "своим недругам,",
+          "хоть красива бывает их речь.",
+          "Отвечай им тем же",
+          "и помни всегда:",
+          "легковерный будет наказан."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Так был обманут",
+          "Сёрли доверчивый.",
+          "Вигольфр другом назвался ему",
+          "Нерушимо он верил",
+          "убийце брата,",
+          "таившему в сердце измену."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "С мирными мыслями",
+          "он приютил их,",
+          "обещавших виру ему.",
+          "Вместе пили они,",
+          "клялись в дружбе,",
+          "но наружу вышла их ложь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "После этого",
+          "ранним утром",
+          "выехали в Рюгьярдаль.",
+          "Изрубили они",
+          "мечами невинного.",
+          "Так убит был Сёрли."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Вывезли мертвого",
+          "тайной тропою,",
+          "в колодец бросили труп.",
+          "Скрыть им хотелось",
+          "свое преступление,",
+          "но всевидящ на небе Господь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Бог милосердный",
+          "призвал его душу",
+          "радости рая узнать.",
+          "Нескоро убийцы",
+          "будут избавлены",
+          "от постигшей их кары небес."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "heading",
+        "lines": [
+          "V"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Дис проси,",
+          "доверенных Господа,",
+          "чтобы добрыми были к тебе.",
+          "Спустя неделю",
+          "все, что захочешь,",
+          "сможешь ты получить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Если ты в гневе",
+          "другого обидел,",
+          "проступок свой искупи.",
+          "Осуши добрым делом",
+          "пролитые слезы",
+          "и будешь утешен сам."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Обращайся к Богу",
+          "с хорошими мыслями,",
+          "он — создатель людей.",
+          "Много теряет",
+          "любой человек,",
+          "забывая, что Бог — наш отец."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Спрашивать следует",
+          "в нужных словах",
+          "обо всем, что нужно тебе.",
+          "Ничего не просящий",
+          "терпит невзгоды.",
+          "Кто молчащего видит нужду?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Поздно пришел я,",
+          "хоть позван был вовремя,",
+          "к двери святого судьи.",
+          "Собрался туда я",
+          "за тем, что обещано.",
+          "Кто требует — дастся тому."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Грех совершенный",
+          "нам смерть отягчает,",
+          "из мира страданий уход.",
+          "Не делавший зла",
+          "не знает раскаянья,",
+          "путь его легок и прям."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Волкам подобны",
+          "нетвердые в думах,",
+          "на измену способны они.",
+          "Будет им позже",
+          "путь приготовлен",
+          "по раскаленным дорогам."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Как верному другу",
+          "полные мудрости",
+          "семь советов тебе я даю.",
+          "Хорошо их запомни,",
+          "чтоб не забыть.",
+          "Полезны людям они."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Расскажу правдиво,",
+          "как счастлив я был",
+          "на нашей чудесной земле,",
+          "и о том,",
+          "почему сыновья людей",
+          "противятся близкой смерти."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Жадность к злату",
+          "приводит к несчастью,",
+          "стяжатель блуждает во тьме.",
+          "Горе исходит",
+          "от денег блестящих,",
+          "богатство уносит ум."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Наслаждался я многим,",
+          "был радостям предан,",
+          "мало о будущем знал.",
+          "Создал Бог",
+          "мир земной",
+          "полным многих утех."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Сломлен недугом",
+          "долго страдал я,",
+          "жизнь не желая терять.",
+          "Но тот, кто всевластен,",
+          "решил мою участь,",
+          "позвав в последний путь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Крепко крученые",
+          "путы Хель",
+          "опутали тело мое.",
+          "Порвать не смог я",
+          "те крепкие путы;",
+          "легко тому, кто без ноши."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Чувствовал я,",
+          "как отовсюду",
+          "страданья грозили мне.",
+          "Каждый вечер",
+          "девы Хель",
+          "бросали в дрожь мою душу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Солнце я видел —",
+          "звезду дневную,",
+          "в море скрывалось оно.",
+          "Тяжкий скрежет",
+          "услышал я в ужасе:",
+          "скрипели смерти врата."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Солнце я видел",
+          "в рунах кровавых,",
+          "не знал я большей беды,",
+          "некогда мощный,",
+          "много дорог",
+          "от меня уводили жизнь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Солнце я видел;",
+          "и чудилось мне —",
+          "то великий Бог.",
+          "Последний раз",
+          "пред ним я склонился",
+          "медленно в мире живых."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Солнце я видел",
+          "в сиянии ярком,",
+          "все мысли к нему обратив.",
+          "Пенился кровью",
+          "поток Гьёльв",
+          "в грозном грохоте волн."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Солнце я видел",
+          "дрожащим зраком,",
+          "полный забот и болезни.",
+          "Рвалось на части",
+          "в смертной печали",
+          "сердце в моей груди."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Солнце я видел,",
+          "с миром прощаясь,",
+          "не знал я большей беды.",
+          "Как дерево стал",
+          "язык непослушный,",
+          "и остывшее тело — как лед."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Солнце я видел",
+          "в последний раз",
+          "в тот мрачный день.",
+          "Горные воды",
+          "накрыли меня,",
+          "кончились муки мои."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Ясной звездой",
+          "отлетела надежда,",
+          "грудь мою разорвав.",
+          "Поднималась она",
+          "все выше и выше,",
+          "стремилась без отдыха прочь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Коченея лежал я",
+          "на ложе убогом,",
+          "бесконечной была эта ночь.",
+          "Понял я истину",
+          "божьих слов,",
+          "что из праха созданы мы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Пусть же узнает",
+          "Господь всемогущий,",
+          "творец земли и неба,",
+          "как горько многим",
+          "прощаться с жизнью,",
+          "хоть родные стоят рядом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "По своим делам",
+          "получает каждый,",
+          "блажен, кто творит добро.",
+          "Песком были",
+          "на ложе моем,",
+          "все блага, что я собрал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Плотские желания",
+          "свойственны всякому,",
+          "владеют они слишком многими",
+          "Самой страшной",
+          "из всех вещей",
+          "была мне святая вода."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "У престола норн",
+          "я сидел девять дней,",
+          "был поднят затем на повозку",
+          "Сияло яростно",
+          "ётунов солнце",
+          "с низко нависших небес."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Чудилось мне,",
+          "что на этой повозке",
+          "проехал я семь миров.",
+          "Всюду искал я",
+          "дорогу торную,",
+          "более ровных путей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Слушай же,",
+          "что я увидел первым,",
+          "в царство мучений придя.",
+          "Обожженными птицами",
+          "грешников души",
+          "кружились над адским огнем"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "На западе бился",
+          "дракон надежды,",
+          "упав на Глэвальда путь.",
+          "Чудилось мне,",
+          "что крыльями крушит",
+          "небо и землю дракон."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "На юге я видел",
+          "оленя солнца,",
+          "двое держали его.",
+          "На земле стояли",
+          "его копыта,",
+          "и в небо вздымались рога."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "С севера мчались",
+          "сыны Ниди,",
+          "семеро было их.",
+          "Наполняли они",
+          "из ключа Баугрегина",
+          "чистым медом рога."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Ветер утих,",
+          "успокоились волны.",
+          "Вдруг возник ужасающий вопль",
+          "неверные жены",
+          "голодным мужьям",
+          "мололи в пищу прах."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Кровавые камни",
+          "жены вращали,",
+          "искупая свою вину.",
+          "У каждой преступницы",
+          "кровью сердце",
+          "сочилось в разверстой груди."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Видел мужей я,",
+          "наказанных страшно:",
+          "путь их сквозь пламя лежал.",
+          "Казались их лица",
+          "покрытыми кровью",
+          "невинно убитых жен."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Видел я многих",
+          "встающих из гроба —",
+          "путь в церковь был им незнаком",
+          "Знаки рун роковых —",
+          "язычества звезды",
+          "сияли на их челе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Видел я многих",
+          "завистников злобных,",
+          "что другим не желали добра.",
+          "Кровавые руны",
+          "ярко горели",
+          "позорным клеймом на груди."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Видел я многих",
+          "мужей нерадостных,",
+          "сбились они с пути.",
+          "Так искупают",
+          "свою вину",
+          "проведшие жизнь в суете."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Видел мужей я,",
+          "обманом стяжавших",
+          "имущество многих себе.",
+          "Теперь они толпами",
+          "к замку Фегьярна",
+          "шли со свинцовой ношей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Видел мужей я —",
+          "убийц и грабителей,",
+          "многих жизни лишили они.",
+          "Ядовитые змеи",
+          "татей терзали,",
+          "кровожадно впивались им в грудь"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          "Видел мужей я,",
+          "не знавших желания",
+          "святые дни соблюдать.",
+          "Крепко прибиты",
+          "к камням горячим",
+          "были ладони их."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "Видел мужей я",
+          "чрезмерно заносчивых,",
+          "много мнили они о себе.",
+          "Палящим пламенем",
+          "были объяты",
+          "одежды этих людей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "67.",
+        "lines": [
+          "Видел мужей я,",
+          "речами лживыми",
+          "вред причинивших другим.",
+          "Вороны Хель",
+          "из их голов",
+          "выклевывали глаза."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "68.",
+        "lines": [
+          "Нe должен знать ты",
+          "все эти муки,",
+          "что терпят ушедшие к Хель.",
+          "Утехи греховные",
+          "тяжко караются,",
+          "за радостью следует страх."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "69.",
+        "lines": [
+          "Видел мужей я,",
+          "что праведно жили",
+          "по законам Христа.",
+          "Святые свечи",
+          "ярко горели",
+          "у каждого на челе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "70.",
+        "lines": [
+          "Видел мужей я",
+          "духом великих,",
+          "что сирых призрили.",
+          "Святые книги,",
+          "угодные небу,",
+          "ангелы им читали."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "71.",
+        "lines": [
+          "Видел мужей я,",
+          "что в рьяном рвеньи",
+          "умерщвляли голодом плоть.",
+          "Ангелы божьи",
+          "склонялись над ними",
+          "к вящей радости их."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "stanza",
+        "number": "72.",
+        "lines": [
+          "Видел мужей я,",
+          "что сами кормили",
+          "старых своих матерей.",
+          "Покоились",
+          "на лучах солнца",
+          "их красивые ложа."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "stanza",
+        "number": "73.",
+        "lines": [
+          "От грехов отмывали",
+          "девы святые",
+          "дочиста души тех,",
+          "кто многие дни,",
+          "в грехах своих каясь,",
+          "истязали свои тела."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "stanza",
+        "number": "74.",
+        "lines": [
+          "Видел я — мчались",
+          "ввысь колесницы",
+          "к Богу прямым путем.",
+          "Правили ими",
+          "мужи, что убиты",
+          "были без всякой вины."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "stanza",
+        "number": "75.",
+        "lines": [
+          "Отец всемогущий,",
+          "кроткий сын,",
+          "святой дух в небесах!",
+          "Тебя прошу я —",
+          "создателя нашего:",
+          "огради нас от всяких грехов!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "87",
+        "type": "heading",
+        "lines": [
+          "VI (26)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "88",
+        "type": "stanza",
+        "number": "76.",
+        "lines": [
+          "Бьюгвор и Листвор",
+          "у врат Хердира",
+          "возле органа сидят.",
+          "Из носов их каплет",
+          "железная кровь,",
+          "вражду у людей возбуждая."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "89",
+        "type": "stanza",
+        "number": "77.",
+        "lines": [
+          "Жаждет утех",
+          "жена Одина,",
+          "правя ладьей земли.",
+          "Повисли бессильно",
+          "ее паруса,",
+          "канаты тоски их обвили."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "90",
+        "type": "stanza",
+        "number": "78.",
+        "lines": [
+          "Один управлял я",
+          "отцовским наследством,",
+          "как и Солькатлы сыны.",
+          "Рог оленя",
+          "мудрый Вигдвалинн",
+          "вынес им из кургана."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "91",
+        "type": "stanza",
+        "number": "79.",
+        "lines": [
+          "Резали руны здесь",
+          "дочери Ньёрда,",
+          "девять их у него.",
+          "Бодвейг старшая,",
+          "младшая Креппвор",
+          "и семь остальных сестер."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "92",
+        "type": "stanza",
+        "number": "80.",
+        "lines": [
+          "Всякое зло",
+          "совершали без жалости",
+          "Свавр и Сваврлоги.",
+          "Лили кровь",
+          "и сосали раны",
+          "они в лютой злобе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "93",
+        "type": "heading",
+        "lines": [
+          "VII"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "94",
+        "type": "stanza",
+        "number": "81.",
+        "lines": [
+          "Эту песнь,",
+          "что тебе я сложил,",
+          "должен ты петь живущим.",
+          "Песнь о Солнце",
+          "правдивее всех",
+          "песен, известных тебе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "95",
+        "type": "stanza",
+        "number": "82.",
+        "lines": [
+          "Пора нам расстаться,",
+          "но встретимся снова",
+          "с тобой мы в судный день.",
+          "Господи,",
+          "дай усопшим покой,",
+          "живым — свою милость!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "96",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "Of life and property a fierce freebooter despoiled mankind; over the ways beset by him might no one living pass."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "Alone he ate most frequently, no one invited he to his repast; until weary, and with failing strength, a wandering guest came from the way."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "In need of drink that way-worn man, and hungry feigned to be: with trembling heart he seemed to trust him who had been so evil-minded."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "Meat and drink to the weary one he gave, all with upright heart; on God he thought, the traveller's wants supplied; for he felt he was an evil-doer."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "lines": [
+          "Up stood the guest, he evil meditated, he had not been kindly treated; his sin within him swelled, he while sleeping murdered his wary cautious host."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "The God of heaven he prayed for help, when being struck he woke; but he was doomed the sins of him on himself to take, whom sackless he had slain."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Holy angels came from heaven above, and took to them his soul: in a life of purity it shall ever live with the almighty God.",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "Riches and health no one may command, though all go smoothly with him. To many that befalls which they least expect. No one may command his tranquil"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Unnar and Saevaldi never imagined that happiness would fall from them, yet naked they became, and of all bereft, and, like wolves, ran to the forest.",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "The force of pleasure has many a one bewailed. Cares are often caused by women; pernicious they become, although the mighty God them pure created."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "United were Svafud and Skarthedin, neither might without the other be, until to frenzy they were driven for a woman: she was destined for their perdition."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "lines": [
+          "On account of that fair maid, neither of them cared for games or joyous days; no other thing could they in memory bear than that bright form."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "prose",
+        "lines": [
+          "Sad to them were the gloomy nights, no sweet sleep might they enjoy: but from that anguish rose hate intense between the faithful friends."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Hostile deeds are in most places fiercely avenged. To the holm they went, for that fair woman, and each one found his death.",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "Arrogance should no one entertain: I indeed have seen that those who follow her, for the most part, turn from God."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "lines": [
+          "Rich were both, Radey and Vebogi, and thought only of their well-being; now they sit and turn their sores to various hearths."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "lines": [
+          "They in themselves confided, and thought thenv selves alone to be above all people; but their lot Almighty God was pleased otherwise to appoint."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "A life of luxury they led, in many ways, and had gold for sport. Now they are requited, so that they must walk between frost and fire.",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "24",
+        "type": "prose",
+        "lines": [
+          "To thy enemies trust thou never, although they speak thee fair: promise them good: 'tis good to have another's injury as a warning."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "prose",
+        "lines": [
+          "So it befell Sorli the upright, when he placed himself in Vigolf's power; he confidently trusted him, his brother's murderer, but he proved false."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "Peace to them he granted, with heart sincere; they in return promised him gold, feigned themselves friends, while they together drank; but then came forth their guile."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "Then afterwards, on the second day, when they in Rygiardal rode, they with swords wounded him who sackless was, and let his life go forth."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "prose",
+        "lines": [
+          "His corpse they dragged (on a lonely way, and cut up piecemeal) into a well, and would it hide; but the holy Lord beheld from heaven."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "lines": [
+          "His soul summoned home the true God into his joy to come; but the evil doers will, I wean, late be from torments called."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "Do thou pray the Disir of the Lord's words to be kind to thee in spirit: for a week after, all shall then go happily, according to thy will."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "prose",
+        "lines": [
+          "For a deed of ire that thou hast perpetrated, never atone with evil: the weeping thou shalt soothe with benefits: that is salutary to the soul."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "prose",
+        "lines": [
+          "On God a man shall for good things call, on him who has mankind created. Greatly sinful is every man who late finds the Father."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "prose",
+        "lines": [
+          "To be solicited, we opine, is with all earnestness for that which is lacking: of all things may be destitute he who for nothing asks: few heed the wants of the silent."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "lines": [
+          "Late I came, though called betimes, to the supreme Judge's door; thitherward I yearn; for it was promised me, he who craves it shall of the feast partake."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "prose",
+        "lines": [
+          "Sins are the cause that sorrowing we depart from this world: no one stands in dread, if he does no evil: good it is to be blameless."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "lines": [
+          "Like unto wolves all those seem who have a faithless mind: so he will prove who has to go through ways strewed with gleeds."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "prose",
+        "lines": [
+          "Friendly counsels, and wisely composed, seven I have imparted to thee: consider thou them well, and forget them never: they are all useful to learn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "lines": [
+          "Of that I will speak, how happy I was in the world, and secondly, how the sons of men reluctantly become corpses."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "prose",
+        "lines": [
+          "Pleasure and pride deceive the sons of men who after money crave; shining riches at last become a sorrow : many have riches driven to madness."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "prose",
+        "lines": [
+          "Steeped in joys I seemed to men; for little did I see before me: our worldly sojourn has the Lord created in delights abounding."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "prose",
+        "lines": [
+          "Bowed down I sat, long I tottered, of life was most desirous; but He prevailed who was all-powerful: onward are the ways of the doomed."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "prose",
+        "lines": [
+          "The cords of Hel were tightly bound round my sides; I would rend them, but they were strong. Tis easy free to go."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "prose",
+        "lines": [
+          "I alone knew, how on all sides my pains increased. The maids of Hel each eve with horror bade me to their home."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "prose",
+        "lines": [
+          "The sun I saw, true star of day, sink in its roaring home; but Hel's grated doors on the other side I heard heavily creaking."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "lines": [
+          "The sun I saw with blood-red beams beset: (fast was I then from this world declining) mightier she appeared, in many ways, than she was before."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "prose",
+        "lines": [
+          "The sun I saw, and it seemed to me as if I saw a glorious god: I bowed before her, for the last time, in the world of men."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "prose",
+        "lines": [
+          "The sun I saw: she beamed forth so that I seemed nothing to know; but Gioll's streams roared from the other side mingled much with blood."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "prose",
+        "lines": [
+          "The sun I saw, with quivering eyes, appalled and shrinking; for my heart in great measure was dissolved in languor."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "prose",
+        "lines": [
+          "The sun I saw seldom sadder; I had then almost from the world declined: my tongue was as wood become, and all was cold without me."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "prose",
+        "lines": [
+          "The sun I saw never after, since that gloomy day; for the mountain-waters closed over me, and I went called from torments."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "The star of hope, when I was born, fled from my breast away; high it flew, settled nowhere, so that it might find rest.",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "55",
+        "type": "prose",
+        "lines": [
+          "Longer than all was that one night, when stiff on my straw I lay; then becomes manifest the divine word: \"Man is the same as earth.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "prose",
+        "lines": [
+          "The Creator God can it estimate and know, (He who made heaven and earth) how forsaken many go hence, although from kindred parted."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Of his works each has the reward: happy is he who does good. Of my wealth bereft, to me was destined a bed strewed with sand.",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "59",
+        "type": "prose",
+        "lines": [
+          "Bodily desires men oftentimes seduce, of them has many a one too much: water of baths was of all things to me most loathsome."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "prose",
+        "lines": [
+          "In the Norns seat nine days I sat, thence I was mounted on a horse: there the giantess's sun shone grimly through the dripping clouds of heaven."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Without and within, I seemed to traverse all the seven nether worlds: up and down, I sought an easier way, where I might have the readiest paths.",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "63",
+        "type": "prose",
+        "lines": [
+          "Of that is to be told, which I first saw, when I to the worlds of torment came: scorched birds, which were souls, flew numerous as flies."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "prose",
+        "lines": [
+          "From the west I saw Von's dragons fly, and Glaeval's paths obscure: their wings they shook; wide around me seemed the earth and heaven to burst."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "prose",
+        "lines": [
+          "The sun's hart I saw from the south coming, he was by two together led: his feet stood on the earth, but his horns reached up to heaven."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "prose",
+        "lines": [
+          "From the north riding I saw the sons of Nidi, they were seven in all: from full horns, the pure mead they drank from the heaven-god's well."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "prose",
+        "lines": [
+          "The wind was silent, the waters stopped their course; then I heard a doleful sound: for their husbands false-faced women ground earth for food."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "prose",
+        "lines": [
+          "Gory stones those dark women turned sorrowfully; bleeding hearts hung out of their breasts, faint with much affliction."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "prose",
+        "lines": [
+          "Many a man I saw wounded go on those gleed- strewed paths; their faces seemed to me all reddened with reeking blood."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "prose",
+        "lines": [
+          "Many men I saw to earth gone down, who holy service might not have; heathen stars stood above their heads, painted with deadly characters."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "prose",
+        "lines": [
+          "I saw those men who much envy harbour at another's fortune; bloody runes were on their breasts graved painfully."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "prose",
+        "lines": [
+          "I there saw men many not joyful; they were all wandering wild: this he earns, who by this world's vices is infatuated."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "prose",
+        "lines": [
+          "I saw those men who had in various ways acquired other's property: in shoals they went to Castle- covetous, and burthens bore of lead."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "prose",
+        "lines": [
+          "I saw those men who many had of life and property bereft: through the breasts of those men passed strong venomous serpents."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "prose",
+        "lines": [
+          "I saw those men who the holy days would not observe: their hands were on hot stones firmly nailed."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "prose",
+        "lines": [
+          "I saw those men who from pride valued themselves too highly; their garments ludicrously were in fire enveloped."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "prose",
+        "lines": [
+          "I saw those men who had many false words of others uttered: Hel's ravens from their heads their eyes miserably tore."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "All the horrors thou wilt not get to know which Hel's inmates suffer. Pleasant sins end in painful penalties : pains ever follow pleasure.",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "80",
+        "type": "prose",
+        "lines": [
+          "I saw those men who had much given for God's laws; pure lights were above their heads brightly burning."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "prose",
+        "lines": [
+          "I saw those men who from exalted mind helped the poor to aid: angels read holy books above their heads."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "prose",
+        "lines": [
+          "I saw those men who with much fasting had their bodies wasted: God's angels bowed before them: that is the highest joy."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "prose",
+        "lines": [
+          "I saw those men who had put food into their mothers mouth: their couches were on the rays of heaven pleasantly placed."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "prose",
+        "lines": [
+          "Holy virgins had cleanly washed the souls from sin of tfibse men, who for a long time had themselves tormented."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "prose",
+        "lines": [
+          "Lofty cars I saw towards heaven going; they were on the way to God: men guided them who had been murdered wholly without crime."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "prose",
+        "lines": [
+          "Almighty Father! greatest Son! holy Spirit of heaven! Thee I pray, who hast us all created; free us all from miseries."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "87",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "88",
+        "type": "prose",
+        "lines": [
+          "Biugvor and Listvor sit at Herdir's doors, on resounding seat; iron gore falls from their nostrils, which kindles hate among men."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "89",
+        "type": "prose",
+        "lines": [
+          "Odin's wife rows in earth's ship, eager after pleasures; her sails are reefed late, which on the ropes of desire are hung."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "90",
+        "type": "prose",
+        "lines": [
+          "Son! I thy father and Solkatla's sons have alone obtained for thee that horn of hart, which from the grave-mound bore the wise Vigdvalin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "91",
+        "type": "heading",
+        "lines": [
+          "Here are runes which have engraven Niord's daughters nine, Radvor the eldest, and the youngest Kreppvor, and their seven sisters."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "92",
+        "type": "prose",
+        "lines": [
+          "How much violence have they perpetrated Svaf and Svaflogi! bloodshed they have excited, and wounds have sucked, after an evil custom."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "93",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "94",
+        "type": "prose",
+        "lines": [
+          "This lay, which I have taught thee, thou shalt before the living sing, the Sun-Song, which will appear in many parts no fiction."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "95",
+        "type": "prose",
+        "lines": [
+          "Here we part, but again shall meet on the day of men's rejoicing. Oh Lord! unto the dead grant peace, and to the living comfort."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "96",
+        "type": "prose",
+        "lines": [
+          "Wondrous lore has in dream to thee been sung, but thou hast seen the truth: no man has been so wise created that has before heard the Sun-song."
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,483 @@
+{
+  "slug": "thrideilur-runaljod",
+  "key": "ThrideilurRunaljod",
+  "title": {
+    "on": "Þrídeilur rúnaljóð",
+    "ru": "Рунические трёхстишия"
+  },
+  "subtitle": {
+    "ru": "Исландская руническая поэма",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Die Runeschrift, Ludv. F. A. Wimmer, (aus dem Dänischen übersetzt von Dr. F. Holthausen) Berlin, 1887. Перевод и комментарии: Н. Топчий. Исландская руническая поэма: перевод и примечания // Апокриф. №2 (71). Декабрь, 2013. С. 172–192",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "ᚠ (fé) er frænda róg",
+          "ok flæðar viti",
+          "ok grafseiðs gata.",
+          "Aurum fy[l]ker",
+          "Aurum gull, gull er fé,",
+          "fé er rúnastafr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "ᚢ (úr) er skýja grátr",
+          "ok skára þverrir",
+          "ok hirðis hatr.",
+          "Umbre Visi",
+          "Ymber skúr, skúr er úr,",
+          "úr er rúnastafr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "ᚦ (þurs) er kvenna kvöl",
+          "ok kletta búi",
+          "ok varðrúnar verr.",
+          "Sat[ur]nus þengill",
+          "Fantasma er skrimsl, skrimsl er",
+          "þu[rs], þ[urs] er rúnastafr"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "ᚮ (óss) er aldingautr",
+          "ok ásgarðs jöfurr",
+          "ok valhallar vísi.",
+          "Jupi[ter] Oddviti",
+          "Flumen straumr, straumr er óss,",
+          "óss er rúnastafr"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "ᚱ (reið) er sitjandi sæla",
+          "ok snúðig ferð",
+          "ok jórs erfiði.",
+          "Ite[r] Ræsir",
+          "Iter vegr, [ve]gr för, [för] [e]r reið,",
+          "reið er rúnastafr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "ᚴ (kaun) er barna böl",
+          "ok bardagi [för]",
+          "ok holdfúa hús.",
+          "Flag[ella] [k]onungr",
+          "Wul[nus] sár, sár er kaun,",
+          "kaun er rúnastafr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "ᚼ (hagall) er kaldakorn",
+          "ok krapadrífa",
+          "ok snáka sótt.",
+          "G[ran]do Hildingr",
+          "[Niv]es er snjór, snjór er hagl,",
+          "hagall er rúnastafr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "ᚿ (nauð) er þýjar þrá",
+          "ok þungr kostr",
+          "ok vássamlig verk.",
+          "Opera Niflungr",
+          "Flagella er bardagi, bardagi er nauð,",
+          "nauð er rúnastafr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "ᛁ (íss) er árbörkr",
+          "ok unnar þak",
+          "ok feigra manna fár.",
+          "Gl[a]cies jöfurr",
+          "[Fr]ig[us] er frost, frost er íss,",
+          " íss er rúnastafr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "ᛆ (ár) er gumna góði",
+          "ok gott sumar",
+          "algróinn akr.",
+          "Annus Allvaldr",
+          "Estas er sumar, sumar er ár, ár er",
+          "rúnastafr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "ᛍ (sól) er skýja skjöldr",
+          "ok skínandi röðull",
+          "ok ísa aldrtregi.",
+          "Rota Siklin[gr]",
+          "Ignis er eldr, eldr er sól,",
+          "sól er rúnastafr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "ᛐ (týr) er einhendr áss",
+          "ok úlfs leifar",
+          "ok hofa hilmir.",
+          "Mars Tiggi",
+          "Jupiter er Þórr, Þórr er áss, áss er Týr,",
+          "Týr er rúnastafr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "ᛒ (bjarkan) er laufgat lim",
+          "ok lítit tré",
+          "ok ungsamligr viðr.",
+          "Abies Buðlungr",
+          "Flos er blóm, blóm er viðr, viðr er",
+          "bjarkan, bjarkan er rúnastafr"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "ᛘ (maðr) er manns gaman",
+          "ok moldar auki",
+          "ok skipa skreytir.",
+          "Homo Mildingr"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "ᛚ (lögr) er vellanda vatn",
+          "ok víðr ketill",
+          "ok glömmunga grund.",
+          "lacus Lofð[ungr]",
+          "Palus er [go]rmr, gormr er sjór, sjór er",
+          "lögr, lögr er rúnastafr"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "ᛨ (ýr) er bendr bogi",
+          "ok brotgjarnt járn",
+          "ok fífu fárbauti.",
+          "Arcus ynglingr.",
+          "Arcus er bogi, bogi er ýr,",
+          "ýr er rúnastafr."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Богатство — это раздоры родни",
+          "и огонь наводненья,",
+          "и путь рыбы могильной.d",
+          "Золото. Полководец.",
+          "Aurum — золото, золото есть богатство (fé),",
+          "fé есть руна (rúnastafr — «рунический знак»)."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Мóрось — плач облаков,",
+          "и сокращенье прокоса",
+          "и злоба пастушья.",
+          "Ливень. Вождь.",
+          "Ymber — ливень, ливень — это изморось (мелкий",
+          "дождь, úr), úr — это руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Турс — пытка жен,",
+          "и житель утёсов,",
+          "и Ва́рдрун супруг.",
+          "Сатурн. Король.",
+          "Fantasma (фантом) есть чудище, чудище — это турс",
+          "(þurs), þurs — это руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Ас — древний Гаут,",
+          "и Асгарда конунг,",
+          "и Валгаллы вождь.",
+          "Юпитер. Лидер.",
+          "Flumen — поток, поток — это исток (óss),",
+          "óss — это руна"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Езда верховая — сидящему счастье,",
+          "и скорое странствие,",
+          "и лошади труд.",
+          "Путешествие. Хозяин.",
+          "Iter — путь, путь — путешествие, поездка (reið), reið",
+          "есть руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Воспалённая рана — детское бедствие,",
+          "и битвы [следы],",
+          "и дом плоти гниющей.",
+          "Кнуты. Конунг.",
+          "Wulnus — рана, рана это язва (kaun),",
+          "kaun — это руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Град — холодное зёрнышко,",
+          "и льдинок поток,",
+          "и змеиная бо́лесть.",
+          "Град. Воевода.",
+          "Nives — это снег, снег — это град (hagl),",
+          "hagall — это руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Нужда — тоска ра́бья,",
+          "и выбор тяжёлый,",
+          "и труд утомительный.",
+          "Забота. Нивлунг.",
+          "Flagella (лат. кнуты) есть бедствие (бич), бедствие",
+          "есть нужда (nauð), nauð есть руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Лёд — кора рек,",
+          "и кровля волны,",
+          "и беда обреченных.",
+          "Лёд. Вождь.",
+          "Frigus есть мороз, мороз — это лёд (íss),",
+          "ss — это руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Год урожайный — благо людское,",
+          "и доброе лето,",
+          "и поле проросшее.",
+          "Год. Вседержитель.",
+          "Estas есть лето, лето это изобилие (ár), изобилие",
+          "(ár) есть руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Солнце — щит туч,",
+          "и сияющий круг,",
+          "и плач льда вековечный.",
+          "Колесо. Король.",
+          "gnis есть огонь, огонь это солнце (sól),",
+          "sól есть руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Тюр — Ас однорукий,",
+          "и волчий объедок,",
+          "и капищ властитель.",
+          "Марс. Знатный.",
+          "Jupiter — это Тор, Тор есть ас, ас — это Тюр,",
+          "Týr — это руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Берёза — ветвь в листьях,",
+          "и малая поросль,",
+          "и юное древо.",
+          "Пихта. Будлинг.",
+          "Flos есть цветок, цветок — это побег, побег — это",
+          "берёза (bjarkan ), bjarkan — это руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Человек — радость людям,",
+          "и земли прибавленье,",
+          "и украшение судна.",
+          "Человек. Князь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Влага — воды бурлящие,",
+          "и широкий котёл,",
+          "и рыбы равнина.l",
+          "Озеро. Славный, или Лофдунг.",
+          "Palus есть ил, ил — это море, море — это влага",
+          "(lögr), lögr есть руна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Тис — изогнутый лук,",
+          "и железо непрочное,",
+          "и былинка n Фарбаути.",
+          "Лук. Инглинг.",
+          "Arcus есть лук, лук — это тис (ýr),",
+          "ýr — это руна."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

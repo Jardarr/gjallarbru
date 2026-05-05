@@ -1,0 +1,1256 @@
+{
+  "slug": "orvar-odds_kappdrykkja",
+  "key": "OrvarOddsKappdrykkja",
+  "title": {
+    "on": "Örvar-odds kappdrykkja",
+    "ru": "Состязание в питье Одда Стрелы"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Andreas Heusler, Wilhelm Ranisch: Eddica minora. Dortmund 1903, pp. 65–70. В скобках приводится нумерация вис по изданию 1903 г. Перевод: Т. Ермолаев; редакция перевода, перевод вис: Н. Топчий.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Þat var eitt kveld, þá er konungr var til svefns farinn, at þeir Sjólfr ok Sigurðr ganga utar fyrir þá bræðr ok færa þeim horn tvau, ok drukku þeir af þeim."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "II Þá tók Sjólfr til orða: «Liggr Oddr inn mikli?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "III «Já,» segja þeir, «þat er svinnligra en at drekka frá sér vitit allt, sem vér gerum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "IV «Þat mun valda, at hann mun vanari vera at liggja úti á mörkum eða vötnum en at drekka með góðum mönnum, eða hvárt mun hann mikill drykkjumaðr?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "V «Já,» segja þeir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "lines": [
+          "VI «Hvárt mun hann meiri drykkjumaðr einn en vit báðir?» sagði Sjólfr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "VII «Þat ætlum vit,» sagði Óttarr, «at hann drekki miklu meira.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "lines": [
+          "VIII «Hér skulu vér veðja um,» sagði Sjólfr, «ok munu vit leggja við hring þann, er stendr tólf aura, ‖ en þit skuluð leggja við höfuð ykkur.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "prose",
+        "lines": [
+          "IX Þetta mál festa þeir með sér sem in fyrri. Nú spyrr Oddr um morguninn, hvat talat væri. Þeir segja honum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "X «Nú hafi þit svá heimskliga veðjat,» sagði Oddr, «at miklu hafi þit nú við aukit um þær, er fyrri váru, en lagt hér við höfuð ykkur, en eigi er víst, at ek sé því meiri ílögum sem ek em meiri vexti en aðrir menn, en ek skal eigi at síðr til ráða drykkjunnar við þá.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "prose",
+        "lines": [
+          "XI Síðan er sagt konungi, at hann vill til ráða drykkjunnar, ok skal konungsdóttir hjá sitja ok Hárekr, fóstri hennar. Nú ganga þeir Sigurðr ok Sjólfr utar fyrir Odd."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "prose",
+        "lines": [
+          "XII «Þar er horn,» sagði Sigurðr, ok varð honum ljóð á munni:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "(1*) Oddr, klauft eigi",
+          "at orrostu,",
+          "hrökk hjálmat lið,",
+          "Hamðis skyrtur;",
+          "guðr geisaði,",
+          "gekk eldr í bæ,",
+          "þá er á Vindum",
+          "vá sigr konungr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "XIII Sjólfr færir honum annat horn ok biðr hann af drekka ok kvað vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "(2) Oddr, vart eigi",
+          "at eggroði,",
+          "þás seggi allvalds",
+          "svelta létum;",
+          "bark sár þaðan",
+          "sex ok átta,",
+          "en þú með byggðum",
+          "batt þér matar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "prose",
+        "lines": [
+          "XIV Síðan ganga þeir til sætis síns, en Oddr reis upp ok gekk fyrir Sigurð ok færir honum horn, en annat Sjólfi ok kvað sína vísu til hvárs þeira, áðr hann gekk í burtu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "(3) Þit skuluð hlýða",
+          "hróðri mínum,",
+          "Sigurðr ok Sjólfr,",
+          "sessunautar,",
+          "ykkr ák gjalda",
+          "greypan verka,",
+          "hróðr harðsnúinn,",
+          "huglausum tveim."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "(4) Þú látt, Sjólfr,",
+          "soðgólfi á",
+          "dáða vanr",
+          "ok dýrs hugar,",
+          "en ek út",
+          "Ákvítánum",
+          "fjóra menn",
+          "fjörvi næmdak."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "XV Þeir drukku af hornunum, en Oddr gekk at sitja. Síðan ganga þeir enn fyrir Odd, ok selr Sjólfr honum horn ok kvað vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Þú hefir, Oddr, farit",
+          "(5) með ölmusum",
+          "ok bitlinga",
+          "af borði þegit,",
+          "en ek einn",
+          "af Úlfsfjalli",
+          "höggvinn skjöld",
+          "í hendi bar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "lines": [
+          "XVI Sigurðr færir honum annat horn ok kvað þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Oddr, vart eigi",
+          "(6) út með Girkjum,",
+          "þá er á Serkjum",
+          "sverð vár ruðum;",
+          "gerðum harðan",
+          "hljóm ísarna,",
+          "fellu firðar",
+          "í fólkroði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "lines": [
+          "XVII Nú drekkr Oddr af hornunum, en þeir gengu at sitja. Síðan ríss Oddr upp ok gekk með sitt horn at hvárum þeira ok kvað þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "(8) Slótt við meyjar",
+          "málþing, Sjólfr,",
+          "meðan loga létum",
+          "leika um kynni;",
+          "unnum harðan",
+          "Hadding drepinn,",
+          "ok Ölvi var",
+          "aldrs of synjat."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "(7) Þú látt, Sigurðr,",
+          "í sal meyja,",
+          "meðan við Bjarma",
+          "börðumst tvisvar,",
+          "háðum hildi",
+          "hauksnarliga,",
+          "en þú, seggr, í sal",
+          "svaft und blæju."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "XVIII Nú gekk Oddr at sitja, en þeir drukku af hornunum, ok þótti mönnum þetta mikil skemmtan, ok gáfu allir hljóð til þessa. Eptir þat gengu þeir fyrir Odd ok færa honum horn. Þá kvað Sjólfr:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "(9) Oddr, vart eigi",
+          "á Atalsfjalli,",
+          "þá er fenloga",
+          "fengit höfðum;",
+          "vér berserki",
+          "binda gerðum,",
+          "þá var af kappi",
+          "konungs lið drepit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "prose",
+        "lines": [
+          "XIX Nú drekkr Oddr af hornunum, en þeir setjast niðr. Oddr færir þeim horn ok kvað þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "(10) Sjólfr, vart eigi,",
+          "þar er sjá máttum",
+          "brynjur manna",
+          "blóði þvegnar;",
+          "hrukku oddar",
+          "í hringserkjum,",
+          "en þú höll konungs",
+          "heldr kannaðir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "(11) Sigurðr, vart eigi,",
+          "þar er sex hruðum",
+          "hábyrðuð skip",
+          "fyr Hauksnesi;",
+          "vart ok eigi",
+          "vestr með Skolla,",
+          "þá er Engla gram",
+          "aldri næmdum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "XX Oddr settist nú niðr, en þeir færa honum horn ok fylgir engi kveðskapr. Hann drekkr af, en þeir setjast niðr. Ok nú færir Oddr þeim horn ok kvað þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "(12) Sjólfr, vart eigi,",
+          "þar er sverð ruðum",
+          "hvöss á jarli",
+          "fyr Hléseyju;",
+          "en þú hallaðist",
+          "heima á milli,",
+          "kynmálasamr,",
+          "kálfs ok þýjar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "(13) Sigurðr, vart eigi,",
+          "er á Sælundi felldak",
+          "bræðr böðharða,",
+          "Brand ok Agnar,",
+          "Ásmund, Ingjald,",
+          "Álfr var inn fimmti;",
+          "en þú heima látt",
+          "í höll konungs,",
+          "skrökmálasamr,",
+          "skauð hernumin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "prose",
+        "lines": [
+          "XXI Nú gengr hann at sitja, en þeir standa upp ok færa honum horn. Oddr drakk af þeim báðum. Síðan færir hann þeim horn ok kvað þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "(14) Sjólfr, vart eigi",
+          "suðr á Skíðu,",
+          "þar er konungar",
+          "knúðu hjálma;",
+          "óðum dreyra,",
+          "svát í ökkla tók;",
+          "víg vakta ek,",
+          "vart eigi þar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "(15) Sigurðr, vart eigi",
+          "í Svíaskerjum,",
+          "þá er Hálfdani",
+          "heiptir guldum;",
+          "urðu randir",
+          "rógmiklaðar,",
+          "sverðum skornar,",
+          "en hann sjálfr drepinn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "XXII\t Nú sezt Oddr niðr, en þeir færa",
+          "honum hornin, ok drekkr hann af,",
+          "en þeir fara at ‖ sitja. Þá færir Oddr",
+          "þeim horn ok kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Heldum aski",
+          "í Elfarsund,",
+          "teitir ok reifir,",
+          "at Trönuvágum;",
+          "þar lá Ögmundr",
+          "Eyþjófsbani,",
+          "trauðastr flugar,",
+          "á tveim skipum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Þá létu vér",
+          "lindi barða",
+          "hörðu grjóti,",
+          "hvössum sverðum;",
+          "þrír lifðu vér,",
+          "en þeir níu.",
+          "Hrókr hernuminn,",
+          "hví þegir þú nú?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "lines": [
+          "XXIII Þá gengr Oddr til sætis, en þeir færa honum horn. Hann drekkr af þeim ok færir þeim önnur ok kvað þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "(16) Sigurðr, vart eigi",
+          "Sámseyju í,",
+          "þá er við Hjörvarð",
+          "höggum skiptak;",
+          "tveir váru vit,",
+          "en þeir tólf saman;",
+          "sigr hafða ek,",
+          "sazt kyrr meðan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Gekk ek um Gautland",
+          "í grimmum hug",
+          "sjau dægr í samt,",
+          "áðr Sæund fyndak;",
+          "knáttak þeira,",
+          "áðr þaðan færak,",
+          "átján lýða",
+          "aldri næma,",
+          "en þú gjögraðir,",
+          "gárungr vesall,",
+          "síð um aptan",
+          "til sængr þýjar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "prose",
+        "lines": [
+          "XXIV Þá varð óp mikit í höllinni af þes­su, er Oddr hafði kveðit, ok drekka þe­ir af hornum sínum, en Oddr sezt niðr. Konungsmenn hlýða skem­m­tan þeira. Enn færa þeir Oddi hor­nin, ok vinnr hann skjótt um þau bæ­ði. Eptir þat ríss Oddr upp ok gengr fyrir þá ok þykkist vita, at nú sígr at þeim drykkrinn ok allt sa­man, at þeir váru fyrir lagðir í skáld­skapnum. Hann selr þeim hor­nin ok kvað þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "(17) Þit munuð hvergi",
+          "hæfir þykkja,",
+          "Sigurðr ok Sjólfr,",
+          "í sveit konungs;",
+          "ef Hjálmars getk",
+          "ins hugumstóra,",
+          "þess er snarpligast",
+          "sverði beitti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "(18) Gekk snarpr Þórðr",
+          "fyr skjöldu fram,",
+          "hvar er orrostu",
+          "eiga skyldum;",
+          "hann lét Hálfdan",
+          "hníga at velli,",
+          "frœknan stilli,",
+          "ok hans fylgjara."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "(19) Váru vit Ásmundr",
+          "opt í bernsku",
+          "fóstbræðr saman",
+          "báðir litnir;",
+          "bar ek stundar opt",
+          "stöng darraðar,",
+          "þar sem konungar",
+          "kappi deildu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "(20) Hefk á Saxa",
+          "ok á Svía herjat,",
+          "Íra ok á Engla",
+          "ok endr Skota,",
+          "Frísa ok Frakka",
+          "ok á Flæmingja;",
+          "þeim hefk öllum",
+          "óþarfr verit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "(21) Nú hefk dýra",
+          "drengi talda,",
+          "þá er forðum mér",
+          "fylgdu úti;",
+          "munu víst eigi",
+          "verða síðan",
+          "frægri firðar",
+          "í fólkroði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "(22) Nú hefk órar",
+          "íðnir taldar,",
+          "þær er forðum vér",
+          "framdar höfðum;",
+          "aptr gengu vér",
+          "til öndvegis,",
+          "sigri gæddir;",
+          "látum Sjólf mæla.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "prose",
+        "lines": [
+          "XXV Eptir þetta settist Oddr í sæti sitt, en þeir bræðr fellu þar sofnir niðr, ok varð nú ekki af þeim meira um drykkjuna, en Oddr drekkr len­gi, ok eptir þat leggjast menn niðr ok sváfu af nóttina."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Одним вечером, когда конунг пошёл спать, Сьольв и Сигурд подошли к братьям и поднесли им два рога, и те выпили из них."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "II Тогда Сьольв заговорил: «Великий Одд всё лежит?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "III «Да, — сказали они, — это благоразумнее, чем пить до беспамятства, как делаем мы»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "IV «Должно быть, это потому, что ему привычнее находиться под открытым небом в лесах или на озёрах, чем пить с добрыми людьми. Умеет ли он пить?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "V «Да», — сказали они."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "lines": [
+          "VI «Выпьёт ли он один больше, чем мы вдвоём?» — спросил Сьольв."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "VII «Мы считаем, — ответил Оттар, — что он выпьет гораздо больше»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "lines": [
+          "VIII «Поспорим об этом, — сказал Сьольв. — Мы поставим кольцо, которое весит двенадцать эйриров, а вы — свои головы»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "prose",
+        "lines": [
+          "IX Они заключили об этом соглашение между собой, как раньше. Утром Одд спросил, о чём была беседа. Они рассказали ему."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "X «Сейчас вы так глупо поспорили, — сказал Одд, — что увеличили заклад по сравнению с предыдущими до того, что поставили на кон свои головы, а ведь неизвестно, можно ли полагаться на меня в той мере, в какой я ростом больше других людей. Но, тем не менее, я стану состязаться с ними в питье»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "prose",
+        "lines": [
+          "XI Потом конунгу сказали, что он хочет состязаться, и дочь конунга с Хареком, её воспитателем, должны были при этом присутствовать. Вот Сигурд и Сьольв подошли к Одду."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "prose",
+        "lines": [
+          "XII «Вот рог», — сказал Сигурд и произнёс стих:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Одд, не рубил ты",
+          "в битве ретивой —",
+          "рать в шеломах пятилась —",
+          "рубашки Хамдира.",
+          "Свирепела сеча,",
+          "шёл огонь по сёлам,",
+          "когда верх над вендами",
+          "конунг взял."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "XIII Сьольв принёс ему другой рог, попросил испить и сказал вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Одд, тебя не было,",
+          "в багрянце лезвий,",
+          "как людей повелителя",
+          "мы смерти предали.",
+          "Вынес я ран оттуда",
+          "шесть и восемь,",
+          "ты ж по селениям",
+          "снедь выпрашивал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "prose",
+        "lines": [
+          "XIV Затем они вернулись на своё место, а Одд поднялся, подошёл к Сигурду принёс ему рог, а другой — Сьольву и, прежде чем отойти, сказал каждому из них свою вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Должны вы послушать",
+          "мою похвальбу,",
+          "Сигурд и Сьольв,",
+          "по скамье соседи,",
+          "вам двоим отплачу",
+          "за жестокое дело,",
+          "похвальбой крепко сбитой,",
+          "слабодушным обоим."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Валялся ты, Сьольв,",
+          "на полу трапезной,",
+          "недостало деяний",
+          "да силы духа,",
+          "я же за морем",
+          "в Аквитании",
+          "четырёх людей",
+          "жизни лишил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "XV Они выпили из рогов, а Одд пошёл на место. Потом они снова подошли к Одду, Сьольв подал ему рог и сказал вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Ты, Одд, путешествовал",
+          "с попрошайками",
+          "и со стола",
+          "куски собирал,",
+          "я же один",
+          "из Ульвсвьялля",
+          "щит порубленный",
+          "на руке принёс."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "XVI Сигурд поднёс ему другой рог",
+          "и сказал так:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Тебя, Одд, не видели",
+          "вместе с греками,",
+          "когда в сарацинах мы",
+          "мечи свои красили.",
+          "Железо резко",
+          "в руках скрежетало,",
+          "мужи там бились",
+          "в людском багрянце."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "lines": [
+          "XVII Теперь Одд выпил из рогов, а они пошли садиться. Затем Одд поднялся, подошёл к каждому из них со своим рогом и сказал так:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Пока ты с девами,",
+          "Сьольв, дурачился,",
+          "среди огня мы",
+          "играли с родичами.",
+          "Мы сурового",
+          "сразили Хаддинга,",
+          "и Эльвиру было",
+          "отказано в старости."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Ты, Сигурд, валялся",
+          "в светлице девичьей,",
+          "пока мы с бьярмами",
+          "дважды бились,",
+          "сражались в битве",
+          "быстро как ястребы,",
+          "а ты, муж, в палате",
+          "под покрывалом спал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "XVIII Тут Одд пошёл на место, а они выпили из рогов, и людям это казалось великим развлечением, и все их слушали. После этого они предстали перед Оддом и поднесли ему рога. Тогда Сьольв сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Одд, ты не был",
+          "на Атальсфьялле,",
+          "как получили мы",
+          "трясины пламя.",
+          "Мы берсерков",
+          "связали бешенных,",
+          "убит был витязь там",
+          "из войска конунга."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "prose",
+        "lines": [
+          "XIX Теперь Одд осушил рога, а они сели. Одд поднёс им рога и сказал так:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Сьольв, ты там не был,",
+          "где смог бы видеть",
+          "кольчуги мужей",
+          "кровью омытые.",
+          "Острия от брони",
+          "отскакивали,",
+          "ты же у конунга",
+          "по комнатам рыскал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Сигурд, ты не был,",
+          "где шесть судов мы",
+          "с грузом обчистили",
+          "пред Мысом Ястреба.",
+          "Ты вместе со Сколли",
+          "не встал на западе,",
+          "когда вождю англов",
+          "мы век убавили."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "XX Теперь Одд уселся, а они поднесли ему рога, не сопроводив это стихами. Он выпил, а они сели. И тогда Одд поднёс им рога и сказал так:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Сьольв, ты там не был,",
+          "где мечи багрянили",
+          "мы о ярла острые",
+          "у острова Хлесей.",
+          "Ты ж наклонялся,",
+          "наполнен похотью,",
+          "дома тем временем,",
+          "к телятам с рабынями."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Тебя не было, Сигурд,",
+          "когда уложил я в Сэлунде",
+          "в бою стойких братьев,",
+          "Бранда и Агнара,",
+          "Асмунда, Ингьяльда,",
+          "Альв был пятый.",
+          "Ты ж храпел дома",
+          "в хоромах конунга,",
+          "небылицы плетущий,",
+          "пленённый трус."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "prose",
+        "lines": [
+          "XXI Теперь он пошёл сел, а они встали и поднесли ему рога. Одд выпил их оба. Потом он поднёс им рога и сказал так:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Сьольв, ты не был",
+          "на юге на Скиде,",
+          "там где конунги",
+          "колотили по шлемам.",
+          "Шли вброд в крови —",
+          "до лодыжек встала;",
+          "я битву будил —",
+          "тебя же там не было."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Сигурд, ты не был",
+          "на Свейских шхерах,",
+          "когда мы враждой",
+          "воздавали Хальвдану.",
+          "Стали щиты",
+          "в споре хвалимые,",
+          "мечами изрублены,",
+          "а сам он убит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "lines": [
+          "XXII Теперь Одд уселся, а они поднесли ему рога, и он выпил, а они вернулись на место. Затем Одд поднёс им рога и сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Направили ясени",
+          "в Эльварсунд,",
+          "хмельные, весёлые",
+          "к Трёнувагару.",
+          "Был там Эгмунд",
+          "Убийца Эйтьова,",
+          "к бегству не склонный, —",
+          "на двух судах."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Тогда мы били",
+          "в щиты боевые",
+          "камнями твёрдыми,",
+          "клинками острыми.",
+          "Трое выжило нас,",
+          "а их всех — девять.",
+          "Пленник болтливый,",
+          "что ж ты примолк?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "lines": [
+          "XXIII Тогда Одд вернулся на место, а они поднесли ему рога. Он выпил из них, поднёс им другие и сказал так:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Сигурд, ты не был",
+          "на острове Самсей,",
+          "когда мы с Хьёрвардом",
+          "менялись ударами.",
+          "Лишь двое нас было,",
+          "а их — двенадцать.",
+          "Одержал я победу,",
+          "пока ты тихо сидел."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Шёл я по Гаутланду,",
+          "духом гневный —",
+          "доколь сыскал Сэунда —",
+          "семь суток кряду.",
+          "Смог, пока не ушел",
+          "прочь я оттуда,",
+          "восемнадцать людей",
+          "жизни лишить,",
+          "ты же вертелся,",
+          "весельчак жалкий,",
+          "поздно вечером",
+          "в постели рабыни."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "prose",
+        "lines": [
+          "XXIV Тут в палате послышались гром­кие возгласы после того, что сказал Одд, и они выпили из своих рогов, а Одд уселся. Люди конунга слушали их забаву. Они ещё поднесли Одду рога, и он быстро прикончил их оба. После этого Одд поднялся, подошёл к ним и увидел, что питьё совершенно свалило их, и к сложению стихов они больше неспособны. Он подал им рога и сказал так:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Покажетесь вы",
+          "ни к чему не пригодными,",
+          "Сигурд и Сьольв,",
+          "в свите конунга,",
+          "коль молвлю про Хьяльмара",
+          "Мужественного,",
+          "который с острейшим",
+          "мечом управлялся."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Отважный, шёл Торд",
+          "перед щитами,",
+          "где бы сраженье",
+          "ни состоялось;",
+          "он Хальвдана",
+          "обрушил наземь,",
+          "вождя смелейшего,",
+          "и его спутников."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Нередко с Асмундом",
+          "нас вместе,",
+          "побратимов обоих",
+          "подростками видели.",
+          "Держал очень часто",
+          "я древко копья,",
+          "там, где спорили",
+          "свирепо конунги."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Делал на саксов",
+          "набег и на свеев,",
+          "иров и англов",
+          "и ранее — скотов,",
+          "фризов и франков,",
+          "и на фламандцев;",
+          "им я всем некогда",
+          "вред причинял."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Вот я дорогих",
+          "друзей перечислил,",
+          "что были моими",
+          "на море спутниками;",
+          "в том я уверен —",
+          "уже не объявится",
+          "мужей блистательней",
+          "в людском багрянце."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Вот я перечислил",
+          "подвиги наши,",
+          "те, что совместно",
+          "мы совершали;",
+          "сели мы вновь",
+          "на скамью почётную,",
+          "победу стяжавшие.",
+          "Сьольв пусть продолжит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "prose",
+        "lines": [
+          "XXV После этого Одд уселся на своё место, а братья упали, уснув, и в пире больше не участвовали, Одд же ещё долго пил, и после этого люди улеглись и спали всю ночь."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

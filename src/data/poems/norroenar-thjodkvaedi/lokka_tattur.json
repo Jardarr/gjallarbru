@@ -1,0 +1,2329 @@
+{
+  "slug": "lokka-tattur",
+  "key": "LokkaTattur",
+  "title": {
+    "on": "Lokka táttur",
+    "ru": "Прядь о Локи"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Фарерский текст: V. U. Hammershaimb. Færøsk antologi. København 1891. Перевод с фарерского: Н. Топчий.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Bóndin og risin",
+          "leikaðu leik,",
+          "risin vann og",
+          "bóndin veik.",
+          "Stev:",
+          "Hvat skal mær harpan",
+          "undir míni hond,",
+          "vil ikki frægur fylgja mær",
+          "á onnur lond."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "«Eg havi lúkað",
+          "treytir mín’,",
+          "nú vil eg hava",
+          "sonin tín."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Eg vil hava",
+          "sonin frá tær,",
+          "uttan tú goymir",
+          "hann fyri mær.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Bóndin heitir",
+          "á sveinir tvá:",
+          "«Biðið Óðin 1 fyri",
+          "meg inngá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "«Heitið á Óðin",
+          "Asakong,",
+          "tá man goymslan",
+          "gerðast long.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "«Eg vildi, mín Óðin",
+          "veri til,",
+          "vita hvussu goymslan",
+          "ganga vil.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Áður enn teir høvdu",
+          "hálvtalað orð,",
+          "tá var Óðin",
+          "inn fyri borð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "«Hoyr tú Óðin,",
+          "eg tali til tín,",
+          "tú skalt goyma",
+          "sonin mín.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Óðin fór við",
+          "sveini út,",
+          "brúður og bóndi",
+          "bóru sút."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Óðin biður",
+          "vaksa brátt,",
+          "akurin upp eftir",
+          "eini nátt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Óðin biður",
+          "vera svein,",
+          "mitt í akri",
+          "aksið eitt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Mitt í akri",
+          "aksið eitt,",
+          "mitt í aksi,",
+          "byggkorn eitt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "«Ver har í við",
+          "onga pínu,",
+          "tá ið eg kalli,",
+          "kom til mín!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Ver har í við",
+          "onga sút,",
+          "tá ið eg kalli,",
+          "kom her út."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Risin hevur hjarta",
+          "hart sum horn,",
+          "ripar nú fangið",
+          "fult við korn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Ripar nú korn",
+          "í fang á sær,",
+          "og bitran brand",
+          "í hendi bar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Og bitran brand",
+          "í hendi bar,",
+          "hann ætlar at høgga",
+          "sveinin har."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Tá var sveini",
+          "komin til sút,",
+          "byggkorn kreyp",
+          "úr neva út."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Tá var sveini",
+          "komin til pína,",
+          "Óðin kallar",
+          "hann til sín."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Óðin fór við",
+          "sveini heim,",
+          "bóndi og brúður",
+          "fagna teim."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "«Her er ungi",
+          "alvi tín,",
+          "nú er uppi",
+          "goymslan mín.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Bóndin heitir",
+          "á sveina tvá:",
+          "«biðið Hønir",
+          "fyri meg inngá!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "«Eg vildi, mín Hønir",
+          "veri til,",
+          "vita, hvussu goymslan",
+          "ganga vil.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Áður enn teir høvdu",
+          "hálvtalað orð,",
+          "tá var Hønir",
+          "inn fyri borð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "«Hoyr tú Hønir,",
+          "eg talið til tín,",
+          "tú skalt goyma",
+          "sonin mín!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Hønir fór við",
+          "sveini út,",
+          "brúður og bóndi",
+          "bóru sút."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Hønir gongur",
+          "á grønari grund,",
+          "svanir sjey teir",
+          " flugu um sund."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Fyri eystan",
+          "flugu svanir tveir,",
+          "niður hjá Hønir",
+          "settust teir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Hønir biður",
+          "nú vera svein,",
+          "mitt í knokki",
+          "fjøður ein."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "«Ver har í við",
+          "onga pínu,",
+          "tá ið eg kalli,",
+          "kom til mín!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Ver har í við",
+          "onga sút,",
+          "tá ið eg kalli,",
+          "kom her út!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Skrímslið loypur",
+          "á grønari grund,",
+          "svanir sjey teir",
+          "flugu um sund."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Risin fell tá",
+          "á sítt knæ,",
+          "tann fremsta svanin",
+          "fekk hann har."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Tann fremsta svanin",
+          "hann av beit",
+          "hálsin niður",
+          "í herðar sleit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Tá var sveini",
+          "komin til sút,",
+          "fjøður smeyg",
+          "úr kjafti út."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Tá var sveini",
+          "komi til pína,",
+          "Hønir kallaði",
+          "hann til sín."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Hønir fór við",
+          "sveini heim,",
+          "brúður og bóndi",
+          "fagna teim."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "«Her er ungi",
+          "alvi tín,",
+          "nú er uppi",
+          "goymsla mín.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Bóndin heitir",
+          "á sveinar tvá:",
+          "«biði Lokka fyri",
+          "meg inngá!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "«Eg vildi mín Lokki",
+          "veri til,",
+          "vita, hvussu goymslan",
+          "ganga vil!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Áður enn teir høvdu",
+          "hálvtalað orð,",
+          "tá var Lokki",
+          "inn fyri borð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "«Tú veitst einki",
+          "av mínari neyð,",
+          "skrímslið ætlar",
+          "mín sonar deyð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Hoyr tú Lokki,",
+          "eg talið til tín,",
+          "tú skalt goyma",
+          "sonin mín!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Goym hann væl,",
+          "so sum tú kann,",
+          "lat ikki skrímslið",
+          "fáa hann!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "«Skal eg goyma",
+          "sonin tín,",
+          "tá mást tú lúka",
+          "treytir mín’!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Tú skalt lata",
+          "neystið gera,",
+          "meðan eg man",
+          "burtur vera."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Víðan glugga",
+          "sker tú á,",
+          "jarnkelvi legg",
+          "tú har í hjá!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Lokki fór við",
+          "sveini út,",
+          "brúður og bóndi",
+          "bóru sút."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Lokki gongur",
+          "eftir sandi,",
+          "sum skútan",
+          "fleyt fyri landi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Lokki rør",
+          "á igsta (ytsta) klakk,",
+          "so er í fornum",
+          "frøði sagt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Lokki hevur",
+          "ei fleiri orð,",
+          "ongul og stein hann",
+          "varpar fyri borð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Ongur og steinur",
+          "við grunni vóð,",
+          "snarliga hyggin",
+          "hann flundru dró."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Dregur hann eina,",
+          "dregur hann tvá,",
+          "hin triðja, hon var",
+          "svørt at sjá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Lokki biður",
+          "nú vera svein,",
+          "mitt í rogni",
+          "kornið eitt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "«Ver har í við",
+          "onga pínu,",
+          "tá ið eg kalli,",
+          "kom til mín! "
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Ver har í við",
+          "onga sút,",
+          "tá ið eg kalli,",
+          "kom her út!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Lokki rør nú",
+          "aftur at landi,",
+          "risin stendur fyri",
+          "honum á sandi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Risin mælti",
+          "so orðum brátt:",
+          "«Lokki, hvar hevur",
+          "tú verið í nátt?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "«Lítla man",
+          "eg hava ró,",
+          "flakkað og farið",
+          "um allan sjó.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Risin oman sín",
+          "jarnnakka skjýtur,",
+          "Lokki rópar,",
+          "at illa brýtur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Lokki talar",
+          "so fyri sær:",
+          "«risin, lat meg",
+          "fylgja tær.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Risin tók sær",
+          "stýri í hand,",
+          "Lokki rør nú",
+          "út frá land."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Lokki rør við",
+          "langa leið,",
+          "ikki vil jarnnakkin",
+          "ganga úr stað."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Lokki svør",
+          "við sína trú,",
+          "«eg kann betur",
+          "stýra enn tú.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          "Risin setist",
+          "til árar at ró,",
+          "jarnnakkin fleyg",
+          "um allan sjó."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "Risin rør við",
+          "langan favn,",
+          "næstum Lokka",
+          "aftur í stavn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "67.",
+        "lines": [
+          "Risin rør nú",
+          "á ytsta klakk,",
+          "so er í fornum",
+          "frøði sagt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "68.",
+        "lines": [
+          "Risin hevur",
+          "ei fleiri orð,",
+          "ongul og stein hann",
+          "varpar fyri borð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "69.",
+        "lines": [
+          "Ongul og steinur",
+          "við grunni veður,",
+          "snarliga hyggin hann",
+          "flundru dregur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "70.",
+        "lines": [
+          "Dregur hann eina,",
+          "dregur hann tvá,",
+          "hin triðja hon var",
+          "svørt at sjá. "
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "71.",
+        "lines": [
+          "Lokki svør",
+          "á sína list:",
+          "«risin, gev mær",
+          "henda fisk.» "
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "72.",
+        "lines": [
+          "Risin svaraði",
+          "og segði nei:",
+          "«nei, mín Lokki,",
+          "tú fært hann ei.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "stanza",
+        "number": "73.",
+        "lines": [
+          "Hann setti fisk",
+          "millum kníja á sær,",
+          "taldi hvørt korn,",
+          "í rogni var."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "74.",
+        "lines": [
+          "Taldi hvørt korn,",
+          "í rogni var,",
+          "hann ætlaði fanga",
+          "sveinin har."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "75.",
+        "lines": [
+          "Tá var sveini",
+          "komin til sút,",
+          "kornið leyp",
+          "úr neva út."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "76.",
+        "lines": [
+          "Tá var sveini",
+          "komin til pína,",
+          "Lokki kallar",
+          "hann til sín."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "77.",
+        "lines": [
+          "«Set teg niður",
+          "fyri aftan meg,",
+          "lat ikki risan",
+          "síggja teg!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "78.",
+        "lines": [
+          "Tú mást leypa",
+          "so lættur á land,",
+          "ikki merkja",
+          "spor í sand!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "stanza",
+        "number": "79.",
+        "lines": [
+          "Risin rør so",
+          "aftur til land,",
+          "beint ímóti",
+          "hvítan sand."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "80.",
+        "lines": [
+          "Risin rør",
+          "at landi tá,",
+          "Lokki snýr",
+          "jarnnakka frá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "81.",
+        "lines": [
+          "Risin skjýtur",
+          "afturstavn á land,",
+          "sveinur loypur",
+          "so lættur á land."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "82.",
+        "lines": [
+          "Risin sær",
+          "seg upp á land,",
+          "sveinur stendur",
+          " fyri honum á sand."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "stanza",
+        "number": "83.",
+        "lines": [
+          "Sveinur leyp",
+          "so lættur á land,",
+          "ikki merkti",
+          "spor í sand."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "stanza",
+        "number": "84.",
+        "lines": [
+          "Risin leyp",
+          "so tungur á land,",
+          "upp til kníja,",
+          "niður í sand."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "stanza",
+        "number": "85.",
+        "lines": [
+          "Sveinur leyp sum",
+          "hann kundi best,",
+          "leyp ígjøgnum",
+          "faðirs neyst."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "stanza",
+        "number": "86.",
+        "lines": [
+          "Hann leyp ígjøgnum",
+          "faðirs neyst,",
+          "risin eftir",
+          "við fullgott treyst."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "87",
+        "type": "stanza",
+        "number": "87.",
+        "lines": [
+          "Risin stóð",
+          "í glugga fastur,",
+          "jarnkelvið 9 í",
+          " heysi brast."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "88",
+        "type": "stanza",
+        "number": "88.",
+        "lines": [
+          "Lokki var",
+          "tá ikki seinur,",
+          "hjó av risanum",
+          "annað beinið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "89",
+        "type": "stanza",
+        "number": "89.",
+        "lines": [
+          "Risin heldur",
+          "at tí gaman,",
+          "sárið grøddi",
+          "snart til saman."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "90",
+        "type": "stanza",
+        "number": "90.",
+        "lines": [
+          "Lokki var",
+          "tá ikki seinur,",
+          "hjó av risanum",
+          "hitt annað beinið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "91",
+        "type": "stanza",
+        "number": "91.",
+        "lines": [
+          "Hjó av honum,",
+          "hitt annað bein,",
+          "kastaði millum",
+          "stokk og stein."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "92",
+        "type": "stanza",
+        "number": "92.",
+        "lines": [
+          "Sveinur hyggur",
+          "á við gaman,",
+          "hvussu risin leyp bæði",
+          "sundur og saman."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "93",
+        "type": "stanza",
+        "number": "93.",
+        "lines": [
+          "Lokki fór við",
+          "sveini heim,",
+          "brúður og bóndi",
+          "fagna teim."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "94",
+        "type": "stanza",
+        "number": "94.",
+        "lines": [
+          "«Her er ungi",
+          "alvi tín,",
+          "nú er uppi",
+          "goymslan mín."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "95",
+        "type": "stanza",
+        "number": "95.",
+        "lines": [
+          "Eg havi hildið",
+          "trú fyri vist,",
+          "nú hevur risin",
+          "lívið mist.»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Бонд с великаном",
+          "держали заклад,",
+          "великан победил,",
+          "крестьянин не рад.",
+          "Припев:",
+          "Арфа меня кормит,",
+          "песня бережёт.,",
+          "Вот бы шёл со мной силач,",
+          "что в странствии спасёт."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "«Выполнил я",
+          "свою часть уговора,",
+          "сына придётся",
+          "отдать тебе скоро."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Сына придётся",
+          "отдать тебе,",
+          "коль скрыть не сможешь",
+          "его нигде»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Бонд двух парней",
+          "подозвал тогда:",
+          "«Просите, чтоб Один",
+          "пришёл сюда. "
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Вы призовите",
+          "конунга асов,",
+          "он умеет",
+          "надолго спрятать»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "«Хочу, чтоб мой Один",
+          "явился сюда,",
+          "узнать, как спрятаться",
+          "без следа»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Едва промолвили",
+          "эти слова,",
+          "как Один в доме",
+          "был у стола."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "«Выслушай, Один,",
+          "мою ты речь:",
+          "мальчика спрячь,",
+          "помоги сберечь!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Один с парнем",
+          "вышли наружу,",
+          "бонд и жена его",
+          "горько тужат."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Один велел",
+          "прорастать зерну,",
+          "поле встало",
+          "за ночь одну."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Один велел,",
+          "чтоб паренёк",
+          "вырос в поле",
+          "как колосок."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Вырос в поле",
+          "как колосок,",
+          "в колоске же —",
+          "зёрнышком лёг."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "«Тут посиди",
+          "безо всякой боли,",
+          "как позову я,",
+          "выйди на волю!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Тут посиди,",
+          "без тоски, без бед,",
+          "Как позову я,",
+          "выйди ко мне!» "
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Великаново сердце",
+          "твёрже, чем рог —",
+          "полной горстью",
+          "ячмень загрёб."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Загрёб ячмень",
+          "в руке рассмотреть,",
+          "другой рукой",
+          "острый вытащил меч."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Другой рукой",
+          "острый вытащил меч,",
+          "хочет им",
+          "паренька рассечь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Тут от тоски",
+          "стало парню невмочь,",
+          "из лапы вырвалось",
+          "зёрнышко прочь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Боль парнишку",
+          "настигла едва,",
+          "Один к себе",
+          "его подозвал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Один отправился",
+          "с ним домой,",
+          "их радостно встретили",
+          "муж с женой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "«Дитя твоё здесь,",
+          "рядом со мною,",
+          "вот и закончил",
+          "прятать его я»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Бонд двух парней",
+          "подозвал тогда:",
+          "«Просите, чтоб Хёнир",
+          "пришёл сюда!»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "«Хочу, чтоб мой Хёнир",
+          "явился сюда,",
+          "узнать, как спрятаться",
+          "без следа»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Едва промолвили",
+          "эти слова,",
+          "как Хёнир в доме",
+          "был у стола."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "«Выслушай, Хёнир,",
+          "мою ты речь:",
+          "мальчика спрячь,",
+          "помоги сберечь!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Хёнир с парнем",
+          "вышли наружу,",
+          "бонд и жена",
+          "его горько тужат."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Хёнир пошёл",
+          "средь зелёных полей,",
+          "над морем летели",
+          "семь лебедей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "С востока два лебедя",
+          "прилетели,",
+          "рядом с Хёниром",
+          "они сели."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Хёнир велел,",
+          "чтоб теперь паренёк",
+          "пером на головке",
+          "лебедя лёг."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "«Тут посиди",
+          "безо всякой боли,",
+          "как позову я,",
+          "выйди на волю! "
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Тут посиди,",
+          "без тоски, без бед,",
+          "Как позову я,",
+          "выйди ко мне!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Верзила бежит",
+          "средь зелёных полей,",
+          "над морем летели",
+          "семь лебедей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Вот великан",
+          "на колени встал,",
+          "первого лебедя",
+          "он поймал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Первого лебедя",
+          "он загрыз,",
+          "шею порвал ему",
+          "сверху вниз."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Тут от тоски",
+          "стало парню невмочь,",
+          "из пасти скользнуло",
+          "пёрышко прочь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Боль парнишку",
+          "настигла едва,",
+          "Хёнир к себе",
+          "его подозвал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Хёнир отправился",
+          "с ним домой,",
+          "их радостно встретили",
+          "муж с женой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "«Дитя твоё здесь,",
+          "рядом со мною,",
+          "вот и закончил",
+          "прятать его я»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Бонд двух парней",
+          "подозвал тогда:",
+          "«Просите, чтоб Локи",
+          "пришёл сюда!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "«Хочу, чтоб мой Локи",
+          "явился сюда,",
+          "узнать, как спрятаться",
+          "без следа»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Едва промолвили",
+          "эти слова,",
+          "как Локи в доме",
+          "был у стола."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "«Не ведаешь ты",
+          "про мою кручину:",
+          "чудище хочет",
+          "убить мне сына."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Выслушай, Локи,",
+          "мою ты речь:",
+          "мальчика спрячь,",
+          "помоги сберечь!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Спрячь понадёжней, к",
+          "ак только в силах,",
+          "чудище чтоб",
+          "его не схватило»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "«Сына тебе",
+          "я надёжно спрячу,",
+          "ты же исполни",
+          "мою задачу!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Для лодок сарай",
+          "построишь за ночь,",
+          "покуда уйду я",
+          "отсюда прочь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Окно большое",
+          "прорубишь в нём,",
+          "а рядом железный",
+          "пристроишь лом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Локи с парнем",
+          "вышли наружу,",
+          "бонд и жена его",
+          "горько тужат."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Локи к морю",
+          "идёт по песку,",
+          "лодка его",
+          "поджидает тут."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Локи гребёт",
+          "на рыбную мель,",
+          "об этом предания",
+          "помнят досель."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Слов не тратя,",
+          "подальше отплыл он,",
+          "Грузило с крючком",
+          "за борт закинул."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "У дна зависли",
+          "грузило с крючком,",
+          "камбалу быстро",
+          "вытянул он."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Вытянул раз,",
+          "вытянул два,",
+          "третья рыба",
+          "чёрной была."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Локи велел,",
+          "чтоб теперь паренёк",
+          "икринкой в икре",
+          "камбалы лёг."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "«Тут посиди",
+          "безо всякой боли,",
+          "как позову я,",
+          "выйди на волю!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Тут посиди,",
+          "без тоски, без бед,",
+          "Как позову я,",
+          "выйди ко мне!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Локи погрёб",
+          "обратно к земле,",
+          "стоит перед ним",
+          "великан на песке."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Верзила тут же",
+          "его спросил:",
+          "«Локи, скажи,",
+          "где ты ночью был?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "«Нынче покоя",
+          "мне было мало:",
+          "то тут, то там",
+          "я по морю плавал»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Спускает железный",
+          "челнок великан,",
+          "Локи кричит:",
+          "«Вот это волна!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Локи стал",
+          "за себя просить:",
+          "«Позволь, великан,",
+          "с тобою отплыть»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Взялся за руль",
+          "великан тогда,",
+          "Локи гребёт,",
+          "не боится труда."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Локи гребёт,",
+          "от усердия взмок —",
+          "не шелохнётся",
+          "железный челнок."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Локи клянётся",
+          "верой своей:",
+          "«С рулём я управлюсь",
+          "тебя поживей»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          "Вот великан",
+          "на вёсла садится —",
+          "железный челнок",
+          "полетел как птица."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "Веслом великан",
+          "загребает усердно,",
+          "Локи спихнул",
+          "почти до форштевня"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "67.",
+        "lines": [
+          "Гребёт великан",
+          "на рыбную мель,",
+          "об этом предания",
+          "помнят досель."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "68.",
+        "lines": [
+          "Слов не тратя,",
+          "подальше отплыл он,",
+          "Грузило с крючком",
+          "за борт закинул."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "69.",
+        "lines": [
+          "У дна зависли",
+          "грузило с крючком,",
+          "камбалу быстро",
+          "вытянул он."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "70.",
+        "lines": [
+          "Вытянул раз,",
+          "вытянул два,",
+          "третья рыба",
+          "чёрной была."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "71.",
+        "lines": [
+          "Стал Локи клясться,",
+          "как он умел:",
+          "«Дай, великан,",
+          "эту рыбу мне!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "72.",
+        "lines": [
+          "Великан отозвался",
+          "и молвил так:",
+          "«Нет, мой Локи,",
+          "не дам никак!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "stanza",
+        "number": "73.",
+        "lines": [
+          "Рыбу он",
+          "положил на колени,",
+          "икринки считает",
+          "в икре без лени."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "74.",
+        "lines": [
+          "Икринки без лени",
+          "считает в икре,",
+          "хочет парнишку",
+          "схватить скорей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "75.",
+        "lines": [
+          "Тут от тоски стало",
+          "парню невмочь,",
+          "из хватки икринка",
+          "вырвалась прочь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "76.",
+        "lines": [
+          "Боль паренька",
+          "настигла едва,",
+          "Локи к себе",
+          "его подозвал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "77.",
+        "lines": [
+          "«За мною тихонько",
+          "пока присядь,",
+          "пусть великан",
+          "не видит тебя."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "78.",
+        "lines": [
+          "Ты должен с челна",
+          "соскочить налегке,",
+          "чтоб не оставить",
+          "следов на песке»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "stanza",
+        "number": "79.",
+        "lines": [
+          "Споро погрёб",
+          "назад великан,",
+          "прямо к белой",
+          "полоске песка."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "80.",
+        "lines": [
+          "Вот выгребает",
+          "он на песок,",
+          "Локи рулём",
+          "развернул челнок."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "81.",
+        "lines": [
+          "Кормою к земле",
+          "великан пристал,",
+          "мальчик легко",
+          "соскочил с челна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "82.",
+        "lines": [
+          "Ищет страшила",
+          "вблизи, вдалеке:",
+          "стоит перед ним",
+          "паренёк на песке."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "stanza",
+        "number": "83.",
+        "lines": [
+          "Парнишка с челна",
+          "соскочил налегке",
+          "и не оставил",
+          "следов на песке."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "stanza",
+        "number": "84.",
+        "lines": [
+          "Грузно страшила",
+          "спрыгнул на берег,",
+          "тут же в песке",
+          "увяз по колени."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "stanza",
+        "number": "85.",
+        "lines": [
+          "Парнишка помчался",
+          "изо всех сил,",
+          "в отцовский сарай",
+          "он заскочил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "stanza",
+        "number": "86.",
+        "lines": [
+          "Через сарай",
+          "он проскочил,",
+          "за ним великан",
+          "вслед заспешил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "87",
+        "type": "stanza",
+        "number": "87.",
+        "lines": [
+          "Застрял великан,",
+          "пролезая в окно,",
+          "сломался о череп",
+          "железный лом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "88",
+        "type": "stanza",
+        "number": "88.",
+        "lines": [
+          "Локи думал",
+          "не слишком много —",
+          "Отрубил великану",
+          "тотчас же ногу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "89",
+        "type": "stanza",
+        "number": "89.",
+        "lines": [
+          "Лишь посмеялся",
+          "над ним великан:",
+          "нога приросла,",
+          "будто не было ран."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "90",
+        "type": "stanza",
+        "number": "90.",
+        "lines": [
+          "Локи думал",
+          "не слишком много —",
+          "отрубил великану",
+          "другую ногу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "91",
+        "type": "stanza",
+        "number": "91.",
+        "lines": [
+          "Рубанул по ноге,",
+          "её отрубил,",
+          "камень с палкой",
+          "в рану вложил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "92",
+        "type": "stanza",
+        "number": "92.",
+        "lines": [
+          "Парень душою",
+          "был очень счастлив,",
+          "когда великан",
+          "развалился на части."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "93",
+        "type": "stanza",
+        "number": "93.",
+        "lines": [
+          "Локи отправился",
+          "с ним домой,",
+          "их радостно встретили",
+          "муж с женой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "94",
+        "type": "stanza",
+        "number": "94.",
+        "lines": [
+          "«Дитя твоё здесь,",
+          "рядом со мною,",
+          "вот и закончил",
+          "прятать его я."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "95",
+        "type": "stanza",
+        "number": "95.",
+        "lines": [
+          "В вере я даже",
+          "не сомневался,",
+          "теперь великан",
+          "с жизнью расстался»."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

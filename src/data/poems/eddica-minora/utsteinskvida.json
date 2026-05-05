@@ -1,0 +1,515 @@
+{
+  "slug": "utsteinskvida",
+  "key": "Utsteinskvida",
+  "title": {
+    "on": "Utsteinskviða",
+    "ru": "Песнь об Утстейне"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Andreas Heusler, Wilhelm Ranisch: Eddica minora (Dortmund 1903), pp. 71–73. Перевод: Т. Ермолаев; редакция перевода: Н. Топчий.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Útsteinn var með Eysteini konungi. Úlfr inn rauði hét ráðgjafi Eysteins konungs. Hann átti átta sonu, ok váru þeir allir inir mestu kappar ok öfundsamir. Þeir váru illa til Útsteins, ok sló með þeim í kappmæli við drykkju. Hitt var fyrr, at Útsteinn sagði frá falli Hálfs konungs. Hann kvað þá:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Hitt hlægir mik",
+          "helzt í máli:",
+          "mun eigi Ásmundi",
+          "öll vá sofa.",
+          "Þrír eru fallnir",
+          "af því liði,",
+          "Eynefs synir,",
+          "en einn lifir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "II Útsteinn kvað, er Úlfr jafnaði sér við hann ok eggjaði hann:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Upp skulum rísa,",
+          "út skulum ganga",
+          "ok rammligar",
+          "randir knýja.",
+          "Hygg við hjálmum",
+          "hingat komnar",
+          "til Danmerkr",
+          "dísir várar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Úlfr kvað:",
+          "Yðr munu dauðar",
+          "dísir allar,",
+          "heill kveð ek horfna",
+          "frá Hálfs rekkum.",
+          "Dreymdi mik í morgin,",
+          "at megir várir",
+          "öfri yrði,",
+          "hvars ér mættizt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Útsteinn kvað:",
+          "Sigrs væntik mér",
+          "sýnu betra",
+          "en Úlfr vili",
+          "æskja Steini.",
+          "Yðr mun snimma",
+          "at sverðtogi",
+          "hauss of höggvinn,",
+          "en háls roðinn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Úlfr kvað:",
+          "Munu þeir öfri verða",
+          "Úlfs synir:",
+          "Oddr ok Örnólfr,",
+          "Áti inn svarti,",
+          "Börkr ok Brynjólfr,",
+          "Búi, Harðskafi,",
+          "Rauðr inn rammi,",
+          "ef þú reynir til."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Útsteinn kvað:",
+          "Mundi eigi Steini",
+          "með Stara þykkja",
+          "ógn at etja",
+          "við Úlfs sonu,",
+          "því at eigi var",
+          "órum bróður",
+          "við dritmenni þitt",
+          "dramb at setja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Þótti eigi Hrókum",
+          "né Hálfdani",
+          "raun at berjast",
+          "við ragmenni,",
+          "þá er vér fjórir",
+          "falla létum",
+          "átta jarla",
+          "fyr Annisnesi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Fari Úlfs synir",
+          "út at berjast,",
+          "átta drengir,",
+          "við eitt höfuð.",
+          "Mun eigi stökkva,",
+          "þótt Steinn hafi",
+          "færa nokkut",
+          "í flokki lið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Hálfr, dreymdi mik,",
+          "hvatti, at ek berðumst,",
+          "ok kvaðst mér frœkn konungr",
+          "fylgja skyldu, —",
+          "hefir mér gramr verit",
+          "góðr í draumi, —",
+          "hvars vér orrostu",
+          "eiga skyldim."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "prose",
+        "lines": [
+          "III Þá gengu þeir Úlfs synir ok Út­steinn út ok börðust. Hann drap alla Úlfs sonu ok gekk síðan inn fyrir konung ok kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Nú emk inn kominn",
+          "Úlfi at segja,",
+          "at hans synir",
+          "höggnir liggja.",
+          "Nú fari, Eysteinn,",
+          "ef ér vilið,",
+          "fleiri at freista",
+          "við fleina við."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Eysteinn kvað:",
+          "Sjálft mun letja",
+          "slíks at freista:",
+          "Hálfs eru rekkar",
+          "hverjum meiri.",
+          "Þik veit ek manna",
+          "miklu fremstan,",
+          "einn snjallastan,",
+          "er þú átta vátt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Útsteinn kvað:",
+          "Alla munda ek",
+          "Eysteins liða",
+          "sverði beita",
+          "at sömu hófi,",
+          "ef ek mér þarfir",
+          "þess verks sæja,",
+          "eða illt með oss",
+          "áðr of væri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Magni fýsir engi",
+          "við mik at deila,",
+          "því at mér var ungum",
+          "aldr skapaðr.",
+          "Ek hefi hjarta",
+          "hart í brjósti,",
+          "síz mér í æsku",
+          "Óðinn framdi."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Утстейн был с конунгом Эйстейном. Ульвом Рыжим звали советника конунга Эйстейна. У него было восемь сыновей, и все они были великие герои и завистливы. Они плохо относились к Утстейну, и на пиру между ними разгорелся спор. Перед этим Утстейн рассказывал о гибели конунга Хальва. Он сказал тогда:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Другое радует",
+          "всего более:",
+          "Асмунда бедам",
+          "не вечно спать.",
+          "Трое погибло",
+          "из этого войска",
+          "сыновей Эйнева,",
+          "но один живёт."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "II Утстейн сказал, когда Ульв сравнил себя с ним и стал подстрекать его:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Встанем и выйдем",
+          "отсель наружу",
+          "и там крепкими",
+          "щитами стукнемся.",
+          "Думаю, в шлемах",
+          "пришли сюда",
+          "в земли датские",
+          "дисы наши."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Ульв сказал:",
+          "Давно уж мертвы",
+          "все ваши дисы,",
+          "счастье, скажу я,",
+          "воинов Хальва оставило.",
+          "Снилось мне утром,",
+          "отпрыски наши",
+          "верх получали,",
+          "где б вы не являлись."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Утстейн сказал:",
+          "Победы я жду",
+          "лучшей намного,",
+          "чем Ульв желать",
+          "захотел бы Стейну.",
+          "У вас будет вскоре",
+          "на сходке мечей",
+          "череп разрублен,",
+          "окровавлена шея."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Ульв сказал:",
+          "Верх одержат",
+          "Ульва сыны:",
+          "Эрнольв и Одд,",
+          "Ати Чёрный,",
+          "Бёрк и Брюньольв,",
+          "Буи, Хардскави,",
+          "Рауд Сильный,",
+          "коль ты попытаешься."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Утстейн сказал:",
+          "Стейну со Стари",
+          "не показалось бы",
+          "страшным биться",
+          "с сынами Ульва,",
+          "нужно бы было",
+          "нашему брату",
+          "с тебя, засранца,",
+          "спесь посбивать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Не показалось",
+          "Хрокам и Хальвдану",
+          "опасным с трусами",
+          "в битве встретиться,",
+          "когда вчетвером",
+          "мы положили",
+          "восьмерых ярлов",
+          "у Анниснеса."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Выходите на битву,",
+          "Ульва сыны,",
+          "восемь воинов,",
+          "с одной головою.",
+          "Не убежит Стейн,",
+          "хоть и имеет",
+          "несколько меньше",
+          "народу в войске."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Хальв, снилось мне,",
+          "побуждал меня к битве;",
+          "сказал храбрый конунг,",
+          "что мне посодействует, —",
+          "был ко мне князь",
+          "добрым во сне, —",
+          "где бы мы битву",
+          "не проводили."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "prose",
+        "lines": [
+          "III Тогда сыновья Ульва и Утстейн вышли и начали сражаться. Утстейн убил всех сыновей Ульва, потом предстал перед конунгом и сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Вот я пришёл",
+          "Ульву сказать,",
+          "что его сыновья",
+          "побиты лежат.",
+          "Теперь же, Эйстейн,",
+          "ступай, коли хочешь,",
+          "дальше испытывать",
+          "дерево копий."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Эйстейн сказал:",
+          "Сам воздержусь",
+          "испытать подобное:",
+          "воины Хальва",
+          "лучше других.",
+          "Из людей, знаю я,",
+          "ты наилучший,",
+          "убил, самый храбрый,",
+          "один восьмерых."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Утстейн сказал:",
+          "Всех бы мечом",
+          "Эйстейна людей",
+          "порубил я",
+          "в мере такой же,",
+          "если б нужду",
+          "в сей работе видел,",
+          "иль прежде к нам",
+          "отнеслись бы плохо."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Силой не хочет",
+          "никто со мной меряться,",
+          "ибо мне смолоду",
+          "век был суждён.",
+          "Тяжко на сердце",
+          "в груди с той поры,",
+          "как в юности Один",
+          "мне посодействовал."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}
