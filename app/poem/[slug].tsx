@@ -15,7 +15,10 @@ import { spacing } from "@/src/theme/spacing";
 import { getLineHeight, lineHeights, typography } from "@/src/theme/typography";
 
 export default function PoemScreen() {
-    const { slug } = useLocalSearchParams<{ slug: string }>();
+    const { slug, block } = useLocalSearchParams<{
+        slug: string;
+        block?: string;
+    }>();
     const { i18n } = useTranslation();
     const { colors } = useAppTheme();
     const fontScale = useFontScale();
@@ -54,7 +57,10 @@ export default function PoemScreen() {
         });
     }, [poem, setLastOpenedPoem]);
 
-    const uiLanguage = i18n.language === "ru" ? "ru" : "en";
+    const interfaceLanguage =
+    useAppSettingsStore(
+        (state) => state.interfaceLanguage,
+    ) ?? "en";
     const translatedTitle = poem
         ? translationLanguage === "ru"
             ? poem.title.ru
@@ -88,7 +94,7 @@ export default function PoemScreen() {
                             },
                         ]}
                     >
-                        {uiLanguage === "ru" ? "ПОЭМА" : "POEM"}
+                        {interfaceLanguage === "ru" ? "ПОЭМА" : "POEM"}
                     </Text>
 
                     {/* ORIGINAL */}
@@ -179,7 +185,7 @@ export default function PoemScreen() {
                                 },
                             ]}
                         >
-                            {uiLanguage === "ru" ? "ИСТОЧНИК" : "SOURCE"}
+                            {interfaceLanguage === "ru" ? "ИСТОЧНИК" : "SOURCE"}
                         </Text>
 
                         <Text
@@ -219,7 +225,7 @@ export default function PoemScreen() {
                                 },
                             ]}
                         >
-                            {uiLanguage === "ru" ? "ПРИМЕЧАНИЯ" : "NOTES"}
+                            {interfaceLanguage === "ru" ? "ПРИМЕЧАНИЯ" : "NOTES"}
                         </Text>
 
                         <Text
@@ -254,7 +260,8 @@ export default function PoemScreen() {
         poem,
         sourceText,
         translatedTitle,
-        uiLanguage,
+        translationLanguage,
+        interfaceLanguage,
     ]);
 
     if (!poem) {
@@ -315,7 +322,11 @@ export default function PoemScreen() {
                     },
                 ]}
             >
-                <PoemReader poem={poem} ListHeaderComponent={headerComponent} />
+                <PoemReader
+                    poem={poem}
+                    targetBlockId={block}
+                    ListHeaderComponent={headerComponent}
+                />
             </View>
         </>
     );
@@ -325,7 +336,7 @@ const styles = StyleSheet.create({
     screen: {
         flex: 1,
     },
-    
+
     centered: {
         flex: 1,
         justifyContent: "center",

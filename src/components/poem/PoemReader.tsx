@@ -1,11 +1,17 @@
-import React, { useCallback, useMemo } from "react";
+import React, {
+    useCallback,
+    useEffect,
+    useMemo,
+    useRef,
+    useState,
+} from "react";
 import { FlatList, StyleSheet, Text, View } from "react-native";
 
 import PoemColumnBlock from "./PoemColumnBlock";
 
-import { hasPoemContent } from "@/src/lib/has-poem-content";
 import { useAppTheme } from "@/src/hooks/use-app-themes";
 import { useFontScale } from "@/src/hooks/use-font-scale";
+import { hasPoemContent } from "@/src/lib/has-poem-content";
 import { useAppSettingsStore } from "@/src/store/settings.store";
 import { spacing } from "@/src/theme/spacing";
 import { getLineHeight, lineHeights, typography } from "@/src/theme/typography";
@@ -13,6 +19,7 @@ import type { PoemBlock, PoemData } from "@/src/types/poem";
 
 interface PoemReaderProps {
     poem: PoemData;
+    targetBlockId?: string;
     ListHeaderComponent?: React.ReactElement | null;
 }
 
@@ -24,10 +31,17 @@ interface PoemRowItem {
 
 export default function PoemReader({
     poem,
+    targetBlockId,
     ListHeaderComponent = null,
 }: PoemReaderProps) {
     const { colors } = useAppTheme();
     const fontScale = useFontScale();
+
+    const listRef = useRef<FlatList>(null);
+
+    const [highlightedBlockId, setHighlightedBlockId] = useState<string | null>(
+        null,
+    );
 
     const translationLanguage = useAppSettingsStore(
         (state) => state.translationLanguage,
@@ -50,14 +64,13 @@ export default function PoemReader({
             (acc, originalBlock, index) => {
                 const translatedBlock = translatedBlocks[index];
 
-                if (!translatedBlock) {
-                    return acc;
-                }
-
                 acc.push({
                     id: originalBlock.id,
                     originalBlock,
-                    translatedBlock,
+                    translatedBlock: translatedBlock ?? {
+                        ...originalBlock,
+                        lines: [""],
+                    },
                 });
 
                 return acc;
@@ -66,31 +79,83 @@ export default function PoemReader({
         );
     }, [poem.texts.on, translatedBlocks]);
 
-    const renderItem = useCallback(({ item }: { item: PoemRowItem }) => {
-        const isProse = item.originalBlock.type === "prose";
-        const isHeading = item.originalBlock.type === "heading";
-
-        if (isProse || isHeading) {
-            return (
-                <View style={styles.proseRow}>
-                    <PoemColumnBlock block={item.originalBlock} />
-                    <PoemColumnBlock block={item.translatedBlock} />
-                </View>
-            );
+    const targetIndex = useMemo(() => {
+        if (!targetBlockId) {
+            return -1;
         }
 
-        return (
-            <View style={styles.stanzaRow}>
-                <View style={styles.column}>
-                    <PoemColumnBlock block={item.originalBlock} />
-                </View>
+        return rows.findIndex((row) => row.originalBlock.id === targetBlockId);
+    }, [rows, targetBlockId]);
 
-                <View style={styles.column}>
-                    <PoemColumnBlock block={item.translatedBlock} />
+    useEffect(() => {
+        if (targetIndex < 0 || !listRef.current) {
+            return;
+        }
+
+        const timeout = setTimeout(() => {
+            listRef.current?.scrollToIndex({
+                index: targetIndex,
+                animated: true,
+                viewPosition: 0.15,
+            });
+        }, 200);
+
+        return () => clearTimeout(timeout);
+    }, [targetIndex]);
+
+    useEffect(() => {
+        if (!targetBlockId) {
+            return;
+        }
+
+        setHighlightedBlockId(targetBlockId);
+
+        const timeout = setTimeout(() => {
+            setHighlightedBlockId(null);
+        }, 2000);
+
+        return () => clearTimeout(timeout);
+    }, [targetBlockId]);
+
+    const renderItem = useCallback(
+        ({ item }: { item: PoemRowItem }) => {
+            const isProse = item.originalBlock.type === "prose";
+
+            const isHeading = item.originalBlock.type === "heading";
+
+            const isHighlighted = item.originalBlock.id === highlightedBlockId;
+
+            const highlightedStyle = isHighlighted
+                ? {
+                      backgroundColor: colors.surfaceSecondary,
+                      borderRadius: 20,
+                  }
+                : undefined;
+
+            if (isProse || isHeading) {
+                return (
+                    <View style={[styles.proseRow, highlightedStyle]}>
+                        <PoemColumnBlock block={item.originalBlock} />
+
+                        <PoemColumnBlock block={item.translatedBlock} />
+                    </View>
+                );
+            }
+
+            return (
+                <View style={[styles.stanzaRow, highlightedStyle]}>
+                    <View style={styles.column}>
+                        <PoemColumnBlock block={item.originalBlock} />
+                    </View>
+
+                    <View style={styles.column}>
+                        <PoemColumnBlock block={item.translatedBlock} />
+                    </View>
                 </View>
-            </View>
-        );
-    }, []);
+            );
+        },
+        [colors.surfaceSecondary, highlightedBlockId],
+    );
 
     const keyExtractor = useCallback((item: PoemRowItem) => item.id, []);
 
@@ -146,6 +211,7 @@ export default function PoemReader({
 
     return (
         <FlatList
+            ref={listRef}
             data={rows}
             keyExtractor={keyExtractor}
             renderItem={renderItem}
@@ -156,6 +222,14 @@ export default function PoemReader({
             maxToRenderPerBatch={10}
             windowSize={7}
             removeClippedSubviews
+            onScrollToIndexFailed={(info) => {
+                setTimeout(() => {
+                    listRef.current?.scrollToIndex({
+                        index: info.index,
+                        animated: true,
+                    });
+                }, 500);
+            }}
         />
     );
 }

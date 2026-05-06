@@ -119,29 +119,56 @@ export default function PoemsScreen() {
                             />
                         </View>
 
-                        <Pressable
-                            onPress={() => router.push("/settings")}
-                            style={[
-                                styles.settingsButton,
-                                {
-                                    backgroundColor: colors.surface,
-                                    borderColor: colors.border,
-                                },
-                            ]}
-                        >
-                            <Text
+                        <View style={styles.headerActions}>
+                            <Pressable
+                                onPress={() => router.push("/search")}
                                 style={[
-                                    styles.settingsButtonText,
+                                    styles.headerButton,
                                     {
-                                        color: colors.accent,
-                                        fontSize:
-                                            typography.labelLarge * fontScale,
+                                        backgroundColor: colors.surface,
+                                        borderColor: colors.border,
                                     },
                                 ]}
                             >
-                                {uiLanguage === "ru" ? "Настройки" : "Settings"}
-                            </Text>
-                        </Pressable>
+                                <Text
+                                    style={[
+                                        styles.headerButtonIcon,
+                                        {
+                                            color: colors.accent,
+                                        },
+                                    ]}
+                                >
+                                    ⌕
+                                </Text>
+                            </Pressable>
+
+                            <Pressable
+                                onPress={() => router.push("/settings")}
+                                style={[
+                                    styles.headerButton,
+                                    {
+                                        backgroundColor: colors.surface,
+                                        borderColor: colors.border,
+                                    },
+                                ]}
+                            >
+                                <Text
+                                    style={[
+                                        styles.headerButtonText,
+                                        {
+                                            color: colors.accent,
+                                            fontSize:
+                                                typography.labelLarge *
+                                                fontScale,
+                                        },
+                                    ]}
+                                >
+                                    {uiLanguage === "ru"
+                                        ? "Настройки"
+                                        : "Settings"}
+                                </Text>
+                            </Pressable>
+                        </View>
                     </View>
 
                     <View
@@ -347,7 +374,6 @@ export default function PoemsScreen() {
                         contentContainerStyle={styles.listContent}
                         stickySectionHeadersEnabled={false}
                         renderSectionHeader={({ section }) => {
-
                             const categoryMeta =
                                 poemCategoryMeta[section.category];
 
@@ -543,6 +569,29 @@ const styles = StyleSheet.create({
         justifyContent: "center",
     },
     settingsButtonText: {
+        fontWeight: "600",
+    },
+    headerActions: {
+        flexDirection: "row",
+        alignItems: "center",
+        gap: spacing.sm,
+    },
+
+    headerButton: {
+        minHeight: 48,
+        borderWidth: 1,
+        borderRadius: radius.lg,
+        paddingHorizontal: spacing.md,
+        justifyContent: "center",
+        alignItems: "center",
+    },
+
+    headerButtonIcon: {
+        fontSize: 22,
+        fontWeight: "700",
+    },
+
+    headerButtonText: {
         fontWeight: "600",
     },
     heroCard: {
