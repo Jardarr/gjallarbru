@@ -1,13 +1,14 @@
 {
+  "category": "ljodaedda-hetjukvaedi",
   "slug": "oddrunargratr",
   "key": "Oddrunargratr",
   "title": {
-    "on": "oddrúnargrátr",
+    "on": "Oddrúnargrátr",
     "ru": "Плач Оддрун",
     "en": "The Lament of Oddrún"
   },
   "subtitle": {
-    "on": "oddrúnarkviða",
+    "on": "Oddrúnarkviða",
     "ru": ""
   },
   "description": {

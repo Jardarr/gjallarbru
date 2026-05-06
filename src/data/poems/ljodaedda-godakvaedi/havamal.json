@@ -1,4 +1,5 @@
 {
+  "category": "ljodaedda-godakvaedi",
   "slug": "havamal",
   "key": "Havamal",
   "title": {
@@ -24,7 +25,7 @@
     "on": [
       {
         "id": "1",
-        "type": "prose",
+        "type": "heading",
         "lines": [
           "I. Gestaþáttr"
         ],
@@ -2036,7 +2037,7 @@
       },
       {
         "id": "139",
-        "type": "prose",
+        "type": "heading",
         "lines": [
           "V. Rúnatal"
         ],
@@ -2444,11 +2445,11 @@
     "ru": [
       {
         "id": "1",
-        "type": "prose",
+        "type": "heading",
         "lines": [
-          "I"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "2",
@@ -4453,11 +4454,11 @@
       },
       {
         "id": "139",
-        "type": "prose",
+        "type": "heading",
         "lines": [
-          "V"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "140",
@@ -4862,7 +4863,7 @@
     "en": [
       {
         "id": "1",
-        "type": "stanza",
+        "type": "heading",
         "number": "",
         "lines": [
           ""
@@ -6860,7 +6861,7 @@
       },
       {
         "id": "139",
-        "type": "stanza",
+        "type": "heading",
         "number": "",
         "lines": [
           ""

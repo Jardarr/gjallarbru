@@ -1,4 +1,5 @@
 {
+  "category": "eddica-apocryphica",
   "slug": "solarljod",
   "key": "Solarljod",
   "title": {
@@ -130,7 +131,7 @@
       },
       {
         "id": "9",
-        "type": "prose",
+        "type": "heading",
         "lines": [
           "* * *"
         ],
@@ -1050,13 +1051,20 @@
           "þær sem helgengnir hafa;",
           "sætar syndir",
           "verða at sárum bótum;",
-          "æ koma mein eftir munuð.",
-          "* * *"
+          "æ koma mein eftir munuð."
         ],
         "placeholder": false
       },
       {
         "id": "79",
+        "type": "heading",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
         "type": "stanza",
         "number": "69.",
         "lines": [
@@ -1070,7 +1078,7 @@
         "placeholder": false
       },
       {
-        "id": "80",
+        "id": "81",
         "type": "stanza",
         "number": "70.",
         "lines": [
@@ -1084,7 +1092,7 @@
         "placeholder": false
       },
       {
-        "id": "81",
+        "id": "82",
         "type": "stanza",
         "number": "71.",
         "lines": [
@@ -1098,7 +1106,7 @@
         "placeholder": false
       },
       {
-        "id": "82",
+        "id": "83",
         "type": "stanza",
         "number": "72.",
         "lines": [
@@ -1112,7 +1120,7 @@
         "placeholder": false
       },
       {
-        "id": "83",
+        "id": "84",
         "type": "stanza",
         "number": "73.",
         "lines": [
@@ -1126,7 +1134,7 @@
         "placeholder": false
       },
       {
-        "id": "84",
+        "id": "85",
         "type": "stanza",
         "number": "74.",
         "lines": [
@@ -1140,7 +1148,7 @@
         "placeholder": false
       },
       {
-        "id": "85",
+        "id": "86",
         "type": "stanza",
         "number": "75.",
         "lines": [
@@ -1154,7 +1162,7 @@
         "placeholder": false
       },
       {
-        "id": "86",
+        "id": "87",
         "type": "heading",
         "lines": [
           "IV"
@@ -1162,7 +1170,7 @@
         "placeholder": false
       },
       {
-        "id": "87",
+        "id": "88",
         "type": "stanza",
         "number": "76.",
         "lines": [
@@ -1176,7 +1184,7 @@
         "placeholder": false
       },
       {
-        "id": "88",
+        "id": "89",
         "type": "stanza",
         "number": "77.",
         "lines": [
@@ -1190,7 +1198,7 @@
         "placeholder": false
       },
       {
-        "id": "89",
+        "id": "90",
         "type": "stanza",
         "number": "78.",
         "lines": [
@@ -1204,7 +1212,7 @@
         "placeholder": false
       },
       {
-        "id": "90",
+        "id": "91",
         "type": "stanza",
         "number": "79.",
         "lines": [
@@ -1218,7 +1226,7 @@
         "placeholder": false
       },
       {
-        "id": "91",
+        "id": "92",
         "type": "stanza",
         "number": "80.",
         "lines": [
@@ -1232,7 +1240,7 @@
         "placeholder": false
       },
       {
-        "id": "92",
+        "id": "93",
         "type": "heading",
         "lines": [
           "V"
@@ -1240,7 +1248,7 @@
         "placeholder": false
       },
       {
-        "id": "93",
+        "id": "94",
         "type": "stanza",
         "number": "81.",
         "lines": [
@@ -1254,7 +1262,7 @@
         "placeholder": false
       },
       {
-        "id": "94",
+        "id": "95",
         "type": "stanza",
         "number": "82.",
         "lines": [
@@ -1266,15 +1274,6 @@
           "en hinum líkn, er lifa."
         ],
         "placeholder": false
-      },
-      {
-        "id": "95",
-        "type": "stanza",
-        "number": "",
-        "lines": [
-          ""
-        ],
-        "placeholder": true
       },
       {
         "id": "96",
@@ -1291,9 +1290,9 @@
         "id": "1",
         "type": "heading",
         "lines": [
-          "I"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "2",
@@ -1432,10 +1431,11 @@
       {
         "id": "12",
         "type": "heading",
+        "number": "",
         "lines": [
-          "* * *"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "13",
@@ -1990,10 +1990,11 @@
       {
         "id": "54",
         "type": "heading",
+        "number": "",
         "lines": [
-          "* * *"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "55",
@@ -2040,10 +2041,11 @@
       {
         "id": "58",
         "type": "heading",
+        "number": "",
         "lines": [
-          "* * *"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "59",
@@ -2090,10 +2092,11 @@
       {
         "id": "62",
         "type": "heading",
+        "number": "",
         "lines": [
-          "* * *"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "63",
@@ -2322,10 +2325,11 @@
       {
         "id": "79",
         "type": "heading",
+        "number": "",
         "lines": [
-          "* * *"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "80",
@@ -2561,7 +2565,8 @@
       },
       {
         "id": "2",
-        "type": "prose",
+        "type": "stanza",
+        "number": "1.",
         "lines": [
           "Of life and property a fierce freebooter despoiled mankind; over the ways beset by him might no one living pass."
         ],
@@ -2569,7 +2574,8 @@
       },
       {
         "id": "3",
-        "type": "prose",
+        "type": "stanza",
+        "number": "2.",
         "lines": [
           "Alone he ate most frequently, no one invited he to his repast; until weary, and with failing strength, a wandering guest came from the way."
         ],
@@ -2577,7 +2583,8 @@
       },
       {
         "id": "4",
-        "type": "prose",
+        "type": "stanza",
+        "number": "3.",
         "lines": [
           "In need of drink that way-worn man, and hungry feigned to be: with trembling heart he seemed to trust him who had been so evil-minded."
         ],
@@ -2585,7 +2592,8 @@
       },
       {
         "id": "5",
-        "type": "prose",
+        "type": "stanza",
+        "number": "4.",
         "lines": [
           "Meat and drink to the weary one he gave, all with upright heart; on God he thought, the traveller's wants supplied; for he felt he was an evil-doer."
         ],
@@ -2593,7 +2601,8 @@
       },
       {
         "id": "6",
-        "type": "prose",
+        "type": "stanza",
+        "number": "5.",
         "lines": [
           "Up stood the guest, he evil meditated, he had not been kindly treated; his sin within him swelled, he while sleeping murdered his wary cautious host."
         ],
@@ -2601,7 +2610,8 @@
       },
       {
         "id": "7",
-        "type": "prose",
+        "type": "stanza",
+        "number": "6.",
         "lines": [
           "The God of heaven he prayed for help, when being struck he woke; but he was doomed the sins of him on himself to take, whom sackless he had slain."
         ],
@@ -2610,7 +2620,7 @@
       {
         "id": "8",
         "type": "stanza",
-        "number": "1.",
+        "number": "7.",
         "lines": [
           "Holy angels came from heaven above, and took to them his soul: in a life of purity it shall ever live with the almighty God.",
           "*********"
@@ -2628,7 +2638,8 @@
       },
       {
         "id": "10",
-        "type": "prose",
+        "type": "stanza",
+        "number": "8.",
         "lines": [
           "Riches and health no one may command, though all go smoothly with him. To many that befalls which they least expect. No one may command his tranquil"
         ],
@@ -2637,7 +2648,7 @@
       {
         "id": "11",
         "type": "stanza",
-        "number": "2.",
+        "number": "9.",
         "lines": [
           "Unnar and Saevaldi never imagined that happiness would fall from them, yet naked they became, and of all bereft, and, like wolves, ran to the forest.",
           "*********"
@@ -2655,7 +2666,8 @@
       },
       {
         "id": "13",
-        "type": "prose",
+        "type": "stanza",
+        "number": "10.",
         "lines": [
           "The force of pleasure has many a one bewailed. Cares are often caused by women; pernicious they become, although the mighty God them pure created."
         ],
@@ -2663,7 +2675,8 @@
       },
       {
         "id": "14",
-        "type": "prose",
+        "type": "stanza",
+        "number": "11.",
         "lines": [
           "United were Svafud and Skarthedin, neither might without the other be, until to frenzy they were driven for a woman: she was destined for their perdition."
         ],
@@ -2671,7 +2684,8 @@
       },
       {
         "id": "15",
-        "type": "prose",
+        "type": "stanza",
+        "number": "12.",
         "lines": [
           "On account of that fair maid, neither of them cared for games or joyous days; no other thing could they in memory bear than that bright form."
         ],
@@ -2679,7 +2693,8 @@
       },
       {
         "id": "16",
-        "type": "prose",
+        "type": "stanza",
+        "number": "13.",
         "lines": [
           "Sad to them were the gloomy nights, no sweet sleep might they enjoy: but from that anguish rose hate intense between the faithful friends."
         ],
@@ -2688,7 +2703,7 @@
       {
         "id": "17",
         "type": "stanza",
-        "number": "3.",
+        "number": "14.",
         "lines": [
           "Hostile deeds are in most places fiercely avenged. To the holm they went, for that fair woman, and each one found his death.",
           "*********"
@@ -2706,7 +2721,8 @@
       },
       {
         "id": "19",
-        "type": "prose",
+        "type": "stanza",
+        "number": "15.",
         "lines": [
           "Arrogance should no one entertain: I indeed have seen that those who follow her, for the most part, turn from God."
         ],
@@ -2714,7 +2730,8 @@
       },
       {
         "id": "20",
-        "type": "prose",
+        "type": "stanza",
+        "number": "16.",
         "lines": [
           "Rich were both, Radey and Vebogi, and thought only of their well-being; now they sit and turn their sores to various hearths."
         ],
@@ -2722,7 +2739,8 @@
       },
       {
         "id": "21",
-        "type": "prose",
+        "type": "stanza",
+        "number": "17.",
         "lines": [
           "They in themselves confided, and thought thenv selves alone to be above all people; but their lot Almighty God was pleased otherwise to appoint."
         ],
@@ -2731,7 +2749,7 @@
       {
         "id": "22",
         "type": "stanza",
-        "number": "4.",
+        "number": "18.",
         "lines": [
           "A life of luxury they led, in many ways, and had gold for sport. Now they are requited, so that they must walk between frost and fire.",
           "*********"
@@ -2749,7 +2767,8 @@
       },
       {
         "id": "24",
-        "type": "prose",
+        "type": "stanza",
+        "number": "19.",
         "lines": [
           "To thy enemies trust thou never, although they speak thee fair: promise them good: 'tis good to have another's injury as a warning."
         ],
@@ -2757,7 +2776,8 @@
       },
       {
         "id": "25",
-        "type": "prose",
+        "type": "stanza",
+        "number": "20.",
         "lines": [
           "So it befell Sorli the upright, when he placed himself in Vigolf's power; he confidently trusted him, his brother's murderer, but he proved false."
         ],
@@ -2765,7 +2785,8 @@
       },
       {
         "id": "26",
-        "type": "prose",
+        "type": "stanza",
+        "number": "21.",
         "lines": [
           "Peace to them he granted, with heart sincere; they in return promised him gold, feigned themselves friends, while they together drank; but then came forth their guile."
         ],
@@ -2773,7 +2794,8 @@
       },
       {
         "id": "27",
-        "type": "prose",
+        "type": "stanza",
+        "number": "22.",
         "lines": [
           "Then afterwards, on the second day, when they in Rygiardal rode, they with swords wounded him who sackless was, and let his life go forth."
         ],
@@ -2781,7 +2803,8 @@
       },
       {
         "id": "28",
-        "type": "prose",
+        "type": "stanza",
+        "number": "23.",
         "lines": [
           "His corpse they dragged (on a lonely way, and cut up piecemeal) into a well, and would it hide; but the holy Lord beheld from heaven."
         ],
@@ -2789,7 +2812,8 @@
       },
       {
         "id": "29",
-        "type": "prose",
+        "type": "stanza",
+        "number": "24.",
         "lines": [
           "His soul summoned home the true God into his joy to come; but the evil doers will, I wean, late be from torments called."
         ],
@@ -2806,7 +2830,8 @@
       },
       {
         "id": "31",
-        "type": "prose",
+        "type": "stanza",
+        "number": "25.",
         "lines": [
           "Do thou pray the Disir of the Lord's words to be kind to thee in spirit: for a week after, all shall then go happily, according to thy will."
         ],
@@ -2814,7 +2839,8 @@
       },
       {
         "id": "32",
-        "type": "prose",
+        "type": "stanza",
+        "number": "26.",
         "lines": [
           "For a deed of ire that thou hast perpetrated, never atone with evil: the weeping thou shalt soothe with benefits: that is salutary to the soul."
         ],
@@ -2822,7 +2848,8 @@
       },
       {
         "id": "33",
-        "type": "prose",
+        "type": "stanza",
+        "number": "27.",
         "lines": [
           "On God a man shall for good things call, on him who has mankind created. Greatly sinful is every man who late finds the Father."
         ],
@@ -2830,7 +2857,8 @@
       },
       {
         "id": "34",
-        "type": "prose",
+        "type": "stanza",
+        "number": "28.",
         "lines": [
           "To be solicited, we opine, is with all earnestness for that which is lacking: of all things may be destitute he who for nothing asks: few heed the wants of the silent."
         ],
@@ -2838,7 +2866,8 @@
       },
       {
         "id": "35",
-        "type": "prose",
+        "type": "stanza",
+        "number": "29.",
         "lines": [
           "Late I came, though called betimes, to the supreme Judge's door; thitherward I yearn; for it was promised me, he who craves it shall of the feast partake."
         ],
@@ -2846,7 +2875,8 @@
       },
       {
         "id": "36",
-        "type": "prose",
+        "type": "stanza",
+        "number": "30.",
         "lines": [
           "Sins are the cause that sorrowing we depart from this world: no one stands in dread, if he does no evil: good it is to be blameless."
         ],
@@ -2854,7 +2884,8 @@
       },
       {
         "id": "37",
-        "type": "prose",
+        "type": "stanza",
+        "number": "31.",
         "lines": [
           "Like unto wolves all those seem who have a faithless mind: so he will prove who has to go through ways strewed with gleeds."
         ],
@@ -2862,7 +2893,8 @@
       },
       {
         "id": "38",
-        "type": "prose",
+        "type": "stanza",
+        "number": "32.",
         "lines": [
           "Friendly counsels, and wisely composed, seven I have imparted to thee: consider thou them well, and forget them never: they are all useful to learn."
         ],
@@ -2879,7 +2911,8 @@
       },
       {
         "id": "40",
-        "type": "prose",
+        "type": "stanza",
+        "number": "33.",
         "lines": [
           "Of that I will speak, how happy I was in the world, and secondly, how the sons of men reluctantly become corpses."
         ],
@@ -2887,7 +2920,8 @@
       },
       {
         "id": "41",
-        "type": "prose",
+        "type": "stanza",
+        "number": "34.",
         "lines": [
           "Pleasure and pride deceive the sons of men who after money crave; shining riches at last become a sorrow : many have riches driven to madness."
         ],
@@ -2895,7 +2929,8 @@
       },
       {
         "id": "42",
-        "type": "prose",
+        "type": "stanza",
+        "number": "35.",
         "lines": [
           "Steeped in joys I seemed to men; for little did I see before me: our worldly sojourn has the Lord created in delights abounding."
         ],
@@ -2903,7 +2938,8 @@
       },
       {
         "id": "43",
-        "type": "prose",
+        "type": "stanza",
+        "number": "36.",
         "lines": [
           "Bowed down I sat, long I tottered, of life was most desirous; but He prevailed who was all-powerful: onward are the ways of the doomed."
         ],
@@ -2911,7 +2947,8 @@
       },
       {
         "id": "44",
-        "type": "prose",
+        "type": "stanza",
+        "number": "37.",
         "lines": [
           "The cords of Hel were tightly bound round my sides; I would rend them, but they were strong. Tis easy free to go."
         ],
@@ -2919,7 +2956,8 @@
       },
       {
         "id": "45",
-        "type": "prose",
+        "type": "stanza",
+        "number": "38.",
         "lines": [
           "I alone knew, how on all sides my pains increased. The maids of Hel each eve with horror bade me to their home."
         ],
@@ -2927,7 +2965,8 @@
       },
       {
         "id": "46",
-        "type": "prose",
+        "type": "stanza",
+        "number": "39.",
         "lines": [
           "The sun I saw, true star of day, sink in its roaring home; but Hel's grated doors on the other side I heard heavily creaking."
         ],
@@ -2935,7 +2974,8 @@
       },
       {
         "id": "47",
-        "type": "prose",
+        "type": "stanza",
+        "number": "40.",
         "lines": [
           "The sun I saw with blood-red beams beset: (fast was I then from this world declining) mightier she appeared, in many ways, than she was before."
         ],
@@ -2943,7 +2983,8 @@
       },
       {
         "id": "48",
-        "type": "prose",
+        "type": "stanza",
+        "number": "41.",
         "lines": [
           "The sun I saw, and it seemed to me as if I saw a glorious god: I bowed before her, for the last time, in the world of men."
         ],
@@ -2951,7 +2992,8 @@
       },
       {
         "id": "49",
-        "type": "prose",
+        "type": "stanza",
+        "number": "42.",
         "lines": [
           "The sun I saw: she beamed forth so that I seemed nothing to know; but Gioll's streams roared from the other side mingled much with blood."
         ],
@@ -2959,7 +3001,8 @@
       },
       {
         "id": "50",
-        "type": "prose",
+        "type": "stanza",
+        "number": "43.",
         "lines": [
           "The sun I saw, with quivering eyes, appalled and shrinking; for my heart in great measure was dissolved in languor."
         ],
@@ -2967,7 +3010,8 @@
       },
       {
         "id": "51",
-        "type": "prose",
+        "type": "stanza",
+        "number": "44.",
         "lines": [
           "The sun I saw seldom sadder; I had then almost from the world declined: my tongue was as wood become, and all was cold without me."
         ],
@@ -2975,7 +3019,8 @@
       },
       {
         "id": "52",
-        "type": "prose",
+        "type": "stanza",
+        "number": "45.",
         "lines": [
           "The sun I saw never after, since that gloomy day; for the mountain-waters closed over me, and I went called from torments."
         ],
@@ -2984,7 +3029,7 @@
       {
         "id": "53",
         "type": "stanza",
-        "number": "5.",
+        "number": "46.",
         "lines": [
           "The star of hope, when I was born, fled from my breast away; high it flew, settled nowhere, so that it might find rest.",
           "*********"
@@ -3002,7 +3047,8 @@
       },
       {
         "id": "55",
-        "type": "prose",
+        "type": "stanza",
+        "number": "47.",
         "lines": [
           "Longer than all was that one night, when stiff on my straw I lay; then becomes manifest the divine word: \"Man is the same as earth.\""
         ],
@@ -3010,7 +3056,8 @@
       },
       {
         "id": "56",
-        "type": "prose",
+        "type": "stanza",
+        "number": "48.",
         "lines": [
           "The Creator God can it estimate and know, (He who made heaven and earth) how forsaken many go hence, although from kindred parted."
         ],
@@ -3019,7 +3066,7 @@
       {
         "id": "57",
         "type": "stanza",
-        "number": "6.",
+        "number": "49.",
         "lines": [
           "Of his works each has the reward: happy is he who does good. Of my wealth bereft, to me was destined a bed strewed with sand.",
           "*********"
@@ -3037,7 +3084,8 @@
       },
       {
         "id": "59",
-        "type": "prose",
+        "type": "stanza",
+        "number": "50.",
         "lines": [
           "Bodily desires men oftentimes seduce, of them has many a one too much: water of baths was of all things to me most loathsome."
         ],
@@ -3045,7 +3093,8 @@
       },
       {
         "id": "60",
-        "type": "prose",
+        "type": "stanza",
+        "number": "51.",
         "lines": [
           "In the Norns seat nine days I sat, thence I was mounted on a horse: there the giantess's sun shone grimly through the dripping clouds of heaven."
         ],
@@ -3054,7 +3103,7 @@
       {
         "id": "61",
         "type": "stanza",
-        "number": "7.",
+        "number": "52.",
         "lines": [
           "Without and within, I seemed to traverse all the seven nether worlds: up and down, I sought an easier way, where I might have the readiest paths.",
           "*********"
@@ -3072,7 +3121,8 @@
       },
       {
         "id": "63",
-        "type": "prose",
+        "type": "stanza",
+        "number": "53.",
         "lines": [
           "Of that is to be told, which I first saw, when I to the worlds of torment came: scorched birds, which were souls, flew numerous as flies."
         ],
@@ -3080,7 +3130,8 @@
       },
       {
         "id": "64",
-        "type": "prose",
+        "type": "stanza",
+        "number": "54.",
         "lines": [
           "From the west I saw Von's dragons fly, and Glaeval's paths obscure: their wings they shook; wide around me seemed the earth and heaven to burst."
         ],
@@ -3088,7 +3139,8 @@
       },
       {
         "id": "65",
-        "type": "prose",
+        "type": "stanza",
+        "number": "55.",
         "lines": [
           "The sun's hart I saw from the south coming, he was by two together led: his feet stood on the earth, but his horns reached up to heaven."
         ],
@@ -3096,7 +3148,8 @@
       },
       {
         "id": "66",
-        "type": "prose",
+        "type": "stanza",
+        "number": "56.",
         "lines": [
           "From the north riding I saw the sons of Nidi, they were seven in all: from full horns, the pure mead they drank from the heaven-god's well."
         ],
@@ -3104,7 +3157,8 @@
       },
       {
         "id": "67",
-        "type": "prose",
+        "type": "stanza",
+        "number": "57.",
         "lines": [
           "The wind was silent, the waters stopped their course; then I heard a doleful sound: for their husbands false-faced women ground earth for food."
         ],
@@ -3112,7 +3166,8 @@
       },
       {
         "id": "68",
-        "type": "prose",
+        "type": "stanza",
+        "number": "58.",
         "lines": [
           "Gory stones those dark women turned sorrowfully; bleeding hearts hung out of their breasts, faint with much affliction."
         ],
@@ -3120,7 +3175,8 @@
       },
       {
         "id": "69",
-        "type": "prose",
+        "type": "stanza",
+        "number": "59.",
         "lines": [
           "Many a man I saw wounded go on those gleed- strewed paths; their faces seemed to me all reddened with reeking blood."
         ],
@@ -3128,7 +3184,8 @@
       },
       {
         "id": "70",
-        "type": "prose",
+        "type": "stanza",
+        "number": "60.",
         "lines": [
           "Many men I saw to earth gone down, who holy service might not have; heathen stars stood above their heads, painted with deadly characters."
         ],
@@ -3136,7 +3193,8 @@
       },
       {
         "id": "71",
-        "type": "prose",
+        "type": "stanza",
+        "number": "61.",
         "lines": [
           "I saw those men who much envy harbour at another's fortune; bloody runes were on their breasts graved painfully."
         ],
@@ -3144,7 +3202,8 @@
       },
       {
         "id": "72",
-        "type": "prose",
+        "type": "stanza",
+        "number": "62.",
         "lines": [
           "I there saw men many not joyful; they were all wandering wild: this he earns, who by this world's vices is infatuated."
         ],
@@ -3152,7 +3211,8 @@
       },
       {
         "id": "73",
-        "type": "prose",
+        "type": "stanza",
+        "number": "63.",
         "lines": [
           "I saw those men who had in various ways acquired other's property: in shoals they went to Castle- covetous, and burthens bore of lead."
         ],
@@ -3160,7 +3220,8 @@
       },
       {
         "id": "74",
-        "type": "prose",
+        "type": "stanza",
+        "number": "64.",
         "lines": [
           "I saw those men who many had of life and property bereft: through the breasts of those men passed strong venomous serpents."
         ],
@@ -3168,7 +3229,8 @@
       },
       {
         "id": "75",
-        "type": "prose",
+        "type": "stanza",
+        "number": "65.",
         "lines": [
           "I saw those men who the holy days would not observe: their hands were on hot stones firmly nailed."
         ],
@@ -3176,7 +3238,8 @@
       },
       {
         "id": "76",
-        "type": "prose",
+        "type": "stanza",
+        "number": "66.",
         "lines": [
           "I saw those men who from pride valued themselves too highly; their garments ludicrously were in fire enveloped."
         ],
@@ -3184,7 +3247,8 @@
       },
       {
         "id": "77",
-        "type": "prose",
+        "type": "stanza",
+        "number": "67.",
         "lines": [
           "I saw those men who had many false words of others uttered: Hel's ravens from their heads their eyes miserably tore."
         ],
@@ -3193,7 +3257,7 @@
       {
         "id": "78",
         "type": "stanza",
-        "number": "8.",
+        "number": "68.",
         "lines": [
           "All the horrors thou wilt not get to know which Hel's inmates suffer. Pleasant sins end in painful penalties : pains ever follow pleasure.",
           "*********"
@@ -3211,7 +3275,8 @@
       },
       {
         "id": "80",
-        "type": "prose",
+        "type": "stanza",
+        "number": "69.",
         "lines": [
           "I saw those men who had much given for God's laws; pure lights were above their heads brightly burning."
         ],
@@ -3219,7 +3284,8 @@
       },
       {
         "id": "81",
-        "type": "prose",
+        "type": "stanza",
+        "number": "70.",
         "lines": [
           "I saw those men who from exalted mind helped the poor to aid: angels read holy books above their heads."
         ],
@@ -3227,7 +3293,8 @@
       },
       {
         "id": "82",
-        "type": "prose",
+        "type": "stanza",
+        "number": "71.",
         "lines": [
           "I saw those men who with much fasting had their bodies wasted: God's angels bowed before them: that is the highest joy."
         ],
@@ -3235,7 +3302,8 @@
       },
       {
         "id": "83",
-        "type": "prose",
+        "type": "stanza",
+        "number": "72.",
         "lines": [
           "I saw those men who had put food into their mothers mouth: their couches were on the rays of heaven pleasantly placed."
         ],
@@ -3243,7 +3311,8 @@
       },
       {
         "id": "84",
-        "type": "prose",
+        "type": "stanza",
+        "number": "73.",
         "lines": [
           "Holy virgins had cleanly washed the souls from sin of tfibse men, who for a long time had themselves tormented."
         ],
@@ -3251,7 +3320,8 @@
       },
       {
         "id": "85",
-        "type": "prose",
+        "type": "stanza",
+        "number": "74.",
         "lines": [
           "Lofty cars I saw towards heaven going; they were on the way to God: men guided them who had been murdered wholly without crime."
         ],
@@ -3259,7 +3329,8 @@
       },
       {
         "id": "86",
-        "type": "prose",
+        "type": "stanza",
+        "number": "75.",
         "lines": [
           "Almighty Father! greatest Son! holy Spirit of heaven! Thee I pray, who hast us all created; free us all from miseries."
         ],
@@ -3276,7 +3347,8 @@
       },
       {
         "id": "88",
-        "type": "prose",
+        "type": "stanza",
+        "number": "76.",
         "lines": [
           "Biugvor and Listvor sit at Herdir's doors, on resounding seat; iron gore falls from their nostrils, which kindles hate among men."
         ],
@@ -3284,7 +3356,8 @@
       },
       {
         "id": "89",
-        "type": "prose",
+        "type": "stanza",
+        "number": "77.",
         "lines": [
           "Odin's wife rows in earth's ship, eager after pleasures; her sails are reefed late, which on the ropes of desire are hung."
         ],
@@ -3292,7 +3365,8 @@
       },
       {
         "id": "90",
-        "type": "prose",
+        "type": "stanza",
+        "number": "78.",
         "lines": [
           "Son! I thy father and Solkatla's sons have alone obtained for thee that horn of hart, which from the grave-mound bore the wise Vigdvalin."
         ],
@@ -3300,7 +3374,8 @@
       },
       {
         "id": "91",
-        "type": "heading",
+        "type": "stanza",
+        "number": "79.",
         "lines": [
           "Here are runes which have engraven Niord's daughters nine, Radvor the eldest, and the youngest Kreppvor, and their seven sisters."
         ],
@@ -3308,7 +3383,8 @@
       },
       {
         "id": "92",
-        "type": "prose",
+        "type": "stanza",
+        "number": "80.",
         "lines": [
           "How much violence have they perpetrated Svaf and Svaflogi! bloodshed they have excited, and wounds have sucked, after an evil custom."
         ],
@@ -3325,7 +3401,8 @@
       },
       {
         "id": "94",
-        "type": "prose",
+        "type": "stanza",
+        "number": "81.",
         "lines": [
           "This lay, which I have taught thee, thou shalt before the living sing, the Sun-Song, which will appear in many parts no fiction."
         ],
@@ -3333,7 +3410,8 @@
       },
       {
         "id": "95",
-        "type": "prose",
+        "type": "stanza",
+        "number": "82.",
         "lines": [
           "Here we part, but again shall meet on the day of men's rejoicing. Oh Lord! unto the dead grant peace, and to the living comfort."
         ],
@@ -3341,7 +3419,8 @@
       },
       {
         "id": "96",
-        "type": "prose",
+        "type": "stanza",
+        "number": "83.",
         "lines": [
           "Wondrous lore has in dream to thee been sung, but thou hast seen the truth: no man has been so wise created that has before heard the Sun-song."
         ],

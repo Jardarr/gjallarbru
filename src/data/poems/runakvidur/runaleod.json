@@ -1,9 +1,11 @@
 {
+  "category": "runakvidur",
   "slug": "runaleod",
   "key": "Runaleod",
   "title": {
     "on": "Rúnaléoð",
-    "ru": "Поэма рун"
+    "ru": "Поэма рун",
+    "en": "Rune Poem"
   },
   "subtitle": {
     "ru": "Англосаксонская руническая поэма",
@@ -480,9 +482,9 @@
         "id": "1",
         "type": "heading",
         "lines": [
-          "Att I"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "2",
@@ -600,9 +602,9 @@
         "id": "10",
         "type": "heading",
         "lines": [
-          "Att II"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "11",
@@ -719,9 +721,9 @@
         "id": "19",
         "type": "heading",
         "lines": [
-          "Att III"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "20",
@@ -850,9 +852,9 @@
         "id": "28",
         "type": "heading",
         "lines": [
-          "Att IV"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "29",

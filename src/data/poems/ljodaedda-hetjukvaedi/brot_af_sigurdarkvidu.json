@@ -1,4 +1,5 @@
 {
+  "category": "ljodaedda-hetjukvaedi",
   "slug": "brot-af-sigurdarkvidu",
   "key": "BrotAfSigurdarkvidu",
   "title": {
@@ -12,8 +13,8 @@
   },
   "description": {
     "on": "",
-    "ru": "Хегни сказал: В чем пред тобою Сигурд повинен что хочешь ты смелого жизни лишить?",
-    "en": "Hogni spake: \"(What evil deed has Sigurth) done, That the hero's life thou fain wouldst have?\""
+    "ru": "",
+    "en": ""
   },
   "source": {
     "on": "",

@@ -1,9 +1,11 @@
 {
+  "category": "runakvidur",
   "slug": "abecedarium-nordmannicum",
   "key": "AbecedariumNordmannicum",
   "title": {
     "on": "Abecedarium nord[mannicum]",
-    "ru": "Нормандский азбуковник"
+    "ru": "Нормандский азбуковник",
+    "en": "Abecedarium Nordmannicum"
   },
   "subtitle": {
     "ru": "",

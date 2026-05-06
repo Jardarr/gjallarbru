@@ -1,9 +1,11 @@
 {
+  "category": "diutisk-j-sahsisk",
   "slug": "gegen-fallsucht",
   "key": "GegenFallsucht",
   "title": {
     "on": "Gegen fallsucht",
-    "ru": "Заклинание против эпилепсии"
+    "ru": "Заклинание против эпилепсии",
+    "en": "Spell against epilepsy"
   },
   "subtitle": {
     "ru": "",

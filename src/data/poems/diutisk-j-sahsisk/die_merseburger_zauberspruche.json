@@ -1,9 +1,11 @@
 {
+  "category": "diutisk-j-sahsisk",
   "slug": "die-merseburger-zauberspruche",
   "key": "DieMerseburgerZauberspruche",
   "title": {
     "on": "Die Merseburger zaubersprüche",
-    "ru": "Мерзебургские заклинания"
+    "ru": "Мерзебургские заклинания",
+    "en": "Merseburg Spells"
   },
   "subtitle": {
     "ru": "",

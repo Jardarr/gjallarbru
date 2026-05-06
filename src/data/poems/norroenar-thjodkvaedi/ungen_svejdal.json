@@ -1,9 +1,11 @@
 {
+  "category": "norroenar-thjodkvaedi",
   "slug": "ungen-svejdal",
   "key": "UngenSvejdal",
   "title": {
     "on": "Ungen Svejdal",
-    "ru": "Юный Свейдаль"
+    "ru": "Юный Свейдаль",
+    "en": "Young Svejdal"
   },
   "subtitle": {
     "ru": "",

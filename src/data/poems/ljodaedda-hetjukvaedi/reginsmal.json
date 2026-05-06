@@ -1,4 +1,5 @@
 {
+  "category": "ljodaedda-hetjukvaedi",
   "slug": "reginsmal",
   "key": "Reginsmal",
   "title": {
@@ -519,20 +520,17 @@
       },
       {
         "id": "40",
-        "type": "stanza",
-        "number": "26.",
+        "type": "prose",
+        "number": "",
         "lines": [
-          "XIV Sigurðr átti orrustu mikla við",
-          "Lyn­g­va Hundings son ok bræðr",
-          "hans. Þar fell Lyngvi ok þeir þrír",
-          "bræðr. Eftir orrustu kvað Reginn:"
+          "XIV Sigurðr átti orrustu mikla við Lyn­g­va Hundings son ok bræðr hans. Þar fell Lyngvi ok þeir þrír bræðr. Eftir orrustu kvað Reginn:"
         ],
         "placeholder": false
       },
       {
         "id": "41",
         "type": "stanza",
-        "number": "27.",
+        "number": "26.",
         "lines": [
           "«Nú er blóðugr örn",
           "bitrum hjörvi",
@@ -1085,7 +1083,7 @@
     "en": [
       {
         "id": "1",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1094,7 +1092,7 @@
       },
       {
         "id": "2",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1324,8 +1322,8 @@
       },
       {
         "id": "20",
-        "type": "stanza",
-        "number": "13.",
+        "type": "prose",
+        "number": "",
         "lines": [
           "All these happenings did Regin tell to Sigurth.",
           "One day, when he came to Regin's house, he was gladly welcomed. Regin said:"
@@ -1335,7 +1333,7 @@
       {
         "id": "21",
         "type": "stanza",
-        "number": "14.",
+        "number": "13.",
         "lines": [
           "\"Hither the son",
           "of Sigmund is come,",
@@ -1351,7 +1349,7 @@
       {
         "id": "22",
         "type": "stanza",
-        "number": "15.",
+        "number": "14.",
         "lines": [
           "\"Here shall I foster",
           "the fearless prince,",
@@ -1374,8 +1372,26 @@
       },
       {
         "id": "24",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "25",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "26",
         "type": "stanza",
-        "number": "16.",
+        "number": "15.",
         "lines": [
           "\"Loud will the sons",
           "of Hunding laugh,",
@@ -1389,7 +1405,7 @@
         "placeholder": false
       },
       {
-        "id": "25",
+        "id": "27",
         "type": "prose",
         "lines": [
           "King Hjalprek gave Sigurth a fleet for the avenging of his father. They ran into a great storm, and were off a certain headland. A man stood on the mountain, and said:"
@@ -1397,9 +1413,9 @@
         "placeholder": false
       },
       {
-        "id": "26",
+        "id": "28",
         "type": "stanza",
-        "number": "17.",
+        "number": "16.",
         "lines": [
           "\"Who yonder rides",
           "on Rævil's steeds,",
@@ -1413,18 +1429,9 @@
         "placeholder": false
       },
       {
-        "id": "27",
+        "id": "29",
         "type": "stanza",
-        "number": "",
-        "lines": [
-          ""
-        ],
-        "placeholder": true
-      },
-      {
-        "id": "28",
-        "type": "stanza",
-        "number": "18.",
+        "number": "17.",
         "lines": [
           "Regin answered:",
           "\"On the sea-trees here",
@@ -1439,9 +1446,9 @@
         "placeholder": false
       },
       {
-        "id": "29",
+        "id": "30",
         "type": "stanza",
-        "number": "19.",
+        "number": "18.",
         "lines": [
           "The Man spake:",
           "\"Hnikar I was",
@@ -1456,15 +1463,6 @@
         "placeholder": false
       },
       {
-        "id": "30",
-        "type": "stanza",
-        "number": "",
-        "lines": [
-          ""
-        ],
-        "placeholder": true
-      },
-      {
         "id": "31",
         "type": "prose",
         "lines": [
@@ -1475,7 +1473,7 @@
       {
         "id": "32",
         "type": "stanza",
-        "number": "20.",
+        "number": "19.",
         "lines": [
           "\"Hnikar, say,",
           "for thou seest the fate",
@@ -1489,7 +1487,7 @@
       {
         "id": "33",
         "type": "stanza",
-        "number": "21.",
+        "number": "20.",
         "lines": [
           "Hnikar spake:",
           "\"Many the signs,",
@@ -1504,7 +1502,7 @@
       {
         "id": "34",
         "type": "stanza",
-        "number": "22.",
+        "number": "21.",
         "lines": [
           "Hnikar spake:",
           "\"Another it is",
@@ -1519,7 +1517,7 @@
       {
         "id": "35",
         "type": "stanza",
-        "number": "23.",
+        "number": "22.",
         "lines": [
           "\"Third it is well",
           "if a howling wolf",
@@ -1533,7 +1531,7 @@
       {
         "id": "36",
         "type": "stanza",
-        "number": "24.",
+        "number": "23.",
         "lines": [
           "\"A man shall fight not",
           "when he must face",
@@ -1548,7 +1546,7 @@
       {
         "id": "37",
         "type": "stanza",
-        "number": "25.",
+        "number": "24.",
         "lines": [
           "\"Foul is the sign",
           "if thy foot shall stumble",
@@ -1562,7 +1560,7 @@
       {
         "id": "38",
         "type": "stanza",
-        "number": "26.",
+        "number": "25.",
         "lines": [
           "\"Combed and washed",
           "shall the wise man go,",
@@ -1585,6 +1583,7 @@
       {
         "id": "40",
         "type": "prose",
+        "number": "",
         "lines": [
           "Sigurth had a great battle with Lyngvi, the son of Hunding, and his brothers; there Lyngvi fell, and his two brothers with him. After the battle Regin said:"
         ],

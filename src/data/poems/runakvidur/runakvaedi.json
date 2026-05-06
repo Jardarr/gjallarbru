@@ -1,9 +1,11 @@
 {
+  "category": "runakvidur",
   "slug": "runakvaedi",
   "key": "Runakvaedi",
   "title": {
     "on": "Runakvædi",
-    "ru": "Рунопеснь"
+    "ru": "Рунопеснь",
+    "en": "Rune Song"
   },
   "subtitle": {
     "ru": "Норвежская руническая поэма",

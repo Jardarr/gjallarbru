@@ -1,13 +1,16 @@
 {
+  "category": "eald-englisc-leodcraeft",
   "slug": "beowulf",
   "key": "Beowulf",
   "title": {
     "on": "Beowulf",
-    "ru": "Беовульф"
+    "ru": "Беовульф",
+    "en": "Beowulf"
   },
   "subtitle": {
     "on": "",
-    "ru": "Отрывок 1188–1219"
+    "ru": "Отрывок 1188–1219",
+    "en": "Excerpt 1188–1219"
   },
   "description": {
     "on": "",

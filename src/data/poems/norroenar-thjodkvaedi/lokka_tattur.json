@@ -1,9 +1,11 @@
 {
+  "category": "norroenar-thjodkvaedi",
   "slug": "lokka-tattur",
   "key": "LokkaTattur",
   "title": {
     "on": "Lokka táttur",
-    "ru": "Прядь о Локи"
+    "ru": "Прядь о Локи",
+    "en": "Strand about Loki"
   },
   "subtitle": {
     "ru": "",

@@ -1,9 +1,11 @@
 {
+  "category": "diutisk-j-sahsisk",
   "slug": "ezzolied",
   "key": "Ezzolied",
   "title": {
     "on": "Ezzolied",
-    "ru": "Эццолид"
+    "ru": "Эццолид",
+    "en": "Ezzolied"
   },
   "subtitle": {
     "ru": "",
@@ -87,9 +89,9 @@
         "id": "2",
         "type": "heading",
         "lines": [
-          "5 (III)"
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "3",

@@ -1,4 +1,5 @@
 {
+  "category": "eddica-minora",
   "slug": "gatur-gestumblinda",
   "key": "GaturGestumblinda",
   "title": {
@@ -1893,7 +1894,7 @@
     "en": [
       {
         "id": "1",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1902,7 +1903,7 @@
       },
       {
         "id": "2",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1911,7 +1912,7 @@
       },
       {
         "id": "3",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1920,7 +1921,7 @@
       },
       {
         "id": "4",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1929,7 +1930,7 @@
       },
       {
         "id": "5",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1938,7 +1939,7 @@
       },
       {
         "id": "6",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1947,7 +1948,7 @@
       },
       {
         "id": "7",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1956,7 +1957,7 @@
       },
       {
         "id": "8",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1965,7 +1966,7 @@
       },
       {
         "id": "9",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1974,7 +1975,7 @@
       },
       {
         "id": "10",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -1983,7 +1984,7 @@
       },
       {
         "id": "11",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2011,7 +2012,7 @@
       },
       {
         "id": "13",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2038,7 +2039,7 @@
       },
       {
         "id": "15",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2065,7 +2066,7 @@
       },
       {
         "id": "17",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2092,7 +2093,7 @@
       },
       {
         "id": "19",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2119,7 +2120,7 @@
       },
       {
         "id": "21",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2146,7 +2147,7 @@
       },
       {
         "id": "23",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2171,7 +2172,7 @@
       },
       {
         "id": "25",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2198,7 +2199,7 @@
       },
       {
         "id": "27",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2225,7 +2226,7 @@
       },
       {
         "id": "29",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2252,7 +2253,7 @@
       },
       {
         "id": "31",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2279,7 +2280,7 @@
       },
       {
         "id": "33",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2306,7 +2307,7 @@
       },
       {
         "id": "35",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2333,7 +2334,7 @@
       },
       {
         "id": "37",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2360,7 +2361,7 @@
       },
       {
         "id": "39",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2387,7 +2388,7 @@
       },
       {
         "id": "41",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2414,7 +2415,7 @@
       },
       {
         "id": "43",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2441,7 +2442,7 @@
       },
       {
         "id": "45",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2468,7 +2469,7 @@
       },
       {
         "id": "47",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2495,7 +2496,7 @@
       },
       {
         "id": "49",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2522,7 +2523,7 @@
       },
       {
         "id": "51",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2549,7 +2550,7 @@
       },
       {
         "id": "53",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2576,7 +2577,7 @@
       },
       {
         "id": "55",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2603,7 +2604,7 @@
       },
       {
         "id": "57",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2630,7 +2631,7 @@
       },
       {
         "id": "59",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2657,7 +2658,7 @@
       },
       {
         "id": "61",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2684,7 +2685,7 @@
       },
       {
         "id": "63",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2693,7 +2694,7 @@
       },
       {
         "id": "64",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2720,7 +2721,7 @@
       },
       {
         "id": "66",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2747,7 +2748,7 @@
       },
       {
         "id": "68",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2773,7 +2774,7 @@
       },
       {
         "id": "70",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2800,7 +2801,7 @@
       },
       {
         "id": "72",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2809,7 +2810,7 @@
       },
       {
         "id": "73",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2818,7 +2819,7 @@
       },
       {
         "id": "74",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""
@@ -2827,7 +2828,7 @@
       },
       {
         "id": "75",
-        "type": "stanza",
+        "type": "prose",
         "number": "",
         "lines": [
           ""

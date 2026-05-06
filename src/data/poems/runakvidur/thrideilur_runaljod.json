@@ -1,9 +1,11 @@
 {
+  "category": "runakvidur",
   "slug": "thrideilur-runaljod",
   "key": "ThrideilurRunaljod",
   "title": {
     "on": "Þrídeilur rúnaljóð",
-    "ru": "Рунические трёхстишия"
+    "ru": "Рунические трёхстишия",
+    "en": "Runic tercets"
   },
   "subtitle": {
     "ru": "Исландская руническая поэма",

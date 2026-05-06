@@ -1,4 +1,5 @@
 {
+  "category": "ljodaedda-godakvaedi",
   "slug": "baldrs-draumar",
   "key": "BaldrsDreaumar",
   "title": {
@@ -12,7 +13,7 @@
   },
   "description": {
     "on": "",
-    "ru": "В настоящем издании приводится расширенный вариант песни: помимо 14 известных по рукописи A строф (пронумерованы (1)–(14) в скобках), приводятся дополнительные строфы (a)–(g), известные только по поздним бумажным рукописям (в списке источников — начиная с O и ниже).",
+    "ru": "Здесь приводится расширенный вариант песни: помимо 14 известных по рукописи A строф (пронумерованы (1)–(14) в скобках), приводятся дополнительные строфы (a)–(g), известные только по поздним бумажным рукописям (в списке источников — начиная с O и ниже).",
     "en": "This edition presents an expanded version of the song: in addition to the 14 stanzas known from manuscript A (numbered (1)–(14) in brackets), additional stanzas (a)–(g) are given, known only from later paper manuscripts (in the list of sources – starting with O and below)."
   },
   "source": {

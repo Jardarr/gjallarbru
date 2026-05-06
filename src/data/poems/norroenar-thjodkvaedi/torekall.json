@@ -1,9 +1,11 @@
 {
+  "category": "norroenar-thjodkvaedi",
   "slug": "torekall",
   "key": "Torekall",
   "title": {
     "on": "Torekall",
-    "ru": "Старик Тор"
+    "ru": "Старик Тор",
+    "en": "Old Man Thor"
   },
   "subtitle": {
     "ru": "",

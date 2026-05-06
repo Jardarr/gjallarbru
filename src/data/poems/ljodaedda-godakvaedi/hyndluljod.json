@@ -1,4 +1,5 @@
 {
+  "category": "ljodaedda-godakvaedi",
   "slug": "hyndluljod",
   "key": "Hyndluljod",
   "title": {
@@ -14,7 +15,7 @@
   "description": {
     "on": "",
     "ru": "Древнеисландский текст приведён в соответствие с рукописью GKS 1005 fol по изданию Flateyjarbok. I. Christiania. 1860. Pp. 11–16.",
-    "en": ""
+    "en": "The Old Icelandic text has been brought into line with the manuscript GKS 1005 fol according to the edition of Flateyjarbok. I. Christiania. 1860. Pp. 11–16."
   },
   "source": {
     "on": "",

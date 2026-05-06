@@ -1,13 +1,15 @@
 {
+  "category": "eddica-apocryphica",
   "slug": "eddubrot",
   "key": "Eddubrot",
   "title": {
     "on": "Eddubrot",
-    "ru": "Эддические отрывки"
+    "ru": "Эддические отрывки",
+    "en": "Eddic Fragments"
   },
   "subtitle": {
     "ru": "Фрагменты неизвестных целиком песен Эдды",
-    "en": ""
+    "en": "Fragments of unknown whole poems of Edda"
   },
   "description": {
     "on": "",
@@ -614,7 +616,7 @@
       },
       {
         "id": "21",
-        "type": "prose",
+        "type": "heading",
         "lines": [
           "ИЗ «ЯЗЫКА ПОЭЗИИ»"
         ],
@@ -692,9 +694,9 @@
         "id": "29",
         "type": "heading",
         "lines": [
-          "8."
+          ""
         ],
-        "placeholder": false
+        "placeholder": true
       },
       {
         "id": "30",
@@ -732,7 +734,7 @@
       {
         "id": "33",
         "type": "heading",
-        "number": "13.",
+        "number": "",
         "lines": [
           "9. ИЗ ДРУГИХ РУКОПИСЕЙ",
           "«МЛАДШЕЙ ЭДДЫ»"
@@ -792,11 +794,10 @@
       },
       {
         "id": "39",
-        "type": "stanza",
-        "number": "16.",
+        "type": "heading",
+        "number": "",
         "lines": [
-          "11. ИЗ ТРЕТЬЕГО ГРАММА­",
-          "ТИЧЕС­КОГО ТРАКТАТА",
+          "11. ИЗ ТРЕТЬЕГО ГРАММАТИЧЕС­КОГО ТРАКТАТА­",
           "(Олав Белый Скальд, 1210–1259)"
         ],
         "placeholder": false

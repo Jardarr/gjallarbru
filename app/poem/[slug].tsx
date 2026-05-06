@@ -61,6 +61,7 @@ export default function PoemScreen() {
             : poem.title.en
         : "";
     const sourceText = poem ? (poem.source[translationLanguage] ?? "") : "";
+    const noteText = poem ? (poem.description[translationLanguage] ?? "") : "";
 
     const headerComponent = useMemo(() => {
         if (!poem) {
@@ -90,37 +91,73 @@ export default function PoemScreen() {
                         {uiLanguage === "ru" ? "ПОЭМА" : "POEM"}
                     </Text>
 
-                    <Text
-                        style={[
-                            styles.title,
-                            {
-                                color: colors.textPrimary,
-                                fontSize: typography.titleLarge * fontScale,
-                                lineHeight: getLineHeight(
-                                    typography.titleLarge * fontScale,
-                                    lineHeights.tight,
-                                ),
-                            },
-                        ]}
-                    >
-                        {poem.title.on}
-                    </Text>
+                    {/* ORIGINAL */}
+                    <View style={styles.titleBlock}>
+                        <Text
+                            style={[
+                                styles.title,
+                                {
+                                    color: colors.textPrimary,
+                                    fontSize: typography.titleLarge * fontScale,
+                                    lineHeight: getLineHeight(
+                                        typography.titleLarge * fontScale,
+                                        lineHeights.tight,
+                                    ),
+                                },
+                            ]}
+                        >
+                            {poem.title.on}
+                        </Text>
 
-                    <Text
-                        style={[
-                            styles.subtitle,
-                            {
-                                color: colors.textSecondary,
-                                fontSize: typography.bodyLarge * fontScale,
-                                lineHeight: getLineHeight(
-                                    typography.bodyLarge * fontScale,
-                                    lineHeights.normal,
-                                ),
-                            },
-                        ]}
-                    >
-                        {translatedTitle}
-                    </Text>
+                        {!!poem.subtitle.on && (
+                            <Text
+                                style={[
+                                    styles.originalSubtitle,
+                                    {
+                                        color: colors.textSecondary,
+                                        fontSize:
+                                            typography.bodyMedium * fontScale,
+                                    },
+                                ]}
+                            >
+                                {poem.subtitle.on}
+                            </Text>
+                        )}
+                    </View>
+
+                    {/* TRANSLATION */}
+                    <View style={styles.translationBlock}>
+                        <Text
+                            style={[
+                                styles.translatedTitle,
+                                {
+                                    color: colors.textPrimary,
+                                    fontSize: typography.bodyLarge * fontScale,
+                                    lineHeight: getLineHeight(
+                                        typography.bodyLarge * fontScale,
+                                        lineHeights.normal,
+                                    ),
+                                },
+                            ]}
+                        >
+                            {translatedTitle}
+                        </Text>
+
+                        {!!poem.subtitle[translationLanguage] && (
+                            <Text
+                                style={[
+                                    styles.translatedSubtitle,
+                                    {
+                                        color: colors.textMuted,
+                                        fontSize:
+                                            typography.bodySmall * fontScale,
+                                    },
+                                ]}
+                            >
+                                {poem.subtitle[translationLanguage]}
+                            </Text>
+                        )}
+                    </View>
                 </View>
 
                 {!!sourceText && (
@@ -159,6 +196,46 @@ export default function PoemScreen() {
                             ]}
                         >
                             {sourceText}
+                        </Text>
+                    </View>
+                )}
+
+                {!!noteText && (
+                    <View
+                        style={[
+                            styles.metaCard,
+                            {
+                                backgroundColor: colors.surface,
+                                borderColor: colors.border,
+                            },
+                        ]}
+                    >
+                        <Text
+                            style={[
+                                styles.metaLabel,
+                                {
+                                    color: colors.textMuted,
+                                    fontSize: typography.labelSmall * fontScale,
+                                },
+                            ]}
+                        >
+                            {uiLanguage === "ru" ? "ПРИМЕЧАНИЯ" : "NOTES"}
+                        </Text>
+
+                        <Text
+                            style={[
+                                styles.metaText,
+                                {
+                                    color: colors.textSecondary,
+                                    fontSize: typography.bodySmall * fontScale,
+                                    lineHeight: getLineHeight(
+                                        typography.bodySmall * fontScale,
+                                        lineHeights.relaxed,
+                                    ),
+                                },
+                            ]}
+                        >
+                            {noteText}
                         </Text>
                     </View>
                 )}
@@ -248,40 +325,78 @@ const styles = StyleSheet.create({
     screen: {
         flex: 1,
     },
+    
     centered: {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
     },
+
     notFoundText: {},
+
     heroCard: {
         borderWidth: 1,
         borderRadius: radius.xl,
         padding: spacing.xxl,
         marginBottom: spacing.lg,
     },
+
     heroEyebrow: {
         fontWeight: "700",
         letterSpacing: 1,
         marginBottom: spacing.sm,
     },
+
     title: {
         fontWeight: "700",
         marginBottom: spacing.xs,
     },
+
     subtitle: {
         maxWidth: 680,
     },
+
+    subtitleText: {
+        fontWeight: "700",
+        fontSize: typography.bodySmall,
+        marginBottom: spacing.xs,
+    },
+
     metaCard: {
         borderWidth: 1,
         borderRadius: radius.lg,
         padding: spacing.xl,
         marginBottom: spacing.lg,
     },
+
     metaLabel: {
         fontWeight: "700",
         letterSpacing: 1,
         marginBottom: spacing.sm,
     },
     metaText: {},
+
+    titleBlock: {
+        marginBottom: spacing.lg,
+    },
+
+    translationBlock: {
+        paddingTop: spacing.md,
+        borderTopWidth: 1,
+        borderTopColor: "rgba(255,255,255,0.08)",
+    },
+
+    originalSubtitle: {
+        marginTop: spacing.xs,
+        fontStyle: "italic",
+    },
+
+    translatedTitle: {
+        fontWeight: "600",
+    },
+
+    translatedSubtitle: {
+        marginTop: spacing.xs,
+        lineHeight: 22,
+    },
 });

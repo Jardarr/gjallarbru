@@ -1,3 +1,5 @@
+import { PoemCategory } from "../constants/poem-categories";
+
 export type LanguageCode = "on" | "ru" | "en";
 export type TranslationLanguage = "ru" | "en";
 export type PoemBlockType = "stanza" | "prose" | "heading";
@@ -36,6 +38,7 @@ export interface PoemMetaText {
 
 export interface PoemData {
 	slug: string;
+	category: PoemCategory;
 	key: string;
 	title: PoemTitle;
 	subtitle: PoemSubTitle;
@@ -48,4 +51,5 @@ export interface PoemListItem {
 	slug: string;
 	key: string;
 	title: PoemTitle;
+	category: PoemCategory;
 }
