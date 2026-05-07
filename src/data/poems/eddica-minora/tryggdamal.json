@@ -33,8 +33,8 @@
       },
       {
         "id": "2",
-        "type": "stanza",
-        "number": "1.",
+        "type": "prose",
+        "number": "",
         "lines": [
           "Sakar váru á milli þeira N.N.",
           "ok N.N. en nú eru þær settar ok fé",
@@ -45,7 +45,7 @@
       {
         "id": "3",
         "type": "stanza",
-        "number": "2.",
+        "number": "1.",
         "lines": [
           "sem metendr mátu",
           "ok teljendr tǫlðu",
@@ -62,7 +62,7 @@
       {
         "id": "4",
         "type": "stanza",
-        "number": "3.",
+        "number": "2.",
         "lines": [
           "Þit skuluð vera menn",
           "sáttir ok samværir",
@@ -84,7 +84,7 @@
       {
         "id": "6",
         "type": "stanza",
-        "number": "4.",
+        "number": "3.",
         "lines": [
           "Þit skuluð deila",
           "kníf ok kjǫtstykki",
@@ -98,7 +98,7 @@
       {
         "id": "7",
         "type": "stanza",
-        "number": "5.",
+        "number": "4.",
         "lines": [
           "Ef sakar gerask síðan á milli",
           "þeira, annat en þat er vel er, þat",
@@ -110,7 +110,7 @@
       {
         "id": "8",
         "type": "stanza",
-        "number": "6.",
+        "number": "5.",
         "lines": [
           "En sá ykkar,",
           "er gengr á gørvar sáttir",
@@ -150,7 +150,7 @@
       {
         "id": "9",
         "type": "stanza",
-        "number": "7.",
+        "number": "6.",
         "lines": [
           "Hann skal firrask",
           "kirkjur ok kristna menn,",
@@ -163,7 +163,7 @@
       {
         "id": "10",
         "type": "stanza",
-        "number": "8.",
+        "number": "7.",
         "lines": [
           "Nú haldið þit báðir á bók einni, enda liggr nú fé á bók, er N.N. bœtir fyrir sik ok sinn erfingja",
           "alinn ok óborinn",
@@ -175,7 +175,7 @@
       {
         "id": "11",
         "type": "stanza",
-        "number": "9.",
+        "number": "8.",
         "lines": [
           "N.N. tekr tryggðir en N.N. veitir ævintryggðir, þær er æ skulu haldask,",
           "meðan mold er",
@@ -186,7 +186,7 @@
       {
         "id": "12",
         "type": "stanza",
-        "number": "10.",
+        "number": "9.",
         "lines": [
           "Nú eru þeir N.N. ok N.N.",
           "sáttir ok sammála,",
@@ -216,7 +216,7 @@
       {
         "id": "14",
         "type": "stanza",
-        "number": "11.",
+        "number": "10.",
         "lines": [
           "Hafi sá hylli guðs,",
           "er heldr tryggðir,",
@@ -240,7 +240,7 @@
       {
         "id": "16",
         "type": "stanza",
-        "number": "12.",
+        "number": "11.",
         "lines": [
           "“Hér set ek grið,” segir hann,",
           "“allra manna á millum —",
@@ -275,7 +275,7 @@
       {
         "id": "17",
         "type": "stanza",
-        "number": "13.",
+        "number": "12.",
         "lines": [
           "Skal hann hafa grið í ǫllum",
           "stǫ­ðum nefndum ok ónefndum",
@@ -287,7 +287,7 @@
       {
         "id": "18",
         "type": "stanza",
-        "number": "14.",
+        "number": "13.",
         "lines": [
           "Set ek þessi grið fyrir",
           "oss ok vára frændr",
@@ -301,7 +301,7 @@
       {
         "id": "19",
         "type": "stanza",
-        "number": "15.",
+        "number": "14.",
         "lines": [
           "Sé sá griðníðingr 4 er griðin rýfr",
           "eða tryggðum spillir,",
@@ -343,7 +343,7 @@
       {
         "id": "20",
         "type": "stanza",
-        "number": "16.",
+        "number": "15.",
         "lines": [
           "Hann skal firrask",
           "kirkjur ok kristna menn",
@@ -357,7 +357,7 @@
       {
         "id": "21",
         "type": "stanza",
-        "number": "17.",
+        "number": "16.",
         "lines": [
           "Nú skulum vér vera",
           "sáttir ok sammála,",
@@ -406,7 +406,7 @@
       {
         "id": "25",
         "type": "stanza",
-        "number": "18.",
+        "number": "17.",
         "lines": [
           "Vér skulum ok vera menn",
           "sáttir vár í millum",
@@ -426,7 +426,7 @@
       {
         "id": "26",
         "type": "stanza",
-        "number": "19.",
+        "number": "18.",
         "lines": [
           "Vér skulum deila",
           "kníf ok kjǫtstykki",
@@ -439,7 +439,7 @@
       {
         "id": "27",
         "type": "stanza",
-        "number": "20.",
+        "number": "19.",
         "lines": [
           "Ef sakar gjǫrask",
           "heðan af á milli vár",
@@ -480,7 +480,7 @@
       {
         "id": "28",
         "type": "stanza",
-        "number": "21.",
+        "number": "20.",
         "lines": [
           "Hann skal firrask",
           "kirkjur ok kristna menn,",
@@ -493,7 +493,7 @@
       {
         "id": "29",
         "type": "stanza",
-        "number": "22.",
+        "number": "21.",
         "lines": [
           "Tekr hverr vár tryggðir",
           "við annan",
@@ -507,7 +507,7 @@
       {
         "id": "30",
         "type": "stanza",
-        "number": "23.",
+        "number": "22.",
         "lines": [
           "En hverr veitir í mót tryggðir",
           "ok ævintryggðir",
@@ -522,7 +522,7 @@
       {
         "id": "31",
         "type": "stanza",
-        "number": "24.",
+        "number": "23.",
         "lines": [
           "Nú eru vér",
           "sáttir ok sammála",
@@ -552,7 +552,7 @@
       {
         "id": "33",
         "type": "stanza",
-        "number": "25.",
+        "number": "24.",
         "lines": [
           "Hafi sá guðs hylli",
           "er heldr tryggðir",
