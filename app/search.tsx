@@ -1,13 +1,7 @@
 import { router, Stack } from "expo-router";
+import { LinearGradient } from "expo-linear-gradient";
 import React, { useMemo, useState } from "react";
-import {
-    FlatList,
-    Pressable,
-    StyleSheet,
-    Text,
-    TextInput,
-    View,
-} from "react-native";
+import { FlatList, Pressable, StyleSheet, Text, TextInput, View } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 
 import PressableCard from "@/src/components/ui/PressableCard";
@@ -21,7 +15,7 @@ import { useAppSettingsStore } from "@/src/store/settings.store";
 import { radius } from "@/src/theme/radius";
 import { spacing } from "@/src/theme/spacing";
 import { typography } from "@/src/theme/typography";
-import type { PoemBlock, PoemData } from "@/src/types/poem";
+import type { LanguageCode, PoemBlock, PoemData } from "@/src/types/poem";
 
 interface SearchIndexEntry {
     poemSlug: string;
@@ -49,24 +43,40 @@ export default function SearchScreen() {
         useAppSettingsStore((state) => state.interfaceLanguage) ?? "en";
 
     const [query, setQuery] = useState("");
+    const resultsGradientColors: [string, string, string] =
+        colors.background === "#0B0B0C"
+            ? ["rgba(11,11,12,0.96)", "rgba(11,11,12,0.72)", "rgba(11,11,12,0)"]
+            : [
+                  "rgba(246,244,239,0.96)",
+                  "rgba(246,244,239,0.72)",
+                  "rgba(246,244,239,0)",
+              ];
 
     const searchIndex = useMemo<SearchIndexEntry[]>(() => {
         return poems.flatMap((poem: PoemData) => {
             const entries: SearchIndexEntry[] = [];
 
-            const languages: Array<"on" | "ru" | "en"> = ["on", "ru", "en"];
+            const languages: LanguageCode[] = ["on", "ru", "en"];
 
-            languages.forEach((language) => {
-                const blocks = poem.texts[language];
-
-                if (!blocks?.length) {
+            poem.texts.on.forEach((originalBlock, blockIndex) => {
+                if (
+                    originalBlock.placeholder ||
+                    originalBlock.type !== "stanza"
+                ) {
                     return;
                 }
 
-                blocks.forEach((block) => {
+                languages.forEach((language) => {
+                    const block = poem.texts[language][blockIndex];
+
                     if (!block) {
                         return;
                     }
+
+                    if (block.placeholder) {
+                        return;
+                    }
+
                     const snippet = block.lines
                         .filter(Boolean)
                         .join(" ")
@@ -85,8 +95,8 @@ export default function SearchScreen() {
 
                         category: poem.category,
 
-                        blockId: block.id,
-                        blockType: block.type,
+                        blockId: originalBlock.id,
+                        blockType: originalBlock.type,
 
                         language,
 
@@ -118,7 +128,15 @@ export default function SearchScreen() {
         <>
             <Stack.Screen
                 options={{
-                    headerShown: false,
+                    title:
+                        interfaceLanguage === "ru"
+                            ? "Поиск по текстам"
+                            : "Text Search",
+                    headerStyle: {
+                        backgroundColor: colors.background,
+                    },
+                    headerTintColor: colors.textPrimary,
+                    headerShadowVisible: false,
                 }}
             />
 
@@ -129,48 +147,8 @@ export default function SearchScreen() {
                         backgroundColor: colors.background,
                     },
                 ]}
-                edges={["top"]}
+                edges={["bottom"]}
             >
-                <View
-                    style={[
-                        styles.header,
-                        {
-                            borderBottomColor: colors.border,
-                        },
-                    ]}
-                >
-                    <Pressable
-                        onPress={() => router.back()}
-                        style={styles.backButton}
-                    >
-                        <Text
-                            style={[
-                                styles.backButtonText,
-                                {
-                                    color: colors.accent,
-                                    fontSize: typography.bodyLarge * fontScale,
-                                },
-                            ]}
-                        >
-                            ←
-                        </Text>
-                    </Pressable>
-
-                    <Text
-                        style={[
-                            styles.headerTitle,
-                            {
-                                color: colors.textPrimary,
-                                fontSize: typography.titleSmall * fontScale,
-                            },
-                        ]}
-                    >
-                        {interfaceLanguage === "ru"
-                            ? "Поиск по текстам"
-                            : "Text Search"}
-                    </Text>
-                </View>
-
                 <View
                     style={[
                         styles.searchContainer,
@@ -255,120 +233,28 @@ export default function SearchScreen() {
                         </Text>
                     </View>
                 ) : (
-                    <FlatList
-                        data={results}
-                        keyExtractor={(item, index) =>
-                            `${item.poemSlug}-${item.blockId}-${index}`
-                        }
-                        contentContainerStyle={styles.resultsContent}
-                        keyboardShouldPersistTaps="handled"
-                        showsVerticalScrollIndicator={false}
-                        ListEmptyComponent={
-                            <View
-                                style={[
-                                    styles.emptyResults,
-                                    {
-                                        backgroundColor: colors.surface,
-                                        borderColor: colors.border,
-                                    },
-                                ]}
-                            >
-                                <Text
+                    <View style={styles.resultsWrapper}>
+                        <FlatList
+                            data={results}
+                            keyExtractor={(item) =>
+                                `${item.poemSlug}-${item.blockId}-${item.language}`
+                            }
+                            contentContainerStyle={styles.resultsContent}
+                            keyboardShouldPersistTaps="handled"
+                            showsVerticalScrollIndicator={false}
+                            ListEmptyComponent={
+                                <View
                                     style={[
-                                        styles.emptyResultsTitle,
-                                        {
-                                            color: colors.textPrimary,
-                                            fontSize:
-                                                typography.bodyLarge *
-                                                fontScale,
-                                        },
-                                    ]}
-                                >
-                                    {interfaceLanguage === "ru"
-                                        ? "Ничего не найдено"
-                                        : "Nothing found"}
-                                </Text>
-
-                                <Text
-                                    style={[
-                                        styles.emptyResultsText,
-                                        {
-                                            color: colors.textSecondary,
-                                            fontSize:
-                                                typography.bodyMedium *
-                                                fontScale,
-                                        },
-                                    ]}
-                                >
-                                    {interfaceLanguage === "ru"
-                                        ? "Попробуй изменить поисковый запрос."
-                                        : "Try another search query."}
-                                </Text>
-                            </View>
-                        }
-                        renderItem={({ item }) => {
-                            const categoryMeta =
-                                poemCategoryMeta[item.category];
-
-                            const translatedTitle =
-                                interfaceLanguage === "ru"
-                                    ? item.poemTitleRu
-                                    : item.poemTitleEn;
-
-                            return (
-                                <PressableCard
-                                    style={[
-                                        styles.resultCard,
+                                        styles.emptyResults,
                                         {
                                             backgroundColor: colors.surface,
                                             borderColor: colors.border,
                                         },
                                     ]}
-                                    onPress={() =>
-                                        router.push({
-                                            pathname: "/poem/[slug]",
-                                            params: {
-                                                slug: item.poemSlug,
-                                                block: item.blockId,
-                                            },
-                                        })
-                                    }
                                 >
-                                    <View style={styles.resultHeader}>
-                                        <Text
-                                            style={[
-                                                styles.resultCategory,
-                                                {
-                                                    color: colors.accent,
-                                                    fontSize:
-                                                        typography.labelSmall *
-                                                        fontScale,
-                                                },
-                                            ]}
-                                        >
-                                            {interfaceLanguage === "ru"
-                                                ? categoryMeta.title.ru
-                                                : categoryMeta.title.en}
-                                        </Text>
-
-                                        <Text
-                                            style={[
-                                                styles.resultLanguage,
-                                                {
-                                                    color: colors.textMuted,
-                                                    fontSize:
-                                                        typography.bodySmall *
-                                                        fontScale,
-                                                },
-                                            ]}
-                                        >
-                                            {item.language.toUpperCase()}
-                                        </Text>
-                                    </View>
-
                                     <Text
                                         style={[
-                                            styles.resultTitle,
+                                            styles.emptyResultsTitle,
                                             {
                                                 color: colors.textPrimary,
                                                 fontSize:
@@ -377,12 +263,14 @@ export default function SearchScreen() {
                                             },
                                         ]}
                                     >
-                                        {item.poemTitleOn}
+                                        {interfaceLanguage === "ru"
+                                            ? "Ничего не найдено"
+                                            : "Nothing found"}
                                     </Text>
 
                                     <Text
                                         style={[
-                                            styles.resultTranslatedTitle,
+                                            styles.emptyResultsText,
                                             {
                                                 color: colors.textSecondary,
                                                 fontSize:
@@ -391,27 +279,125 @@ export default function SearchScreen() {
                                             },
                                         ]}
                                     >
-                                        {translatedTitle}
+                                        {interfaceLanguage === "ru"
+                                            ? "Попробуй изменить поисковый запрос."
+                                            : "Try another search query."}
                                     </Text>
+                                </View>
+                            }
+                            renderItem={({ item }) => {
+                                const categoryMeta =
+                                    poemCategoryMeta[item.category];
 
-                                    <Text
+                                const translatedTitle =
+                                    interfaceLanguage === "ru"
+                                        ? item.poemTitleRu
+                                        : item.poemTitleEn;
+
+                                return (
+                                    <PressableCard
                                         style={[
-                                            styles.resultSnippet,
+                                            styles.resultCard,
                                             {
-                                                color: colors.textPrimary,
-                                                fontSize:
-                                                    typography.bodyMedium *
-                                                    fontScale,
+                                                backgroundColor: colors.surface,
+                                                borderColor: colors.border,
                                             },
                                         ]}
-                                        numberOfLines={4}
+                                        onPress={() =>
+                                            router.push({
+                                                pathname: "/poem/[slug]",
+                                                params: {
+                                                    slug: item.poemSlug,
+                                                    block: item.blockId,
+                                                },
+                                            })
+                                        }
                                     >
-                                        {item.snippet}
-                                    </Text>
-                                </PressableCard>
-                            );
-                        }}
-                    />
+                                        <View style={styles.resultHeader}>
+                                            <Text
+                                                style={[
+                                                    styles.resultCategory,
+                                                    {
+                                                        color: colors.accent,
+                                                        fontSize:
+                                                            typography.labelSmall *
+                                                            fontScale,
+                                                    },
+                                                ]}
+                                            >
+                                                {interfaceLanguage === "ru"
+                                                    ? categoryMeta.title.ru
+                                                    : categoryMeta.title.en}
+                                            </Text>
+
+                                            <Text
+                                                style={[
+                                                    styles.resultLanguage,
+                                                    {
+                                                        color: colors.textMuted,
+                                                        fontSize:
+                                                            typography.bodySmall *
+                                                            fontScale,
+                                                    },
+                                                ]}
+                                            >
+                                                {item.language.toUpperCase()}
+                                            </Text>
+                                        </View>
+
+                                        <Text
+                                            style={[
+                                                styles.resultTitle,
+                                                {
+                                                    color: colors.textPrimary,
+                                                    fontSize:
+                                                        typography.bodyLarge *
+                                                        fontScale,
+                                                },
+                                            ]}
+                                        >
+                                            {item.poemTitleOn}
+                                        </Text>
+
+                                        <Text
+                                            style={[
+                                                styles.resultTranslatedTitle,
+                                                {
+                                                    color: colors.textSecondary,
+                                                    fontSize:
+                                                        typography.bodyMedium *
+                                                        fontScale,
+                                                },
+                                            ]}
+                                        >
+                                            {translatedTitle}
+                                        </Text>
+
+                                        <Text
+                                            style={[
+                                                styles.resultSnippet,
+                                                {
+                                                    color: colors.textPrimary,
+                                                    fontSize:
+                                                        typography.bodyMedium *
+                                                        fontScale,
+                                                },
+                                            ]}
+                                            numberOfLines={4}
+                                        >
+                                            {item.snippet}
+                                        </Text>
+                                    </PressableCard>
+                                );
+                            }}
+                        />
+
+                        <LinearGradient
+                            pointerEvents="none"
+                            colors={resultsGradientColors}
+                            style={styles.resultsGradient}
+                        />
+                    </View>
                 )}
             </SafeAreaView>
         </>
@@ -423,38 +409,13 @@ const styles = StyleSheet.create({
         flex: 1,
     },
 
-    header: {
-        flexDirection: "row",
-        alignItems: "center",
-        gap: spacing.md,
-        paddingHorizontal: spacing.lg,
-        paddingBottom: spacing.lg,
-        borderBottomWidth: 1,
-    },
-
-    backButton: {
-        width: 40,
-        height: 40,
-        borderRadius: 999,
-        alignItems: "center",
-        justifyContent: "center",
-    },
-
-    backButtonText: {
-        fontWeight: "700",
-    },
-
-    headerTitle: {
-        fontWeight: "700",
-    },
-
     searchContainer: {
         flexDirection: "row",
         alignItems: "center",
         borderWidth: 1,
         borderRadius: radius.xl,
         marginHorizontal: spacing.lg,
-        marginTop: spacing.xl,
+        marginVertical: spacing.xl,
         paddingHorizontal: spacing.lg,
     },
 
@@ -476,9 +437,22 @@ const styles = StyleSheet.create({
         fontSize: 14,
     },
 
+    resultsWrapper: {
+        flex: 1,
+        position: "relative",
+    },
+
     resultsContent: {
         padding: spacing.lg,
         paddingBottom: spacing.huge,
+    },
+
+    resultsGradient: {
+        position: "absolute",
+        top: 0,
+        left: 0,
+        right: 0,
+        height: 56,
     },
 
     resultCard: {
