@@ -1,0 +1,2291 @@
+{
+  "category": "ljodaedda-godakvaedi",
+  "slug": "svipdagsmal-II",
+  "key": "Svipdagsmal-II",
+  "title": {
+    "on": "Svipdagsmál II",
+    "ru": "Речи Свипдага II",
+    "en": "The Lay of Fjolsvid"
+  },
+  "subtitle": {
+    "on": "Fjölsvinnsmál",
+    "ru": "Речи Многомудрого",
+    "en": "Speeches of the All-Wise"
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson, Eddukvæði (Sæmundar-Edda). 2 vols. 1949–54. Перевод: Т. Гимранов.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Útan garða",
+          "hann sá upp of koma",
+          "þursa þjóðar sjöt:",
+          "[Kómumaðr kvað:]",
+          "«Hvat er þat flagða,",
+          "er stendr fyr forgörðum",
+          "ok hvarflar um hættan loga?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "[Borgarvörðr kvað:]",
+          "Hvers þú leitar,",
+          "eða hvers þú á leitum ert,",
+          "eða hvat viltu,",
+          "vinlaus, vita?",
+          "Úrgar brautir",
+          "árnaðu aftr heðan;",
+          "átt-at-tu hér, verndar",
+          "vanr, veru.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Kómumaðr kvað:",
+          "«Hvat er þat flagða,",
+          "er stendr fyr forgarði",
+          "ok býðr-at líðöndum löð?",
+          "Sæmðarorðalauss",
+          "hefir þú, seggr, of lifat,",
+          "ok haltu heim heðan!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Borgarvörðr kvað:",
+          "«Fjölsviðr ek heiti,",
+          "en ek á fróðan sefa,",
+          "þeygi em ek míns mildr matar;",
+          "innan garða",
+          "þú kemr hér aldregi,",
+          "ok dríf þú nú,",
+          "vargr, at vegi!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Kómumaðr kvað:",
+          "«Augna gamans",
+          "fýsir aftr at fá,",
+          "hvars hann getr svást at sjá;",
+          "garðar glóa",
+          "mér þykkja of gullna sali;",
+          "hér mynda ek eðli una.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Segðu mér, hverjum",
+          "ertu, sveinn, of borinn,",
+          "eða hverra ertu manna mögr?»",
+          "Kómumaðr kvað:",
+          "«Vindkaldr ek heiti,",
+          "Várkaldr hét minn faðir,",
+          "þess var Fjölkaldr faðir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Segðu mér þat, Fjölsviðr,",
+          "er ek fregna mun",
+          "ok ek vilja vita:",
+          "Hverr hér ræðr",
+          "ok ríki hefir",
+          "eign ok auðsölum?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Menglöð of heitir,",
+          "en hana móðir of gat",
+          "við Svafrþorins syni;",
+          "hon hér ræðr",
+          "ok ríki hefir",
+          "eign ok auðsölum»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "Hvat sú grind heitir,",
+          "er með goðum sá-at",
+          "menn it meira forað?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Þrymgjöll hon heitir,",
+          "en hana þrír gerðu",
+          "Sólblinda synir;",
+          "fjöturr fastr",
+          "verðr við faranda hvern",
+          "er hana hefr frá hliði.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "Hvat sá garðr heitir,",
+          "er með goðum sá-at",
+          "menn it meira forað?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Gastrópnir heitir,",
+          "en ek hann görfan hefk",
+          "ór Leirbrimis limum;",
+          "svá hefik studdan,",
+          "at hann standa mun,",
+          "æ meðan öld lifir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "Hvat þeir garmar heita,",
+          "er gífrari hefik",
+          "enga fyrr í löndum lítit?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Gífr heitir annarr,",
+          "en Geri annarr,",
+          "ef þú vilt þat vita;",
+          "varðir ellifu,",
+          "er þeir varða,",
+          "unz rjúfask regin.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita,",
+          "hvárt sé manna nökkut,",
+          "þat er megi inn koma,",
+          "meðan sókndjarfir sofa.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Missvefni mikit",
+          "var þeim mjök of lagit,",
+          "síðan þeim var varzla vituð;",
+          "annarr of nætr sefr,",
+          "en annarr of daga,",
+          "ok kemsk þá vætr, ef þá kom.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita,",
+          "hvárt sé matar nökkut,",
+          "þat er menn hafi,",
+          "ok hlaupi inn, meðan þeir eta.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Vegnbráðir tvær",
+          "liggja í Viðópnis liðum,",
+          "ef þú vilt þat vita,",
+          "þat eitt er svá matar,",
+          "at þeim menn of gefi,",
+          "ok hlaupi inn, meðan þeir eta.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "Hvat þat barr heitir,",
+          "er breiðask um",
+          "lönd öll limar?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Mímameiðr hann heitir,",
+          "en þat manngi veit,",
+          "af hverjum rótum renn;",
+          "við þat hann fellr,",
+          "er fæstan varir,",
+          "flær-at hann eld né járn.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "Hvat af móði verðr",
+          "þess ins mæra viðar,",
+          "er hann flær-rat eld né járn?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Út af hans aldni",
+          "skal á eld bera",
+          "fyr kelisjúkar konur;",
+          "útar hverfa",
+          "þats þær innar skyli,",
+          "sá er hann með",
+          "mönnum mjötuðr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "Hvat sá hani heitir,",
+          "er sitr í inum háva viði,",
+          "allr hann við gull glóir?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Víðópnir hann heitir,",
+          "en hann stendr veðrglasir",
+          "á meiðs kvistum Míma;",
+          "einum ekka",
+          "þryngr hann örófsaman",
+          "Surtr Sinmöru.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "hvárt sé vápna nökkut,",
+          "þat er knegi Viðópnir fyrir",
+          "hníga á Heljar sjöt?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Lævateinn heitir hann,",
+          "en hann gerði Loftr rúnum",
+          "fyr nágrindr neðan;",
+          "í segjárnskeri",
+          "liggr hann hjá Sinmöru,",
+          "ok halda njarðlásar níu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "hvárt aftr kemr,",
+          "sá er eftir ferr",
+          "ok vill þann tein taka.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Aftr mun koma,",
+          "sá er eftir ferr",
+          "ok vill þann tein taka,",
+          "ef þat færir,",
+          "er fáir eigu,",
+          "Eiri örglasis.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "hvárt sé mæta nökkut,",
+          "þat er menn hafi",
+          "ok verðr því in fölva gýgr fegin.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Ljósan léa",
+          "skaltu í lúðr bera,",
+          "þann er liggr í Viðópnis völum,",
+          "Sinmöru at selja,",
+          "áðr hon söm telisk",
+          "vápn til vígs at ljá.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "Hvat sá salr heitir,",
+          "er slunginn er",
+          "vísum vafrloga?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Hyrr hann heitir,",
+          "en hann lengi mun",
+          "á brodds oddi bifask;",
+          "auðranns þess",
+          "munu um aldr hafa",
+          "frétt eina fírar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "Hverr þat gerði,",
+          "er ek fyr garð sák",
+          "innan, ásmaga?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Uni ok Íri,",
+          "Óri ok Bári,",
+          "Varr ok Vegdrasill;",
+          "Dóri ok Úri,",
+          "Dellingr, Atvarðr,",
+          "Líðskjalfr, Loki.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "Hvat þat bjarg heitir,",
+          "er ek sé brúði á",
+          "þjóðmæra þruma?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Lyfjaberg þat heitir,",
+          "en þat hefir lengi verit",
+          "sjúkum ok sárum gaman;",
+          "heil verðr hver,",
+          "þótt hafi árs sótt,",
+          "ef þat klífr, kona.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "Hvat þær meyjar heita,",
+          "er fyr Menglaðar knjám",
+          "sitja sáttar saman?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Hlíf heitir,",
+          "önnur Hlífþrasa,",
+          "þriðja Þjóðvarta,",
+          "Björt ok Blíð,",
+          "Blíðr, Fríð,",
+          "Eir ok Aurboða.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita:",
+          "Hvárt þær bjarga,",
+          "þeim er blóta þær,",
+          "ef gerask þarfar þess?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Bjarga svinnar,",
+          "hvar er menn blóta þær",
+          "á stallhelgum stað;",
+          "eigi svá",
+          "hátt forað",
+          "kemr at hölða sonum,",
+          "hvern þær ór nauðum nema.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Segðu mér þat, Fjölsviðr,",
+          "er ek þik fregna mun",
+          "ok ek vilja vita,",
+          "hvárt sé manna nökkut,",
+          "er knegi á Menglaðar",
+          "svásum armi sofa?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Vætr er þat manna,",
+          "er knegi á Menglaðar",
+          "svásum armi sofa,",
+          "nema Svipdagr einn,",
+          "hánum var sú in sólbjarta",
+          "brúðr at kván of kveðin.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Vindkaldr kvað:",
+          "«Hrittu á hurðir,",
+          "láttu hlið rúm,",
+          "hér máttu Svipdag sjá;",
+          "en þó vita far,",
+          "ef vilja myni",
+          "Menglöð mitt gaman.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Fjölsviðr kvað:",
+          "«Heyr þú, Menglöð,",
+          "hér er maðr kominn,",
+          "gakk þú á gest sjá;",
+          "hundar fagna,",
+          "hús hefir upp lokizk,",
+          "hygg ek, at Svipdagr sé.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Menglöð kvað:",
+          "«Horskir hrafnar",
+          "skulu þér á hám galga",
+          "slíta sjónir ór,",
+          "ef þú þat lýgr,",
+          "at hér sé langt kominn",
+          "mögr til minna sala."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Hvaðan þú fórt,",
+          "hvaðan þú för gerðir,",
+          "hvé þik hétu hjú?",
+          "At ætt ok nafni",
+          "skal ek jartegn vita,",
+          "ef ek var þér kván of kveðin.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Svipdagr kvað:",
+          "«Svipdagr ek heiti,",
+          "Sólbjartr hét minn faðir,",
+          "þaðan rákumk vindkalda vegu;",
+          "Urðar orði",
+          "kveðr engi maðr,",
+          "þótt þat sé við löst lagit.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Menglöð kvað:",
+          "«Vel þú nú kominn,",
+          "hefik minn vilja beðit,",
+          "fylgja skal kveðju koss;",
+          "forkunnar sýn",
+          "mun flestan glaða,",
+          "hvars hefir við annan ást."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Lengi ek sat",
+          "ljúfu bergi á,",
+          "beið ek þín dægr ok daga;",
+          "nú þat varð,",
+          "er ek vætt hefi,",
+          "at þú ert kominn, mögr,",
+          "til minna sala."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Þrár hafðar",
+          "er ek hefi til þíns gamans,",
+          "en þú til míns munar;",
+          "nú er þat satt,",
+          "er vit slíta skulum",
+          "ævi ok aldr saman.»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "К стенам",
+          "пришел он, видели сверху,",
+          "дома племени турсов:",
+          "Странник сказал:",
+          "«Что за троллиха",
+          "стоит пред оградой",
+          "и в свете дрожащем видна?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Стражник сказал:",
+          "«Что ищешь ты,",
+          "иль чей след ты нашёл,",
+          "или найти что, бездруже,",
+          "желаешь?",
+          "Назад убирайся",
+          "влажным путем,",
+          "прочь, щитокрытый,",
+          "отсюда!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Странник сказал:",
+          "«Что за троллиха",
+          "стоит пред оградой",
+          "и морескитальца не пригостит?",
+          "Воина славы твои",
+          "слова не достойны,",
+          "домой прочь отсюда»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Стражник сказал:",
+          "«Фьёльсвинн зовусь,",
+          "я мудрый хранитель,",
+          "но не обильна пища моя;",
+          "через ограду",
+          "тебе не пройти,",
+          "путь себе новый,",
+          "волк, избери»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Странник сказал:",
+          "«Радость глазам",
+          "прочь не гони,",
+          "видеть им дай усладу взора;",
+          "эти стены златые",
+          "окружают злачёный чертог,",
+          "руки мои здесь меня держат»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Скажи мне, юнец,",
+          "кем ты рождён",
+          "иль кто твоё племя?»",
+          "Странник сказал:",
+          "«Виндкальд мне имя,",
+          "Варкальд отец мой,",
+          "отец чей Фьоркальд."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "кто правит здесь",
+          "и силу имеет",
+          "над землёй и домами?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Менглёд ей имя,",
+          "зачатая матерью",
+          "от Сваврторина сына;",
+          "правит здесь она",
+          "и силу имеет",
+          "над землёй и домами»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "имя какое этим вратам,",
+          "что даже боги",
+          "их не обманут?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Трюмгьёлль зовутся,",
+          "их сделали трое",
+          "Сольблинди сынов;",
+          "волю любого странника",
+          "путают тотчас держащие,",
+          "кто их хочет открыть»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "имя какое этой ограде,",
+          "что даже богам",
+          "не преодолеть их?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Гастропнир зовётся,",
+          "что созданы мною",
+          "из концов Лейрбримира;",
+          "я укрепил их",
+          "чтоб крепко стояли",
+          "покуда не рухнут миры»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "кто эти жадные псы,",
+          "обходящие древо",
+          "взад и вперед у листвы?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Зовут одного Гив,",
+          "а Гери другого,",
+          "коль хочешь знать;",
+          "стражники старые,",
+          "покой сохраняют",
+          "до заката владык»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "как может муж",
+          "проникнуть вовнутрь",
+          "пока смелые спят?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Дремлят поочерёдно,",
+          "так им строго привили,",
+          "потому им и стражу держать;",
+          "спит один ночью,",
+          "другой дремлет днём,",
+          "так ни один не пройдёт»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "какую еду муж может кинуть,",
+          "коль захочет войти,",
+          "и вбежать, пока те грызут?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Два мяса куска",
+          "от крыльев Видофнира,",
+          "коль хочешь знать;",
+          "эту еду муж может кинуть,",
+          "коль захочет войти,",
+          "и вбежать, пока те грызут»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "древо как называют,",
+          "что ветви пустило",
+          "чрез все миры?»",
+          "Фьёльсвинн сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Мимамейд зовут,",
+          "не знает никто,",
+          "чьи глубже корни;",
+          "никто не знает,",
+          "что дерево сгубит,",
+          "не сгубят ни пламя,",
+          "ни сталь»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "что будет с плодом",
+          "этого дивного древа,",
+          "что не сгубят ни пламя,",
+          "ни сталь?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Плод его взят",
+          "и в жар положен",
+          "при тяжести жен;",
+          "выйдет тогда то,",
+          "что было в утробе,",
+          "то мера судеб людей»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "кочета как называют,",
+          "что сидит на древе высоком,",
+          "златосияющем?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Видофнир зовётся,",
+          "что стоит на Ведргласире,",
+          "ветвях древа Мимира;",
+          "страданья одни",
+          "принёс он, громадный,",
+          "Сурту Синмары»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "есть ли оружие,",
+          "что низвергнет Видофнира",
+          "к палатам Хель?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Зовут Лэватейн,",
+          "сделанный Лофтом,",
+          "выкованный",
+          "за вратами смерти;",
+          "в ларе железном",
+          "у Синмары лежит",
+          "на девяти крепких запорах»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "вернётся ли тот,",
+          "кто ищет это оружие",
+          "и обладать им желает?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Тот, кто меч этот ищет",
+          "и обладать им желает,",
+          "назад возвратится,",
+          "если вручит",
+          "редкий подарок",
+          "богине Аургласир».",
+          "Виндкальд сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "есть ли подарок,",
+          "что смертный достанет,",
+          "ётунше бледной на радость?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Сияющий серп",
+          "из крыльев Видофнира",
+          "принеси на помол,",
+          "и его дай Синмаре,",
+          "прежде, чем она согласится",
+          "дать оружье убийства»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "как та палата зовётся,",
+          "что окружённа",
+          "трепетом пламени мудрых?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Хюр называют,",
+          "что будет долго дрожать",
+          "на меча острие;",
+          "эта палата богата",
+          "будет известена мужам",
+          "лишь по слухам»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "кто эти построил пределы",
+          "стен Асмегира,",
+          "что я здесь видел?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Уни да Ири,",
+          "Бари и Ори,",
+          "Вар и Вегдрасиль;",
+          "Дори и Ури,",
+          "Деллинг хранитель",
+          "башни засовов»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "как ту гору называют,",
+          "где, как я вижу,",
+          "невеста сидит?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Лювьяберг ей имя,",
+          "что давно утешает",
+          "раны и хвори;",
+          "жена исцелится,",
+          "даже от давней болезни,",
+          "если взберётся до верха»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "кто этих девы,",
+          "что мирно сидят",
+          "в коленях Менглёд?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Хливой зовут,",
+          "вторую Хливтрасой,",
+          "третью Тьодвартой,",
+          "Бьёртой и Блид,",
+          "Блидрой и Фридой,",
+          "Эйр, Аурбодой»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "защищают ли тех,",
+          "кто жертвует им,",
+          "если потребны?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Одни защищают тех,",
+          "кто поклоняется им",
+          "в святом алтаре;",
+          "освобождают",
+          "сынов человеков",
+          "от напасти любой,",
+          "коль потребность большая»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Фьёльсвинн, ответь,",
+          "я слышал ты знаешь",
+          "и желаю узнать я:",
+          "есть ли мужчина,",
+          "что может лежать",
+          "в объятиях Менглёд?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Нет мужа такого,",
+          "что может лежать",
+          "в объятиях Менглёд,",
+          "один лишь Свипдаг;",
+          "солнечноясная дева",
+          "в жены ему суждена»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Виндкальд сказал:",
+          "«Дверь отопри,",
+          "Врата распахни,",
+          "Свипдаг пред тобою;",
+          "спешите к Менглёд,",
+          "если желает",
+          "любовь мою принять»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Фьёльсвинн сказал:",
+          "«Послушай, Менглёд:",
+          "человек прибыл,",
+          "приди на гостя взглянуть;",
+          "собаки ластятся,",
+          "дом сам открылся,",
+          "думаю это Свипдаг»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Менглёд сказала:",
+          "«Мудрые вороны",
+          "в виселице выси",
+          "выклюют очи твои,",
+          "если ты лжёшь,",
+          "прибывший из далей",
+          "юнец в мои залы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Прибыл откуда,",
+          "какою дорогой,",
+          "как ты зовешься?",
+          "увериться надо",
+          "по роду и имени",
+          "ты ли мне наречен»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Свипдаг сказал:",
+          "«Свипдагом зовусь я,",
+          "Сольбьярт мне отец,",
+          "ветры вели оттуда;",
+          "как не кляни,",
+          "от Урд воли",
+          "никто не волен»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Менглёд сказала:",
+          "«Добрый прием тебе!",
+          "мое желание сбылось,",
+          "и я привечаю тебя поцелуем;",
+          "так вид прелестный",
+          "радость дарует",
+          "любимый любимой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Долго сидела",
+          "на Лювьяберге,",
+          "тебя ожидая денно и нощно;",
+          "теперь ты пришёл,",
+          "кончена скорбь:",
+          "прибыл, любимый,",
+          "в залы мои."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Я тосковала",
+          "здесь по тебе также,",
+          "как грустил ты по мне;",
+          "теперь я уверена,",
+          "что мы будем вместе",
+          "до окончания нашего века»."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Before the house",
+          "he beheld one coming",
+          "To the home of the giants high.\"",
+          "Svipdag spake:",
+          "\"What giant is here,",
+          "in front of the house,",
+          "And around him fires are flaming?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"What seekest thou here?",
+          "for what is thy search?",
+          "What, friendless one, fain wouldst thou know?",
+          "By the ways so wet",
+          "must thou wander hence,",
+          "For, weakling, no home hast thou here.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Svipdag spake:",
+          "\"What giant is here,",
+          "in front of the house,",
+          "To the wayfarer welcome denying?\"",
+          "Fjolsvith spake:",
+          "\"Greeting full fair",
+          "thou never shalt find,",
+          "So hence shalt thou get thee home.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Fjolsvith am I,",
+          "and wise am I found,",
+          "But miserly am I with meat;",
+          "Thou never shalt enter",
+          "within the house,",
+          "Go forth like a wolf on thy way!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Few from the joy",
+          "of their eyes will go forth,",
+          "When the sight of their loves they seek;",
+          "Full bright are the gates",
+          "of the golden hall,",
+          "And a home shall I here enjoy,.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Tell me now, fellow,",
+          "what father thou hast,",
+          "And the kindred of whom thou camst.\"",
+          "Svipdag spake:",
+          "\"Vindkald am I,",
+          "and Varkald's son,",
+          "And Fjolkald his father was.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "Who is it that holds",
+          "and has for his own",
+          "The rule of the hall so rich?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Mengloth is she,",
+          "her mother bore her",
+          "To the son of Svafrthorin;",
+          "She is it that holds",
+          "and has for her own",
+          "The rule of the hall so rich.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What call they the gate?",
+          "for among the gods",
+          "Ne'er saw man so grim a sight.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Thrymgjol they call it;",
+          "twas made by the three,",
+          "The sons of Solblindi;",
+          "And fast as a fetter",
+          "the farer it holds,",
+          "Whoever shall lift the latch.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What call they the house?",
+          "for no man beheld",
+          "Mongst the gods so grim a sight.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Gastropnir is it,",
+          "of old I made it",
+          "From the limbs of Leirbrimir;",
+          "I braced it so strongly",
+          "that fast it shall stand",
+          "So long as the world shall last.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What call they the hounds,",
+          "that before the house",
+          "So fierce and angry are?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Gif call they one,",
+          "and Geri the other,",
+          "If now the truth thou wouldst know;",
+          "Great they are,",
+          "and their might will grow,",
+          "Till the gods to death are doomed.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "May no man hope",
+          "the house to enter,",
+          "While the hungry hounds are sleeping?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Together they sleep not,",
+          "for so was it fixed",
+          "When the guard to them was given;",
+          "One sleeps by night,",
+          "the next by day,",
+          "So no man may enter ever.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "Is there no meat",
+          "that men may give them,",
+          "And leap within while they eat?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Two wing-joints there be",
+          "in Vithofnir's body,",
+          "If now the truth thou wouldst know;",
+          "That alone is the meat",
+          "that men may give them,",
+          "And leap within while they eat.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What call they the tree",
+          "that casts abroad",
+          "Its limbs o'er every land?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Mimameith its name,",
+          "and no man knows",
+          "What root beneath it runs;",
+          "And few can guess",
+          "what shall fell the tree,",
+          "For fire nor iron shall fell it.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What grows from the seed",
+          "of the tree so great,",
+          "That fire nor iron shall fell?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Women, sick",
+          "with child, shall seek",
+          "Its fruit to the flames to bear;",
+          "Then out shall come",
+          "what within was hid,",
+          "And so is it mighty with men.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What cock is he",
+          "on the highest bough,",
+          "That glitters all with gold?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Vithofnir his name,",
+          "and now he shines",
+          "Like lightning on Mimameith's limbs;",
+          "And great is the trouble",
+          "with which he grieves",
+          "Both Surt and Sinmora.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What weapon can send",
+          "Vithofnir to seek",
+          "The house of Hel below?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Lævatein is there,",
+          "that Lopt with runes",
+          "Once made by the doors of death;",
+          "In Lægjarn's chest",
+          "by Sinmora lies it,",
+          "And nine locks fasten it firm.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "May a man come thence,",
+          "who thither goes,",
+          "And tries the sword to take?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Thence may he come",
+          "who thither goes,",
+          "And tries the sword to take,",
+          "If with him he carries",
+          "what few can win,",
+          "To give to the goddess of gold.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What treasure is there",
+          "that men may take",
+          "To rejoice the giantess pale?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"The sickle bright",
+          "in thy wallet bear,",
+          "Mid Vithofnir's feathers found;",
+          "To Sinmora give it,",
+          "and then shall she grant",
+          "That the weapon by thee be won.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What call they the hall,",
+          "encompassed here",
+          "With flickering magic flames?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Lyr is it called,",
+          "and long it shall",
+          "On the tip of a spear-point tremble;",
+          "Of the noble house",
+          "mankind has heard,",
+          "But more has it never known.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What one of the gods",
+          "has made so great",
+          "The hall I behold within?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Uni and Iri,",
+          "Bari and Jari,",
+          "Var and Vegdrasil,",
+          "Dori and Ori,",
+          "Delling, and there",
+          "Was Loki, the fear of the folk.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What call they the mountain",
+          "on which the maid",
+          "Is lying so lovely to see?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Lyfjaberg is it,",
+          "and long shall it be",
+          "A joy to the sick and the sore;",
+          "For well shall grow",
+          "each woman who climbs it,",
+          "Though sick full long she has lain.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "What maidens are they",
+          "that at Mengloth's knees",
+          "Are sitting so gladly together?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Hlif is one named,",
+          "Hlifthrasa another,",
+          "Thjothvara call they the third;",
+          "Bjort and Bleik,",
+          "Blith and Frith,",
+          "Eir and Aurbotha.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "Aid bring they to all",
+          "who offerings give,",
+          "If need be found therefor?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Soon aid they all",
+          "who offerings give",
+          "On the holy altars high;",
+          "And if danger they see",
+          "for the sons of men,",
+          "Then each from ill do they guard.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Now answer me, Fjolsvith,",
+          "the question I ask,",
+          "For now the truth would I know:",
+          "Lives there the man",
+          "who in Mengloth's arms",
+          "So fair may seek to sleep?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"No man there is",
+          "who in Mengloth's arms",
+          "So fair may seek to sleep,",
+          "Save Svipdag alone,",
+          "for the sun-bright maid",
+          "Is destined his bride to be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Fling back the gates!",
+          "make the gateway wide!",
+          "Here mayst thou Svipdag see!",
+          "Hence get thee to find",
+          "if gladness soon",
+          "Mengloth to me will give.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Fjolsvith spake:",
+          "\"Hearken, Mengloth,",
+          "a man is come;",
+          "Go thou the guest to see!",
+          "The hounds are fawning,",
+          "the house bursts open,",
+          "Svipdag, methinks, is there.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Mengloth spake:",
+          "\"On the gallows high",
+          "shall hungry ravens",
+          "Soon thine eyes pluck out,",
+          "If thou liest in saying",
+          "that here at last",
+          "The hero is come to my hall.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Mengloth spake:",
+          "\"Whence camest thou hither?",
+          "how camest thou here?",
+          "What name do thy kinsmen call thee?",
+          "Thy race and thy name",
+          "as a sign must I know,",
+          "That thy bride I am destined to be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Svipdag spake:",
+          "\"Svipdag am I,",
+          "and Solbjart's son;",
+          "Thence came I by wind-cold ways;",
+          "With the words of Urth",
+          "shall no man war,",
+          "Though unearned her gifts be given.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Mengloth spake:",
+          "\"Welcome thou art,",
+          "for long have I waited;",
+          "The welcoming kiss shalt thou win!",
+          "For two who love",
+          "is the longed-for meeting",
+          "The greatest gladness of all.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "\"Long have I sat",
+          "on Lyfjaberg here,",
+          "Awaiting thee day by day;",
+          "And now I have",
+          "what I ever hoped,",
+          "For here thou art come to my hall.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "\"Alike we yearned;",
+          "I longed for thee,",
+          "And thou for my love hast longed;",
+          "But now henceforth",
+          "together we know",
+          "Our lives to the end we shall live.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

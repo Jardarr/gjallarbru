@@ -1,0 +1,3486 @@
+{
+  "category": "ljodaedda-hetjukvaedi",
+  "slug": "helgakvida-hundingsbana-II",
+  "key": "HelgakvidaHundingsbana-II",
+  "title": {
+    "on": "Helgakviða Hundingsbana II",
+    "ru": "Вторая Песнь о Хельги убийце Хундинга",
+    "en": "The Second Lay of Helgi Hundingsbane"
+  },
+  "subtitle": {
+    "on": "Völsungakviða in forna",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Haraldur Bernharðsson. Текст на русском языке в переводе А. И. Корсуна СЭ–1963, с. 85–93,",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Frá Völsungum"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Sigmundr konungr Völsungs sonr átti Borghildi af Brálundi. Þau hétu son sinn Helga ok eftir Helga Hjörvarðs syni. Helga fóstraði Hagall.."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "II Hundingr hét ríkr konungr; við hann er Hundland kennt. Hann var hermaðr mikill ok átti marga sonu þá er í hernaði vóru. Ófriðr ok dylgjur vóru á milli þeira Hundings konungs ok Sigmundar konungs; drápu hvárir annarra frændr. Sigmundr konungr ok hans ættmenn hétu Völsungar ok Ylfingar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "III Helgi fór ok njósnaði til hirðar Hundings konungs á laun. Hemingr, sonr Hundings konungs, var heima. En er Helgi fór í brott þá hitti hann hjarðar svein ok kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«Seg ðu Hemingi",
+          "að Helgi man",
+          "hvern í brynju",
+          "bragnar felldu,",
+          "ér úlf grán",
+          "inni höfðuð",
+          "þar er Hamal hugði",
+          "Hundingr konungr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "lines": [
+          "IV Hamall hét sonr Hagals. Hun­dingr konungr sendi menn til Ha­gals að leita Helga. En Helgi mát­ti eigi forðaz annan veg en tók klæði ambáttar ok gekk að mala. Þeir leituðu ok fundu eigi Helga. Þá kvað Blindr inn bölvísi:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "«Hvöss eru augu",
+          "í Hagals þýju,",
+          "er a það karls ætt",
+          "er á kvernum stendr,",
+          "steinar rifna,",
+          "stökkr lúðr fyrir;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "nú hefir hörð dæmi",
+          "hildingr þegið",
+          "er vísi skal",
+          "valbygg mala.",
+          "Heldr er sæmri",
+          "hendi þeiri",
+          "meðalkafli",
+          "en möndultré.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Hagall svaraði ok kvað:",
+          "«Það er lítil vá",
+          "þótt lúðr þrumi",
+          "er mær konungs",
+          "möndul hrærir;",
+          "hon skævaði",
+          "skýjum efri",
+          "ok vega þorði",
+          "sem víkingar",
+          "áðr hana Helgi",
+          "höftu gjörði;",
+          "systir er hon þeira",
+          "Sig‖ars ok Högna,",
+          "því hefir ötul augu",
+          "Ylfinga man.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "V Undan komz Helgi ok fór á herskip. Hann felldi Hunding ko­ n­ung ok var síðan kallaðr Helgi Hundings bani. Hann lá með her sinn í Brunavágum ok hafði þar strandhögg ok átu þar hrátt. Hö­gni hét konungr; hans dóttir var Sigrún; hon var valkyrja ok re­ið loft ok lög; hon var Sváva en­dr­borin. Sigrún reið að skipum Helga ok kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "«Hverir láta fljóta",
+          "fley við bakka?",
+          "Hvar, hermegir,",
+          "heima eiguð?",
+          "Hvers bíðið ér",
+          "í Brunavágum?",
+          "Hvert lystir yðr",
+          "leið að kanna?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "[Helgi kvað:]",
+          "«Hamall lætr fljóta",
+          "fley við bakka,",
+          "eigum heima",
+          "í Hléseyju,",
+          "bíðum byrjar",
+          "í Brunavágum,",
+          "austur lystir oss",
+          "leið að kanna!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Sigrún kvað:]",
+          "«Hvar hefir þú, hilmir,",
+          "hildi vakða",
+          "eða gögl alin",
+          "Gunnar systra?",
+          "Hví er brynja þín",
+          "blóði stokkin?",
+          "Hví skal und hjálmum",
+          "hrátt kjöt eta?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Helgi kvað:]",
+          "«Það vann næst nýs",
+          "niðr Ylfinga",
+          "fyr vestan ver,",
+          "ef þik vita lystir,",
+          "er ek björnu tók",
+          "í Bragalundi",
+          "ok ætt ara",
+          "oddum sadda-k."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Nú er sagt, mær,",
+          "hvaðan sakar gjörðuz,",
+          "því var á legi mér",
+          "lítt steikt etið.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "[Sigrün kvað:]",
+          "«Víg lýsir þú;",
+          "varð fyr Helga",
+          "Hundingr konungr",
+          "hníga að velli;",
+          "bar sókn saman",
+          "er sefa hefnduð",
+          "ok busti blóð",
+          "á brimis eggjar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "[Helgi kvað:]",
+          "«Hvað vissir þú",
+          "að þeir sé,",
+          "snót svinnhuguð,",
+          "er sefa hefnduð?",
+          "Margir ro hvassir",
+          "hildings synir",
+          "ok ámunir",
+          "ossum niðjum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "[Sigrún kvað:]",
+          "«Var-k a ek fjarri,",
+          "fólks oddviti,",
+          "gær á morgun",
+          "grams aldrlokum;",
+          "þó tel ek slægjan",
+          "Sigmundar bur",
+          "er í valrúnum",
+          "vígspjöll segir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Leit ek þik um sinn fyrr",
+          "á langskipum",
+          "þá er þú byggðir",
+          "blóðga stafna",
+          "ok úrsvalar",
+          "unnir léku;",
+          "nú vill dyljaz",
+          "döglingr fyr mér",
+          "en Högna mær",
+          "Helga kennir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "lines": [
+          "VI Granmarr hét ríkr konungr er bjó að Svarinshaugi. Hann átti marga sonu: Höðbroddr, annarr Guðmundr, þriði Starkaðr. Höðbroddr var í konungastefnu. Hann fastnaði sér Sigrúnu Högna dóttur en er hon spyrr það þá reið hon með valkyrjur um loft ok um lög að leita Helga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "lines": [
+          "VII elgi var þá að Logafjöllum ok hafði bariz við Hundings sonu. Þar felldi hann þá Álf ok Eyjólf, Hjörvarð ok Hervarð ok var hann allvígmóðr ok sat undir Arasteini. Þar hitti Sigrún hann ok rann á háls hánum ok kyssti hann ok sagði hánum erendi sitt, svá sem segir í Völsunga kviðu inni fornu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Sótti Sigrún",
+          "sikling glaðan,",
+          "heim nam hon Helga",
+          "hönd að sækja,",
+          "kyssti ‖ ok kvaddi",
+          "konung und hjálmi,",
+          "þá varð hilmi",
+          "hugr á vífi;",
+          "fyrr léz hon unna",
+          "af öllum hug",
+          "syni Sigmundar",
+          "en hon séð hafði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "[Sigrún kvað:]",
+          "«Var ek Höðbroddi",
+          "í her föstnuð",
+          "en jöfur annan",
+          "eiga vilda k;",
+          "þó sjámk, fylkir,",
+          "frænda reiði;",
+          "hefi ek míns föður",
+          "munráð brotið.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Nam a Högna mær",
+          "of hug mæla;",
+          "hafa kvaz hon Helga",
+          "hylli skyldu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "[Helgi kvað:]",
+          "«Hirð eigi þú",
+          "Högna reiði",
+          "né illan hug",
+          "ættar þinnar;",
+          "þú skalt, mær ung,",
+          "að mér lifa;",
+          "ætt átt u, in góða,",
+          "er ek sjámk..»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "VIII Helgi samnaði þá miklum ski­paher ok fór til Frekasteins ok fengu í hafi ofviðri mannhætt. Þá kvómu leiftr yfir þá ok stóðu gei­slar í skipin. Þeir sá í loftinu að valkyrjur níu riðu ok kenndu þeir Sigrúnu. Þá lægði storminn ok kvómu þeir heilir til lands."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "prose",
+        "lines": [
+          "IX Granmars synir sátu á bjar­gi nokkuru er skipin sigldu að landi. Guðmundr hljóp á hest ok reið á njósn á bergið við höfnina; þá hlóðu Völsungar seglum; þá kvað Guðmundr, svá sem fyrr er ritað í Helga kviðu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "«Hverr er fylkir",
+          "sá er flota stýrir",
+          "ok feiknalið",
+          "færir að landi?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "prose",
+        "lines": [
+          "X Sinfjötli Sigmundar sonr svaraði ok er það enn ritað."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "XI Guðmundr reið heim með hersögu. Þá sömnuðu Gran­mars synir her; kómu þar mar­gir konungar. Þar var Högni, faðir Sigrúnar, ok synir hans, Bragi ok Dagr. Þar var orrusta mikil ok fellu allir Granmars synir ok allir þeira höfðingjar nema Dagr Högna sonr fekk grið ok vann eiða Völsungum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "prose",
+        "lines": [
+          "XII Sigrún gekk í valinn ok hitti Höðbrodd að kominn dauða. Hon kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Mun a þér, Sigrún,",
+          "frá Sefafjöllum,",
+          "Höðbroddr konungr,",
+          "hníga að armi;",
+          "liðin er ævi,",
+          "oft náir hrævi",
+          "gránstóð gríðar,",
+          "Granmars sona.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "prose",
+        "lines": [
+          "XIII Þá hitti hon Helga ok varð allfegin. Hann kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "«Er at þér að öllu,",
+          "alvitr, gefið,",
+          "þó kveð ek nokkvi",
+          "nornir valda;",
+          "fellu í morgun",
+          "að Frekasteini",
+          "Bragi ok Högni,",
+          "varð ek bani þeira!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "En að Styrkleifum",
+          "Starkaðr konungr",
+          "en að Hlébjörgum",
+          "Hrollaugs synir;",
+          "þann sá ek gylfa",
+          "grimmúðgastan",
+          "er barðiz bolr,",
+          "var á brot höfuð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Liggja að jörðu",
+          "allra flestir",
+          "niðjar þínir",
+          "að nám orðnir;",
+          "vannt at tu vígi,",
+          "var þér það skapað",
+          "að þú að rógi",
+          "ríkmenni vart.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "prose",
+        "lines": [
+          "XIV Þá grét Sigrún. Hann kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "«Huggast u, Sigrún,",
+          "Hildr hefir þú oss verið;",
+          "vinna-t skjöldungar",
+          "sköpum.»",
+          "[Sigrún kvað:]",
+          "«Lifna mynda ek nú kjósa",
+          "er liðnir eru, ok knætta",
+          "ek þér þó í faðmi felaz.» ‖"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "lines": [
+          "XV Þetta kvað Guðmundr Gran­mars sonr:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "«Hverr er skjöldungr",
+          "sá er skipum stýrir,",
+          "lætr gunnfana",
+          "gullinn fyrir stafni?",
+          "Þikkj a mér friðr",
+          "í farar broddi;",
+          "verpr vígroða",
+          "um víkinga.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Sinfjötli kvað:",
+          "«Hér má Höðbroddr",
+          "Helga kenna",
+          "flótta trauðan",
+          "í flota miðjum;",
+          "hann hefir eðli",
+          "ættar þinnar,",
+          "arf Fjörsunga,",
+          "und sik þrungið.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "[Guðmundr kvað:]",
+          "«Því fyrr skulu",
+          "að Frekasteini",
+          "sáttir saman",
+          "um sakar dæma;",
+          "mál er, Höðbroddr,",
+          "hefnd að vinna",
+          "ef vér lægra hlut",
+          "lengi bárum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "[Sinfjötli kvað:]",
+          "«Fyrr mund u, Guðmundr,",
+          "geitr um halda",
+          "ok bergskorar",
+          "brattar klífa,",
+          "hafa þér í hendi",
+          "heslikylfu;",
+          "það er þér blíðara",
+          "en brimis dómar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "[Helgi kvað:]",
+          "«Þér er, Sinfjötli,",
+          "sæmra myklu",
+          "gunni að heyja",
+          "ok glaða örnu",
+          "en ónýtum",
+          "orðum að deila",
+          "þótt hildingar",
+          "heiftir deili."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Þikki t mér góðir",
+          "Granmars synir,",
+          "þó dugir siklingum",
+          "satt að mæla,",
+          "þeir merkt hafa",
+          "á Móinsheimum",
+          "að hug hafa",
+          "hjörum að bregða;",
+          "eru hildingar",
+          "hölzti snjallir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "lines": [
+          "XVI Helgi fekk Sigrúnar ok áttu þau sonu; var Helgi eigi gamall. Dagr Högna sonr blótaði Óðin til föður­hefnda. Óðinn léði Dag geirs síns. Dagr fann Helga, mág sinn, þar sem hei­tir að Fjöturlundi. Hann lagði í gö­g­num Helga með geirnum. Þar fell Helgi en Dagr reið til fjalla ok sagði Sigrúnu tíðindi:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "«Trauðr em ek, systir,",
+          "trega þér að segja",
+          "því að ek hefi nauðigr",
+          "nifti grætta:",
+          "Fell í morgun",
+          "und Fjöturlundi",
+          "buðlungr sá er var",
+          "beztr í heimi",
+          "ok hildingum",
+          "á hálsi stóð.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "[Sigrún kvað:]",
+          "«Þik skyli allir",
+          "eiðar bíta,",
+          "þeir er Helga",
+          "hafðir unna",
+          "að inu ljósa",
+          "Leiftrar vatni",
+          "ok að úrsvölum",
+          "Unnar steini!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Skríði at það skip",
+          "er und þér skríði",
+          "þótt óskabyrr",
+          "eftir leggiz!",
+          "Renni a sá marr",
+          "er und þér renni",
+          "þóttu fjándr þína",
+          "forðaz eigir!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Bíti a þér það sverð",
+          "er þú bregðir",
+          "nema sjálfum þér",
+          "syngvi um höfði!",
+          "Þá væri þér hefnt",
+          "Helga dauða",
+          "ef þú værir vargr",
+          "á viðum úti,",
+          "auðs andvani",
+          "ok allz gamans,",
+          "hefðir eigi mat",
+          "nema á hræum spryngir!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Dagr kvað:",
+          "«Ær ert u, systir,",
+          "ok örvita",
+          "er þú bræðr þínum",
+          "biðr forskapa;",
+          "einn veldr Óðinn",
+          "öllu bölvi",
+          "því að með sifjungum",
+          "sakrúnar bar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Þér býðr bróðir",
+          "bauga rauða,",
+          "öll Vandilsvé",
+          "ok Vígdali;",
+          "haf þú hálfan heim",
+          "harms að gjöldum,",
+          "brúðr baugvarið,",
+          "ok burir þínir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "[Sigrún kvað:]",
+          "«Sit-k a ek svá sæl ‖",
+          "að Sefafjöllum",
+          "ár né um nætr",
+          "að ek una lífi",
+          "nema að liði lofðungs",
+          "ljóma bregði,",
+          "renni und vísa",
+          "Vígblær þinig,",
+          "gullbitli vanr,",
+          "knega ek grami fagna!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Svá hafði Helgi",
+          "hrædda görva",
+          "fjándr sína alla",
+          "ok frændr þeira",
+          "sem fyr úlfi",
+          "óðar rynni",
+          "geitr af fjalli",
+          "geiskafullar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Svá bar Helgi",
+          "af hildingum",
+          "sem ítrskapaðr",
+          "askr af þyrni",
+          "eða sá dýrkálfr,",
+          "döggu slunginn,",
+          "er öfri ferr",
+          "öllum dýrum",
+          "ok horn glóa",
+          "við himin sjálfan!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "prose",
+        "lines": [
+          "XVII Haugr var görr eftir Helga. En er hann kom til Valhallar þá bauð Óðinn hánum öllu að ráða með sér. Helgi kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "«Þú skalt, Hundingr,",
+          "hverjum manni",
+          "fótlaug geta",
+          "ok funa kynda,",
+          "hunda binda,",
+          "hesta gæta",
+          "gefa svínum soð",
+          "áðr sofa gangir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "prose",
+        "lines": [
+          "XVIII Ambótt Sigrúnar gekk um aftan hjá haugi Helga ok sá að Helgi reið til haugsins með marga menn. Am­bótt kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "«Hvárt eru það svik ein",
+          "er ek sjá þikkjumz",
+          "eða ragna rök,",
+          "ríða menn dauðir,",
+          "er jóa yðra",
+          "oddum keyrið,",
+          "eða er hildingum",
+          "heimför gefin?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "[Helgi kvað:]",
+          "«Er a það svik ein",
+          "er þú sjá þikkiz",
+          "né aldar rof",
+          "þótt u oss lítir,",
+          "þótt vér jói óra",
+          "oddum keyrim,",
+          "né er hildingum",
+          "heimför gefin.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "prose",
+        "lines": [
+          "XIX Heim gekk ambótt ok sagði Sig­rúnu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "«Út gakk þú, Sigrún,",
+          "frá Sefafjöllum",
+          "ef þik fólks jaðarr",
+          "finna lystir;",
+          "upp er haugr lokinn,",
+          "kominn er Helgi!",
+          "Dólgspor dreyra",
+          "döglingr bað þik",
+          "að þú sárdropa",
+          "svefja skyldir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "prose",
+        "lines": [
+          "XX Sigrún gekk í hauginn til Helga ok kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "«Nú em ek svá fegin",
+          "fundi okkrum",
+          "sem átfrekir",
+          "Óðins haukar",
+          "er val vitu,",
+          "varmar bráðir,",
+          "eða dögglitir",
+          "dagsbrún sjá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Fyrr vil ek kyssa",
+          "konung ólifðan",
+          "en þú blóðugri",
+          "brynju kastir;",
+          "hár er þitt, Helgi,",
+          "hélu þrungið,",
+          "allr er vísi",
+          "valdögg sleginn,",
+          "hendr úrsvalar",
+          "Högna mági;",
+          "hvé skal ek þér, buðlungr,",
+          "þess bót of vinna?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "[Helgi kvað:]",
+          "«Ein veldr þú, Sigrún",
+          "frá Sefafjöllum,",
+          "er Helgi er",
+          "harmdögg sleginn:",
+          "Grætr þú, gullvarið,",
+          "grimmum tárum,",
+          "sólbjört, suðræn,",
+          "áðr þú sofa gangir,",
+          "hvert fellr blóðugt",
+          "á brjóst grami,",
+          "úrsvalt, innfjálgt",
+          "ekka þrungið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Vel skulum drekka",
+          "dýrar veigar",
+          "þótt misst hafim",
+          "munar ok landa!",
+          "Skal engi maðr",
+          "angrljóð kveða",
+          "þótt mér á brjósti",
+          "benjar líti!",
+          "Nú eru brúðir",
+          "byrgðar í haugi,",
+          "lofða dísir,",
+          "hjá oss liðnum!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "prose",
+        "lines": [
+          "XXI Sigrún bjó sæing í hau‖ginum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "«Hér hefi ek þér, Helgi,",
+          "hvílu görva,",
+          "angrlausa mjök,",
+          "Ylfinga niðr;",
+          "vil ek þér í faðmi,",
+          "fylkir, sofna",
+          "sem ek lofðungi",
+          "lifnum mynda-k!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "[Helgi kvað:]",
+          "«Nú kveð ek enskis",
+          "örvænt vera,",
+          "síð né snimma,",
+          "að Sefafjöllum",
+          "er þú á armi",
+          "ólifðum sefr,",
+          "hvít, í haugi,",
+          "Högna dóttir,",
+          "ok ert u kvik,",
+          "in konungborna!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Mál er mér að ríða",
+          "roðnar brautir,",
+          "láta fölvan jó",
+          "flugstíg troða;",
+          "skal ek fyr vestan",
+          "vindhjálms brúar",
+          "áðr Salgofnir",
+          "sigrþjóð veki.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "prose",
+        "lines": [
+          "XXII Þeir Helgi riðu leið sína en þær fóru heim til bæjar. Annan aftan lét Sigrún ambótt halda vörð á hauginum. En að dagsetri, er Sigrún kom til haugsins, hon kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "«Kominn væri nú,",
+          "ef koma hygði,",
+          "Sigmundar burr",
+          "frá sölum Óðins;",
+          "kveð ek grams þinig",
+          "grænaz vánir",
+          "er á asklimum",
+          "ernir sitja",
+          "ok drífr drótt öll",
+          "draumþinga til.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "[Ambótt kvað:]",
+          "«Ver þú eigi svá ær",
+          "að ein farir,",
+          "dís skjöldunga,",
+          "draughúsa til!",
+          "Verða öflgari",
+          "allir á nóttum",
+          "dauðir dólgar, mær,",
+          "en um daga ljósa.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "prose",
+        "lines": [
+          "XXIII Sigrún varð skammlíf af harmi ok trega."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "prose",
+        "lines": [
+          "XXIV Það var trúa í forneskju að menn væri endrbornir en það er nú kölluð kerlingavilla. Helgi ok Sigrún er kallað að væri endrborin. Hét hann þá Helgi Haddingjaskaði en hon Kára Hálfdanar dóttir, svá sem kveðið er í Káru ljóðum, ok var hon valkyrja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "heading",
+        "lines": [
+          "Frá dauða Sinfjötla"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "prose",
+        "lines": [
+          "I Sigmundr Völsungs sonr var konungr á Frakklandi. Sinfjötli var elztr hans sona, annarr Helgi, þriði Hámundr. Borghildr, kona Sigmundar, átti bróður er hét ..... en Sinfjötli, stjúpsonr hennar, ok ..... báðu einnar konu báðir ok fyr þá sök drap Sinfjötli hann."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "prose",
+        "lines": [
+          "II En er hann kom heim þá bað Borghildr hann fara á brot en Sigmundr bauð henni fébætr ok það varð hon að þiggja. En að erfinu bar Borghildr öl. Hon tók eitr mikið, horn fullt, ok bar Sinfjötla."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "prose",
+        "lines": [
+          "III En er hann sá í hornið skilði hann að eitr var í ok mælti til Sigmundar: «Gjöróttr er drykkrinn, ái!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "prose",
+        "lines": [
+          "IV Sigmundr tók hornið ok drakk af. Svá er sagt að Sigmundr var harðgörr að hvárki mátti hánum eitr granda útan né innan. En allir synir hans stóðusk eitr á hörund útan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "prose",
+        "lines": [
+          "V Borghildr bar annað horn Sin­fjötla ok bað drekka ok fór allt sem fyrr. ‖ Ok enn ið þriðja sinn bar hon hánum hornið ok þó ámælisorð með ef hann drykki eigi af. Hann mælti enn sem fyrr við Sigmund."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "prose",
+        "lines": [
+          "VI Hann sagði: «Lát tu grön sía þá, sonr!» Sinfjötli drakk ok varð þegar dauðr. Sigmundr bar hann langar leiðir í fangi sér ok kom að firði einum mjóvum ok löngum ok var þar skip eitt lítið ok maðr einn á. Hann bauð Sigmundi far of fjörðinn. En er Sigmundr bar líkið út á skipið þá var bátrinn hlaðinn. Karl mælti að Sigmundr skyldi fara fyr inn á fjörðinn. Karl hratt út skipinu ok hvarf þegar. "
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "prose",
+        "lines": [
+          "VII Sigmundr konungr dvalðiz len­gi í Danmörk í ríki Borghildar síðan er hann fekk hennar. Fór Sigmundr þá suðr í Frakkland til þess ríkis er hann átti þar. Þá fekk hann Hjördísar, dóttur Eylima konungs. Þeira sonr var Sigurðr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "prose",
+        "lines": [
+          "VIII Sigmundr konungr fell í orrustu fyr Hundings sonum. En Hjördís giftiz þá Álfi, syni Hjálpreks konungs. Óx Sigurðr þar upp í barnæsku. Sigmundr ok allir synir hans vóru langt um fram alla menn aðra um afl ok vöxt ok hug ok alla atgervi. Sigurðr var þá allra framarstr ok hann kalla allir menn í fornfræðum um alla menn fram ok göfgastan herkonunga."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "О Вёльсунгах"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Конунг Сигмунд, сын Вёльсунга, был женат на Боргхильд в Бралунде. Они назвали своего сына Хельги в честь Хельги, сына Хьёрварда. Хагаль воспитал Хельги."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "II Одного могущественного конунга звали Хундинг. По его имени страна называется Хундланд. Он был очень воинствен и имел много сыновей, которые воевали. Вражда и столкновения были между конунгом Хундингом и конунгом Сигмундом. Они убивали друг у друга родичей. Конунг Сигмунд и его род назывались Вёльсунги и Ильвинги."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "III Хельги отправился тайно разведать о дружине конунга Хундинга. Хеминг, сын конунга Хундинга, был дома. А когда Хельги уезжал, он встретил пастушка и сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«Хемингу молви,",
+          "что Хельги помнит,",
+          "какого мужа",
+          "убили воины;",
+          "серого волка",
+          "в доме держали,",
+          "конунг Хундинг",
+          "думал — то Хамаль»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "lines": [
+          "IV Хамалем звали сына Хагаля. Ко­нунг Хундинг послал людей к Хагалю, чтобы найти Хельги. А Хельги не мог укрыться иначе, как одеться рабыней и начать молоть зерно. Они искали и не нашли Хельги. Тогда сказал Блинд Злокозненный:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "«Сверкают глаза",
+          "у рабыни Хагаля, —",
+          "уж не мужчина ли",
+          "жернов вращает?",
+          "Ломается жернов,",
+          "грохочет основа!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Тяжелая доля",
+          "досталась герою;",
+          "вождю довелось",
+          "зерна молоть!",
+          "Руке той привычна",
+          "меча рукоять,",
+          "а вовсе не палка,",
+          "что жернов вращает»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Хагаль ответил и сказал:",
+          "«Дива тут нет,",
+          "что грохочет основа, —",
+          "конунга дочь",
+          "жернов вращает;",
+          "носилась она",
+          "над облаками,",
+          "сражаться могла,",
+          "как смелые викинги,",
+          "прежде чем Хельги",
+          "в плен ее взял;",
+          "это сестра",
+          "Хёгни и Сигара,",
+          "взор ее страшен —",
+          "взор Ильвингов девы»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "V Хельги спасся и отправился на боевой корабль. Он сразил конунга Хундинга, и с тех пор его стали звать Хельги Убийца Хундинга. Он стоял со своим войском в бухте Брунавагар, и там они порезали скот и ели сырое мясо. Одного конунга звали Хёгни. У него была дочь Сигрун. Она была валькирия и носилась по воздуху и по морю. То была родившаяся вновь Свава. Сигрун подъехала к кораблям Хельги и сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "«Кто там направил",
+          "ладью к побережью?",
+          "Где вы живете,",
+          "смелые воины?",
+          "Чего ожидаете",
+          "здесь в Брунавагар?",
+          "Куда отсюда",
+          "вы держите путь?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "[Хельги сказал:]",
+          "«Хамаль направил",
+          "ладью к побережью,",
+          "все мы живем",
+          "на острове Хлесей,",
+          "ветра попутного",
+          "здесь поджидаем,",
+          "путь мы хотим",
+          "держать на восток»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Сигрун сказала:]",
+          "«Где ты сражался,",
+          "воин могучий,",
+          "где ты кормил",
+          "гусят валькирий?",
+          "Почему кольчуга",
+          "обрызгана кровью,",
+          "ешь мясо сырое,",
+          "шлем не снимая?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Хельги сказал:]",
+          "«Вот что исполнил",
+          "на запад от моря",
+          "Ильвингов родич,",
+          "коль знать желаешь:",
+          "медведей убил я",
+          "в Брагалунде",
+          "и племя орлов",
+          "накормил до отвалу;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "вот и сказал я,",
+          "какая причина,",
+          "что мало жаркого",
+          "в море мы ели»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "[Сигрун сказала:]",
+          "«О победе ты молвишь;",
+          "Хельги причина,",
+          "что конунг Хундинг",
+          "в поле погиб;",
+          "битва была,",
+          "за родича мщенье,",
+          "хлынула кровь",
+          "струей на мечи»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "[Хельги сказал:]",
+          "«Точно ли знаешь,",
+          "мудрая женщина,",
+          "что воинам этим",
+          "за родича мстил я?",
+          "Много сынов есть",
+          "смелых у конунга,",
+          "недружелюбных",
+          "к нашему роду»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "[Сигрун сказала:]",
+          "«Утром вчера",
+          "близко была я,",
+          "вождь дружины,",
+          "в час гибели князя;",
+          "хитрецом назову",
+          "Сигмунда сына,",
+          "что темные речи",
+          "ведет о победе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Тебя я не раз",
+          "видала и раньше,",
+          "стоял ты в ладье,",
+          "залитой кровью,",
+          "а вокруг ледяные",
+          "волны играли;",
+          "что ж хочешь, герой,",
+          "от меня таиться?",
+          "Хёгни дочь",
+          "Хельги узна́ет»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "lines": [
+          "VI Гранмаром звали могущест­вен­ного конунга, который жил в Сварингсхауге. У него было много сыновей: первый Хёдбродд, второй Гудмунд, третий Старкад. Хёдбродд был на сходке конунгов. Ему была просватана Сигрун, дочь Хёгни. Но когда она узнала об этом, она поскакала с валькириями по воздуху и морю в поисках Хельги."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "lines": [
+          "VII Хельги был тогда на горе Логафьёлль, он сражался с сыновьями Хундинга. Там сразил он Альва и Эйольва, Хьёрварда и Херварда. Он был очень утомлен боем и сидел под Орлиным Камнем. Там нашла его Сигрун, и бросилась ему на шею, и целовала его, и сказала, почему она пришла к нему, как об этом говорится в Древней Песни о Вёльсунгах:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Сигрун пришла",
+          "к счастливому князю,",
+          "Хельги она",
+          "гладила руки",
+          "и целовала",
+          "его приветно,",
+          "конунгу дева",
+          "тогда полюбилась.",
+          "Сказала ему,",
+          "что Сигмунда сына",
+          "она полюбила",
+          "прежде, чем встретила."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "[Сигрун сказала:]",
+          "«Хёдбродду я",
+          "в походе обещана,",
+          "но за другого",
+          "хотела бы выйти;",
+          "страшен мне гнев",
+          "старшего родича:",
+          "волю отца",
+          "я не исполнила»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Не стала дочь Хёгни",
+          "кривить душою,",
+          "сказала, что хочет",
+          "Хельги любви."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "[Хельги сказал:]",
+          "«Стоит ли гнева",
+          "Хёгни страшиться",
+          "или вражды",
+          "вашего рода!",
+          "Дева, ты будешь",
+          "всегда со мною;",
+          "род твой, прекрасная,",
+          "мне не страшен»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "VIII Хельги собрал тогда большой флот отправился к Волчьему Камню. Их застигла в море страшная буря. Над ними стали сверкать молнии, и они попадали прямо в корабль. Воины увидели в воздухе девять скачущих валькирий и узнали Сигрун. Тогда буря улеглась, и они в целости добрались до берега."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "prose",
+        "lines": [
+          "IX Сыновья Гранмара сидели на не­кой горе, когда корабли подплывали к берегу. Гудмунд вскочил на коня и поехал на разведку на гору у гавани. ТогдаВёльсунги убрали паруса. Тут Гудмунд сказал, как об этом было раньше написано в Песни о Хельги:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "«Кто этот вождь,",
+          "с дружиной плывущий?",
+          "Чьи рати сюда",
+          "к берегу правят?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "prose",
+        "lines": [
+          "X Синфьётли, сын Сигмунда, ответил, и это тоже уже было написано."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "XI Гудмунд поехал домой рассказать о приближающемся  вой­с­ке. Тогда сыновья Гранмара  соб­рали рать. Многие конунги пришли туда. Там был Хёгни, отец Сигрун, и его сыновья Браги и Даг. Произошла большая битва, и все сыновья Гранмара пали и вся их знать. Только Даг, сын Хёгни, получил пощаду и дал клятву Вёльсунгам."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "prose",
+        "lines": [
+          "XII Сигрун пришла на поле битвы и нашла Хёдбродда умирающего. Она сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "(25) «Не будет у Сигрун,",
+          "девы из Севафьёлль,",
+          "Хёдбродд-конунг",
+          "в объятьях покоиться!",
+          "Часто волкам",
+          "достаются трупы, —",
+          "пали сыны",
+          "Гранмара в битве»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "prose",
+        "lines": [
+          "XIII Затем она нашла Хельги и очень обрадовалась. Он сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "(26) «Тебе не во всем,",
+          "валькирия, счастье,",
+          "в иных событьях",
+          "норны повинны:",
+          "утром погибли",
+          "у Волчьего Камня",
+          "Браги и Хёгни, —",
+          "я их сразил!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "(27) А конунг Старкад",
+          "пал на Стюрклейвар,",
+          "сыны же Хроллауга",
+          "на Хлебьёрг убиты;",
+          "видел я конунга,",
+          "в ярости страшного,",
+          "был обезглавлен,",
+          "а тело сражалось."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "(28) Многих родичей",
+          "смерть настигла,",
+          "трупы их ныне",
+          "в землю зарыты;",
+          "ты не могла",
+          "битве препятствовать,",
+          "волей судьбы",
+          "раздор ты посеяла»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "prose",
+        "lines": [
+          "XIV Тогда Сигрун заплакала. Он сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "(29) «Сигрун, утешься,",
+          "была ты нам Хильд;",
+          "судьбы не оспоришь!»",
+          "[Сигрун сказала:]",
+          "«Оживить бы убитых",
+          "и в объятиях твоих",
+          "укрыться бы мне!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "XV Вот что сказал Гудмунд, сын",
+          "Гранмара:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "(19) «Кто этот конунг,",
+          "ладьи ведущий?",
+          "Чей стяг боевой",
+          "по ветру вьется?",
+          "Мира то знамя",
+          "не обещает;",
+          "отблеск багряный",
+          "вокруг дружины»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "(20) Синфьётли сказал:",
+          "«Хёдбродд может",
+          "Хельги узнать,",
+          "храброго в битвах,",
+          "ладьи ведущего;",
+          "наследье богатое",
+          "вашего рода,",
+          "золото Фьёрсунгов",
+          "он захватил»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "[Гудмунд сказал:]",
+          "(21) «Будем сначала",
+          "у Волчьего Камня",
+          "палками битвы",
+          "с врагами спорить!",
+          "Хёдбродд, пора",
+          "для мести настала,",
+          "слишком часто",
+          "нас побеждали!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "[Синфьётли сказал:]",
+          "(22) «Гудмунд, сперва",
+          "коз попаси ты,",
+          "по скалам крутым",
+          "за ними карабкайся,",
+          "крепче держи",
+          "ветку орешника, —",
+          "милей тебе это,",
+          "чем сходка мечей!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "[Хельги сказал:]",
+          "(23) «Не лучше ли было б",
+          "тебе, Синфьётли,",
+          "битву вести",
+          "орлам на радость,",
+          "чем попусту речи",
+          "бросать на ветер,",
+          "когда вожди",
+          "ненавидят друг друга."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Плохи, сдается мне,",
+          "лгать не годится, —",
+          "они показали",
+          "при Моинсхеймар,",
+          "что славно умеют",
+          "мечами разить»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "lines": [
+          "XVI Хельги женился на Сигрун, и у них были сыновья. Хельги не дожил до старости. Даг, сын Хёгни, принес Одину жертву, чтобы тот помог отомстить ему за отца. Один дал Дагу свое копье. Даг встретил Хельги, своего зятя, у рощи, которая называется Фьётурлунд. Он пронзил Хельги копьем. Хельги пал, а Даг поехал в горы и рассказал Сигрун, что произошло:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "«Сестра, не хотел бы",
+          "о горе поведать",
+          "и слезы твои,",
+          "сестра, увидеть, —",
+          "убит поутру",
+          "под Фьётурлундом",
+          "герой, меж князьями",
+          "самый достойный,",
+          "себе подчинявий",
+          "воинов смелых»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "[Сигрун сказала:]",
+          "«Пускай тебя",
+          "покарают те клятвы,",
+          "которые дал ты",
+          "когда-то Хельги,",
+          "клялся ты светлой",
+          "влагой Лейфтра",
+          "и камнем Унн",
+          "в холодной росе!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Пусть не плывет",
+          "отныне корабль твой,",
+          "как бы ни дул",
+          "ветер попутный!",
+          "Пусть не бежит",
+          "конь твой послушно,",
+          "когда от врагов",
+          "спасенья ты ищешь!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Пусть не разит",
+          "меч твой в битве,",
+          "разве что сам ты",
+          "сражен им будешь!",
+          "Было бы местью",
+          "за гибель Хельги,",
+          "если б ты волком",
+          "скитался в чаще,",
+          "нищим и сирым,",
+          "вечно голодным,",
+          "разве что трупы",
+          "тебя б насыщали!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Даг сказал:",
+          "«Сестра, ты безумна,",
+          "затмился твой разум,",
+          "коль беды зовешь",
+          "на голову брата!",
+          "Один повинен",
+          "в этом несчастье,",
+          "меж нами руны",
+          "раздора посеяв."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Золото брат",
+          "тебе предлагает,",
+          "Вандильсве весь",
+          "и Вигдалир тоже;",
+          "половина страны",
+          "выкупом станет",
+          "за горе твое",
+          "и твоих сыновей!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "[Сигрун сказала:]",
+          "«Как ни богато",
+          "живу я в Севафьёлль,",
+          "жизни не рада",
+          "ни утром, ни ночью,",
+          "жду, не блеснет ли",
+          "войско князя,",
+          "Вигблер под князем",
+          "сюда не примчится ли,",
+          "как бы тогда я",
+          "конунга встретила!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Так убегали",
+          "в страхе безмерном",
+          "перед Хельги враги",
+          "и родичи их,",
+          "как козы бегут",
+          "по горным склонам,",
+          "страхом гонимы,",
+          "спасаясь от волка."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Так возвышался",
+          "Хельги меж конунгов,",
+          "как ясень гордый",
+          "в зарослях терна",
+          "или олень,",
+          "росой обрызганный,",
+          "он из зверей",
+          "самый высокий,",
+          "рога его блещут",
+          "у сшамого неба!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "prose",
+        "lines": [
+          "XVII Холм был насыпан на могиле Хельги. И когда он попал в Вальгаллу, Один предложил ему править всем наравне с ним самим. Хельги сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "«Хундинг, сначала",
+          "всем ноги омоешь,",
+          "огонь разведешь,",
+          "и привяжешь собак,",
+          "и свиньям дашь поило,",
+          "коней попасешь, —",
+          "тогда только смеешь",
+          "об отдыхе думать»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "prose",
+        "lines": [
+          "XVIII Служанка Сигрун шла ми­мо кургана Хельги и увидела, что Хель­ги со многими людьми подъехал к кургану. Служанка сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "«Чудится мне,",
+          "или настал",
+          "света конец?",
+          "Мертвые скачут!",
+          "Что же вы шпорите",
+          "ваших коней,",
+          "разве дано вам",
+          "домой возвратиться?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "[Хельги сказал:]",
+          "«Нет, не почудилось",
+          "все, что ты видишь,",
+          "и не настал",
+          "света конец,",
+          "хоть мы и шпорим",
+          "наших коней,",
+          "но не дано нам",
+          "домой возвратиться»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "prose",
+        "lines": [
+          "XIX Служанка вернулась домой и сказала Сигрун:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "«Сигрун, скорее",
+          "из Севафьёлль выйди,",
+          "если ты конунга",
+          "хочешь встретить!",
+          "Раскрылся курган,",
+          "Хельги вернулся!",
+          "Раны сочатся, —",
+          "просил тебя конунг",
+          "кровавые капли",
+          "его осушить»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "prose",
+        "lines": [
+          "XX Сигрун пошла в курган к Хельги и сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "«Так радуюсь я",
+          "встрече с тобою,",
+          "как рады взалкавшие",
+          "Одина соколы,",
+          "что убитых почуяли",
+          "теплое мясо",
+          "иль видят рассвет,",
+          "росою омытые."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Сперва поцелую",
+          "конунга мертвого,",
+          "а ты сними",
+          "доспех окровавленный;",
+          "иней покрыл",
+          "волосы Хельги,",
+          "смерти роса",
+          "на теле конунга,",
+          "руки как лед",
+          "у зятя Хёгни;",
+          "как мне, конунг,",
+          "тебя исцелить?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "[Хельги сказал:]",
+          "«Ты в том повинна,",
+          "Сигрун из Севафьёлль,",
+          "что Хельги обрызган",
+          "горя росою:",
+          "слезы ты льешь,",
+          "убрана золотом,",
+          "с юга пришедшая,",
+          "солнечноясная;",
+          "падают слезы",
+          "на князя кровавые,",
+          "жгут его грудь,",
+          "горем насыщены."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Будем мы пить",
+          "драгоценный напиток,",
+          "хоть счастье и земли",
+          "мы потеряли!",
+          "Не запевайте",
+          "горести песен,",
+          "видя мои",
+          "кровавые раны!",
+          "Отныне в кургане",
+          "со мною, убитым,",
+          "знатная дева",
+          "вместе пребудет!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "prose",
+        "lines": [
+          "XXI Сигрун постелила постель в кургане:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "«Здесь тебе, Хельги,",
+          "ложе готово, —",
+          "радости ложе,",
+          "Ильвингов родич;",
+          "в объятьях твоих",
+          "уснуть бы хотела,",
+          "как с конунгом я",
+          "живым уснула б!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "[Хельги сказал:]",
+          "«Ныне нет ничего,",
+          "ни поздно, ни рано,",
+          "что невозможным",
+          "в Севафьёлль было б,",
+          "если в объятьях",
+          "мертвого спишь,",
+          "в кургане его,",
+          "Сигрун, дочь Хёгни,",
+          "ты, живая,",
+          "рожденная конунгом!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Ехать пора мне",
+          "по алой дороге,",
+          "на бледном коне",
+          "по воздушной тропе;",
+          "путь мой направлю",
+          "на запад от неба,",
+          "прежде чем Сальговнир",
+          "героев разбудит»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "prose",
+        "lines": [
+          "XXII Хельги и его воины ускакали, а Сигрун со служанкой вернулась домой. На следующий вечер Сигрун велела служанке стоять на страже у кургана. И в сумерки, когда Сигрун пришла к кургану, она сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "«Если б приехать",
+          "сюда собирался",
+          "Сигмунда сын",
+          "из дома Одина!",
+          "Нет, не приедет,",
+          "померкла надежда,",
+          "если орлы",
+          "на ясень садятся,",
+          "а люди идут",
+          "на тинг сновидений»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "[Служанка сказала:]",
+          "«Не будь безумной,",
+          "одна не ходи ты,",
+          "конунга дочь,",
+          "в мёртвых жилище!",
+          "Ночью сильней",
+          "становятся все",
+          "мёртвые воины,",
+          "чем днём при солнце»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "prose",
+        "lines": [
+          "XXIII Сигрун вскоре умерла от скорби печали."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "prose",
+        "lines": [
+          "XXIV В древнее время верили, что люди рождаются вновь, но теперь это считают бабьими сказками. Говорят, что Хельги и Сигрун родились вновь. Он звался тогда Хельги Хаддингья-скади, а она — Кара, дочь Хальвдана, как об этом рассказывается в Песни о Каре. Она была валькирией."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "heading",
+        "lines": [
+          "О смерти Синфьётли"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "prose",
+        "lines": [
+          "I Сигмунд, сын Вёльсунга, был конунгом во Фраккланде. Синфьётли был его старшим сыном, вторым был Хельги третьим — Хамунд. У Боргхильд, жены Сигмунда, был брат, которого звали ..... И вот Синфьётли, её пасынок, и ..... посватались оба к одной женщине, и поэтому Синфьётли убил его."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "prose",
+        "lines": [
+          "II А когда он вернулся домой, Боргхильд велела ему уехать прочь, но Cигмунд предложил ей выкуп, и ей пришлось его принять. На тризне Боргхильд подавала пиво. Она взяла яд — большой полный рог — и поднесла Синфьётли."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "prose",
+        "lines": [
+          "III Но когда он заглянул в рог, он понял, что в нем яд, и сказал Сигмунду: Мутен напиток, батюшка!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "prose",
+        "lines": [
+          "IV Сигмунд взял рог и выпил. Говорят, что Сигмунд был нечувствителен к яду, так что он не мог повредить ему ни снаружи, ни внутри. Но все сыновья его были нечувствительны к яду только снаружи."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "prose",
+        "lines": [
+          "V Боргхильд поднесла Синфьётли второй рог и просила выпить, и снова произошло то же самое. И в третий раз поднесла она ему рог — и на этот раз понося его за то, что он его не пьет. Он снова сказал то же самое Сигмунду."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "prose",
+        "lines": [
+          "VI Тот сказал: «Выпей, сын!» Синфьётли выпил и сразу умер. понес его далеко в своих руках и пришел к некоему узкому и длинному фьорду, и там была небольшая ладья и на ней какой-то человек. Он предложил Сигмунду перевезти его через фьорд. И когда Сигмунд внес труп на ладью, она стала нагруженной полностью. Человек сказал Сигмунду, что-бы тот ехал внутрь фьорда. Человек оттолкнул ладью и сразу же исчез."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "prose",
+        "lines": [
+          "VII Конунг Сигмунд долго жил во владениях Боргхильд, после того как на ней женился. Затем Сигмунд поехал на юг во Фраккланд во владения, которые у него там были. Там он женился на Хьёрдис, дочери конунга Эйлими. Сигурд был их сын."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "prose",
+        "lines": [
+          "VIII Конунг Сигмунд погиб в битве с сыновьями Хундинга, а Хьёрдис вышла замуж за Альва, сына конунга Хьяльпрека. Сигурд провел там детство. Сигмунд и все его сыновья намного превосходили всех прочих мужей силой, ростом, мужеством и всеми доблестями. Но Сигурд превосходил их всех, и в преданиях все его называют первым из мужей и великолепнейшим из конунгов."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "King Sigmund, the son of Volsung, had as wife Borghild, from Bralund. They named their son Helgi, after Helgi Hjorvarthsson; Hagal was Helgi's foster-father. Hunding was the name of a powerful king, and Hundland is named from him. He was a mighty warrior, and had many sons with him on his campaigns. There was enmity and strife between these two, King Hunding and King Sigmund, and each slew the other's kinsmen. King Sigmund and his family were called Volsungs and Ylfings. Helgi went as a spy to the home of King Hunding in disguise. Hæming, a son of King Hunding's, was at home. When Helgi went forth, then he met a young herdsman, and said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Say to Hæming",
+          "that Helgi knows",
+          "Whom the heroes",
+          "in armor hid;",
+          "A gray wolf had they",
+          "within their hall,",
+          "Whom King Hunding",
+          "Hamal thought.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "lines": [
+          "Hamal was the name of Hagal's son. King Hunding sent men to Hagal to seek Helgi, and Helgi could not save himself in any other way, so he put on the clothes of a bond-woman and set to work at the mill. They sought Helgi but found him not."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Then Blind spake out,",
+          "the evil-minded:",
+          "\"Of Hagal's bond-woman",
+          "bright are the eyes;",
+          "Yon comes not of churls",
+          "who stands at the quern;",
+          "The millstones break,",
+          "the boards are shattered."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"The hero has",
+          "a doom full hard,",
+          "That barley now",
+          "he needs must grind;",
+          "Better befits",
+          "his hand to feel",
+          "The hilt of the sword",
+          "than the millstone's handle.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Hagal answered and said:",
+          "\"Small is the wonder",
+          "if boards are splintered",
+          "By a monarch's daughter",
+          "the mill is turned;",
+          "Once through clouds",
+          "she was wont to ride,",
+          "And battles fought",
+          "like fighting men,",
+          "(Till Helgi a captive",
+          "held her fast;",
+          "Sister she is",
+          "of Sigar and Hogni,",
+          "Thus bright are the eyes",
+          "of the Ylfings' maid.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Helgi escaped and went to a fighting ship. He slew King Hunding, and thenceforth was called Helgi Hundingsbane.",
+          "He lay with his host in Brunavagar, and they had there a strand-slaughtering, and ate the flesh raw. Hogni was the name of a king. His daughter was Sigrun; she was a Valkyrie and rode air and water; she was Svava reborn. Sigrun rode to Helgi's ship and said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "\"Who rules the ship",
+          "by the shore so steep?",
+          "Where is the home",
+          "ye warriors have?",
+          "Why do ye bide",
+          "in Brunavagar,",
+          "Or what the way",
+          "that ye wish to try?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Helgi spake:",
+          "\"Hamal's the ship",
+          "by the shore so steep,",
+          "Our home in Hlesey",
+          "do we have;",
+          "For fair wind bide we",
+          "in Brunavagar,",
+          "Eastward the way",
+          "that we wish to try.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Sigrun spake:",
+          "\"Where hast thou, warrior,",
+          "battle wakened,",
+          "Or gorged the birds",
+          "of the sisters of Guth?",
+          "Why is thy byrnie",
+          "spattered with blood,",
+          "Why helmed dost feast",
+          "on food uncooked?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Helgi spake:",
+          "\"Latest of all,",
+          "the Ylfings' son",
+          "On the western sea,",
+          "if know thou wilt,",
+          "Captured bears",
+          "in Bragalund,",
+          "And fed the eagles",
+          "with edge of sword."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Now is it shown",
+          "why our shirts are bloody,",
+          "And little our food",
+          "with fire is cooked.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Sigrun spake:",
+          "\"Of battle thou tellest,",
+          "and there was bent",
+          "Hunding the king",
+          "before Helgi down;",
+          "There was carnage when thou",
+          "didst avenge thy kin,",
+          "And blood flowed fast",
+          "on the blade of the sword.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Helgi spake:",
+          "\"How didst thou know",
+          "that now our kin,",
+          "Maiden wise,",
+          "we have well avenged?",
+          "Many there are",
+          "of the sons of the mighty",
+          "Who share alike",
+          "our lofty race.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Sigrun spake:",
+          "\"Not far was I",
+          "from the lord of the folk,",
+          "Yester morn,",
+          "when the monarch was slain;",
+          "Though crafty the son",
+          "of Sigmund, methinks,",
+          "When he speaks of the fight",
+          "in slaughter-runes."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"On the long-ship once",
+          "I saw thee well,",
+          "When in the blood-stained",
+          "bow thou wast,",
+          "(And round thee icy",
+          "waves were raging;)",
+          "Now would the hero",
+          "hide from me,",
+          "But to Hogni's daughter",
+          "is Helgi known.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "lines": [
+          "Granmar was the name of a mighty king, who dwelt at Svarin's hill. He had many sons; one was named Hothbrodd, another Gothmund, a third Starkath. Hothbrodd was in a kings' meeting, and he won the promise of having Sigrun, Hogni's daughter, for his wife. But when she heard this, she rode with the Valkyries over air and sea to seek Helgi. Helgi was then at Logafjoll, and had fought with Hunding's sons; there he killed Alf and Eyolf, Hjorvarth and Hervarth. He was all weary with battle, and sat under the eagle-stone. There Sigrun found him, and ran to throw her arms about his neck, and kissed him, and told him her tidings, as is set forth in the old Volsung lay:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Sigrun the joyful",
+          "chieftain sought,",
+          "Forthwith Helgi's",
+          "hand she took;",
+          "She greeted the hero",
+          "helmed and kissed him,",
+          "The warrior's heart",
+          "to the woman turned."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "From her heart the daughter",
+          "of Hogni spake,",
+          "Dear was Helgi,",
+          "she said, to her;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Sigrun spake:",
+          "\"At the meeting to Hothbrodd",
+          "mated I was,",
+          "But another hero",
+          "I fain would have;",
+          "Though, king, the wrath",
+          "of my kin I fear,",
+          "Since I broke my father's",
+          "fairest wish.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "\"Long with all",
+          "my heart I loved",
+          "Sigmund's son",
+          "ere ever I saw him."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Helgi spake:",
+          "\"Fear not ever",
+          "Hogni's anger,",
+          "Nor yet thy kinsmen's",
+          "cruel wrath;",
+          "Maiden, thou",
+          "with me shalt live,",
+          "Thy kindred, fair one,",
+          "I shall not fear.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "Helgi then assembled a great sea-host and went to Frekastein. On the sea he met a perilous storm; lightning flashed overhead and the bolts struck the ship. They saw in the air that nine Valkyries were riding, and recognized Sigrun among them. Then the storm abated, and they came safe and sound to land. Granmar's sons sat on a certain mountain as the ships sailed toward the land. Gothmund leaped on a horse and rode for news to a promontory near the harbor; the Volsungs were even then lowering their sails. Then Gothmund said, as is written before in the Helgi lay:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "\"Who is the king",
+          "who captains the fleet,",
+          "And to the land",
+          "the warriors leads?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "\"Never shall Sigrun",
+          "from Sevafjoll,",
+          "Hothbrodd king,",
+          "be held in thine arms;",
+          "Granmar's sons",
+          "full cold have grown,",
+          "And the giant-steeds gray",
+          "on corpses gorge.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Gothmund spake:",
+          "\"First shall swords",
+          "at Frekastein",
+          "Prove our worth",
+          "in place of words;",
+          "Time is it, Hothbrodd,",
+          "vengeance to have,",
+          "If in battle worsted",
+          "once we were.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Sinfjotli spake:",
+          "\"Better, Gothmund,",
+          "to tend the goats,",
+          "And climb the rocks",
+          "of the mountain cliffs;",
+          "A hazel switch",
+          "to hold in thy hand",
+          "More seemly were",
+          "than the hilt of a sword.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Helgi spake:",
+          "\"Better, Sinfjotli,",
+          "thee 'twould beseem",
+          "Battles to give,",
+          "and eagles to gladden,",
+          "Than vain and empty",
+          "speech to utter,",
+          "Though warriors oft",
+          "with words do strive."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "\"Good I find not",
+          "the sons of Granmar,",
+          "But for heroes 'tis seemly",
+          "the truth to speak;",
+          "At Moinsheimar",
+          "proved the men",
+          "That hearts for the wielding",
+          "of swords they had,",
+          "(And ever brave",
+          "the warriors are.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "lines": [
+          "Then Granmar's sons summoned an army. Many kings came there; there were Hogni, Sigrun's father, and his sons Bragi and Dag. There was a great battle, and all Granmar's sons were slain and all their allies; only Dag, Hogni's son, was spared, and he swore loyalty to the Volsungs. Sigrun went among the dead and found Hothbrodd at the coming of death. She said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "\"Never shall Sigrun",
+          "from Sevafjoll,",
+          "Hothbrodd king,",
+          "be held in thine arms;",
+          "Granmar's sons",
+          "full cold have grown,",
+          "And the giant-steeds gray",
+          "on corpses gorge.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Then she sought out Helgi, and was full of joy He said:",
+          "\"Maid, not fair",
+          "is all thy fortune,",
+          "The Norns I blame",
+          "that this should be;",
+          "This morn there fell",
+          "at Frekastein",
+          "Bragi and Hogni",
+          "beneath my hand."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "\"At Hlebjorg fell",
+          "the sons of Hrollaug,",
+          "Starkath the king",
+          "at Styrkleifar;",
+          "Fighters more noble",
+          "saw I never,",
+          "The body fought",
+          "when the head had fallen."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "\"On the ground full low",
+          "the slain are lying,",
+          "Most are there",
+          "of the men of thy race;",
+          "Nought hast thou won,",
+          "for thy fate it was",
+          "Brave men to bring",
+          "to the battle-field."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Then Sigrun wept.",
+          "Helgi said:",
+          "\"Grieve not, Sigrun,",
+          "the battle is gained,",
+          "The fighter can shun not his fate.\"",
+          "Sigrun spake:",
+          "\"To life would I call",
+          "them who slaughtered lie,",
+          "If safe on thy breast I might be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "lines": [
+          "Helgi took Sigrun to wife, and they had sons. Helgi did not reach old age. Dag, the son of Hogni, offered sacrifice to Othin to be avenged for his father's death; Othin gave Dag his spear. Dag found Helgi, his brother-in-law, at a place which is called Fjoturlund. He thrust the spear through Helgi's body. Then Helgi fell, and Dag rode to Sevafjoll and told Sigrun the tidings:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "\"Sad am I, sister,",
+          "sorrow to tell thee,",
+          "Woe to my kin",
+          "unwilling I worked;",
+          "In the morn there fell",
+          "at Fjoturlund",
+          "The noblest prince",
+          "the world has known,",
+          "(And his heel he set",
+          "on the heroes' necks.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Sigrun spake:",
+          "\"Now may every",
+          "oath thee bite",
+          "That with Helgi",
+          "sworn thou hast,",
+          "By the water",
+          "bright of Leipt,",
+          "And the ice-cold",
+          "stone of Uth."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "\"The ship shall sail not",
+          "in which thou sailest,",
+          "Though a favoring wind",
+          "shall follow after;",
+          "The horse shall run not",
+          "whereon thou ridest,",
+          "Though fain thou art",
+          "thy foe to flee."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "\"The sword shall bite not",
+          "which thou bearest,",
+          "Till thy head itself",
+          "it sings about.",
+          "\"Vengeance were mine",
+          "for Helgi's murder,",
+          "Wert thou a wolf",
+          "in the woods without,",
+          "Possessing nought",
+          "and knowing no joy,",
+          "Having no food",
+          "save corpses to feed on.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Dag spake:",
+          "\"Mad art thou, sister,",
+          "and wild of mind,",
+          "Such a curse",
+          "on thy brother to cast;",
+          "Othin is ruler",
+          "of every ill,",
+          "Who sunders kin",
+          "with runes of spite."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "\"Thy brother rings",
+          "so red will give thee,",
+          "All Vandilsve",
+          "and Vigdalir;",
+          "Take half my land",
+          "to pay the harm,",
+          "Ring-decked maid,",
+          "and as meed for thy sons.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Sigrun spake:",
+          "\"I shall sit not happy",
+          "at Sevafjoll,",
+          "Early or late,",
+          "my life to love,",
+          "If the light cannot show,",
+          "in the leader's band,",
+          "Vigblær bearing him",
+          "back to his home,",
+          "(The golden-bitted;",
+          "I shall greet him never.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "\"Such the fear",
+          "that Helgi's foes",
+          "Ever felt,",
+          "and all their kin,",
+          "As makes the goats",
+          "with terror mad",
+          "Run from the wolf",
+          "among the rocks."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "\"Helgi rose",
+          "above heroes all",
+          "Like the lofty ash",
+          "above lowly thorns,",
+          "Or the noble stag,",
+          "with dew besprinkled,",
+          "Bearing his head",
+          "above all beasts,",
+          "(And his horns gleam bright",
+          "to heaven itself.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "prose",
+        "lines": [
+          "A hill was made in Helgi's memory. And when he came to Valhall, then Othin bade him rule over every thing with himself."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Helgi said:",
+          "A \"Thou shalt, Hunding,",
+          "of every hero",
+          "Wash the feet,",
+          "and kindle the fire,",
+          "Tie up dogs,",
+          "and tend the horses,",
+          "And feed the swine",
+          "ere to sleep thou goest.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "prose",
+        "lines": [
+          "One of Sigrun's maidens went one evening to Helgi's hill, and saw that Helgi rode to the hill with many men, The maiden said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "\"Is this a dream",
+          "that methinks I see,",
+          "Or the doom of the gods,",
+          "that dead men ride,",
+          "And hither spurring",
+          "urge your steeds,",
+          "Or is home-coming now",
+          "to the heroes granted?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Helgi spake:",
+          "\"No dream is this",
+          "that thou thinkest to see,",
+          "Nor the end of the world,",
+          "though us thou beholdest,",
+          "And hither spurring",
+          "we urge our steeds,",
+          "Nor is home-coming now",
+          "to the heroes granted.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "prose",
+        "lines": [
+          "The maiden went home and said to Sigrun:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Go forth, Sigrun,",
+          "from Sevafjoll,",
+          "If fain the lord",
+          "of the folk wouldst find;",
+          "(The hill is open,",
+          "Helgi is come;)",
+          "The sword-tracks bleed;",
+          "the monarch bade",
+          "That thou his wounds",
+          "shouldst now make well.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "prose",
+        "lines": [
+          "Sigrun went in the hill to Helgi, and said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Now am I glad",
+          "of our meeting together,",
+          "As Othin's hawks,",
+          "so eager for prey,",
+          "When slaughter and flesh",
+          "all warm they scent,",
+          "Or dew-wet see",
+          "the red of day."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "\"First will I kiss",
+          "the lifeless king,",
+          "Ere off the bloody",
+          "byrnie thou cast;",
+          "With frost thy hair",
+          "is heavy, Helgi,",
+          "And damp thou art",
+          "with the dew of death;",
+          "(Ice-cold hands",
+          "has Hogni's kinsman,",
+          "What, prince, can I",
+          "to bring thee ease?)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Helgi spake:",
+          "\"Thou alone, Sigrun",
+          "of Sevafjoll,",
+          "Art cause that Helgi",
+          "with dew is heavy;",
+          "Gold-decked maid,",
+          "thy tears are grievous,",
+          "(Sun-bright south-maid,",
+          "ere thou sleepest;)",
+          "Each falls like blood",
+          "on the hero's breast,",
+          "(Burned-out, cold,",
+          "and crushed with care.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Helgi spake:",
+          "\"Well shall we drink",
+          "a noble draught,",
+          "Though love and lands",
+          "are lost to me;",
+          "No man a song",
+          "of sorrow shall sing,",
+          "Though bleeding wounds",
+          "are on my breast;",
+          "Now in the hill",
+          "our brides we hold,",
+          "The heroes' loves,",
+          "by their husbands dead.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Sigrun made ready a bed in the hill.",
+          "\"Here a bed",
+          "I have made for thee, Helgi,",
+          "To rest thee from care,",
+          "thou kin of the Ylfings;",
+          "I will make thee sink",
+          "to sleep in my arms,",
+          "As once I lay",
+          "with the living king.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Helgi spake:",
+          "\"Now do I say",
+          "that in Sevafjoll",
+          "Aught may happen,",
+          "early or late,",
+          "Since thou sleepest clasped",
+          "in a corpse's arms,",
+          "So fair in the hill,",
+          "the daughter of Hogni!",
+          "(Living thou comest,",
+          "a daughter of kings.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "\"Now must I ride",
+          "the reddened ways,",
+          "And my bay steed set",
+          "to tread the sky;",
+          "Westward I go",
+          "to wind-helm's bridges,",
+          "Ere Salgofnir wakes",
+          "the warrior throng.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "prose",
+        "lines": [
+          "Then Helgi and his followers rode on their way, and the women went home to the dwelling. Another evening Sigrun bade the maiden keep watch at the hill. And at sunset when Sigrun came to the hill she said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "\"Now were he come,",
+          "if come he might,",
+          "Sigmund's son,",
+          "from Othin's seat;",
+          "Hope grows dim",
+          "of the hero's return",
+          "When eagles sit",
+          "on the ash-tree boughs,",
+          "And men are seeking",
+          "the meeting of dreams.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "The Maiden said:",
+          "\"Mad thou wouldst seem",
+          "alone to seek,",
+          "Daughter of heroes,",
+          "the house of the dead;",
+          "For mightier now",
+          "at night are all",
+          "The ghosts of the dead",
+          "than when day is bright.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "prose",
+        "lines": [
+          "Sigrun was early dead of sorrow and grief. It was believed in olden times that people were born again, but that is now called old wives' folly. Of Helgi and Sigrun it is said that they were born again; he became Helgi Haddingjaskati, and she Kara the daughter of Halfdan, as is told in the Lay of Kara, and she was a Valkyrie."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "prose",
+        "number": "53.",
+        "lines": [
+          "Sigmund, the son of Volsung, was a king in the land of the Franks; Sinfjotli was his eldest son, the second was Helgi, and the third Hamund. Borghild, Sigmund's wife, had a brother who was named.........Sinfjotli, her stepson, and.........both wooed the same woman, wherefore Sinfjotli slew him. And when he came home, Borghild bade him depart, but Sigmund offered her atonement-money, and this she had to accept. At the funeral feast Borghild brought in ale; she took poison, a great horn full, and brought it to Sinfjotli. But when he looked into the horn, he saw that it was poison, and said to Sigmund: \"Muddy is the drink, Father!\" Sigmund took the horn and drank therefrom. It is said that Sigmund was so hardy that poison might not harm him, either outside or in, but all his sons could withstand poison only without on their skin. Borghild bore another horn to Sinfjotli and bade him drink, and all happened as before. And yet a third time she brought him a horn, and spoke therewith scornful words of him if he should not drink from it. He spoke as before with Sigmund. The latter said: \"Let it trickle through your beard, Son!\" Sinfjotli drank, and straight way was dead. Sigmund bore him a long way in his arms, and came to a narrow and long fjord, and there was a little boat and a man in it. He offered to take Sigmund across the fjord. But when Sigmund had borne the corpse out into the boat, then the craft was full. The man told Sigmund to go round the inner end of the fjord. Then the man pushed the boat off, and disappeared.",
+          "King Sigmund dwelt long in Denmark in Borghild's kingdom after he had married her. Thereafter Sigmund went south into the land of the Franks, to the kingdom which he had there. There he married Hjordis, the daughter of King Eylimi; their son was Sigurth. King Sigmund fell in a battle with the sons of Hunding, and Hjordis then married Alf the son of King Hjalprek. There Sigurth grew up in his boyhood. Sigmund and all his sons were far above all other men in might and stature and courage and every kind of ability. Sigurth, however, was the fore most of all, and all men call him in the old tales the noblest of mankind and the mightiest leader."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "79",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "80",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "81",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "82",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "83",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "84",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "85",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "86",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

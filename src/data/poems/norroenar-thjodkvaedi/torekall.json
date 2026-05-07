@@ -1,0 +1,513 @@
+{
+  "category": "norroenar-thjodkvaedi",
+  "slug": "torekall",
+  "key": "Torekall",
+  "title": {
+    "on": "Torekall",
+    "ru": "Старик Тор",
+    "en": "Old Man Thor"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Норвежский текст: Norske Folkedansar. I. Danseviser ved Knut Liestøl og Klara Semb, 1951. s.18. Перевод: Г. В. Воронкова. Скандинавская баллада. C. 13–16. М.: «НАУКА», 1978",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Torekall kom",
+          "seg av skogen heim,",
+          "trøytt var han og mode;",
+          "tjuvan’ ha stole",
+          "burt hamaren hans,",
+          "han visste ‘kje kven det gjorde.",
+          "Torekall tøymer no folen",
+          "sin med taumom."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Loke han tok",
+          "åt vengen sin,",
+          "Nære flaug han sin sprenge,",
+          "— Kom han seg",
+          "åt Gremmeligård,",
+          "Fyrr Gremmil gjeng åt senge."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Då han kom seg",
+          "åt Gremmeligård,",
+          "Stod Gremmil og rørde i elden;",
+          "«Kva er tids uti Åsgården,",
+          "No Loke er ute",
+          "um kvelden."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Kva er tids uti Åsgården,",
+          "Og uti i dine lond?",
+          "Laupand kjem du med slik fjett,",
+          "Som du var jaga med stong.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "«Det er no slik",
+          "tidend i Åsgården,",
+          "Vond og ingen gode!",
+          "Torekall hev sin hamar mist,",
+          "Han visste ‘kje kven det gjorde.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "«Eg hev no hans hamar teke,",
+          "Eg dyl honom ikkje eit ord:",
+          "Åtte alner og nie famnar,",
+          "Eg hev grave han ned i jord."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Ikkje fær han att hamaren sin,",
+          "Ikkje meir han sjå,",
+          "Minder han flyt",
+          "og fører her heim",
+          "Si yngste syster mjå.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Loke han tok",
+          "åt vengen sin,",
+          "Nære flaug han sin sprenge;",
+          "Kom han seg åt Åsgården",
+          "Fyrr Torekall gjeng åt senge."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "«Grimmen hev",
+          "din hamar teke,",
+          "Han dyl ikkje det eit ord:",
+          "Åtte alner og nie famnar",
+          "Han hev grave han ned i jord."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Ikkje fær du att hamaren din,",
+          "Ikkje meir han sjå",
+          "Minder du flyt",
+          "og fører her heim",
+          "Di yngste syster mjå.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Det var fruva",
+          "den velborne,",
+          "Ho vart so ille ved ord,",
+          "Henne dreiv blodet av andletet,",
+          "Ho svartna rett som ei jord."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "«No vil me taka",
+          "han Torekall,",
+          "Vel vilja me bysta han hår,",
+          "Kleda på honom brurekledi",
+          "Og føra’n åt Gremmeligård.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Dei tok då deira vesle brur",
+          "Og håret hennar byste;",
+          "So snare då våre dei brurepikor,",
+          "Dei kledde på bruri fyrste."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Inn kom grimme jutulen",
+          "Og såg på brureferdi:",
+          "«Henta meg hit mine klede",
+          "Og lat meg fager vera.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Uksekroppen",
+          "so åt ho upp",
+          "Og tvo punds kjel med kål,",
+          "Alle dei brød",
+          "som baka var,",
+          "Av femtan skjeppor såd."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "«Eg gjere no både",
+          " skjek og skjelv,",
+          "Eg kan ikkje drikka av hornom",
+          "Du gjeve meg drikke",
+          "av bollstampen,",
+          "Og føre han hit med stongom.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Til svara grimme jutulen",
+          "Heime i sitt velde:",
+          "«Eg aldri hev set so liti ei brur",
+          "Hev ete meir um kveldi.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "Torekall tøymer no folen sin med taumom."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Домой плетется",
+          "старый Тор,",
+          "Беда стряслась у Тора —",
+          "Украли молот",
+          "у него,",
+          "И он не знает вора.",
+          "Старый Тор",
+          "жеребца седлает."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Локен по воздуху",
+          "к Греммилю мчит,",
+          "Ломая о ветер крыло.",
+          "Примчался",
+          "в Греммелигор —",
+          "Там было еще светло."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Греммиль в горне",
+          "огонь ворошит,",
+          "Жару подбавить хочет:",
+          "«В Осгоре, видно,",
+          "что-то стряслось,",
+          "Раз Локен нагрянул к ночи."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Солнце еще не успело зайти,",
+          "А ты уже тут как тут.",
+          "Должно быть, по твоей спине",
+          "Не раз прошелся кнут»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "В Осгоре, Греммиль,",
+          "беда стряслась —",
+          "Молот свой ищет Тор.",
+          "Плохи у старого Тора дела,",
+          "Не знает он, кто вор»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "«Молот похитил у Тора я,",
+          "Так ему и скажи.",
+          "В землю зарыл его глубоко —",
+          "На восемьдесят аршин."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Молота Тор не получит",
+          "Ни нынче, ни потом,",
+          "Покуда младшей",
+          "своей сестры",
+          "Не приведет в мой дом»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Локен по воздуху",
+          "к Греммилю мчит,",
+          "Ломая о ветер крыло.",
+          "В Осгор примчался он —",
+          "Там было еще светло."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "«Твой молот",
+          "похитил Греммиль,",
+          "Он сам об этом сказал.",
+          "На восемьдесят аршин",
+          "В землю его закопал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Ты молота, Тор, не получишь",
+          "Ни нынче, ни потом,",
+          "Покуда младшей",
+          "своей сестры",
+          "Не приведешь в его дом»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "У младшей сестры",
+          "его Вальборг",
+          "Схлынула кровь с ланит.",
+          "Стала она, как земля, черна,",
+          "Взор от гнева блестит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "«Пусть брачный",
+          "наряд невесты",
+          "Сам наденет Тор,",
+          "Пусть волосы расчешет",
+          "И едет в Греммелигор»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "С трудом на старого Тора",
+          "Надели брачный наряд.",
+          "Волосы ему расчесали,",
+          "Соблюдая обряд."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "На пышную свиту невесты",
+          "Уставился глупый Греммиль:",
+          "«Лучшее платье несите мне —",
+          "Надеть его самое время»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Мигом сожрала",
+          "быка большого",
+          "И хлеб умяла невеста,",
+          "Пятнадцать мешков",
+          "ржаной муки",
+          "Замешано было на тесто."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Лососей сожрала",
+          "пятнадцать штук,",
+          "Котел похлебки капустной,",
+          "Выпила брагу всю до дна,",
+          "И на столе стало пусто."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "В лохани ей притащили вина,",
+          "Была лохань тяжела,",
+          "Пришлось ее на палки надеть,",
+          "Чтобы полегче была."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "От страха глупый ётун",
+          "Не взвидел белого света:",
+          "«В жизни я невест не видал,",
+          "Чтоб жрали так, как эта!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "Старый Тор жеребца седлает."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": []
+  }
+}

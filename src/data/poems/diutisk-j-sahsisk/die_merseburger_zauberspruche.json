@@ -1,0 +1,219 @@
+{
+  "category": "diutisk-j-sahsisk",
+  "slug": "die-merseburger-zauberspruche",
+  "key": "DieMerseburgerZauberspruche",
+  "title": {
+    "on": "Die Merseburger zaubersprüche",
+    "ru": "Мерзебургские заклинания",
+    "en": "Merseburg Spells"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древний текст и примечания: Т. В. Топорова. Язык и стиль древнегерманских заговоров. — М.: 2006. С. 128–129. Перевод: Б. Ярхо.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "MZ1"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Eiris sâzun idisi,",
+          "sâzun hêra duoder.",
+          "suma hapt heptidun,",
+          "suma heri lezidun,",
+          "suma clûbôdun",
+          "umbi cuoniouuidi:",
+          "insprinc haptbandum,",
+          "inuar uîgandun!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "heading",
+        "lines": [
+          "MZ2"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Phol ende Uuôdan",
+          "uuorun zi holza.",
+          "Dû uuart demo Balderes",
+          "uolon sîn uuoz birenkit.",
+          "thû biguol en Sinthgunt,",
+          "Sunna era suister,",
+          "thû biguol en Frîia,",
+          "Uolla era suister;",
+          "thû biguol en Uuôdan",
+          "sô hê uuola conda:",
+          "sôse bênrenkî,",
+          "sôse bluotrenkî,",
+          "sôse lidirenkî:",
+          "bên zi bêna,",
+          "bluot zi bluoda,",
+          "lid zi geliden,",
+          "sôse gelimida sin!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "heading",
+        "lines": [
+          "SVENSKAN BOTEFORMELN MOT VRED"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "heading",
+        "lines": [
+          "Jälluntofta, Småland, 1879–1880."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Oden rider öfver sten och bärg;",
+          "han rider sin häst",
+          "ur vred och i led,",
+          "ur olag och i lag,",
+          "ben till ben,",
+          "led till led,",
+          "som det bäst var,",
+          "när det helt var."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "МЗ-1"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Древле сели девы",
+          "семо и овамо,",
+          "Эти путы путали,",
+          "те полки пятили,",
+          "Третьи перетерли",
+          "твердые оковы.",
+          "Верви низвергни,",
+          "вражьих пут избегни."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "heading",
+        "lines": [
+          "МЗ-2"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Пфол и Водан",
+          "выехали в рощу.",
+          "Тут Бальдеров жеребчик",
+          "вывихнул бабку.",
+          "Заклинала Синтгунт",
+          "с Сунною-сестрицей;",
+          "Заклинала Фрия",
+          "с Фоллою-сестрицей;",
+          "Заклинал и Водан;",
+          "заговор он ведал",
+          "От полома кости,",
+          "от потока крови,",
+          "от вывиха членов.",
+          "Склейся кость с костью,",
+          "слейся кровь с кровью,",
+          "К суставу сустав,",
+          "как слепленный, пристань."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "heading",
+        "lines": [
+          "ШВЕДСКОЕ ЗАКЛИНАНИЕ ПРОТИВ ВЫВИХА"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "heading",
+        "lines": [
+          "Еллунтофта, Смоланд, 1879–1880."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Один едет через камни и холмы,",
+          "он ведет свою лошадь",
+          "от вывиха и к сочленению,",
+          "из беспорядка и к порядку,",
+          "кость к кости,",
+          "сустав к суставу,",
+          "так как было хорошо,",
+          "когда они были целыми."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

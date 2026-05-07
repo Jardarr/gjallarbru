@@ -1,0 +1,217 @@
+{
+  "category": "eald-englisc-leodcraeft",
+  "slug": "caedmones-leod",
+  "key": "CaedmonesLeod",
+  "title": {
+    "on": "Cædmones léoþ (ymen)",
+    "ru": "Гимн Кэдмона"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Перевод и примечания: Древнеанглийская поэзия. — М.: Наука, 1982. Перевод В. Г. Тихомирова под редакцией О. А. Смирницкой. С. 27–28.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "West Saxon:",
+          "Nu we sculon herigean",
+          "heofonrices weard,",
+          "meotodes meahte",
+          "ond his modgeþanc,",
+          "weorc wuldorfæder,",
+          "swa he wundra gehwæs,",
+          "ece drihten,",
+          "or onstealde.",
+          "He ærest sceop",
+          "eorðan bearnum",
+          "heofon to hrofe,",
+          "halig scyppend;",
+          "þa middangeard",
+          "moncynnes weard,",
+          "ece drihten,",
+          "æfter teode",
+          "firum foldan,",
+          "frea 5 ælmihtig."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Northumbrian:",
+          "Nu scylun hergan",
+          "hefaenricaes uard,",
+          "metudæs maecti",
+          "end his modgidanc,",
+          "uerc uuldurfadur,",
+          "sue he uundra gihuaes,",
+          "eci dryctin,",
+          "or astelidæ.",
+          "He aerist scop",
+          "aelda barnum",
+          "heben til hrofe,",
+          "haleg scepen.",
+          "Tha middungeard",
+          "moncynnæs uard,",
+          "eci dryctin,",
+          "æfter tiadæ",
+          "firum foldu,",
+          "frea 5 allmectig.",
+          "Primo cantauit Caedmon istud carmen"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Latin:Nunc laudare debemus",
+          "auctorem",
+          "regni caelestis",
+          "potentiam Creatoris,",
+          "et consilium illius",
+          "facta Patris gloriae:",
+          "quomodo ille,",
+          "cum sit aeternus Deus",
+          "omnium miraculorum",
+          "auctor exstitit;",
+          "qui primo",
+          "filiis hominum",
+          "caelum pro",
+          "culmine tecti",
+          "dehinc terram",
+          "custos humani generis",
+          "omnipotens",
+          "creavit."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Ныне восславословим",
+          "всевластного небодержца,",
+          "господа всемогущество,",
+          "благое премудромыслие",
+          "и созданье славоподателя,",
+          "как он, государь предвечный,",
+          "всякому чуду",
+          "дал начало.",
+          "Кровлю упрочил",
+          "для земнородных высокую,",
+          "небосвод поставил",
+          "святой создатель,",
+          "мир серединный сделал",
+          "всеславный народодержец,",
+          "предел для землерожденных,",
+          "государь предвечный,",
+          "бог небесный,",
+          "эту обитель смертных."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Now [we] must honour",
+          "the guardian of heaven,",
+          "the might of the Measurer",
+          "and His mind’s purpose,",
+          "the work of the Father of Glory,",
+          "as He for each of the wonders,",
+          "the eternal Lord,",
+          "established a beginning.",
+          "5 He shaped first",
+          "for the sons of men,",
+          "heaven as a roof,",
+          "the Holy Judge.",
+          "Then the Middle-World,",
+          "mankind’s Guardian,",
+          "the eternal Lord,",
+          "made afterwards,",
+          "solid ground for men,",
+          "the almighty Lord."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Now we ought to praise",
+          "the maker of the heavenly",
+          "kingdom",
+          "the power of the Creator,",
+          "and his intention",
+          "the deeds of the Father of glory:",
+          "how he,",
+          "since he is the eternal Lord",
+          "of all miracles",
+          "has been the author;",
+          "5 who first",
+          "for the sons of men",
+          "heaven for",
+          "a roof above",
+          "next, the earth,",
+          "the keeper of the human-race",
+          "the all-powerful",
+          "created."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

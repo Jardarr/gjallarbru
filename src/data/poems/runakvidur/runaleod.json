@@ -1,0 +1,947 @@
+{
+  "category": "runakvidur",
+  "slug": "runaleod",
+  "key": "Runaleod",
+  "title": {
+    "on": "Rúnaléoð",
+    "ru": "Поэма рун",
+    "en": "Rune Poem"
+  },
+  "subtitle": {
+    "ru": "Англосаксонская руническая поэма",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Перевод: К. Горбаченко (skohslhweit).",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Att I"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "f ᚠ Feoh býþ frofur ·",
+          "fira gehwýlcum ·",
+          "sceal ðeah manna gehwýlc ·",
+          "miclun hýt dælan ·",
+          "gif he wile ·",
+          "for drihtne domes hleotan :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "u ᚢ Ur býþ anmod ·",
+          "ond oferhýrned ·",
+          "felafrecne · deor",
+          "feohteþ · mid hornum",
+          "mære morstapa ·",
+          "þæt is modig wuht :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "ð ᚦ Ðorn býþ ðearle scearp ·",
+          "ðegna gehwýlcum ·",
+          "anfeng ýs ýfýl ·",
+          "ungemetum reþe",
+          "manna gehwelcum ·",
+          "ðe him mid resteð :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "o ᚩ Os býþ ordfruma ·",
+          "ælere spræce ·",
+          "wisdomes wraþu ·",
+          "ond witena frofur ·",
+          "and eorla gehwam ·",
+          "eadnýs ond tohiht :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "r ᚱ Rad býþ on recýde ·",
+          "rinca gehwýlcum ·",
+          "sefte and swiþhwæt ·",
+          "ðamðe sitteþ on ufan ·",
+          "meare mægenheardum ·",
+          "ofer milpaþas :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "c ᚳ Cen býþ cwicera gehwam",
+          "cuþ on fýre",
+          "blac ond beorhtlic",
+          "býrneþ oftust",
+          "ðær hi æþelingas",
+          "inne restaþ :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "ᵹ ᚷ Gyfu gumena býþ",
+          "gleng and herenýs ·",
+          "wraþu and wýrþscýpe",
+          "and wræcna gehwam",
+          "ar and ætwist",
+          "ðe byþ oþra leas :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "w ᚹ Wenne bruceþ",
+          "ðe can weana lýt",
+          "sares and sorge",
+          "and him sýlfa hæfþ",
+          "blæd and blýsse",
+          "and eac býrga geniht :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "heading",
+        "lines": [
+          "Att II"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "h ᚻ  Hægl býþ hwitust corna ·",
+          "ᚼ hwýrft hit of heofones lýfte ·",
+          "ᚺ wealcaþ hit windes scura ·",
+          "weorþeþ hit to wætere sýððan :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "n ᚾ Nyd býþ nearu on breostan ·",
+          "weorþeþ hi þeah",
+          "oft niþa bearnum",
+          "to helpe and to hæle gehwæþre",
+          "gif hi his hlýstaþ æror :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "i ᛁ  Is býþ ofereald",
+          "ungemetum slidor,",
+          "glisnaþ glæshluttur",
+          "gimmum gelicust ·",
+          "flor forste geworuht",
+          "fæger ansýne :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "g ᛄ Ger býþ gumena hiht",
+          "ðonne God læteþ",
+          "halig heofones cýning",
+          "hrusan sýllan",
+          "beorhte bleda",
+          "beornum ond ðearfum :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "eo ᛇ Eoh býþ utan",
+          "unsmeþe treow ·",
+          "heard hrusan fæst",
+          "hýrde fýres ·",
+          "wýrtrumun underwreþýd",
+          "wýn on eþle :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "p ᛈ Peorð býþ sýmble",
+          "plega · and hlehter",
+          "wlancum [on middum]",
+          "ðar wigan sittaþ",
+          "on beorsele",
+          "bliþe ætsomne :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "x ᛉ Eolhx sec[g] eard hæfþ",
+          "oftust on fenne ·",
+          "wexeð on wature",
+          "wundaþ grimme ·",
+          "blode breneð",
+          "beorna gehwýlcne ·",
+          "ðe him ænigne",
+          "onfeng gedeþ :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "s ᛋ Sigel semannum",
+          "sýmble biþ on hihte",
+          "ðonne hi hine feriaþ",
+          "ofer fisces beþ",
+          "oþ hi brimhengest",
+          "bringeþ to lande :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "heading",
+        "lines": [
+          "Att III"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "t ᛏ Tir biþ tacna sum",
+          "healdeð trýwa wel ·",
+          "wiþ æþelingas",
+          "a biþ on færýlde ·",
+          "ofer nihta genipu ·",
+          "næfre swiceþ :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "b ᛒ Beorc býþ bleda leas ·",
+          "bereþ efne swa ðeah",
+          "tanas butan tudder ·",
+          "biþ on telgum wlitig ·",
+          "heah on helme",
+          "hrýsted fægere ·",
+          "geloden leafum",
+          "lýfte getenge :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "e ᛖ Eh býþ for eorlum",
+          "æþelinga wýn ·",
+          "hors hofum wlanc ·",
+          "ðær him hæleþ ýmb[e] ·",
+          "welege on wicgum",
+          "wrixlaþ spræce ·",
+          "and biþ unstýllum",
+          "æfre frofur :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "m ᛗ Man býþ on mýrgþe",
+          "his magan leof:",
+          "sceal þeah anra gehwýlc",
+          "oðrum swican ·",
+          "forðum drihten wýle ·",
+          "dome sine",
+          "þæt earme flæsc ·",
+          "eorþan betæcan :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "l ᛚ Lagu býþ leodum",
+          "langsum geþuht,",
+          "gif hi sculun neþan",
+          "on nacan tealtum ·",
+          "and hi sæýþa",
+          "swýþe bregaþ ·",
+          "and se brimhengest",
+          "bridles ne gým[eð] :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "ŋ ᛝ Ing wæs ærest",
+          "mid east denum ·",
+          "gesewen secgun ·",
+          "oþ he siððan est ·",
+          "ofer wæg gewat",
+          "wæn æfter ran ·",
+          "ðus heardingas",
+          "ðone hæle nemdun"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "œ ᛟ Eþel býþ oferleof ·",
+          "æghwýlcum men ·",
+          "gif he mot ðær · rihtes",
+          "and gerýsena on",
+          "brucan on bolde",
+          "bleadum oftast :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "d ᛞ Dæg býþ drihtnes sond ·",
+          "deore mannum ·",
+          "mære metodes leoht ·",
+          "mýrgþ and tohiht",
+          "eadgum and earmum ·",
+          "eallum brice :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "heading",
+        "lines": [
+          "Att IV"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "a ᚪ Ac býþ on eorþan ·",
+          "elda bearnum ·",
+          "flæsces fodor",
+          "fereþ gelome",
+          "ofer ganotes bæþ",
+          "garsecg fandaþ ·",
+          "hwæþer ac hæbbe",
+          "æþele treowe :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "æ ᚫ Æsc biþ oferheah ·",
+          "eldum dýre ·",
+          "stiþ on staþule ·",
+          "stede rihte hýlt ·",
+          "ðeah him feohtan on",
+          "firas monige :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "ý ᚣ Ýr býþ æþelinga",
+          "and eorla gehwæs ·",
+          "wýn and wýrþmýnd ·",
+          "býþ on wicge fæger",
+          "fæstlic on færelde ·",
+          "fýrdgeatewa sum :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "io ᛡ Ior býþ eafix",
+          "and ðeah a bruceþ ·",
+          "fodres on foldan ·",
+          "hafaþ fægerne eard ·",
+          "wætre beworpen",
+          "ær he wýnnum leofaþ :·"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "ea ᛠ Ear býþ egle",
+          "eorla gehwýlcun",
+          "ðonn[e] fæstlice",
+          "flæsc onginneþ",
+          "hraw colian",
+          "hrusan ceosan",
+          "blac to gebeddan",
+          "bleda gedreosaþ",
+          "wýnna gewitaþ",
+          "wera geswicaþ"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Богатство — утешение",
+          "всем людям,",
+          "но должен человек каждый —",
+          "щедро им делиться,",
+          "если он хочет",
+          "перед Господом славу обрести."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Тур яр",
+          "и великорог,",
+          "свирепейший зверь,",
+          "сражается рогами",
+          "прославленный скиталец пустошей.",
+          "Это отважное существо"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Шип (терн?) — жестоко остр,",
+          "тану каждому",
+          "схватившемуся — он зло,",
+          "безмерно суров",
+          "к человеку любому,",
+          "что на нем отдыхает."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Бог (Ас) — источник (князь)",
+          "всей речи,",
+          "опора мудрости",
+          "и утешение мудрецам,",
+          "и каждому эрлу —",
+          "благо и надежда."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Верховая езда в чертоге",
+          "воину каждому",
+          "сладка, и тяжка",
+          "для того, кто сидя на",
+          "коне могучем,",
+          "в многомильном пути."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Факел всем живым существам",
+          "известен огнем",
+          "яркий и ясный —",
+          "горит чаще всего",
+          "там, где этелинги",
+          "отдыхают дома."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Дар для людей —",
+          "честь и хвала,",
+          "поддержка и почет,",
+          "и бродяге любому",
+          "милость и средства к существованию,",
+          "которых иначе он лишен."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Радостью наслаждается тот,",
+          "кто знает мало бед,",
+          "страданий и тревог.",
+          "И сам имеет",
+          "процветание и блаженство",
+          "и достаточно крепкую обитель."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Град — белейшее зерно,",
+          "выпадает оно с небесной выси,",
+          "мечут его бури с ливнями,",
+          "обращается оно в воду затем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Нужда тесна на груди,",
+          "но становится она часто",
+          "сынам человеческим",
+          "и в помощь, и в спасение — если",
+          "она услышана заранее."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Лед очень холоден,",
+          "безмерно скользок,",
+          "сияет ясным стеклом,",
+          "подобно драгоценностям,",
+          "настил, морозом созданный,",
+          "прекрасен видом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Год — людям надежда,",
+          "если Бог позволит,",
+          "святой небесный конунг,",
+          "земле дать",
+          "славные плоды",
+          "и благородным, и бедным."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Тис снаружи —",
+          "грубое дерево,",
+          "стоек в земле и крепок,",
+          "хранитель огня,",
+          "корнями укреплен —",
+          "радость вотчины."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Peorþ — вечно",
+          "игра и смех",
+          "гордых (…),",
+          "где бойцы сидят",
+          "в пивном чертоге,",
+          "счастливы вместе"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Лось — осока живет",
+          "чаще всего на болоте,",
+          "растет в воде,",
+          "ранит жестоко",
+          "кровью красит",
+          "человека каждого",
+          "который ее, так или иначе,",
+          "схватить дерзнет (?)."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Солнце морякам",
+          "всегда в радость,",
+          "когда они идут",
+          "над купальней рыб,",
+          "пока морского скакуна",
+          "к земле не приведут."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Тир — некое знамение.",
+          "Хранит ряд хорошо",
+          "с этелингами.",
+          "Вечно в пути",
+          "над ночной мглой,",
+          "никогда не обманет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Береза лишена цветов,",
+          "но рождает даже так",
+          "побеги бесплодные,",
+          "ветвями красива,",
+          "высока кроной,",
+          "украшенной дивно,",
+          "нагруженной листьями,",
+          "к небу близкой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Конь перед эрлами —",
+          "этелингов радость,",
+          "конь копытами горд —",
+          "когда о нем герои",
+          "богатые на скакунах",
+          "обмениваются речами.",
+          "И беспокойным он —",
+          "всегда утешенье"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Человек — счастлив,",
+          "родне своей люб,",
+          "но должен каждый",
+          "прочих покинуть",
+          "потому, что волей Господа,",
+          "его повелением,",
+          "эта жалкая плоть",
+          "земле будет предана"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Море — людям",
+          "бесконечным мыслится",
+          "если они должны пуститься",
+          "на ладье неустойчивой",
+          "и волны морские",
+          "их сильно страшат",
+          "и морской жеребец",
+          "узде неподвластен."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Инг 6 был первым",
+          "среди восточных данов",
+          "увиденный людьми,",
+          "пока он вновь",
+          "по волнам удалился,",
+          "колесница следом мчалась.",
+          "Так храбрецы",
+          "его героем именуют."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Вотчина очень люба",
+          "любому человеку,",
+          "если он может по праву",
+          "и надлежащим образом",
+          "хозяйничать в доме —",
+          "чаще всего в процветании."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "День — господний",
+          "посланник,",
+          "дорогой людям",
+          "великий свет судьбы 7 —",
+          "счастье и надежда",
+          "благополучным и нищим —",
+          "всем на пользу (радость)."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Дуб на земле",
+          "сынам человеческим",
+          "плоти питание (футляр) —",
+          "странствует часто",
+          "по купальне бакланов.",
+          "Копьеносец (море) испытывает",
+          "имеет ли дуб",
+          "благородную верность."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Ясень — очень высок,",
+          "людям дорог",
+          "тверд стволом",
+          "место правое держит",
+          "хотя и воют с ним",
+          "люди многие."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Лук для этелингов",
+          "и эорлов всех",
+          "радость и почет —",
+          "на коне прекрасен",
+          "надежен в пути,",
+          "военное снаряжение (оружие)."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Змей?, угорь? — рыба речная —",
+          "но всегда наслаждается",
+          "пищей на суше.",
+          "Имеет прекрасную обитель",
+          "водой окруженную,",
+          "там он в радости живет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Земля (могильная) ужасна",
+          "эорлам всем",
+          "когда быстро",
+          "плоть начинает —",
+          "труп — остывать,",
+          "землю выбирать",
+          "черную в любовницы.",
+          "Плоды опадают",
+          "радость уходит,",
+          "узы дружбы разрушаются."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

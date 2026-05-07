@@ -1,0 +1,860 @@
+{
+  "category": "eddica-minora",
+  "slug": "volsa-tattr",
+  "key": "VolsaTattr",
+  "title": {
+    "on": "Völsa þáttr",
+    "ru": "Прядь о вёльси",
+    "en": "Strand about völsì"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Guðni Jónsson, Перевод: Т. Ермолаев.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "1. Hefst Völsadýrkun andnesmanna"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "I Eftir því sem í einu fornu kvæði",
+          "vísar til, byggði á einu andnesi",
+          "norðarliga í Nóregi, þar sem góð langskipa höfn var undir, fjarri",
+          "meginbyggðinni ok svá þjóðleið,",
+          "einn bóndi ok húsfreyja, nökkut",
+          "öldruð. Þau áttu tvau börn, son",
+          "ok dóttur, at því sem í upphafi",
+          "kvæðisins segir ok svá hefr:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Karl hefir búit",
+          "ok kona öldruð",
+          "á andnesi",
+          "einu hverju.",
+          "Átti son",
+          "við seima Bil",
+          "drengr ok dóttur",
+          "drjúgskýrliga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "II Þar var ok þræll ok ambátt. Bón­di var spakr maðr ok óh­lutdeilinn, en kerling var svarkr mikill ok réð mjök fyrir hýbý­laháttum dagliga. Bónda­sonr var kátr og gleðifullr, glen­sugr ok up­pivöðslumikill. Bón­dadóttir var eldri, næm ok nát­túruvitr, þó at hon hefði eigi við fjölmenni upp vaxit. Bóndi átti etjutík stóra, er Lærir hét. Engar skynjar höfðu þau á heilagri trú."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "III Svá bar til á einu áliðnu hausti, at eykhestr karls dó. Var hann mjök feitr, ok með því at heiðnir menn höfðu hrossakjöt sér til fæðu, var hestrinn til gerr ok nýttr. Ok í fyrstu, er fleginn var, rak þræll af honum í einu þann lim, sem eftir skapan náttúrunnar hafa þess kyns kvikendi til getnaðar sem önnur dýr, þau sem aukast sín á milli, ok eftir því, sem fornskáldin vísa til, heitir vingull á hestum. Ok svá sem þrællinn hefir hann af skorit ok ætlar niðr at kasta á völlinn hjá sér, hleypr bóndason til hlæjandi ok grípr við ok gengr inn í stofu. Þar var fyrir móðir hans, dóttir hennar ok ambátt. Hann hristir at þeim vingulinn með mörgum kallsyrðum ok kvað vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Hér meguð sjá",
+          "heldr röskligan",
+          "vingul skorinn",
+          "af viggs föður.",
+          "Þér er ambátt",
+          "þessi Völsi",
+          "allódaufligr",
+          "innan læra."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "IV Ambáttin skellir upp ok hlær, en bóndadóttir bað hann út bera andstyggð þessa. Kerling stendr upp ok gengr at öðrum megin ok grípr af honum ok segir, at hvárki þetta né annat skulu þau ónýta, þat sem til gagns má verða, gengr fram síðan ok þurrkar hann sem vandligast ok vefr innan í einum líndúki ok berr hjá lauka ok önnur grös, svá at þar fyrir mætti hann eigi rotna, ok leggr niðr í kistu sína."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "lines": [
+          "V Líðr nú svá á haustit, að kerling tekr hann upp hvert kveld með einhverjum formála honum til dýrkunar, ok þar kemr, at hon vendir þangat til öllum sínum átrúnaði ok heldr hann fyrir guð sinn, leiðandi í sömu villu með sér bónda sinn ok börn ok allt sitt hyski. Ok með fjandans krafti vex hann svá ok styrknar, at hann má standa hjá húsfreyju, ef hon vill. Ok at svá gervu tekr kerling þann sið, at hon berr hann í stofu hvert kveld ok kveðr yfir honum vísu fyrst manna, fær síðan bónda ok svá hverr frá öðrum, þar til sem kemr at lokum til ambáttar, ok skyldi hverr maðr kveða yfir honum vísu. Fannst þat á hvers þeira ummælum, hversu hverju þeira var um gefit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "heading",
+        "lines": [
+          "2. Óláfr konungr hitti andnesmenn"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "VI Þat hafði verit einhverju sin­ni, áðr en Ólafr konungr varð landflótta fyrir Knúti kon­ungi, at hann helt skipum sín­um norðr með landi. Hann haf­ði frétt af þessu andnesi ok þeiri ótrú, er þar fór fram. Ok með því at hann vildi þar sem annars staðar fólkinu snúa til réttrar trúar, segir hann fyrir leiðsögumanninum, at hann skal af víkja leiðinni ok til þeirar hafnar, er liggr undir fyrrgreindu andnesi, því at byrr var hægr. Koma þeir síð dags í þessa höfn. Lætr konungr tjalda yfir skipum, en segir, at þeir skulu á skipum liggja um nóttina, en hann vill ganga heim til bæjar ok biðr fara með sér Finn Árnason ok Þormóð Kolbrúnarskáld."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "prose",
+        "lines": [
+          "VII Þeir taka sér allir grákufla ok steypa útan yfir klæði sín ok ganga svá heim til bæjar um kveldit í húmi, víkja af til stofu ok setjast á bekk annan ok skipa svá sessum, at Finnr sitr innstr, þá Þormóðr, en konungr yztr, bíða þar, til þess er myrkt er orðit, svá at engi maðr kemr í stofu. Ok eftir kemr innar kona með ljósi, ok var þat bóndadóttir. Hon heilsar mönnum ok spyrr þá at nafni, en þeir nefndust allir Grímar. Hon gerir þá upp ljós í stofunni. Hon sér jafnan til gestanna, ok lengst horfir hon á þann, er yztr sitr. Ok svá sem hon býst fram at ganga, verðr henni ljóð á munni ok mælti svá:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Ek sé gull á gestum",
+          "ok guðvefjar skikkjur",
+          "Mér fellr hugr til hringa.",
+          "Heldr vil ek þing en ljúga",
+          "Kenni ek þik, konungr minn.",
+          "Kominn ertu, Óláfr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "VIII Þá svarar hann tilkvámumaðr, sá er yztr sat: «Lát þú kyrrt yfir því, þú ert kona hyggin.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "IX Ekki skiptust þau fleirum orð­um við. Gekk bóndadóttir fram, ok litlu seinna kemr inn bóndi ok sonr hans ok þræll. Sezt bóndi í hægsæti, sonr hans upp hjá ho­num, en þræll yfir lengra frá ho­num. Eru þeir kátir við gestina af kyrt þeiri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "lines": [
+          "X Síðan er snúit hýbýlum á leið ok tekit borð ok settr matr fram. Bóndadóttir settist upp hjá bróður sínum, en ambátt hjá þræli. Grí­mar sitja allir samt, sem fyrr var sagt. Síðast kemr innar kerling ok berr Völsa í fangi sér ok gengr at hægsætinu fyrir bónda. Ekki er þess getit at hon kveddi gestina. Hon rekr af dúkana af Völsa ok setr á kné bónda ok kvað vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Aukinn ertu, Völsi,",
+          "ok upp of tekinn,",
+          "líni gæddr,",
+          "en laukum studdr.",
+          "Þiggi mörnir",
+          "þetta blæti,",
+          "en þú, bóndi sjálfr,",
+          "ber þú at þér Völsa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "prose",
+        "lines": [
+          "XI Bóndi lét sér fátt um finnast, tók þó við ok kvað vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Mundi eigi,",
+          "ef ek um réða,",
+          "blæti þetta",
+          "borit í aftan.",
+          "Þiggi mörnir",
+          "þetta blæti,",
+          "en þú, sonr bónda,",
+          "sé þú við Völsa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "XII Bóndasonr greip við honum ok yppir Völsa ok vindr at systur sinni ok kvað vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Beri þér beytil,",
+          "fyrir brúðkonur.",
+          "Þær skulu vingul",
+          "væta í aftan.",
+          "Þiggi mörnir",
+          "þetta blæti,",
+          "en þú, dóttir bónda,",
+          "drag þú at þér Völsa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "lines": [
+          "XIII Hon gerir sér heldr fátt um, en varð þó at fylgja hýbýlaháttum, tók heldr tæpt á honum ok kvað þó vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Þess sverk við Gefjun",
+          "ok við goðin önnur,",
+          "at ek nauðig tek",
+          "við nosa rauðum.",
+          "Þiggi mörnir",
+          "þetta blæti,",
+          "en, þræll hjóna,",
+          "þríf þú við Völsa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "lines": [
+          "XIV Þrællinn tekr við ok kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Hleifr væri mér",
+          "hálfu sæmri,",
+          "þykkir ok ökkvinn",
+          "ok þó víðr,",
+          "en Völsi þessi",
+          "á verkdögum.",
+          "Þiggi mörnir",
+          "þetta blæti,",
+          "en þú, þý hjóna,",
+          "þrýstu at þér Völsa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "prose",
+        "lines": [
+          "XV Ambáttin tekr við honum mjök blíðliga, vefr hann at sér ok klappar honum ok kvað vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Víst eigi mættak",
+          "við of bindask",
+          "í mik at keyra,",
+          "ef vit ein lægim",
+          "í andkætu.",
+          "Þiggi mörnir",
+          "þetta blæti,",
+          "en þú, Grímr, gestr várr,",
+          "gríp þú við Völsa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "XVI Finnr tók þá við ok helt á. Hann kvað þá vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Legit hefk víða",
+          "fyrir andnesjum,",
+          "snævgum höndum",
+          "segl upp dregit.",
+          "Þiggi mörnir",
+          "þetta blæti,",
+          "en þú, Grímr, griði minn,",
+          "gríp þú við Völsa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "lines": [
+          "XVII Hann fekk þá Þormóði. Tók hann við ok hugði at allglöggliga, hversu Völsi er skapaðr. Brosti hann þá ok kvað vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Sákat forðum,",
+          "þó hefk farit víða,",
+          "flennt reðr fyrri",
+          "fara með bekkjum.",
+          "Þiggi mörnir",
+          "þetta blæti,",
+          "en þú, Aðal-Grímr,",
+          "tak enn við Völsa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "XVIII Konungr tók við ok kvað vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Verit hefk stýrir",
+          "ok stafnbúi",
+          "ok oddviti",
+          "allra þjóða.",
+          "Þiggi mörnir",
+          "þetta blæti,",
+          "en þú, hundr hjóna,",
+          "hirtu bákn þetta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "prose",
+        "lines": [
+          "XIX Hann kastaði þá fram á gólfit, en hundrinn greip þegar upp. En er kerling sá þat, þá var hon öll á flugi. Brá henni mjök við ok kvað vísu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Hvat er þat manna",
+          "mér ókunnra,",
+          "er hundum gefr",
+          "heilagt blæti?",
+          "Hefi mik of hjarra",
+          "ok á hurðása,",
+          "vita ef ek borgit fæ",
+          "blætinu helga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Legg þú niðr, Lærir,",
+          "ok lát mik eigi sjá,",
+          "ok svelg eigi niðr",
+          "sártíkin rög."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "prose",
+        "lines": [
+          "XX Konungr kastar þá af sér du­larklæðunum. Þekkist hann þá. Telr hann þá trú fyrir þeim, ok var kerling treg til trúarinnar, en bóndi nökkuru fljótari, en með krafti guðs ok kostgæfi Óláfs verðr þat at lykðum, at þau taka öll trú ok eru skírð af hirðpresti konungs ok heldu vel trú síðan, er þau urðu áskynja, á hvern þau skyldu trúa, ok þekktu skapara sinn, sáu nú, hversu illa ok ómannliga þau höfðu lifat ok ólíkt öllum öðrum góðum mönnum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          "XXI Má þat í slíku sýnast, at Óláfr konungr lagði allan hug á at eyða ok af má alla ósiðu ok heiðni ok fordæðuskap einn veg á inum yztum útskögum Nóregsveldis sem í miðjum heruðum megin­ landsins. Hafði hann á því mesta",
+          "hugsan at draga sem flesta til réttrar trúar. Er þat nú ok auðsýnt orðit, at hann hefir svá gert þessa hluti ok alla aðra, at guði hefir líkat."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "1. Люди с мыса начинают ­поклоняться Вёльси"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Как говорится в одних древних стихах, жили на одном мысе на севере Норвегии, где была хорошая гавань для длинных кораб­ лей, вдали от обитаемых земель и больших дорог, бонд и его жена, уже пожилые. У них было двое детей, сын и дочь, как говорится в начале этой песни:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Жил старик",
+          "с женой старой",
+          "на мысе",
+          "каком-то.",
+          "У него были",
+          "с Биль злата",
+          "сын и дочь",
+          "разумная."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "II Там также жили раб и рабыня. Бонд был человек спокойный и скромный, а старуха была очень властная и руководила всеми домашними делами. Сын бонда был весёлый и жизнерадостный, озорной и упрямый. Дочь бонда была старше, понятливая и от природы разумная, хотя и выросла вдали от людей. У бонда была большая собака, которую звали Лэрир. Никто из них не был знаком со святой верой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "III Как-то в конце осени случилось так, что ломовой конь старика околел. Он был очень жирный, и так как язычники употребляли конину в пищу, коня выпотрошили и приготовили. И вначале, когда содрали шкуру, раб отделил ему тот орган, которым природа наделила этого рода животных для зачатия, как и других зверей, когда они размножаются между собой, и который, как указывают древние скальды, у коней называется «вингуль». И когда раб отрезал его и собрался бросить на землю, сын бонда подбежал, смеясь, ухватил его и пошёл в комнату. Там сидели его мать, её дочь и рабыня. Он потряс перед ними членом со многими насмешками и сказал вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Здесь можете видеть",
+          "бодрый весьма",
+          "член, отрезанный",
+          "у лошадиного отца.",
+          "Тебе, рабыня,",
+          "этот Вёльси",
+          "совсем не надоест",
+          "между ляжек."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "IV Рабыня расхохоталась, а дочь бонда попросила его унести эту мерзость. Старуха встала, подошла к нему, выхватила член и сказала, что не нужно портить то, что может оказаться полезным. Затем она вышла на кухню, как можно тщательнее его вытерла, завернула в льняной платок, положила рядом лук и другие травы, чтобы он не сгнил, и спрятала в свой сундук."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "lines": [
+          "V Так прошла осень, каждый вечер старуха доставала его с какой-нибудь молитвой в его честь, и сталось так, что она обернула туда всю свою веру и почитала его своим богом, и в ту же ересь увлекла за собой своего мужа, детей и весь свой дом. И силою дьявола он так вырос и окреп, что он мог вставать рядом с хозяйкой дома, если она хотела. И старуха ввела такой обычай: каждый вечер она приносила его в комнату и первой говорила над ним вису, затем передавала мужу, и так далее, пока, наконец, он не приходил к рабыне, и каждый должен был сказать над ним вису. По высказываниям каждого из них было понятно, как они были к этому расположены."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "heading",
+        "lines": [
+          "2. Конунг Олав встречается с людьми с мыса"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "VI Случилось как-то раз, что конунг Олав, прежде чем ему пришлось бежать из страны от конунга Кнута, направил свои корабли вдоль берега на север. Он слыхал об этом мысе и о безверии, что там происходит. И поскольку он захотел там, как и в любом другом месте, обратить народ в истинную веру, он приказал лоцманам отклониться от курса и зайти в гавань, расположенную у вышеупомянутого мыса, потому что ветер был подходящий. Они пришли в эту гавань в конце дня. Конунг велел разбить на кораблях палатки, и сказал, что ночью они останутся на кораблях, а он хочет пойти на хутор, и позвал с собой Финна сына Арни и Тормода Скальда Чёрных Бровей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "prose",
+        "lines": [
+          "VII Все они взяли серые плащи и набросили их поверх своей одежды и так вечером в сумерках пришли на хутор. Они вошли в комнату и уселись на одну из скамей, заняв места таким образом: Финн сел дальше всех, затем Тормод, а конунг ближе к выходу. Они ждали там, пока не стемнело, и в комнату никто не заходил. И потом вошла женщина со светом, то была дочь бонда. Она поздоровалась с мужчинами и спросила их имена, а они все назвались Гримами. Тогда она зажгла в комнате свет. Она не отрываясь смотрела на гостей, и дольше всего она глядела на того, кто сидел ближе к выходу. И когда она собралась выйти на кухню, то произнесла такой стих:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Я вижу золото на гостях",
+          "и плащи из дорогой материи.",
+          "Мне хочется колец.",
+          "Я предпочту вещь, чем солгу,",
+          "Узнаю я тебя, милый конунг.",
+          "Ты пришёл, Олав."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "VIII Тогда пришелец, который сидел ближе к выходу, ответил: «Помолчи об этом! Ты разумная женщина»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "IX Больше они не обменивались словами. Дочь бонда вышла на кухню, и вскоре вошли бонд, его сын и раб. Бонд сел на почётном сидении, его сын рядом с ним, а раб ещё дальше от него. Они подтрунили над учтивостью гостей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "lines": [
+          "X Натешившись, хозяева поставили стол и принесли еду. Дочь бонда села рядом со своим братом, а рабыня — возле раба. Гримы сидели все вместе, как было сказано раньше. Старуха вошла последней, принесла в руках Вёльси и подошла к почётному сидению к мужу. Не сказывают, поздоровалась ли она с гостями. Она развернула Вёльси, положила бонду на колени и сказала вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Вырос ты, Вёльси,",
+          "и вверх поднялся,",
+          "льняным холстом украшен,",
+          "а луком поддержан.",
+          "Взял бы мёрнир",
+          "этого идола,",
+          "но ты, муж,",
+          "подержи Вёльси."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "prose",
+        "lines": [
+          "XI Бонд выглядел недовольным, всё же взял его сказал вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Не принесли бы,",
+          "если бы я распоряжался,",
+          "идола этого",
+          "сегодня вечером.",
+          "Взял бы мёрнир",
+          "этого идола,",
+          "но ты, сын бонда,",
+          "пригляди за Вёльси."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "XII Сын бонда схватил Вёльси, поднял его вверх, бросил своей сестре и сказал вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Принесут тебе хвощ",
+          "подружки невесты.",
+          "Они вингуль",
+          "увлажнят вечером.",
+          "Взял бы мёрнир",
+          "этого идола,",
+          "но ты, дочь бонда,",
+          "тяни к себе Вёльси."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "lines": [
+          "XIII Она сделала недовольный вид, но всё же была вынуждена подчиниться домашним обычаям, весьма неохотно взяла его и сказала вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Гевьюн клянусь",
+          "и другими богами,",
+          "что по принуждению",
+          "я беру красный хобот.",
+          "Взял бы мёрнир",
+          "этого идола,",
+          "но ты, раб родителей,",
+          "хватай Вёльси."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "prose",
+        "lines": [
+          "XIV Раб взял его и сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Хлеб мне",
+          "вдвое милее,",
+          "толстый, грубый",
+          "и широкий,",
+          "чем Вёльси этот",
+          "в рабочие дни.",
+          "Взял бы мёрнир",
+          "этого идола,",
+          "но ты, рабыня хозяев,",
+          "прижми к себе Вёльси."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "prose",
+        "lines": [
+          "XV Рабыня приняла его очень ласково, прижала к себе, погладила и сказала вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Конечно, не смогла б",
+          "от того удержаться,",
+          "чтоб в себя не воткнуть,",
+          "если б одни мы лежали,",
+          "друг друга радуя.",
+          "Взял бы мёрнир",
+          "этого идола,",
+          "но ты, Грим, наш гость,",
+          "хватай Вёльси."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "XVI Тогда Финн взял его в руку. Он сказал вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "У многих мысов",
+          "ставал я на якорь,",
+          "руками проворными",
+          "паруса поднимал.",
+          "Взял бы мёрнир",
+          "этого идола,",
+          "но ты, Грим, мой слуга,",
+          "хватай Вёльси."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "lines": [
+          "XVII Он отдал его Тормоду. Тот взял и очень внимательно осмотрел, как устроен Вёльси. Тут он улыбнулся и сказал вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Прежде не видел,",
+          "хоть плавал повсюду,",
+          "член расширенный,",
+          "по скамьям идущий.",
+          "Взял бы мёрнир",
+          "этого идола,",
+          "но ты, Адаль-Грим,",
+          "бери тоже Вёльси."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "XVIII Конунг взял его и сказал вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Был я капитаном,",
+          "и вперёдсмотрящим,",
+          "и повелителем",
+          "всех народов.",
+          "Взял бы мёрнир",
+          "этого идола,",
+          "но ты, пёс хозяев,",
+          "покарай эту громадину."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "prose",
+        "lines": [
+          "XIX Он бросил его на пол, а пёс сразу схватил. А когда старуха увидела это, она прямо вся взлетела. Она была очень поражена и сказала вису:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Что это за человек,",
+          "мне не знакомый,",
+          "который псам даёт",
+          "священного идола?",
+          "Поднимусь выше петель",
+          "и на дверную перекладину,",
+          "узнаю, смогу ли спасти",
+          "этого святого идола."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Брось, Лэрир,",
+          "не дай мне видеть такое,",
+          "и не глотай,",
+          "паршивая сука!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "prose",
+        "lines": [
+          "XX Тогда конунг сбросил обманчивую одежду. Его узнали. Тогда он научил их вере, старуха упорствовала, а бонд был чуть податливее, но в конце концов силой Бога и стараниями Олава сталось так, что все они приняли веру и были крещены придворным священником конунга. С тех пор твёрдо держались веры, когда уразумели, в кого они должны верить, и узнали о своём создателе, и поняли теперь, как плохо и не по-человечески они жили, и не так, как все остальные добрые люди."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "lines": [
+          "XXI Здесь может показаться, что конунг Олав всей душой стремился истребить и стереть все дурные обычаи, язычество и колдовство как на крайних мысах Норвежского государства, так и в срединных областях материка. Но самым главным его помыслом было — привести как можно больше людей к правильной вере. Сейчас стало ясно, что он делал это и всё остальное, ибо так было угодно Богу."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

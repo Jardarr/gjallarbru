@@ -1,0 +1,2922 @@
+{
+  "category": "eddica-minora",
+  "slug": "orvar-odds-aevidrapa",
+  "key": "OrvarOddsAevidrapa",
+  "title": {
+    "on": "Örvar-odds ævidrápa",
+    "ru": "Предсмертная песнь Одда Стрелы",
+    "en": "Odd-Arrow's Death Song"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: некот. строфы: Andreas Heusler, Wilhelm Ranisch: Eddica minora. Dortmund 1903, pp. 55–58. Перевод: Т. Ермолаев; редакция перевода, перевод вис: Н. Топчий.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Völvan spáði Oddi"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Kona er nefnd Heiðr. Hún var völva ok seiðkona ok vissi fyrir óorðna hluti af fróðleik sínum. Hún fór á veizlur ok sagði mönnum fyrir um vetrarfar ok forlög sín. Hún hafði með sér fimmtán sveina ok fimmtán meyjar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Völva kvað:",
+          "Ægðu eigi mér,",
+          "Oddr á Jaðri,",
+          "elda skíðum,",
+          "þótt ýmist geipum.",
+          "Saga mun sannast,",
+          "sú er segir völva.",
+          "Öll veit hún manna",
+          "örlög fyrir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "II «Þat er þér at segja, Oddr,» sagði hún, «sem þér má gott þykkja at vita, at þér er ætlaðr aldr miklu meiri en öðrum mönnum. Þú skalt lifa þrjú hundruð vetra ok fara land af landi ok þykkja þar ávallt mestr, er þá kemr þú. Því at vegr þinn mun fara um heim allan, en aldri ferr þú svá víða, at hér skaltu deyja á Berurjóðri. Hestr stendr hér við stall, föxóttr ok grár at lit. Hauss hans Faxa skal þér at bana verða.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "III Eptir þetta bað Oddr Ásmund far með sér. Þeir taka Faxa ok slá við hann beizli ok leiða hann eptir sér, unz þeir koma í eitt dalverpi. Þar gera þeir gröf djúpa, svá at Oddr komst tregliga upp ór, en síðan drepa þeir Faxa þar í ofan, ok færir Oddr þar svá stóra steina á ofan ok þeir Ásmundr sem þeir gátu mesta ok bera sand hjá hverjum steini. Haug verpa þeir þar af upp, er Faxi liggr undir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "lines": [
+          "IV En er þeir höfðu lokit verki sínu, mælti Oddr: «Þat ætla ek, at þat láta ek um mælt, at tröll eiga hlut í, ef Faxi kemst upp, ok þat hygg ek, at rennt hafa ek nú þeim sköpunum, at hann verði mér at bana.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "heading",
+        "lines": [
+          "Oddr sótti heim átthaga sína"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "lines": [
+          "V Nú sitr Oddr í ríkjum sínum, ok hefir hann þar verit um langa ævi ok átti tvá sonu við sinni konu. <...> Þat var eitthvert sinn um kveld, er þau kómu í rekkju, at Oddr tók til orða: «För er sú ór landi, er ek ætla at fara.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "prose",
+        "lines": [
+          "VI «Er þú ætlar, hvert?» segir Silkisif."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "VII «Ek ætla norðr til Hrafnistu,» sagði hann, «ek vil ok vita, hverr eyna hefir at varðveita, því at ek á at hafa hana ok mínir ættmenn.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "prose",
+        "lines": [
+          "VIII <...> Siglir Oddr nú ór Hrafnistu ok þar til, at þeir kómu fyrir Berurjóðr, en menn ætla, at þat liggi á Jaðri. Þá biðr hann lægja seglin. Þar gengr Oddr á land ok lið hans ok þangat, er bær Ingjalds hafði staðit, ok váru þar þá tóptir vallgrónar. <...>"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "prose",
+        "lines": [
+          "IX Ok er þeir ganga ofan, þá mælti Oddr: «Þat ætla ek nú, at liðin ván sé, at spá sú komi fram, er völvan arma spáði mér fyrir löngu. En hvat er þarna?» sagði Oddr, «hvat liggr þar, er þat eigi hrosshauss?  <...> Hvat hyggi þér um, hvárt þat mun haussinn Faxa?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "X Þat varð Oddi fyrir, at hann stakk til haussins spjótskapti sínu. Hann hallaðist við nokkut svá, en undan honum hrökktist ein naðra ok at Oddi. Ormrinn höggr fót hans fyrir ofan ökkla, svá at þegar lýstr í eitri, ok blæss upp allan fótinn ok þar með lærit. Svá tekr Odd fast mein þetta, at þeir urðu at leiða hann ofan til sjávar. Ok er Oddr kom þar, sezt hann niðr ok mælti:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "XI «Nú skal skipta liði mínu í helminga, ok skulu sitja hjá mér fjórir tigir manna, ok vil ek yrkja kvæði um ævi mína, en aðrir fjórir tigir skulu gera mér steinþró ok draga þar at við. Þar skal leggja í eld ok brenna upp allt saman, þá er ek em dauðr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "heading",
+        "lines": [
+          "Oddr kvað ævidrápu ok andaðist"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Hlýði seggir,",
+          "en ek segja mun",
+          "vígsvaldendum",
+          "frá vinum mínum;",
+          "seint er at dylja,",
+          "sék, at máttit",
+          "skógs skæstafr",
+          "við sköpum gera."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Var mér fóstr gefit",
+          "at föður ráði,",
+          "brátt vöndumst því,",
+          "á Berurjóðri;",
+          "var mér ekki",
+          "vant til sælu,",
+          "þess er Ingjaldr",
+          "átti kosti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Óxum báðir",
+          "á Berurjóðri,",
+          "Ásmundr ok ek,",
+          "upp í bernsku;",
+          "skófum skeyti,",
+          "skip smíðuðum,",
+          "gerðum örvar",
+          "okkr at gamni."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Sagði mér völva",
+          "sannar rúnir,",
+          "en ek vætki því",
+          "vildak hlýða;",
+          "gatk fyr ungum",
+          "Ingjalds syni,",
+          "at ek föðurtúna",
+          "fýstumst vitja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Búinn lézt Ásmundr",
+          "opt, meðan lifði,",
+          "málmþings vanr,",
+          "mér at fylgja;",
+          "sagðak karli,",
+          "at ek koma mundak",
+          "aptr aldrigi;",
+          "nú emk orðrofi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Létum beiti",
+          "á brim þrauka,",
+          "stóð hörr dreginn",
+          "höndum fjarri;",
+          "kómum at eyju",
+          "utan brattri,",
+          "þar er Grímr fyrir",
+          "garða átti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Sák blíðliga,",
+          "er til bæjar kom,",
+          "bekksagnir mér",
+          "báðar fagna;",
+          "víst mátta ek",
+          "með vinum mínum",
+          "gulli skipta",
+          "ok gamanmálum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Varð ek at vári",
+          "víss, at gerðust",
+          "brynþings boðar",
+          "Bjarma at sækja;",
+          "síðan kvaddak",
+          "Sigurð ok Guðmund,",
+          "vildak með frœknum",
+          "til farar ráðast."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Váru horskir",
+          "á herskipum",
+          "frændr mínir tveir",
+          "at forráði;",
+          "vildu hásetar",
+          "horskir eignast",
+          "tak þat, er áttu",
+          "Tyrfi-Finnar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Vér kaupskipi",
+          "kómum heilu",
+          "at, þar er Bjarmar",
+          "byggðir áttu;",
+          "eyddum eldi",
+          "ættir þeira,",
+          "unnum löskvan",
+          "laðmann tekkinn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Hann lézt seggjum",
+          "segja kunna,",
+          "hvar til hodda var",
+          "hægt at ráða;",
+          "hann bað oss ganga",
+          "götu lengra,",
+          "ef vér vildim fé",
+          "fleira eiga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Réðu Bjarmar",
+          "brátt at verja",
+          "haug hermönnum",
+          "ok hamalt fylkja;",
+          "létum þegna,",
+          "áðr þaðan færim,",
+          "ófa marga",
+          "öndu týna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Réðum skunda",
+          "til skipa ofan,",
+          "þá er flótti var",
+          "á fen rekkinn;",
+          "misstum bæði",
+          "báts ok knarrar,",
+          "auðs ok ýta,",
+          "er ofan kómum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Skjótt nam kynda",
+          "í skóg þykkum",
+          "eld brennanda",
+          "uppi á landi,",
+          "svá við lopti",
+          "létum leika",
+          "hávan ok rauðan",
+          "hrotgarm viðar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Sáum skjótliga,",
+          "at skyndu at landi",
+          "skeiðr vegligar",
+          "ok skrautmenni;",
+          "fegnir urðu",
+          "þeir, er fyrir váru,",
+          "frændr mínir,",
+          "þá finnast gerðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Létum skeika",
+          "at sköpuðu",
+          "drengmenn snarir",
+          "í drifaveðri:",
+          "sýndist seggjum",
+          "sandr á þiljum,",
+          "lands ván liðin,",
+          "lák eigi þar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Kómum at eyju",
+          "utan brattri",
+          "sumar síðla,",
+          "þá var segl rifat;",
+          "gerðu firðar",
+          "flestir allir",
+          "skipum til hlunns",
+          "skjótt at ráða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Slógum tjöldum,",
+          "en sumir fóru",
+          "björnu at veiða,",
+          "þeir er boga kunnu;",
+          "réðum í eyju",
+          "upp at kynda",
+          "bál brenniligt,",
+          "ok stóð björn fyrir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Kváðust fjallbúar",
+          "flytja mundu",
+          "oss ór eyju,",
+          "nema utan færim;",
+          "þótti eigi rekkum",
+          "rómr at heyra",
+          "hagligr sás var",
+          "hraunskjöldunga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Uggðum ekki,",
+          "síz eyjar til",
+          "vápns vígligir",
+          "viðir kómu;",
+          "hlóðu bragnar",
+          "fyr bjarg framan,",
+          "vegg sterkligan,",
+          "var ek at því."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Réðk at ganga",
+          "með Gusisnauta",
+          "beggja á milli",
+          "bjargs ok eisu;",
+          "laustk í auga",
+          "einum þursi",
+          "ok í brjóst framan",
+          "bjarga Freyju."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Þar fekk ek heiti,",
+          "þat ek hafa vilda,",
+          "er mik ór fjöllum",
+          "flögð kölluðu,",
+          "kváðust Örvar-Oddi",
+          "vilja",
+          "byr bráðliga",
+          "á braut gefa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Búnir létumst",
+          "á burt þaðan",
+          "brátt ór eyju,",
+          "þegar byr fengi;",
+          "heilir kómum",
+          "heim ór þeiri,",
+          "gerðu fagna",
+          "frændr hollvinum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Várum allir",
+          "vetr þann saman,",
+          "gulli gladdir",
+          "ok gamanmálum;",
+          "drógu firðar,",
+          "þegar frerum létti,",
+          "heldr skrautligar",
+          "skeiðr at vatni."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Sigldum síðan",
+          "suðr með landi",
+          "tállaust skipum",
+          "tveimr ok einu;",
+          "væntum fengjar,",
+          "þar er fyrir váru,",
+          "ef vér Elfarsker",
+          "öll könnuðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Fundum um síðir",
+          "fyrir í sundi",
+          "þegna nýta,",
+          "Þórð ok Hjálmar;",
+          "fréttu firðar,",
+          "þeir er fyrir váru,",
+          "hvárt vér vildum frið",
+          "eða á för halda."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Báru rekkar",
+          "ráð sín saman,",
+          "þótti eigi firðum",
+          "féván mikil;",
+          "köru Háleygir",
+          "kost inn vildra,",
+          "réðum leggja",
+          "lag várt saman."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Heldum allir",
+          "ór hafi utan,",
+          "þegar fullhugar",
+          "fengjar væntum;",
+          "hræddumst ekki,",
+          "meðan höfðingjar",
+          "heilir réðu",
+          "fyr herskipum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Várum reiðir,",
+          "þás randberendr",
+          "horska hittum",
+          "fyr Hólmsnesi;",
+          "réðum eignast",
+          "allar gerðar",
+          "snyrtidrengja",
+          "af sex skipum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Várum allir",
+          "vestr með Skolla,",
+          "þar at landi sat",
+          "lýða drottinn;",
+          "báru bragnar",
+          "blóðgar undir,",
+          "sverðum skornir,",
+          "en vér sigr höfðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Höfðu jarls liðar",
+          "útnes hroðit,",
+          "rógþings vanir,",
+          "sem refar hundum;",
+          "unnum vit Hjálmarr,",
+          "er hinig fórum,",
+          "eldi ok usla",
+          "eytt skipum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Frétti Guðmundr,",
+          "ef ek fara vilda,",
+          "heim at hausti",
+          "ok honum fylgja;",
+          "sagðak svinnum,",
+          "at ek sjá vildi",
+          "norðr aldrigi",
+          "niðja mína."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Mæltum allir",
+          "mót at sumri",
+          "austr í Elfi",
+          "til útfarar;",
+          "vildi Hjálmarr",
+          "inn hugumstóri",
+          "sveit mína suðr",
+          "með sér hafa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Fóru teitir",
+          "tveggja vegna",
+          "brynþingsboðar,",
+          "þegar byrir fengust;",
+          "sigldum síðan",
+          "Svíþjóðar til,",
+          "sóttum Ingva",
+          "til Uppsala."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Mér gaf Hjálmarr",
+          "inn hugumstóri",
+          "fimm bólstaði",
+          "á fold saman;",
+          "undak auði,",
+          "meðan aðrir mik",
+          "hringum kvöddu",
+          "ok heils friðar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Fundust allir",
+          "á fegins dægri",
+          "sænskir seggir",
+          "ok Sigurðr norðan;",
+          "ræntu ýtar",
+          "eyjarskeggja",
+          "auði öllum,",
+          "en þeir elds biðu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Létum vestr þaðan",
+          "vandar fáka",
+          "Írlands á vit",
+          "öldur kenna;",
+          "höfðu þeira,",
+          "er þangat kómum,",
+          "drengir ok drósir",
+          "drifit ór húsum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Rannk at víðri",
+          "vagns slóðgötu,",
+          "unz ek strengvölum",
+          "stríðum mætta;",
+          "mundak Ásmund",
+          "auði mínum",
+          "aptr ódáinn",
+          "öllum kaupa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Sák um síðir,",
+          "hvar saman kómu",
+          "karlar röskvir",
+          "ok konur þeira;",
+          "þar létk fjóra",
+          "frændr Ölvarar",
+          "eggleiks hvata",
+          "öndu týna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Réð mik ór vagni",
+          "víf at kveðja,",
+          "ok þær hoddum mér",
+          "hétu góðum;",
+          "bað mik snót koma",
+          "sumar it næsta,",
+          "lézt þá at launum",
+          "leita mundu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Varat sem brynja",
+          "eða bláir hringar",
+          "ísköld um mik",
+          "ofan felli;",
+          "þá er um síður",
+          "silkiskyrta",
+          "gulli saumuð",
+          "gekk fast ofin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Fórum vestan",
+          "fengjar vitja,",
+          "svá at bragnar mér",
+          "bleyði kenndu,",
+          "unz á Skíðu",
+          "skatnar fundu",
+          "bræðr bölharða",
+          "ok at bana urðu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Sóti ok Hálfdan",
+          "í Svíaskerjum",
+          "mörgum manni",
+          "at morði varð;",
+          "unnum þeira,",
+          "áðr þaðan færim,",
+          "hálft hundrað skipa",
+          "hroðit með stöfnum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Fundum þegna,",
+          "er þaðan fórum,",
+          "teita ok sleitna",
+          "í Trönuvágum;",
+          "varat Ögmundi",
+          "andrán tegat,",
+          "komumst þrír þaðan,",
+          "en þeir níu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Máttak banorði",
+          "fyr brögnum hrósa",
+          "snotra seggja,",
+          "er til sjóvar kómum;",
+          "höfðum vit Hjálmarr",
+          "haldit illa,",
+          "þá er Glámi stóð",
+          "í gegnum spjör."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Fórum heim þaðan",
+          "horskir drengir,",
+          "en haug Þórði",
+          "hávan urpum;",
+          "maðr engi þorði",
+          "oss móti gera,",
+          "var oss einkis",
+          "vant ins góða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Váru vit Hjálmarr",
+          "hvert dægr glaðir,",
+          "meðan herskipum",
+          "heilir réðum,",
+          "unz í Sámseyju",
+          "seggi fundum,",
+          "þá er benlogum",
+          "bregða kunnu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "heading",
+        "lines": [
+          "Bardagi í Sámsey"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Hjálmarr kvað:",
+          "Hervarðr, Hjörvarðr,",
+          "Hrani, Angantýr,",
+          "Bíldr ok Búi,",
+          "Barri ok Tóki,",
+          "Tindr ok Tyrfingr,",
+          "tveir Haddingjar,",
+          "þeir í Bólm austr",
+          "bornir váru,",
+          "Arngríms synir",
+          "ok Eyfuru."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Þá frá ek manna",
+          "meinúðgasta",
+          "ok ógjarnasta",
+          "gott at vinna.",
+          "Þeir eru berserkir",
+          "böls of fylldir,",
+          "tvau skip hruðu",
+          "tryggra manna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Oddr kvað:",
+          "Menn sé ek ganga",
+          "frá Munarvágum",
+          "gunnar gjarna",
+          "í grám serkjum.",
+          "Þeir hafa reiðir",
+          "rómu háða.",
+          "Eru okkur skip",
+          "auð á ströndu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Þá var mér ótti",
+          "einu sinni,",
+          "er þeir grenjandi",
+          "gengu af öskum",
+          "ok emjandi",
+          "í ey stigu.",
+          "Þá frá ek fyrða",
+          "fláráðasta",
+          "ok örvasta",
+          "illt at vinna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Hjálmarr kvað:",
+          "Hliðu vér",
+          "fyrir hjaldrviðum,",
+          "aldri, þótt okkr",
+          "atalt þykki.",
+          "Vit skulum í aptan",
+          "Óðin gista",
+          "tveir fóstbræðr,",
+          "en þeir tólf lifa.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Oddr segir:",
+          "En ek því einu",
+          "orði hnekkta:",
+          "Þeir skulu í aptan",
+          "Óðin gista",
+          "tólf berserkir,",
+          "en vit tveir lifa.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Angantýr kvað:",
+          "It eruð halir",
+          "harðir komnir",
+          "seggir ór hlunnviði.",
+          "Fallnir eru ykkrir",
+          "förunautar,",
+          "ok farið í höll Viðris.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Þá kvað Oddr:",
+          "Hér eru rekkar",
+          "reiðir komnir,",
+          "tírarlausir,",
+          "eru tólf saman.",
+          "Einn skal við einn",
+          "orrostu heyja",
+          "hvatra drengja,",
+          "nema hugr bili."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Létum falla",
+          "und fætr ara",
+          "tírarlausa",
+          "tólf berserki;",
+          "þá varðk skiljast",
+          "á skapadægri",
+          "víð þann inn mesta",
+          "minn fulltrúa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Hafðak eigi",
+          "á aldri mínum",
+          "höfuð hraustara",
+          "hvergi fundit;",
+          "bark mér á herðum",
+          "hjálmum grimman",
+          "ok til Sigtúna",
+          "síðan hafðak."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Létk eigi þess",
+          "langt at bíða,",
+          "at ek Sæundi",
+          "at sjónum varð;",
+          "unnu skatnar",
+          "skip mín hroðin,",
+          "en sjálfr þaðan",
+          "sunds kostaðak."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Gekk ek um Gautland",
+          "í grimmum hug",
+          "sex dægr í samt,",
+          "áðr Sæund fyndak;",
+          "létk hans liðmenn",
+          "hjörvi mæta",
+          "sex ok átta",
+          "með sjálfum gram."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Létk suðr í haf",
+          "langt um farit,",
+          "at ek grunnsævi",
+          "gildu mættak;",
+          "varðk einn saman,",
+          "en annan veg",
+          "gumna mengi",
+          "gekk helvegu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Enn komk þar,",
+          "at Akvítánía",
+          "bragna kindir",
+          "borgum réðu;",
+          "þar létk fjóra",
+          "fallna liggja",
+          "hrausta drengi;",
+          "nú emk hér kominn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Þat var fyrri,",
+          "at ek fat senda",
+          "orð inum nyrztum",
+          "niðjum mínum;",
+          "varðk svá feginn",
+          "fundi þeira",
+          "sem hungraðr",
+          "haukr bráðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Brögnum þrimr",
+          "buðu skatnar",
+          "margir síðan",
+          "metorð þaðra;",
+          "en ek þeygi",
+          "þiggja vildak;",
+          "urðu mínir bræðr",
+          "báðir eptir þar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          "Réð ek skunda",
+          "frá skatna liði,",
+          "unz hittak breiða",
+          "borg Jórsala;",
+          "réð ek allr",
+          "í á fara,",
+          "ok kunnak þá",
+          "Kristi at þjóna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "Veit ek, at fossum",
+          "falla lét",
+          "Jórdán um mik",
+          "fyrir utan Grikki;",
+          "helt enn þó,",
+          "sem hverr vissi,",
+          "ítrger skyrta",
+          "öllum kostum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "67.",
+        "lines": [
+          "Mættak gammi",
+          "gljúfrum næri,",
+          "flaug hann með mik",
+          "fjarri löndum,",
+          "þar til er háva",
+          "hamra fundum,",
+          "ok lét mik hvílast",
+          "í hreiðri sínu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "stanza",
+        "number": "68.",
+        "lines": [
+          "Unz mik Hildir",
+          "hafði á brottu",
+          "risi rammligr,",
+          "á róðrar skútu;",
+          "lét mik veitir",
+          "Vimrar elda",
+          "tólf mánuði",
+          "með sér hvílast."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "stanza",
+        "number": "69.",
+        "lines": [
+          "Þýddumst ek hjá Hildi",
+          "horska ok stóra,",
+          "raunsjáliga",
+          "risa dóttur,",
+          "ok við henni",
+          "heldr sterkligan,",
+          "ítran son",
+          "eiga gerðak",
+          "ok ólíkan",
+          "öðrum þegnum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "stanza",
+        "number": "70.",
+        "lines": [
+          "Þann drap Ögmundr",
+          "Eyþjófsbani",
+          "í Hellulands",
+          "hrauns óbyggðum,",
+          "félaga hans níu",
+          "fjörvi næmdak;",
+          "hefkat víking",
+          "verra fundit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "stanza",
+        "number": "71.",
+        "lines": [
+          "Fleiri hefir mína",
+          "fóstbræðr drepit,",
+          "Sírni ok Garðar,",
+          "gekk skegg af flagði;",
+          "var hann engum líkr",
+          "at yfirliti",
+          "ok kallaðr síðan",
+          "Kvillánus blesi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "87",
+        "type": "stanza",
+        "number": "72.",
+        "lines": [
+          "Þóttak hæfr",
+          "at hjörregni,",
+          "þá vér börðumst",
+          "á Brávelli;",
+          "bað Hringr þá",
+          "hamalt fylkja",
+          "Odd inn víðförla",
+          "at orrostu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "88",
+        "type": "stanza",
+        "number": "73.",
+        "lines": [
+          "Hittak hugsnara",
+          "hildinga tvá",
+          "litlu síðar,",
+          "þá vér löndum réðum;",
+          "veittak öðrum",
+          "vígs of gengi",
+          "ungum jöfri",
+          "arfs at kveðja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "89",
+        "type": "stanza",
+        "number": "74.",
+        "lines": [
+          "Komk um síðir,",
+          "þar er snarir þóttust",
+          "Sigurðr ok Sjólfr",
+          "í sveit konungs;",
+          "réð oss skatna lið",
+          "skots at beiða",
+          "ok skjaldar fimi",
+          "við skatna mengi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "90",
+        "type": "stanza",
+        "number": "75.",
+        "lines": [
+          "Skautkat skemmra",
+          "en skilfingar,",
+          "var létt skafin",
+          "lind í hendi;",
+          "réðum síðan",
+          "sunds at kosta;",
+          "létk þá báða",
+          "blóði snýta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "91",
+        "type": "stanza",
+        "number": "76.",
+        "lines": [
+          "Var mér skjaldmeyju",
+          "skipat it næsta,",
+          "þá er orrostu",
+          "eiga skyldum;",
+          "veitk, at ýtar",
+          "í Anþekju",
+          "andrán biðu,",
+          "en vér auð fjár."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "92",
+        "type": "stanza",
+        "number": "77.",
+        "lines": [
+          "Sóttum sverði",
+          "seggja kindir",
+          "ok trégoðum",
+          "týndum þeira;",
+          "barðak Bjálka",
+          "í borgarhliði",
+          "eikikylfu,",
+          "svát önd of lét."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "93",
+        "type": "stanza",
+        "number": "78.",
+        "lines": [
+          "Þá var mér Hárekr",
+          "hollr fulltrúi,",
+          "þás mér fastnaði",
+          "fóstru sína;",
+          "áttak horska",
+          "hilmis dóttur,",
+          "vel réðum snót saman",
+          "sigri ok löndum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "94",
+        "type": "stanza",
+        "number": "79.",
+        "lines": [
+          "Satk at sælu",
+          "síðan minni",
+          "vilgi lengi,",
+          "sem ek vita þóttumst;",
+          "fjöld er at segja",
+          "frá förum mínum",
+          "snotrum seggjum;",
+          "sjá mun in efsta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "95",
+        "type": "stanza",
+        "number": "80.",
+        "lines": [
+          "Þér skuluð skynda",
+          "til skipa ofan",
+          "heilir allir,",
+          "hér munum skiljast;",
+          "berið Silkisif",
+          "ok sonum okkrum",
+          "kveðju mína,",
+          "kemk eigi þar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "96",
+        "type": "prose",
+        "lines": [
+          "XII Ok er lokit var kvæðinu, þá dregr at Oddi fast, ok leiða þeir hann nú þangat, sem steinþróin var búin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "97",
+        "type": "prose",
+        "lines": [
+          "XIII Þá mælti Oddr: «Nú skal þat allt sannast, er hún sagði mér völvan. Nú mun ek leggjast niðr í steinþróna ok deyja þar. Síðan skuluð þér slá at utan eldi ok brenna upp allt sa­man.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "98",
+        "type": "prose",
+        "lines": [
+          "XIV Síðan leggst hann niðr í stein­ þróna ok mælti: «Nú skuluð þér bera kveðju mína heim Silkisif ok sonum okkrum ok vinum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "99",
+        "type": "prose",
+        "lines": [
+          "XV Eptir þetta deyr Oddr. Slá þe­ir þá eldi í ok brenna upp allt sa­man ok ganga eigi fyrri frá en þat er allt brunnit. Svá se­gja fle­stir menn, at Oddr hafi ve­rit tólf álna hár, því at svá var stein­ þróin innan at mæla."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Вёльва предсказывает Одду"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Одну женщину звали Хейд. Она была вёльва и колдунья и благодаря своим познаниям предвидела ещё не случившееся. Она ездила по пирам и предсказывала людям, какая будет зима, и их судьбу"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Вёльва сказала:",
+          "Не испугаешь ты,",
+          "Одд из Ядара,",
+          "ни бревном очага,",
+          "ни болтовнёй.",
+          "Сбудется слово,",
+          "что скажет вёльва.",
+          "Всё она ведает,",
+          "что кому выпало."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "II «Я расскажу тебе, Одд, — молвила она, — что тебе, возможно, хорошо бы узнать: тебе суждено гораздо больше, чем другим людям. Ты проживёшь три сотни зим, будешь путешествовать из страны в страну и всегда будешь считаться величайшим там, куда придёшь. Твой путь пройдёт по всему миру, но где бы ты ни странствовал, умрёшь ты здесь, на Берурьодре. Здесь в стойле стоит конь Факси, серой масти, только грива другая. Череп того коня причинит тебе смерть»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "III После этого Одд попросил Асмунда пойти с ним. Они взяли Факси, накинули на него уздечку и повели за собой, пока не пришли в одну небольшую долину. Там они выкопали яму настолько глубокую, что Одд с трудом выбрался из неё, а затем убили Факси и столкнули вниз. Одд с Асмундом принесли туда такие большие камни, какие только смогли, а между камней насыпали песок. Над тем местом, где лежал Факси, они возвели курган."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "prose",
+        "lines": [
+          "Когда же они закончили свою работу, Одд сказал: «Если Факси восстанет, я скажу, что в этом поучаствовали тролли, но я думаю, что теперь избежал той судьбы, при которой он стал бы моей погибелью»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "heading",
+        "lines": [
+          "Одд посещает родные места"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "prose",
+        "lines": [
+          "V Вот сидит Одд в своём государстве.3 Прожил он там долгую жизнь, и с женой у него родилось двое сыновей. <...> Как-то вечером, когда они легли в постель, Одд молвил: «Я намерен совершить путешествие из страны»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "prose",
+        "lines": [
+          "VI «Куда ты собрался?» — спросила Силькисив."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "VII «На север на Хравнисту, — ответил он. — Также я хочу узнать, кто хранит остров, ибо он принадлежит мне и моим родичам»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "prose",
+        "lines": [
+          "VIII <...> Вот Одд плыл с Хравнисты, пока они не подошли к Берурьодру, а люди считают, что он расположен в Ядаре. Тогда он приказал опустить парус. Одд и его люди сошли на берег и направились туда, где стоял хутор Ингьяльда, и были там в ту пору поросшие травой развалины. <...>"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "prose",
+        "lines": [
+          "IX Когда они спустились, Одд сказал: «Теперь я считаю, что нет надежды на то, что сбудется предсказание, которое давно сделала мерзкая вёльва. Но что это там?» — сказал Одд. — «Что там лежит, не конский ли череп? <...> Как вы думаете, не череп ли это Факси?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "X Случилось так, что Одд ткнул в череп рукоятью своего копья. От этого череп немного наклонился, а из-под него к Одду скользнула гадюка. Змея ужалила его в ногу выше лодыжки так, что её сразу поразил яд, и вся нога распухла вместе с бедром. Одду стало до того плохо, что им пришлось вести его вниз, к морю. Придя туда, Одд уселся и сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "XI «Теперь разделим моё войско пополам, и рядом со мной сядут сорок человек, и я хочу сочинить песнь о моей жизни, а остальные сорок сделают для меня каменную гробницу и соберут туда дерево. И пусть там всё сожгут, когда я буду мёртв»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "heading",
+        "lines": [
+          "Одд произносит песнь о своей жизни и умирает"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Слушайте, ратники,",
+          "я ж расскажу",
+          "властителям войн",
+          "про верных товарищей.",
+          "Поздно скрывать:",
+          "вижу я, что не смог",
+          "столб лесной скакуна",
+          "судьбе помешать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Воспитатель был дан",
+          "мне волей отца,",
+          "быстро учились",
+          "на Берурьодре.",
+          "Не доставало",
+          "мне для довольства",
+          "участи той,",
+          "что была у Ингьяльда."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Выросли оба",
+          "на Берурьодре,",
+          "Асмунд и я,",
+          "в юные годы.",
+          "Копья ковали,",
+          "корабли строили,",
+          "делали стрелы",
+          "себе на радость."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Мне вёльва поведала",
+          "верные знания,",
+          "но был ничего",
+          "не намерен я слушать.",
+          "Сказал я юному",
+          "Ингьяльда сыну,",
+          "что отчий очаг",
+          "навещу охотно."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Готов был Асмунд,",
+          "пока был жив он,",
+          "тинг стали знающий,",
+          "за мною следовать.",
+          "Сказал старику я:",
+          "сюда не вернусь",
+          "вовек никогда —",
+          "ныне слово нарушил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Велели судну",
+          "прибой выдерживать,",
+          "донёс лён, поднятый",
+          "руками, далёко.",
+          "Подошли к острову",
+          "с моря обрывистому,",
+          "там, где Грима",
+          "был двор в ограде."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Дружелюбно глядел я,",
+          "когда дошёл к хутору,",
+          "на скамьях сидящие",
+          "мне сразу обрадовались.",
+          "Без сомнений тогда",
+          "со своими друзьями",
+          "золото разделял",
+          "и весёлые речи."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Случилось весной мне",
+          "узнать, что стали",
+          "брони тинга вестники",
+          "нападать из бьярмов.",
+          "Созвал я сразу",
+          "Сигурда с Гудмундом,",
+          "хотел я с отважными",
+          "в поход отправиться."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Мудрые были",
+          "на судах боевых",
+          "два моих родича,",
+          "что рулём правили.",
+          "Пожелали гребцы",
+          "присвоить, разумные,",
+          "добро, что хранили",
+          "хвойные финны."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "На судне торговом",
+          "пришли сохранно мы",
+          "туда, где у бьярмов",
+          "жилища были.",
+          "Спалили огнём",
+          "их семьи мы,",
+          "поймали хилого",
+          "проводника."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Сказал он, что сможет",
+          "сообщить воинам,",
+          "где легко сыскать",
+          "будет нам сокровища.",
+          "Предложил пройти",
+          "по тропе подальше,",
+          "коль богатств хотим",
+          "больше иметь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Быстро бьярмы",
+          "оборонять бросились",
+          "курган от воинов",
+          "и войско выстроили.",
+          "Мы ж парней,",
+          "прежде чем ушли,",
+          "очень многих",
+          "оставили бездыханными."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Спешить решили",
+          "на суда вниз,",
+          "когда были, бегущие,",
+          "в болото загнаны.",
+          "Потеряли сразу",
+          "и суда, и лодку,",
+          "богатство и спутников,",
+          "когда спустились."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Быстро зажгли",
+          "в лесных зарослях",
+          "костёр пылающий",
+          "на побережье,",
+          "направили к небу",
+          "наверх высокого",
+          "рычащего рыжего",
+          "пса рощи."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Увидели скоро,",
+          "как спешат к суше",
+          "корабли крепкие",
+          "и мужи красивые.",
+          "Те возрадовались,",
+          "кто их возглавлял,",
+          "мои родичи кровные,",
+          "когда мы встретились."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Сбились с пути",
+          "по воле судеб",
+          "отважные воины",
+          "в штормовой ветер:",
+          "привиделся на палубе",
+          "мужам песок,",
+          "зря земли ожидали,",
+          "не стал я на якорь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Пришли к острову",
+          "с моря обрывистому",
+          "поздним летом,",
+          "спустили там парус.",
+          "Принялись все,",
+          "почитай, мужи",
+          "суда на катки",
+          "споро выкатывать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Палатки разбили,",
+          "а кто-то пошёл",
+          "на медведей охотиться,",
+          "кто мог с луком управиться.",
+          "Решили на острове",
+          "разжечь огонь,",
+          "и перед пламенем",
+          "медведя поставили."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Говорили гор жители,",
+          "что станут гнать,",
+          "не уплывём если,",
+          "нас с острова.",
+          "Не показалось",
+          "мужам приемлемым",
+          "слушать голос",
+          "Скьёльдунгов лавы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Не испугались мы,",
+          "когда на остров",
+          "взошли воинственные",
+          "вязы оружия.",
+          "Воздвигли герои",
+          "скалу впереди,",
+          "стены крепкие,",
+          "сам был при этом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Решил я послать",
+          "подарки Гусира,",
+          "обе стрелы",
+          "меж скалой и углями.",
+          "Попал я в око",
+          "одному турсу,",
+          "и спереди в грудь",
+          "Фрейе скал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Там прозвище я",
+          "получил, как хотелось,",
+          "меня им с вершин",
+          "великанши назвали,",
+          "сказали, что скоро",
+          "Одду Стреле",
+          "ветер попутный",
+          "подарят отсюда."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Собравшись, отправились",
+          "прочь оттуда,",
+          "поскорей от острова,",
+          "едва подул ветер.",
+          "Вернулись целые",
+          "от великанов к дому,",
+          "радушно приняли",
+          "друзей верных родичи."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Были все тою",
+          "зимою вместе",
+          "золоту рады",
+          "и речам весёлым.",
+          "Спускали мужи,",
+          "чуть морозы кончились,",
+          "весьма выдающиеся",
+          "корабли на воду."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Плыли потом",
+          "на юг подле берега",
+          "на судах — достоверно то —",
+          "двух и одном.",
+          "Ожидали богатства",
+          "(там были до этого)",
+          "Эльварскер если",
+          "мы весь обследуем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Наконец повстречали",
+          "впереди в проливе",
+          "мужей талантливых,",
+          "Хьяльмара с Тордом.",
+          "Cпросили герои,",
+          "что были главными,",
+          "хотим ли мы мира",
+          "иль в море двинуться."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Совет воители",
+          "держать стали,",
+          "посчитали — не будет",
+          "богатства великого.",
+          "Cделали халейги",
+          "хороший выбор,",
+          "союз заключить",
+          "с нами задумали."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Направились все мы",
+          "с моря к берегу,",
+          "духа исполнены,",
+          "на добычу надеялись.",
+          "Боязни не было,",
+          "ведь боевые",
+          "вели корабли",
+          "вожди невредимые."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Были разгневаны,",
+          "как разумных встретили",
+          "щитов хранителей",
+          "пред Хольмснесом.",
+          "Решили взять себе",
+          "всё имущество",
+          "мужей сноровистых",
+          "с шести судов."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Сражались на западе",
+          "со Сколли вместе,",
+          "там землёю владел",
+          "повелитель войска.",
+          "Были мужи там",
+          "мечами порублены,",
+          "окровавлены все,",
+          "одержали победу мы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "От люда ярлова",
+          "мыс мы очистили,—",
+          "тинг раздора люб нам,—",
+          "словно псы от лис.",
+          "Сумели с Хьяльмаром,",
+          "как сюда явились,",
+          "огнём и пожаром",
+          "суда погубить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Вопросил раз Гудмунд,",
+          "не хочу ль вернуться",
+          "я назад по осени,",
+          "за ним последовать.",
+          "Мудрому я молвил,",
+          "что моей родни",
+          "не намерен видеть",
+          "никогда на севере."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Вели все речи,",
+          "встречая лето,",
+          "как за море выступить",
+          "на восток из Эльва.",
+          "Мыслил Хьяльмар",
+          "Мужественный",
+          "на юг моё войско",
+          "с собою взять."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Двинулись, довольные,",
+          "двумя дорогами,",
+          "когда ветер выдался,",
+          "тинга брони вестники.",
+          "Шли потом мы",
+          "к Швеции,",
+          "атаковать Ингви",
+          "в Уппсале."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Дал мне Хьяльмар",
+          "Мужественный",
+          "пять хуторов",
+          "в полях всего.",
+          "Был рад достатку —",
+          "пусть другие кольцами",
+          "меня манили —",
+          "и нерушимому миру."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Встретились все",
+          "в весёлый день:",
+          "Сигурд с севера",
+          "и стражи шведские.",
+          "Отняли мужи",
+          "у жителей острова",
+          "богатства полностью,",
+          "а их огню предали."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Повернули к западу",
+          "прутья коней —",
+          "поглядеть Ирландию —",
+          "волны оттуда.",
+          "Выгоняли прочь,",
+          "как пришли к острову,",
+          "мужчин и женщин",
+          "из их жилищ."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Бежал я по торной",
+          "тропе повозки,",
+          "пока тетивы посохи",
+          "не повстречал крепкие.",
+          "Я бы Асмунда",
+          "обратно неумершего",
+          "всеми богатствами",
+          "своими выкупил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Затем увидел я,",
+          "куда явились",
+          "мужи, жизни полные,",
+          "и жёны их.",
+          "Там четырёх я",
+          "родичей Эльвёр,",
+          "храбрых в игре лезвий",
+          "дыханья лишил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Меня из повозки",
+          "дева приветствовала,",
+          "мне она сокровища",
+          "обещала славные.",
+          "Попросила прийти меня",
+          "летом последующим,",
+          "заявила, будто бы",
+          "будет награда мне."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Ни кольчуга",
+          "(ни синие кольца)",
+          "ледяная на мне",
+          "не лежали бы,",
+          "когда бы из шёлка,",
+          "шитая золотом,",
+          "с боков спадала",
+          "сорочка прочная."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Двинулись с запада",
+          "за добычей,",
+          "там меня воители",
+          "в трусости винили,",
+          "покуда на Скиде",
+          "не столкнулись ратники",
+          "с братьями погибельными",
+          "и смерти их не предали."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Соти и Хальвдан",
+          "в Свейских Шхерах",
+          "многих мужей",
+          "мёртвыми сделали.",
+          "У них мы отбили,",
+          "не ушли покуда,",
+          "полсотни кораблей",
+          "от носа до кормы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Повстречали мужей,",
+          "когда прочь отправились,",
+          "весёлых — и тревоги",
+          "в Трёнувагаре.",
+          "Не смог я Эгмунда",
+          "смерти предать,",
+          "нас ушло трое оттуда,",
+          "а их — девятеро."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Мог я гибель",
+          "меж героями славить",
+          "мудрых мужей,",
+          "что к морю явились.",
+          "Пришлось с Хьяльмаром",
+          "плохо нам,",
+          "когда был пронзён",
+          "копьём Штевень."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Домой возвратились",
+          "мудрые воины,",
+          "возвели Торду",
+          "курган высокий.",
+          "Никто не пробовал",
+          "против нас выступить,",
+          "недостатка не было",
+          "у нас в хорошем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Каждым днём с Хьяльмаром",
+          "были довольны мы,",
+          "когда, невредимые,",
+          "кораблями правили,",
+          "пока на Самсей",
+          "парней не встретили,",
+          "что огнями раны",
+          "махать умели."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "heading",
+        "lines": [
+          "Битва на острове Самсей"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Хьяльмар сказал:",
+          "Хервард, Хьёрвард,",
+          "Храни, Ангантюр,",
+          "Бильд и Буи,",
+          "Барри, два Хаддинга,",
+          "Тинд и Тюрвинг,",
+          "и Токи с ними,",
+          "рождены они были",
+          "на востоке в Больме,",
+          "Арнгрима отпрыски",
+          "и Эйвуры."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Слыхал я о людях сих,",
+          "скорых на зло",
+          "и добра не желающих",
+          "вовсе делать.",
+          "Эти берсерки",
+          "бедствий полны,",
+          "два судна выбили",
+          "верных людей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Одд сказал:",
+          "Мужи, идут, вижу,",
+          "от Мунарвага",
+          "до сечи охочие",
+          "в серых рубашках.",
+          "Они, бешенные,",
+          "битву вели.",
+          "Наши на бреге",
+          "суда безлюдные."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Тогда устрашился я",
+          "раз единственный,",
+          "когда, они, воя,",
+          "шагали от ясеней",
+          "и, вопящие,",
+          "взошли на остров.",
+          "Узнал я о воинах",
+          "тут вероломнейших,",
+          "спешащих скорее",
+          "зло сотворить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Хьяльмар сказал:",
+          "Не отступали мы",
+          "пред мачтами битвы",
+          "никогда, пускай даже",
+          "показалось бы люто.",
+          "Мы будем вечером",
+          "гостить у Одина,",
+          "два побратима,",
+          "двенадцать же — жить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Одд сказал:",
+          "А я это одним",
+          "опровергну словом:",
+          "они будут вечером",
+          "гостить у Одина,",
+          "двенадцать берсерков,",
+          "а мы двое — жить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Ангантюр сказал:",
+          "Вот эти воины",
+          "вышли суровые,",
+          "с вяза катков мужи.",
+          "Погибли все ваши",
+          "попутчики. Ступайте",
+          "в палату Видрира."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Одд сказал:",
+          "Пришли сюда",
+          "мужи сердитые,",
+          "без доброго имени,",
+          "двенадцать разом.",
+          "Один на один",
+          "сраженье откроем",
+          "с хваткими воинами,",
+          "коль хватит духу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Кинули мы",
+          "орлу под когти",
+          "бесславных дюжину",
+          "воинов-берсерков.",
+          "Должен был я тогда",
+          "в день судьбоносный",
+          "расстаться с тем,",
+          "кому верил полностью."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "За весь свой век",
+          "я не встречал",
+          "головы отважнее,",
+          "где бы ни был.",
+          "Нёс на плечах своих",
+          "шеломов недруга,",
+          "и затем в Сигтуну",
+          "его забрал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Не стал я долго",
+          "того ждать дня,",
+          "чтобы с Сэундом",
+          "мне свидеться.",
+          "Захватили смелые",
+          "мои суда,",
+          "а сам я вплавь",
+          "оттуда выбрался."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Шёл я по Гаутланду,",
+          "духом гневный —",
+          "доколь сыскал Сэунда —",
+          "шесть суток кряду.",
+          "Позволил мужам его",
+          "повстречаться с мечом",
+          "шести и восьми",
+          "с самим князем вместе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "На юг в море",
+          "далеко уплыв,",
+          "мель великую",
+          "я встретил;",
+          "оказался один я,",
+          "но иным путём",
+          "толпа мужей шла",
+          "тропою в Хель."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Ещё там бывал я,",
+          "где в Аквитании",
+          "героев потомки",
+          "городами правили;",
+          "там я четырёх",
+          "уложил честно",
+          "парней доблестных;",
+          "ныне ж сюда пришёл."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "То случилось прежде —",
+          "я смог послать",
+          "слово самым северным",
+          "сынам своим.",
+          "Был так рад я",
+          "встрече с роднёй,",
+          "словно ястреб голодный",
+          "сырому мясу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Лучшим троим",
+          "оказали люди",
+          "многие потом",
+          "там почести.",
+          "Но не пожелал",
+          "я их принять;",
+          "мои ж остались",
+          "там оба брата."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          "Покинуть я войско",
+          "поспешил мужей,",
+          "нашёл обширный",
+          "город Йорсалир.",
+          "Я тогда весь",
+          "в реку вошёл,",
+          "и узнать смог,",
+          "как Христу служить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "Ведаю, воды",
+          "водопадом пали",
+          "на меня Иордана",
+          "на окраине Греции.",
+          "Сохранила, однако,",
+          "как всем известно,",
+          "рубашка славная",
+          "все свои свойства."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "67.",
+        "lines": [
+          "Повстречал коршуна",
+          "подле ущелья,",
+          "улетел он со мной",
+          "в отдаленный край,",
+          "доколь высокие",
+          "скалы не встретили,",
+          "дал мне отдохнуть",
+          "в своём гнезде."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "stanza",
+        "number": "68.",
+        "lines": [
+          "Пока меня Хильдир",
+          "прочь не забрал,",
+          "великан крепкий,",
+          "на весельной лодке.",
+          "Велел мне податель",
+          "Вимура пламени",
+          "двенадцать месяцев",
+          "у себя отдыхать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "stanza",
+        "number": "69.",
+        "lines": [
+          "Ухаживал за Хильд я",
+          "умной и рослой,",
+          "истинно красивой",
+          "исполина дочерью,",
+          "и вместе с ней",
+          "весьма сильный,",
+          "сын прекрасный",
+          "был порождён.",
+          "Не похож он был",
+          "на мужей прочих."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "stanza",
+        "number": "70.",
+        "lines": [
+          "Его убил Эгмунд",
+          "Убийца Эйтьова",
+          "в Хеллуланда",
+          "лаве нехоженной,",
+          "девяти друзей его",
+          "достались жизни мне.",
+          "Хуже викинга",
+          "я не встречал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "stanza",
+        "number": "71.",
+        "lines": [
+          "Ещё мои были",
+          "побратимы убиты:",
+          "Сирнир с Гардаром —",
+          "Гриле бороду вырвал я.",
+          "Стал он видом",
+          "ни с кем ни схож,",
+          "и кличут с тех пор его",
+          "Квилланус Меченый."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "87",
+        "type": "stanza",
+        "number": "72.",
+        "lines": [
+          "Считался я годным",
+          "в граде мечей,",
+          "когда мы бились",
+          "на Бравеллире.",
+          "Велел «свиньёй» войско",
+          "Сигурд Кольцо вывести",
+          "Одду Путешественнику",
+          "для сражения."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "88",
+        "type": "stanza",
+        "number": "73.",
+        "lines": [
+          "Духом храбрых двух",
+          "повстречал Хильдингов",
+          "вскоре затем я,",
+          "мы ж землями правили.",
+          "Одному предоставил",
+          "я помощь в битве",
+          "наследнику юному,",
+          "как просил он."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "89",
+        "type": "stanza",
+        "number": "74.",
+        "lines": [
+          "Пришёл туда потом,",
+          "где смелыми полагали",
+          "Сьольва и Сигурда",
+          "в конунга свите.",
+          "Вздумало войско",
+          "просить у нас выстрелов",
+          "и щита ловкости",
+          "с толпою людей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "90",
+        "type": "stanza",
+        "number": "75.",
+        "lines": [
+          "Стрелял я не ближе,",
+          "чем эти Скильвинги,",
+          "легко поцарапана",
+          "липа в руке была.",
+          "Стали затем мы",
+          "вплавь состязаться.",
+          "заставил обоих их",
+          "кровью харкать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "91",
+        "type": "stanza",
+        "number": "76.",
+        "lines": [
+          "Была щита дева",
+          "дана мне в помощь,",
+          "когда судилось",
+          "сойтись в сражении.",
+          "Знаю я, ожидала",
+          "в Антекье гибель",
+          "вражьих бойцов,",
+          "нас же — богатство."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "92",
+        "type": "stanza",
+        "number": "77.",
+        "lines": [
+          "Нападали с мечом",
+          "на мужей потомков,",
+          "их богов деревянных",
+          "сгубили в битве.",
+          "Колотил я Бьяльки",
+          "в воротах крепости",
+          "дубовой дубиной,",
+          "так что дух вон."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "93",
+        "type": "stanza",
+        "number": "78.",
+        "lines": [
+          "Был мне Харек",
+          "благим покровителем,",
+          "когда сосватал",
+          "свою воспитанницу.",
+          "В жены взял мудрую",
+          "я дочь властителя,",
+          "прекрасно с ней правили",
+          "победой и землями."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "94",
+        "type": "stanza",
+        "number": "79.",
+        "lines": [
+          "Счастье продлилось",
+          "потом моё,",
+          "как мне казалось,",
+          "крайне долго.",
+          "Мудрым мужам я",
+          "много рассказывал",
+          "о моих путешествиях.",
+          "Сей раз — последний."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "95",
+        "type": "stanza",
+        "number": "80.",
+        "lines": [
+          "Возвращайтесь вы",
+          "вниз к кораблям",
+          "здравые все,",
+          "здесь расстанемся.",
+          "Силькисив снесите",
+          "и сыновьям нашим",
+          "весть от меня:",
+          "я уже не вернусь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "96",
+        "type": "prose",
+        "lines": [
+          "XII Когда песня кончилась, Од­да охватила слабость, и они отвели его туда, где была готова каменная гробница."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "97",
+        "type": "prose",
+        "lines": [
+          "XIII Тогда Одд сказал: «Теперь под­ твердится всё, что говорила мневёльва. Сейчас я лягу в гробницу и умру там. Затем разведите вокруг огонь и сожгите всё»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "98",
+        "type": "prose",
+        "lines": [
+          "XIV Потом он улёгся в каменную гробницу и сказал: «Теперь передайте мой привет домой Силькисив и нашим сыновьям и друзьям»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "99",
+        "type": "prose",
+        "lines": [
+          "XV После этого Одд умер. Тогда они развели огонь, и сожгли всё, nи не уходили, пока всё не сгорело. Как рассказывают многие люди, рост Одда был двенадцать локтей, потому что гробница внутри была такого размера."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

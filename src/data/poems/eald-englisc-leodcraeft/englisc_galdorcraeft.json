@@ -1,0 +1,602 @@
+{
+  "category": "eald-englisc-leodcraeft",
+  "slug": "englisc-galdorcraeft",
+  "key": "EngliscGaldorcraeft",
+  "title": {
+    "on": "Englisc galdorcræft",
+    "ru": "Английские заклинания"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Перевод и примечания: Древнеанглийская поэзия. — М.: Наука, 1982. Перевод В. Г. Тихомирова под редакцией О. А. Смирницкой. С. 23–26.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Æcerbot"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "heading",
+        "lines": [
+          "Hu ðu meaht þine æceras betan gif hi nellaþ wel wexan"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "Nim þonne þæt sæd, sete on þæs sules bodig, cweð þonne:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Erce, Erce, Erce,",
+          "eorþan modor,",
+          "geunne þe se alwalda,",
+          "ece drihten,",
+          "æcera wexendra",
+          "and wridendra,",
+          "eacniendra",
+          "and elniendra,",
+          "sceafta hehra,",
+          "scirra wæstma,",
+          "and þæra bradan",
+          "berewæstma,",
+          "and þæra hwitan",
+          "hwætewæstma,",
+          "and ealra",
+          "eorþan wæstma.",
+          "Geunne him",
+          "ece drihten",
+          "and his halige,",
+          "þe on heofonum synt,",
+          "þæt hys yrþ si gefriþod",
+          "wið ealra feonda gehwæne,",
+          "and heo si geborgen",
+          "wið ealra bealwa gehwylc,",
+          "þara lyblaca",
+          "geond land sawen.",
+          "Nu ic bidde ðone waldend,",
+          "se ðe ðas woruld gesceop,",
+          "þæt ne sy nan to þæs cwidol wif",
+          "ne to þæs cræftig manþæt awendan ne mæge",
+          "word þus gecwedene. "
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "þonne man þa sulh forð drife and þa forman furh onsceote, cweð þonne:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Hal wes þu, folde,",
+          "fira modor!",
+          "Beo þu growende",
+          "on godes fæþme,",
+          "fodre gefylled",
+          "firum to nytte."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "Nim þonne ælces cynnes melo and abacæ man innewerdre handabradnæ hlaf and gecned hine mid meolce and mid haligwætere andlecge under þa forman furh. Cweþe þonne:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Ful æcer fodres",
+          "fira cinne,",
+          "beorhtblowende,",
+          "þu gebletsod weorþ",
+          "þæs haligan noman",
+          "þe ðas heofon gesceop",
+          "and ðas eorþan",
+          "þe we on lifiaþ;",
+          "se god, se þas grundas geworhte,",
+          "geunne us growende gife,",
+          "þæt us corna gehwylc",
+          "cume to nytte."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "heading",
+        "lines": [
+          "Wið færstice feferfuige"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "Wið færstice feferfuige and seo reade netele, ðe þurh ærn inwyxð, and wegbrade; wyll in buteran."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Hlude wæran hy, la, hlude,",
+          "ða hy ofer þone hlæw ridan,",
+          "wæran anmode,",
+          "ða hy ofer land ridan.",
+          "Scyld ðu ðe nu, þu ðysne nið",
+          "genesan mote.",
+          "Ut, lytel spere,",
+          "gif her inne sie!",
+          "Stod under linde,",
+          "under leohtum scylde,",
+          "þær ða mihtigan wif",
+          "hyra mægen beræddon",
+          "and hy gyllende",
+          "garas sændan;",
+          "ic him oðerne",
+          "eft wille sændan,",
+          "fleogende flane",
+          "forane togeanes.",
+          "Ut, lytel spere,",
+          "gif hit her inne sy!",
+          "Sæt smið,",
+          "sloh seax lytel,",
+          "iserna,",
+          "wundrum swiðe.",
+          "Ut, lytel spere,",
+          "gif her inne sy!",
+          "Syx smiðas sætan,",
+          "wælspera worhtan.",
+          "Ut, spere,",
+          "næs in, spere!",
+          "Gif her inne sy",
+          "isernes dæl,",
+          "hægtessan geweorc,",
+          "hit sceal gemyltan.",
+          "Gif ðu wære on fell scoten",
+          "oððe wære on flæsc scoten",
+          "...",
+          "oððe wære on blod scoten",
+          "oððe wære on lið scoten,",
+          "næfre ne sy ðin lif atæsed;",
+          "gif hit wære esa gescot",
+          "oððe hit wære ylfa gescot",
+          "oððe hit wære hægtessan gescot,",
+          "nu ic wille ðin helpan.",
+          "þis ðe to bote esa gescotes,",
+          "ðis ðe to bote ylfa gescotes,",
+          "ðis ðe to bote hægtessan gescotes;",
+          "ic ðin wille helpan.",
+          "Fleoh þær",
+          "on fyrgenheafde.",
+          "Hal westu,",
+          "helpe ðin drihten!",
+          "Nim þonne þæt seax, ado on",
+          "wætan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "heading",
+        "lines": [
+          "Wið ymbe nim eorþan,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "oferweorp mid þinre swiþran handa under þinum swiþran fet, and cwet:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Fo ic under fot,",
+          "funde ic hit.",
+          "Hwæt, eorðe mæg",
+          "wið ealra wihta gehwilce",
+          "and wið andan",
+          "and wið æminde",
+          "and wið þa micelan",
+          "mannes tungan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "lines": [
+          "And wiððon forweorp ofer greot, þonne hi swirman, and cweð:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Sitte ge, sigewif,",
+          "sigað to eorþan!",
+          "Næfre ge wilde",
+          "to wuda fleogan.",
+          "Beo ge swa gemindige",
+          "mines godes,",
+          "swa bið manna gehwilc",
+          "metes and eþeles."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "heading",
+        "lines": [
+          "Wið cyrnel"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Neogone wæran",
+          "Noðþæs sweoster;",
+          "Þa wurdon",
+          "þa nygone to eahtum",
+          "⁊ þa eahta to seofonum",
+          "⁊ þa seofone to sixum",
+          "⁊ þa sixe to fifum",
+          "⁊ þa fife to feowerum",
+          "⁊ þa feowere to þrim",
+          "⁊ þa þrie to twam",
+          "⁊ þa twa to anum",
+          "⁊ þa an to nanum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "Þis þe lib be cyrneles ⁊ scrofelles ⁊ weormes ⁊ æghylces yfele.Sing Benedicite nigon siþum."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "heading",
+        "lines": [
+          "Как улучшить свои земли, если они не плодородны"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "Взявши семена, положи их на плоть плуга и скажи:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Эрке, Эрке, Эрке,",
+          "матерь земная,",
+          "да подарит тебя всеподатель,",
+          "государь предвечный,",
+          "угодиями богатыми,",
+          "лугами цветущими,",
+          "нивами",
+          "плодоносными,",
+          "многородящими,",
+          "многодатными,",
+          "просом возросшим,",
+          "зерном хорошим,",
+          "ячменным тоже",
+          "зерном отменным,",
+          "тоже пшеничным",
+          "зерном пригожим.",
+          "Да подаст он,",
+          "государь предвечный,",
+          "и его угодники,",
+          "горние жители,",
+          "землям хозяйским",
+          "от разора защиту,",
+          "полю и пашне",
+          "от напасти спасенье,",
+          "от злого слова,",
+          "от земного заклятья.",
+          "Огради, всеподатель,",
+          "создатель мира,",
+          "от жены злословной,",
+          "от зловластного мужа, —",
+          "речь моя крепкой",
+          "да прочной будет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "После произнесения заклинания надо взять плуг и проложить борозду, говоря при этом:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Слава тебе, Земля",
+          "матерь людей!",
+          "Будь изобильной",
+          "в объятьях бога",
+          "Наливайся плодами,",
+          "давая пищу людям."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "prose",
+        "lines": [
+          "Затем следует взять муки от каждого злака и испечь хлеб размером с ладонь, а замесить его надо на молоке и святой воде. Хлеб кладется в первую борозду, которую делает плуг, при этом произносятся слова:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Поле наполняется едой,",
+          "чтобы накормить людей,",
+          "Цветущее и плодоносящее,",
+          "ты благословенно,",
+          "Священным именем",
+          "Создателя небес",
+          "и земли, на которой",
+          "мы живем.",
+          "Господь сотворил эту почву",
+          "и подарил нам ее плоды,",
+          "Так пусть любое семя прорастет",
+          "и будет плодоносить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "heading",
+        "lines": [
+          "От внезапного колотья"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "prose",
+        "lines": [
+          "От внезапного колотья — ромашка и красная крапива, прорастающая сквозь стену дома, и щавель. Кипяти в масле."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Гремели, ох гремели,",
+          "пока по холмам скакали,",
+          "лютые, злые,",
+          "пока по земле скакали.",
+          "Ищи ты защиты",
+          "от злосчастья этого.",
+          "Чур, дрючок,",
+          "не торчи в утробе.",
+          "Встал под щитом я,",
+          "под тарчем светлым,",
+          "где жены многожильные",
+          "жизнь пожинали,",
+          "копья пускали,",
+          "сверкали звонкими:",
+          "я же вспять им",
+          "копье отправлю,",
+          "стрелу прямолетную",
+          "в лоб направлю.",
+          "Чур, дрючок,",
+          "не торчи в утробе.",
+          "Покуда в кузне",
+          "ковал стрекало",
+          "кузнец...",
+          "железом изранен.",
+          "Чур, дрючок,",
+          "не торчи в утробе.",
+          "Шестеро в кузне",
+          "шесть шестов ковали",
+          "Чур, дрючок,",
+          "не торчи в утробе.",
+          "Коли железо",
+          "влезло во чрево,",
+          "жало ворожейное",
+          "ужо расплавится.",
+          "Коли кожа проколота,",
+          "коли тело проколото,",
+          "коли кость проколота,",
+          "коли кровь проколота,",
+          "коли рука проколота,",
+          "никакого не бойся горя:",
+          "коли ведьмы кололи,",
+          "коли нежить колола,",
+          "коли эсы кололи,",
+          "от боли тебя избавлю.",
+          "Прочь лети…на макушку горушки.",
+          "Да будешь не болен.",
+          "Бог тебе помочь.",
+          "Тогда возьми ножик и брось",
+          "его в воду."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "heading",
+        "lines": [
+          "Заклинание пчелиного роя"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "Взявши земли, брось ее правой рукой под правую стопу и скажи:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Будь под стопою,",
+          "что мне попалось:",
+          "земь от злого,",
+          "от зверя всякого,",
+          "от пагубы, от беспамятства,",
+          "от напасти всякой,",
+          "от людского лукавого",
+          "от языка злосильного."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "prose",
+        "lines": [
+          "Брось в них землею, когда роятся, и скажи:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Жены державные,",
+          "сажайтесь на земь,",
+          "никогда-то, дикие,",
+          "не блуждайте по лесу,",
+          "порадейте-ка, добрые,",
+          "о владенье нашем,",
+          "как человек от века,",
+          "о вотчине да о пище."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "heading",
+        "lines": [
+          "От опухолей"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Девять было",
+          "у Нотты сестёр.",
+          "Затем те девять",
+          "стали восемью,",
+          "и восемь стали семью,",
+          "и семеро стали шестью,",
+          "и шестеро стали пятью,",
+          "и пятеро стали четырьмя,",
+          "и четверо стали тремя,",
+          "и трое стали двумя,",
+          "и двое стали одной,",
+          "и одна стала ничем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "Будет вам это снадобьем — от фурункула да золотухи, от червей и от всякого зла. Спой Benedicite девять раз."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

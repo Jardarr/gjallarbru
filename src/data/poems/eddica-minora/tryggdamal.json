@@ -1,0 +1,1119 @@
+{
+  "category": "eddica-minora",
+  "slug": "tryggdamal",
+  "key": "Tryggdamal",
+  "title": {
+    "on": "Tryggðamál",
+    "ru": "Клятва о мире",
+    "en": "Oath of Peace"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Elizabeth Jackson: Old Icelandic Truce Formulas (Tryggðamál). Viking Society for NRUC, (London 2016), pp. 16–27; Andreas Heusler, Wilhelm Ranisch: Eddica minora (Dortmund 1903), pp. 129–133.  Перевод: K — Vanamær Eyvarsdóttir; G — О. А. Смирницкая, «Сага о Греттире», Новосибирск: «Наука», 1976 (серия «Литературные памятники»). С. 117–118, гл. LXXII; H — Циммерлинг А. В. «Сага о Битве на Пустоши» в сб. Исландские саги — Studia philologica, 2000. С. 101–102, гл. XXXIII.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "K"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Sakar váru á milli þeira N.N.",
+          "ok N.N. en nú eru þær settar ok fé",
+          "bœttar,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "sem metendr mátu",
+          "ok teljendr tǫlðu",
+          "ok dómr dœmði",
+          "ok þiggjendr þágu",
+          "ok þaðan báru,",
+          "með fé fullu",
+          "ok fram komnum eyri,",
+          "þeim í hǫnd seldum,",
+          "er hafa skyldi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Þit skuluð vera menn",
+          "sáttir ok samværir",
+          "at ǫlðri ok at áti,",
+          "á þingi ok á þjoðstefnu,",
+          "at kirkna sókn",
+          "ok í konungs húsi"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "ok hvarvetna þess er manna fundir verða, þá skuluð þit svá samsáttir sem aldregi hœfisk þetta ykkar á meðal."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Þit skuluð deila",
+          "kníf ok kjǫtstykki",
+          "ok alla hluti",
+          "ykkar í milli",
+          "sem frændr",
+          "en eigi [sem] fjándr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Ef sakar gerask síðan á milli",
+          "þeira, annat en þat er vel er, þat",
+          "skal fé bœta,",
+          "en eigi flein rjóða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "En sá ykkar,",
+          "er gengr á gørvar sáttir",
+          "eða vegr á veittar tryggðir,",
+          "þá skal hann",
+          "svá víða varg",
+          "rækr ok rekinn,",
+          "sem menn víðast",
+          "varga reka,",
+          "kristnir menn",
+          "kirkjur sœkja,",
+          "heiðnir menn",
+          "hof blóta,",
+          "eldr upp brennr,",
+          "jǫrð grœr,",
+          "mǫgr móður kallar",
+          "ok móðir mǫg fœðir,",
+          "aldir elda kynda,",
+          "skip skríðr,",
+          "skildir blíkja,",
+          "sol skínn,",
+          "snæ leggr,",
+          "Fiðr skríðr,",
+          "fura vex,",
+          "valr flýgr",
+          "várlangan dag —",
+          "stendr honum byrr beinn",
+          "undir báða vængi —",
+          "himinn hverfr,",
+          "heimr er byggðr,",
+          "vindr þýtr,",
+          "vǫtn til sævar falla,",
+          "karlar korni sá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Hann skal firrask",
+          "kirkjur ok kristna menn,",
+          "guðs hús ok guma,",
+          "heim hvern,",
+          "nema helvíti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Nú haldið þit báðir á bók einni, enda liggr nú fé á bók, er N.N. bœtir fyrir sik ok sinn erfingja",
+          "alinn ok óborinn",
+          "getinn ok ógetinn",
+          "nefndan ok ónefndan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "N.N. tekr tryggðir en N.N. veitir ævintryggðir, þær er æ skulu haldask,",
+          "meðan mold er",
+          "ok menn lifa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Nú eru þeir N.N. ok N.N.",
+          "sáttir ok sammála,",
+          "hvar sem þeir hittask,",
+          "á landi eða legi,",
+          "skipi eða á skíði,",
+          "í hafi eða á hests baki,",
+          "árar at miðla",
+          "eða austskotu,",
+          "þoptu eða þilju,",
+          "ef þarfar gervask,",
+          "jafnsáttr hvárr við annan",
+          "sem faðir við son",
+          "eða sonr við fǫður",
+          "í samfǫrum ǫllom."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "Nú leggja þeir hendr sínar saman N.N. ok N.N.: haldið vel tryggðir at vilja Krists ok allra manna, þeira er nú heyrðu tryggðamál!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Hafi sá hylli guðs,",
+          "er heldr tryggðir,",
+          "en sá reiði, er rýfr",
+          "réttar tryggðir,",
+          "en hylli sá er heldr!",
+          "Hafið heilir sæzk!",
+          "En vér sém váttar,",
+          "er við erum staddir!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "heading",
+        "lines": [
+          "G"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "“Hér set ek grið,” segir hann,",
+          "“allra manna á millum —",
+          "einkanliga þessum sama Gesti",
+          "til nefndum, er hér sitr,",
+          "ok at undir skilðum",
+          "ǫllum goðorðsmǫnnum",
+          "ok gildum bœndum—",
+          "ok allrar alþýðu",
+          "vígra mannaok vápnfœrra",
+          "ok allir aðrir",
+          "heraðsmenn",
+          "í Hegranessþingi,",
+          "eða hvaðan sem",
+          "hverir eru at komnir",
+          "nefndra manna",
+          "eða ónefndra;",
+          "handsǫlum grið",
+          "ok fullan frið",
+          "kvámumanni hinum ókunna er",
+          "Gestr nefnisk",
+          "til gamans, glímu",
+          "ok gleði allrar,",
+          "til hérvistar",
+          "ok heimferðar,",
+          "hvárt er hann þarf at fara",
+          "á legi eða landi,",
+          "at fari eða flutningi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Skal hann hafa grið í ǫllum",
+          "stǫ­ðum nefndum ok ónefndum",
+          "svá lengi sem hann þarf til heillar",
+          "heimkvámu at hǫldnum tryggðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Set ek þessi grið fyrir",
+          "oss ok vára frændr",
+          "vini ok venzlamenn",
+          "svá konur sem karla",
+          "þýjar ok þræla",
+          "sveina ok sjálfráða menn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Sé sá griðníðingr 4 er griðin rýfr",
+          "eða tryggðum spillir,",
+          "rækr ok rekinn",
+          "frá guði",
+          "ok góðum mǫnnum,",
+          "ór himinríki",
+          "ok frá ǫllum helgum mǫnnum,",
+          "ok hvergi hæfr",
+          "manna í milli",
+          "ok svá frá ǫllum út flæmðr,",
+          "sem víðast varga reka,",
+          "eða kristnir menn",
+          "kirkjur sœkja,",
+          "heiðnir menn",
+          "hof blóta,",
+          "eldr brennr,",
+          "jǫrð grœr,",
+          "mælt barn móður kallar",
+          "ok móðir mǫg fœðir",
+          "aldir elda kynda,",
+          "skip skríðr",
+          "ok skildir blíkja,",
+          "sól skínn,",
+          "snjá leggr,",
+          "Finnr skríðr,",
+          "fura vex,",
+          "valr flýgr várlangan dag —",
+          "ok standi honum beinn byrr",
+          "undir báða vængi —",
+          "himinn hverfr,",
+          "heimr er byggðr",
+          "ok vindr veitir",
+          "vǫtn til sjóvar,",
+          "karlar korni sá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Hann skal firrask",
+          "kirkjur ok kristna menn",
+          "heiðna hǫlða,",
+          "hús ok hella,",
+          "heim hvern,",
+          "nema helvíti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Nú skulum vér vera",
+          "sáttir ok sammála,",
+          "hverr við annan,",
+          "í huga góðum,",
+          "hvárt sem vér finnumsk",
+          "á fjalli eða fjǫru,",
+          "skipi eða skíði,",
+          "jǫrðu eða jǫkli,",
+          "í hafi eða á hestbaki,",
+          "svá sem vin sinn",
+          "í vatni finni",
+          "eða bróður sinn",
+          "á braut finni,",
+          "jafnsáttir hverr við annan",
+          "sem sonr við fǫður",
+          "eða faðir við son",
+          "í samfǫrum ǫllum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "lines": [
+          "Nú leggjum vér hendr saman ok allir vér ok hǫldum vel griðin ok ǫll orð tǫluð í tryggðum þessum, at vitni guðs ok góðra manna ok allra þeira er orð mín heyra eða nǫkkurir eru nær staddir!”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "heading",
+        "lines": [
+          "H"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "prose",
+        "lines": [
+          "Þat er upphaf griðamála várra at guð sé við oss alla sáttr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Vér skulum ok vera menn",
+          "sáttir vár í millum",
+          "ok samværir",
+          "at ǫlðri ok at áti",
+          "á þingi ok á þjóðstefnu",
+          "at kirkna sókn",
+          "ok í konungs húsi",
+          "ok hvarvetna",
+          "þar er manna fundir verða.",
+          "Þá skulum vér svá sáttir sem",
+          "aldri hafi fjándskapr vár í millum",
+          "verit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Vér skulum deila",
+          "kníf ok kjǫtstykki",
+          "ok alla hluti vár í milli",
+          "sem frændr",
+          "en eigi fjándr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Ef sakar gjǫrask",
+          "heðan af á milli vár",
+          "þær skal fé bœta",
+          "en eigi flein rjóða.",
+          "En sá vár",
+          "er gengr á gervar sættir",
+          "eða vegr",
+          "á veittar tryggðir",
+          "þá skal hann svá víða",
+          "vargrækr ok rekinn",
+          "sem menn víðast",
+          "varga reka",
+          "kristnir menn",
+          "kirkjur sœkja",
+          "heiðnir menn",
+          "hof blóta",
+          "eldar upp brenna,",
+          "jǫrð grœr",
+          "mǫgr móður kallar",
+          "skip skríðr,",
+          "skildir blika",
+          "sólskin snæ lægir",
+          "Fiðr skríðr,",
+          "fura vex",
+          "valr flýgr",
+          "várlangan dag—",
+          "standi honum beinn byrr",
+          "undir báða vængi—",
+          "himinn hverfr,",
+          "heimr er byggðr",
+          "vindr vex,",
+          "veitir vatn til sjóvar",
+          "ok karlar korni sá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Hann skal firrask",
+          "kirkjur ok kristna menn,",
+          "guðs hús ok guma,",
+          "heim hvern,",
+          "nema helvíti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Tekr hverr vár tryggðir",
+          "við annan",
+          "fyrir sik ok sinn erfingja",
+          "alinn ok óborinn",
+          "getinn ok ógetinn",
+          "nefndan ok ónefndan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "En hverr veitir í mót tryggðir",
+          "ok ævintryggðir",
+          "mætar tryggðir",
+          "ok megintryggðir",
+          "þær er æ skulu haldask",
+          "meðan moldir",
+          "ok menn lifa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Nú eru vér",
+          "sáttir ok sammála",
+          "hvar sem vér finnumsk",
+          "á landi eða á legi",
+          "skipi eða á skíði",
+          "í hafi eða hestbaki",
+          "árar at miðla",
+          "ok ausskotu",
+          "þoptu ok þilju",
+          "ef þarfar gjǫrask,",
+          "jafnsáttir hverr við annan",
+          "sem sonr við fǫður",
+          "eða faðir við son",
+          "í samfǫrum ǫllum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "prose",
+        "lines": [
+          "Hǫfum nú lófatak at tryggðamálum ok hǫldum vel tryggðir at vilja Krists ok at vitni allra manna þeira er nú heyrðu tryggðamál."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Hafi sá guðs hylli",
+          "er heldr tryggðir",
+          "en sá gremi guðs",
+          "er rýfr réttar tryggðir",
+          "en hylli sá er heldr!",
+          "Hǫfum heilir sæzk",
+          "en guð sé við alla sáttr."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "Тяжбу вели N. и N., к миру при­ шли, возместили цену."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Ту, что оценили,",
+          "ту, что подсчитали,",
+          "в суде рассудили —",
+          "истцы собрали,",
+          "себе получили",
+          "полностью выкуп,",
+          "должную сумму,",
+          "монетой звонкой,",
+          "приняли в руки,",
+          "выиграв тяжбу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Мирно теперь",
+          "вместе сойдитесь,",
+          "за пивом и пиром,",
+          "на тинге и встрече,",
+          "в храме высоком,",
+          "в конунга доме."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "prose",
+        "lines": [
+          "Где б ни сошлись — в согласии будьте, забыв о вражде, как не было тяжбы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Пищу и нож,",
+          "и другое что должно —",
+          "делите как родичи,",
+          "распрю оставив."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Если же спор",
+          "меж вами возникнет",
+          "берите виру",
+          "не кровью — златом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Кто вероломно",
+          "из двух нарушит",
+          "сделки условья",
+          "мир и клятву —",
+          "изгнанье будет",
+          "ему наградой,",
+          "как травят волка",
+          "его прогонят.",
+          "Пока христиане",
+          "Христа почитают,",
+          "верные жертвы",
+          "богам приносят,",
+          "пламя сияет,",
+          "земля родит,",
+          "дитя зовет мать,",
+          "мать сына лелеет,",
+          "огонь хранят люди,",
+          "плывут корабли,",
+          "блещут щиты,",
+          "Соль в небе сияет,",
+          "падает снег,",
+          "по лыжне ходит лопарь,",
+          "сосны растут,",
+          "сокол парит",
+          "утром весенним,",
+          "(ветер крылья",
+          "ему поднимает),",
+          "вращается небо,",
+          "люди живут,",
+          "веют ветра,",
+          "поток бежит к морю,",
+          "поля колосятся."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Нет ему места",
+          "ни в церкви Христа,",
+          "ни в святилище асов,",
+          "среди всех миров",
+          "лишь Хель его примет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Книгу теперь оба возьмите, на книгу выкуп — то N. виру платит. Платит выкуп за спора конец, и за себя, и за преемника:",
+          "рожденного, нерожденного,",
+          "зачатого, незачатого,",
+          "названного, неназванного."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Теперь N. дает, (N. принимает), клятву о мире, что длится будет",
+          "пока стоит мир,",
+          "пока люди живы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Мир объявлен меж N. и N.",
+          "согласье меж ними",
+          "где б не сошлись:",
+          "на воде, берегу,",
+          "ладье и на лыжах,",
+          "верхом и на море,",
+          "скамьи деля,",
+          "и сидя на веслах,",
+          "коль нужда будет.",
+          "Мир между ними.",
+          "как с сыном отец,",
+          "с родителем сын,",
+          "во всех делах вместе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "prose",
+        "lines": [
+          "Руки сомкните N. и N. Мир сохраняйте, по воле божьей и тех людей, что свидетели клятве."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Мир сохранившим —",
+          "милость богов.",
+          "Клятву нарушившим —",
+          "гнев и презренье.",
+          "Милость кто чтит",
+          "данную клятву.",
+          "Мир заключившие —",
+          "счастливы будьте.",
+          "Все люди что здесь —",
+          "свидетели этому."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Провозглашаю мир",
+          "Между всеми людьми,",
+          "А перво-наперво",
+          "Между сидящим здесь мужем",
+          "по имени Гест",
+          "И всеми годи",
+          "и добрыми бондами,",
+          "Всеми, кто может",
+          "держать оружие,",
+          "И всеми-всеми",
+          "окрестными жителями",
+          "Здесь, на Цаплином Тинге,",
+          "Кто б они ни были",
+          "И откуда бы ни пришли, —",
+          "Всеми, кто назван",
+          "И кто не назван.",
+          "Обещаем мир,",
+          "Полный и нерушимый,",
+          "Чужанину, который назвался",
+          "Гестом,",
+          "Для игрищ, веселий",
+          "И ратоборства,",
+          "Покуда он здесь",
+          "Или путь держит к дому,",
+          "Посуху иль по морю,",
+          "Землей иль водою."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Да будет мир ему",
+          "Везде и всюду,",
+          "Пока он, целый и невредимый,",
+          "Домой не вернется",
+          "Под защитой обета."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Провозглашаю мир",
+          "От нас и наших родичей,",
+          "Сотоварищей и сотрапезников,",
+          "Жен и мужей,",
+          "Рабынь и рабов,",
+          "Взрослых и отроков."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Если же кто этот мир нарушит",
+          "И обет преступит,",
+          "Да будет он отвержен",
+          "И изгнан Богом",
+          "И всем честным народом,",
+          "И не найти ему места",
+          "Ни в царстве небесном",
+          "среди праведников,",
+          "Ни среди людей,",
+          "И будет он отринут повсюду, где",
+          "Преступников гонят,",
+          "Крещеный люд",
+          "Молится в церкви,",
+          "Языческий люд",
+          "Почитает капища,",
+          "Горит огонь,",
+          "Родит земля,",
+          "Младенец мать кличет",
+          "И мать сына нянчит,",
+          "Огни разводят,",
+          "Плывут корабли,",
+          "Блестят щиты",
+          "И светит солнце,",
+          "Снег лежит,",
+          "Финн бежит на лыжах,",
+          "Растет сосна,",
+          "Сокол летает день-деньской",
+          "И крылья ему",
+          "вешний ветер держит,",
+          "Небо круглится,",
+          "Селятся люди,",
+          "Ветер гонит",
+          "Все воды к морю,",
+          "И люди хлеб сеют."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Пусть он бежит",
+          "Христиан и язычников,",
+          "Церквей и капищ,",
+          "Дола и дома,",
+          "Всякого крова,",
+          "Кроме адского."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Будем в этом единодушны,",
+          "Друг с другом",
+          "в добром согласье,",
+          "Где б нам ни встретиться —",
+          "На горе иль у моря,",
+          "На ладье иль на лыжах,",
+          "На земле иль во льдах,",
+          "Пешим иль конным,",
+          "С другом ли встретимся",
+          "на дороге",
+          "Иль с родичем",
+          "в ровном поле.",
+          "Будем во всем",
+          "друг с другом согласны,",
+          "Как сын с отцом",
+          "Иль отец с сыном."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "lines": [
+          "Соединим же теперь руки и не нарушим мира и слова, данного здесь по обету этому перед Богом, перед добрыми людьми и перед всеми, кто слова мои слышит и здесь присутствует."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "24",
+        "type": "prose",
+        "lines": [
+          "Вот начало нашей клятвы, и оно в том, что все равны перед богом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Мы должны быть также равны",
+          "и друг перед другом",
+          "и доверять другому",
+          "за брагой и за брашном,",
+          "на тинге и на торге,",
+          "в кирке божьей",
+          "и в конунговых палатах,",
+          "и везде,",
+          "где встречаются люди,",
+          "мы должны вести себя так,",
+          "как если между нами никогда не",
+          "было распри."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Мы будем делить",
+          "клинок и кровавое мясо",
+          "и все, что у нас будет,",
+          "как сродники,",
+          "а не как супостаты."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "А если распря",
+          "случится между нами,",
+          "то пусть звенят деньги,",
+          "а не летят дроты,",
+          "а если кто из нас",
+          "нарушит слово сговора",
+          "и подымется",
+          "на порукой укрытого,",
+          "то влачить ему дней остаток,",
+          "как волку повсюду,",
+          "где люди вдаль",
+          "волков отгоняют,",
+          "рабы Христа",
+          "в церковь ходят,",
+          "язычники",
+          "капище освящают,",
+          "огонь вверх подымается,",
+          "земля травой покрывается,",
+          "сын зовет мать,",
+          "ладья скользит по волнам,",
+          "блестят щиты,",
+          "свет солнца растапливает снег,",
+          "финн бежит на лыжах,",
+          "сосна ввысь тянется,",
+          "ворон парит",
+          "весенним днем,",
+          "пусть ветер дует ему",
+          "под оба крыла,",
+          "небо вращается,",
+          "мир заселяется,",
+          "ветер веет,",
+          "вода из озер вытекает в море,",
+          "а селяне рожь сеют."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Нет ему места в церквях",
+          "и среди христиан,",
+          "в доме Бога, и в доме бонда,",
+          "и нет у него иного приюта,",
+          "кроме Нивльхейма."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Да поручится каждый из нас",
+          "перед другом",
+          "за себя и своих потомков,",
+          "рожденных и нерожденных,",
+          "славных и бесславных,",
+          "именитых или безвестных,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "и да встретит он веру",
+          "и верность навеки,",
+          "верность во всем",
+          "и перед всеми,",
+          "и пусть ее не убудет,",
+          "пока живы люди",
+          "и твари земные."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Теперь мы равны",
+          "и сговорены,",
+          "и встретимся ли",
+          "на суше, или на стрежне,",
+          "на струге или на снегу,",
+          "в соленых волнах или в седле,",
+          "у переправы",
+          "или у пробоины в борте,",
+          "на гребной скамье",
+          "или на палубе,",
+          "мы поможем друг другу в нужде,",
+          "как сын отцу,",
+          "или как отец сыну,",
+          "во всем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "prose",
+        "lines": [
+          "Протянем же в знак дружбы друг другу руку, и останемся друг другу верны по воле Христа и по желанию всех, внимающих сейчас слову сговора."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Тому милость Бога,",
+          "кто будет верен,",
+          "и гнев Бога тому,",
+          "что порвет с нашим",
+          "правым делом,",
+          "и милость тому, кто верен.",
+          "Закончено наше слово,",
+          "и да будем равны перед богом."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

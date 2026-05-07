@@ -1,0 +1,418 @@
+{
+  "category": "eddica-minora",
+  "slug": "eiriksmal",
+  "key": "Eiriksmal",
+  "title": {
+    "on": "Eiríksmál",
+    "ru": "Речи Эйрика",
+    "en": "The Lay of Eric"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "Творение неизвестного скальда, посвященное конунгу Эйрику I Кровавая Секира (Eiríkr blóðøx; 885–954), сыну Харальда Прекрасноволосого, сохранилось в манускрипте «Красивая кожа» (Fagrskinna, ок. 1220 г.) в тексте «Nóregs Kononga Tal». Сообщается, что песнь создана по желанию Гуннхильд, вдовы Эйрика, после гибели супруга. Отрывок из Песни приводит также Снорри Стурлусон в «Языке поэзии» (Яз 9:20).",
+    "en": "A composition by an unknown skald dedicated to King Eiríkr I Bloodaxe (Eiríkr blóðøx; 885–954), son of Harald Fairhair, is preserved in the manuscript \"Fagrskinna\" (Faðrskinna, ca. 1220) in the text \"Nóregs Kononga Tal.\" The song is reported to have been composed at the request of Gunnhild, Eiríkr's widow, after her husband's death. An excerpt from the Lay is also cited by Snorri Sturluson in \"The Language of Poetry\" (Laz 9:20)."
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Finnur Jónsson, Fagrskinna, 1902–1903, pp. 28–30. Перевод: Надежда Топчий.",
+    "en": "An ancient Icelandic text, edited by Finnur Jónsson, Fagrskinna, 1902–1903, pp. 28–30. Translation by Lee M. Hollander (1936)."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "[Óðinn kvað:]",
+          "Hvat es þat drauma",
+          "es ek hugðumk fyr dag lítlu",
+          "Valhöll ryðja",
+          "fyr vegnu folki?",
+          "Vakða ek Einherja,",
+          "bað ek upp rísa,",
+          "bekki at stráa,",
+          "borðker at leyðra,",
+          "valkyrjur vín bera,",
+          "sem vísi kœmi;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "es mér ór heimi",
+          "hölða vánir",
+          "göfugra nökkurra,",
+          "svá es mér glatt hjarta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Bragi kvað:]",
+          "Hvat þrymr þar",
+          "sem þúsund bifisk",
+          "eða mengi til mikit?",
+          "Braka öll bekkþili",
+          "sem muni Baldr koma",
+          "eptir í Óðins sali."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "[Óðinn kvað:]",
+          "Heimsku mæla,",
+          "skalat þú enn",
+          "horski Bragi,",
+          "þó at þú vel",
+          "hvat vitir:",
+          "fyr Eiríki glymr,",
+          "es hér mun inn koma",
+          "jöfurr í Óðins sali."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Sigmundr ok Sinfjötli,",
+          "rísið snarliga",
+          "ok gangið í göng grami,",
+          "inn þú bjóð,",
+          "ef Eiríkr sé,",
+          "hans es mér nú vón vituð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "[Sigmundr kvað:]",
+          "Hví es þér Eiríks vón",
+          "heldr en annarra",
+          "konunga?",
+          "[Óðinn sagði:]",
+          "Því at mörgu landi",
+          "hann hefr mæki roðit",
+          "ok blóðugt sverð borit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Sigmundr kvað:]",
+          "Hví namt þú hann sigri þá,",
+          "es þér þótti",
+          "hann snjallr vesa?",
+          "[Óðinn sagði:]",
+          "Því at óvíst es at vita",
+          "sér úlfr enn hösvi",
+          "[greypr] á sjöt goða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Sigmundr kvað:]",
+          "Heill þú nú, Eiríkr,",
+          "vel skalt þú hér kominn",
+          "ok gakk í höll horskr,",
+          "hins vil ek þik fregna,",
+          "hvat fylgir þér",
+          "jöfra frá eggþrimu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "[Eiríkr sagði:]",
+          "Konungar eru fimm,",
+          "kenni ek þér nafn allra,",
+          "en em enn sétti sjalfr."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "[Один сказал:]",
+          "Что то за сон",
+          "что задумал я спозаранку",
+          "Вальхаллу прибрать",
+          "для убитого люда:",
+          "разбудил я эйнхериев,",
+          "велел я вставать,",
+          "покрыть лавки соломой,",
+          "чаши вымыть, валькириям",
+          "вино принести,",
+          "когда явится князь,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "что мною из мира",
+          "людей ожидаем:",
+          "тот благородный,",
+          "что мне радует сердце."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Браги сказал:]",
+          "Что там за шум",
+          "словно шагает тысяча",
+          "или народу более?",
+          "Трещат все стен доски,",
+          "будто бы Бальдр явился",
+          "обратно в Одина залы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "[Один сказал:]",
+          "Глупости молвить",
+          "не должен ты,",
+          "мудрый Браги,",
+          "пусть даже про всё",
+          "ты ведаешь:",
+          "от Эйрика грохот,",
+          "и должен войти сюда",
+          "вождь в Одина залы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Сигмунд и Синфьётли,",
+          "споро вставайте,",
+          "идите встречь князю.",
+          "Внутрь ты пригласи,",
+          "коль увидишь, Эйрика;",
+          "его нынче жду я."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "[Сигмунд сказал:]",
+          "Что ж ты Эйрика ждёшь",
+          "сильнее, чем",
+          "прочих конунгов?",
+          "[Один ответил:]",
+          "Ибо многие земли",
+          "он мечом обагрял",
+          "и кровавый клинок носил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Сигмунд сказал:]",
+          "Почему ж ты победы",
+          "лишил его,",
+          "раз считал его смелым?",
+          "[Один ответил:]",
+          "Ибо точно неведомо...",
+          "Взирает волк серый",
+          "свирепый на обитель богов."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Сигмунд сказал:]",
+          "Привет тебе, Эйрик,",
+          "хорошо, что ты здесь",
+          "появился.",
+          "Входи в чертог, мудрый,",
+          "хочу я спросить тебя,",
+          "что за вожди",
+          "спешат за тобой",
+          "от грохота лезвий»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "[Эйрик ответил:]",
+          "Пятеро конунгов,",
+          "назову тебе всех имена,",
+          "и сам я шестой."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "ÓTHIN:",
+          "What dreams be these, now? Methought that ere daybreak",
+          "I got Valholl ready to make room for warriors;",
+          "I waked the einheriar,3 asked them to rise up,",
+          "to put straw on benches, and to rinse the beer-jugs;",
+          "and the valkyries, to deal wine out as though a warrior drew nigh."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Lords from man-home4 are to be looked for,",
+          "high-born and hardy, which my heart gladdens."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "What thunders, Bragi, as though thousands stirred,",
+          "or whelming hosts?",
+          "BRAGI:",
+          "Crack all boards of the benches as though Baldr were coming",
+          "back to Óthin’s beer-hall."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "ÓTHIN:",
+          "Of witless words shalt beware, wise Bragi,",
+          "for full well thou wotst:",
+          "t is Eric this heralds, who to us is wending,",
+          "the earl, into Óthin’s hall."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Sigmund and Sinfiotli, leave your seats, ye heroes,",
+          "and go forth to greet the king!",
+          "Bid him enter in, if Eric it be:",
+          "him I have hopes to see."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "SIGMUND:",
+          "Why of Eric, rather than of another?",
+          "ÓTHIN:",
+          "Because in many a liege-land this lord hath warred",
+          "and borne a bloody sword."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "SIGMUND:",
+          "Why, then, didst rob him of victory, since valiant thou thought’st him?",
+          "ÓTHIN:",
+          "No one knoweth—",
+          "looks the grey wolf (grimly) toward the gods dwellings."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "SIGMUND:",
+          "Hail to thee, Eric, here thou art welcome!",
+          "wise war-lord, in hall.",
+          "This fain would I know: who be following thee",
+          "of athelings, from the edge-fight?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "ERIC:",
+          "Kings five there are, them all I shall name thee:",
+          "am I the sixth myself."
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

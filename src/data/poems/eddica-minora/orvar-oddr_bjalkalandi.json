@@ -1,0 +1,502 @@
+{
+  "category": "eddica-minora",
+  "slug": "orvar-oddr-bjalkalandi",
+  "key": "OrvarOddrBjalkalandi",
+  "title": {
+    "on": "Örvar-oddr í bjálkalandi",
+    "ru": "Одд стрела в стране Бьяльки",
+    "en": "Odd-Arrow in the land of Bialki"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Andreas Heusler, Wilhelm Ranisch: Eddica minora. Dortmund 1903, pp. 74–76. Перевод: Т. Ермолаев, Н. Топчий.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Nú er bardagi skammr þaðan frá, því at liðit var komit á flótta ok til borgarinnar. Þar stendr gyðjan í borgarhliðinu ok skýtr af öllum fingrum. Nú linnar bardaganum, ok gengr lið til handa Oddi enn hvervetna. Hjá borginni stóðu hof ok hörgar, ok lét Oddr slá í eldi ok brenna allt, er í nánd er borginni, ok þá varð gyðjunni ljóð á munni:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "[Gyðia kvað:]",
+          "Hverr veldr eldi,",
+          "hverr orrostu,",
+          "hverr jarls megin",
+          "oddum beitir?",
+          "Hof sviðnuðu,",
+          "hörgar brunnu,",
+          "hverr rauð eggjar",
+          "á Yngva liði?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "[Oddr kvað:]",
+          "Oddr brenndi hof",
+          "ok hörga braut",
+          "ok trégoðum",
+          "týndi þínum;",
+          "gerðu þau ekki",
+          "góðs í heimi,",
+          "er þau ór eldi",
+          "ösla né máttu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Gyðia kvað:]",
+          "Hugr hlægir mik,",
+          "at hefir fengna",
+          "Freys reiði þú,",
+          "fári blandna,",
+          "hjálpi æsir",
+          "og ásynjur,",
+          "gervöll regin,",
+          "gyðju sinni."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "[Oddr kvað:]",
+          "Hirðik eigi,",
+          "þótt hætir þú,",
+          "fárgjörn kona,",
+          "Freys reiði mér;",
+          "veitk í eldi",
+          "ásu brenna",
+          "tröll eigi þik,",
+          "trúik guði einum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "[Gyðia kvað:]",
+          "Hverir ólu þik",
+          "upp til heimskan,",
+          "er þú eigi vilt",
+          "Óðin blóta?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "[Oddr kvað:]",
+          "Fæddi mik Ingjaldr",
+          "upp í bernsku,",
+          "sá er Eikund réð",
+          "ok Jaðar byggði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Gyðia kvað:]",
+          "Auð þættumst ek",
+          "eiga nógan,",
+          "ef ek inn ítra",
+          "Álf of fyndak;",
+          "blót gefk honum",
+          "ok bú fjögur;",
+          "hann mun yðr alla",
+          "í eld draga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Oddr kvað:]",
+          "Oddr sveigði álm,",
+          "ör fló af strengjum,",
+          "Jólfs smíði beit",
+          "Álf í gegnum;",
+          "býðrat blót honum,",
+          "svát Bjálki þiggi,",
+          "hlakka hrafnar",
+          "of hræi Bjálka."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "[Gyðia kvað:]",
+          "Hverir efldu þik",
+          "austan hingat,",
+          "feikna fullan",
+          "ok fláráðan?",
+          "Muntu hvervetna",
+          "herja vilja,",
+          "er Álfi máttuð",
+          "aldrsspell gera."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "[Oddr kvað:]",
+          "Efldu mik örvar",
+          "ok Jólfs smíði",
+          "stórger skeyti",
+          "ok stinnr bogi;",
+          "en þat it fimmta,",
+          "er þú fregna skalt,",
+          "at ek við ása",
+          "aldri blíðkumst."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Lét ek Frey",
+          "fyrst ok Óðin,",
+          "blinda báða,",
+          "á bál fara,",
+          "urðu æsir",
+          "undan at leita,",
+          "hvar sem í flokki",
+          "fundizt höfðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Eltak æsi",
+          "örhjartaða tvá,",
+          "sem fyr úlfi geitr",
+          "argar rynni;",
+          "illt er at eiga Óðin",
+          "at einka vin;",
+          "skalt eigi lengr",
+          "skrattann blóta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "II Oddr veðr nú at gyðjunni með eikikylfu mikla. Hún stökkr undan ok í borgina með liði því, er henni fylgdi. Oddr rekr flóttann, ok drepa þeir allt þat, er þeir mega höndum á koma, en gyðjan flýr til höfuðhofs, er stóð í borginni, ok hleypr inn í hofit ok mælti þetta:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "[Gyðia kvað:]",
+          "Hjálpi æsir",
+          "ok ásynjur,",
+          "gervöll regin,",
+          "gyðju sinni."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "prose",
+        "lines": [
+          "III Oddr kom at hofinu ok vill eigi inn ganga eptir henni. Hann ferr upp á hofit ok sér inn um glugginn, hvar hún liggr. Verðr honum fyrir, at hann tekr upp stein mikinn ok keyrir inn í glugginn. Hann kemr á hrygg gýginni ok lemr hana þar niðr við stöllunum, ok dó hún þar. En Oddr rekr hernað um alla borgina. Hann kemr þar at, er Álfr var; hann var þá enn eigi dauðr. Þá berr Oddr hann með kylfu, til þess er hann er dauðr. Nú dregr hann saman skatta um allt landit ok setr yfir höfðingja ok stjórnarmenn. En svá segir hann í ljóðunum, at þetta hefir í Antíokía verit, at hann drap þá feðga."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I После этого битва была недолгой, ибо теперь войско обратилось в бегство к городу. На городских воротах стояла жрица и стреляла из всех пальцев. Теперь битва прекратилась, и повсюду люди сдавались Одду. Возле города стояли капища и святилища, и Одд велел развести огонь и сжечь всё, что было поблизости, и тогда у жрицы вырвался стих:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "[Жрица сказала:]",
+          "Кто огонь высекает,",
+          "кто битву ведёт,",
+          "кто ярла силы",
+          "остриями кусает?",
+          "Святыни тлеют,",
+          "сгорают капища,",
+          "кто клинок окровавил",
+          "в войске Ингви?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "[Одд сказал:]",
+          "Одд капище сжёг,",
+          "святыни разбил",
+          "и богов деревянных",
+          "твоих погубил;",
+          "они не делали",
+          "добра в мире,",
+          "они не сумели",
+          "спастись из пламени."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Жрица сказала:]",
+          "Веселит мой дух,",
+          "что тебя достанет",
+          "Фрейра гнев,",
+          "смесь горестная.",
+          "Да помогут асы",
+          "и асиньи все,",
+          "властители сильные,",
+          "жрице своей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "[Одд сказал:]",
+          "Меня не заботит,",
+          "что злобно ты,",
+          "грозишь мне, женщина,",
+          "гневом Фрейра.",
+          "Знаю, в огне",
+          "асы сгорят.",
+          "Да возьмут тебя тролли,",
+          "верю в бога единого."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "[Жрица сказала:]",
+          "Кто тебя воспитывал",
+          "в такой глупости,",
+          "что ты не желаешь",
+          "Одину жертвовать?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "[Одд сказал:]",
+          "Воспитывал Ингьяльд",
+          "меня в моей юности,",
+          "что Эйкундом правил",
+          "и Ядара хутором."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Жрица сказала:]",
+          "Богатств, я думаю,",
+          "имею достаточно,",
+          "если б я, славная,",
+          "Альва встретила;",
+          "жертву дала б ему",
+          "и четыре двора;",
+          "он бы вас всех",
+          "в огонь втащил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Одд сказал:]",
+          "Одд согнул вяз,",
+          "стрела слетела,",
+          "Труд Йольва пронзил",
+          "Альва насквозь;",
+          "жертву не предложишь,",
+          "чтобы Бьяльки принял,",
+          "каркают вороны",
+          "над костяком Бьяльки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "[Жрица сказала:]",
+          "Кто дал силу прийти",
+          "с востока сюда тебе,",
+          "полному кошмара",
+          "и подобной кривды?",
+          "Ты, верно, повсюду",
+          "воевать хочешь,",
+          "раз Альву сумел",
+          "век сократить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "[Одд сказал:]",
+          "Моя сила в Йольва",
+          "труде и стрелах,",
+          "гнутом луке",
+          "и грубых дротах;",
+          "а пятое то —",
+          "знать тебе следует —",
+          "вовек не молил",
+          "я асов о милости."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Велел я Фрейра",
+          "вначале, и Одина,",
+          "ослепить обоих,",
+          "на костёр отправить.",
+          "Приходилось асам",
+          "мне уступать,",
+          "где бы ни вышло",
+          "нам встретится."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Гнал я асов пару —",
+          "у них сердце в пятки,",
+          "как от волка козы,",
+          "трусливые, кинулись.",
+          "Плохо лишь Одина",
+          "в друзьях иметь;",
+          "больше не будешь",
+          "бесу ты жертвовать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "prose",
+        "lines": [
+          "II Теперь Одд бросился на жрицу с дубиной из дуба. Она кинулась бежать в город вместе с людьми, её сопровождавшими. Одд преследовал бегущих, и они убили всех, кого смогли поймать, а жрица помчалась к главному храму, который стоял в городе, забежала внутрь и сказала так:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "[Жрица сказала:]",
+          "Да помогут асы",
+          "и асиньи все,",
+          "властители сильные,",
+          "жрице своей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "prose",
+        "lines": [
+          "III Одд подошёл к храму, но не захотел входить внутрь за ней. Он взобрался на храм и увидел через окно, где она лежит. Ему попался большой камень, он поднял его и бросил в окно. Тот угодил ведьме по хребту и поверг её у алтаря, там она и умерла. А Одд разграбил весь город. Он пришёл туда, где был Альв; тот был ещё жив. Тогда Одд стал колотить его дубиной, пока тот не умер. Теперь он наложил дань на всю страну и поставил правителя и управляющих. Как он сам говорит в стихах, это было в Антиохии, где он убил отца и сына."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

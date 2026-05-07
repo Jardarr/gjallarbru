@@ -1,0 +1,2217 @@
+{
+  "category": "ljodaedda-hetjukvaedi",
+  "slug": "volundarkvida",
+  "key": "Volundarkvida",
+  "title": {
+    "on": "Völundarkviða",
+    "ru": "Песнь о Велунде",
+    "en": "The Lay of Volund"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Haraldur Bernharðsson. Текст на русском языке в переводе А. И. Корсуна, СЭ–1963, с. 68–73.",
+    "en": "An ancient Icelandic text, edited by Haraldur Bernharðsson. Translation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Frá Völundi"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Níðuðr hét konungr í Svíþjóð. Hann átti tvá sonu ok eina dóttur; hon hét Böðvildr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "II Bræðr vóru þrír, synir Finna konungs. Hét einn Slagfiðr, annarr Egill, þriði Völundr. Þeir skriðu ok veiddu dýr. Þeir kvómu í Úlfdali ok gerðu ‖ sér þar hús. Þar er vatn er heitir Úlfsjár. Snemma of morgin fundu þeir á vatns ströndu konur þrjár ok spunnu lín. Þar vóru hjá þeim álftar hamir þeira; það vóru valkyrjur. Þar vóru tvær dætr Hlöðvés konungs, Hlaðguðr svanhvít ok Hervör alvitr; in þriðja var Ölrún Kjárs dóttir af Vallandi. Þeir höfðu þær heim til skála með sér. Fekk Egill Ölrúnar en Slagfiðr Svanhvítrar en Völundr Alvitrar. Þau bjoggu sjau vetr. Þá flugu þær að vitja víga ok kvómu eigi aftr. Þá skreið Egill að leita Ölrúnar en Slagfiðr leitaði Svanhvítrar en Völundr sat í Úlfdölum. Hann var hagastr maðr, svá að menn viti, í fornum sögum. Níðuðr konungr lét hann höndum taka svá sem hér er um kveðið:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "heading",
+        "lines": [
+          "Frá Völundi ok Níðaði"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Meyjar flugu sunnan",
+          "myrkvið í gögnum,",
+          "alvitr ungar,",
+          "örlög drýgja.",
+          "Þær á sævar strönd",
+          "settuz að hvílaz,",
+          "drósir suðrænar,",
+          "dýrt lín spunnu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Ein nam þeira",
+          "Egil að verja,",
+          "fögr mær fira,",
+          "faðmi ljósum;",
+          "önnur var Svanhvít,",
+          "svanfjaðrar dró;",
+          "en in þriðja,",
+          "þeira systir,",
+          "varði hvítan",
+          "háls Völundar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Sátu síðan",
+          "sjau vetr að það",
+          "en inn átta",
+          "allan þráðu",
+          "en inn níunda",
+          "nauðr um skilði;",
+          "meyjar fýstuz",
+          "á myrkvan við,",
+          "alvitr ungar,",
+          "örlög drýgja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Kom þar af veiði",
+          "veðreygr skyti;",
+          "Slagfiðr ok Egill",
+          "sali fundu auða;",
+          "gengu út ok inn",
+          "ok um sáz;",
+          "austr skreið Egill",
+          "að Ölrúnu.",
+          "En suðr Slagfiðr",
+          "að Svanhvítu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "En einn Völundr",
+          "sat í Úlfdölum.",
+          "Hann sló gull rautt",
+          "við gimfastan,",
+          "lukði hann alla",
+          "lindbauga vel;",
+          "svá beið hann",
+          "sinnar ljóssar",
+          "kvánar ef hánum",
+          "koma gerði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Það spyrr Níðuðr,",
+          "Njara dróttinn,",
+          "að einn Völundr",
+          "sat í Úlfdölum.",
+          "Nóttum fóru seggir,",
+          "neglðar vóru brynjur,",
+          "skildir bliku þeira",
+          "við inn skarða mána."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Stigu ór söðlum",
+          "að salar gafli, ‖",
+          "gengu inn þaðan",
+          "endlangan sal,",
+          "sá þeir á bast",
+          "bauga dregna,",
+          "sjau hundruð allra,",
+          "er sá seggr átti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Ok þeir af tóku",
+          "ok þeir á létu",
+          "fyr einn útan",
+          "er þeir af létu.",
+          "Kom þar af veiði",
+          "veðreygr skyti,",
+          "Völundr, líðandi",
+          "um langan veg."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Sat á berfjalli,",
+          "bauga talði,",
+          "álfa ljóði,",
+          "eins saknaði;",
+          "hugði hann að hefði",
+          "Hlöðvés dóttir,",
+          "Alvitr unga,",
+          "væri hon aftr komin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Gekk brúnni",
+          "beru hold steikja;",
+          "hár brann hrísi",
+          "allþurr fura,",
+          "viðr inn vindþurri,",
+          "fyr Völundi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Sat hann svá lengi",
+          "að hann sofnaði",
+          "ok hann vaknaði",
+          "vilja lauss,",
+          "vissi sér á höndum",
+          "höfgar nauðir",
+          "en á fótum",
+          "fjötur um spenntan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "[Völundr kvað:]",
+          "«Hverir ro jöfrar",
+          "þeir er á lögðu",
+          "bestibyrsíma",
+          "ok mik bundu?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Kallaði nú Níðuðr,",
+          "Njara dróttinn:",
+          "«Hvar gazt u, Völundr,",
+          "vísi álfa,",
+          "vára aura",
+          "í Úlfdölum?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "[Völundr kvað:]",
+          "«Gull var þar eigi",
+          "á Grana leiðu,",
+          "fjarri hugða ek várt land",
+          "fjöllum Rínar.",
+          "Man ek að vér meiri",
+          "mæti áttum",
+          "er vér heil hjú",
+          "heima vórum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Hlaðguðr ok Hervör",
+          "borin var Hlöðvé,",
+          "kunn var Ölrún,",
+          "Kjárs dóttir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Hon inn um gekk",
+          "endlangan sal,",
+          "stóð á gólfi,",
+          "stillti röddu:",
+          "Er a sá nú hýrr",
+          "er ór holti ferr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "lines": [
+          "III Níðuðr konungr gaf dóttur sin­ni Böðvildi gullhring þann er hann tók af bastinu að Völundar en hann sjálfr bar sverðið er Vö­lundr átti en dróttning kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "«Tenn hánum teygjaz",
+          "er hánum er téð sverð",
+          "ok hann Böðvildar",
+          "baug um þekkir;",
+          "ámun eru augu",
+          "ormi þeim inum frána;",
+          "sníðið ér hann",
+          "sina magni",
+          "ok setið hann síðan",
+          "í sævar stöð!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "prose",
+        "lines": [
+          "IV Svá var gört að skornar vóru sinar í knésfótum ok settr í hólmeinn er þar var fyr landi er hétSæ­varstaðr. Þar smíðaði hannko­nungi allz kyns gjörsimar. En­gi maðr þorði að fara til hans ne­ma konungr einn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Völundr kvað:",
+          "«Skínn Níðaði",
+          "sverð á linda,",
+          "það er ek hvessta",
+          "sem ek hagast kunna",
+          "ok ek herða k",
+          "sem mér hægst þótti;",
+          "sá er mér fránn mækir",
+          "æ fjarri borinn,",
+          "sé kk a ek þann Völundi",
+          "til smiðju borinn;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "nú berr Böðvildr",
+          "brúðar minnar,",
+          "bíð k a ek þess bót,",
+          "bauga rauða.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Sat hann, né hann svaf ávallt,",
+          "ok hann sló hamri,",
+          "vél gjörði hann heldr",
+          "hvatt Níðaði.",
+          "Drifu ungir tveir",
+          "á dýr sjá,",
+          "synir Níðaðar,",
+          "í sævar stöð."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Kómu þeir til kistu,",
+          "kröfðu lukla;",
+          "opin var illúð",
+          "er þeir í sá;",
+          "fjölð var þar menja",
+          "er þeim mögum sýndiz",
+          "að væri gull rautt",
+          "ok gjörsimar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "[Völundr kvað:]",
+          "«Komið einir tveir,",
+          "komið annars dags!",
+          "Ykkr læt ek það gull",
+          "um gefið verða.",
+          "Segiða meyjum",
+          "né salþjóðum,",
+          "manni öngum, ‖",
+          "að ið mik fyndið!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Snemma kallaði",
+          "seggr annan,",
+          "bróðir á bróður:",
+          "«Göngum baug sjá!»",
+          "Kómu til kistu,",
+          "kröfðu lukla;",
+          "opin var illúð",
+          "er þeir í litu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Sneið af höfuð",
+          "húna þeira",
+          "ok undir fen fjöturs",
+          "fætr um lagði",
+          "en þær skálar",
+          "er und skörum vóru",
+          "sveip hann útan silfri,",
+          "seldi Níðaði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "En ór augum",
+          "jarknasteina",
+          "sendi hann kunnigri",
+          "konu Níðaðar",
+          "en ór tönnum",
+          "tveggja þeira",
+          "sló hann brjóstkringlur,",
+          "sendi Böðvildi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Þá nam Böðvildr",
+          "baugi að hrósa",
+          "er brotið hafði.",
+          "«Þori-g a ek að segja",
+          "nema þér einum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Völundr kvað:",
+          "«Ek bæti svá",
+          "brest á gulli",
+          "að feðr þínum",
+          "fegri þikkir",
+          "ok mæðr þinni",
+          "miklu betri",
+          "ok sjálfri þér",
+          "að sama hófi.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Bar hann hana bjóri",
+          "því að hann betr kunni",
+          "svá að hon í sessi",
+          "um sofnaði.",
+          "«Nú hefi ek hefnt",
+          "harma minna,",
+          "allra nema einna,",
+          "íviðgjarna!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "«Vel ek», kvað Völundr,",
+          "«verða ek á fitjum,",
+          "þeim er mik Níðaðar",
+          "námu rekkar!»",
+          "Hlæjandi Völundr",
+          "hófz að lofti;",
+          "grátandi Böðvildr",
+          "gekk ór eyju,",
+          "tregði för friðils",
+          "ok föður reiði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Úti stendr kunnig",
+          "kván Níðaðar",
+          "ok hon inn um gekk",
+          "endlangan sal",
+          "en hann á salgarð",
+          "settiz að hvílaz:",
+          "«Vakir þú, Níðuðr,",
+          "Njara dróttinn?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "[Níðuðr kvað:]",
+          "«Vaki ek ávallt",
+          "vilja lauss,",
+          "sofna ek minnzt",
+          "sízt mína sonu dauða.",
+          "Kell mik í höfuð,",
+          "köld eru mér ráð þín,",
+          "vilnumk ek þess nú",
+          "að ek við Völund dæma."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Seg þú mér það, Völundr,",
+          "vísi álfa,",
+          "af heilum hvað varð",
+          "sonum mínum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "[Völundr kvað:]",
+          "«Eiða skalt u mér áðr",
+          "alla vinna",
+          "að skips borði",
+          "ok að skjaldar rönd,",
+          "að mars bægi",
+          "ok að mækis egg",
+          "að þú kvelj at",
+          "kván Völundar",
+          "né brúði minni",
+          "að bana verðir",
+          "þótt vér kván eigim",
+          "þá er þér kunnið",
+          "eða jóð eigim",
+          "innan hallar!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Gakk þú til smiðju",
+          "þeirar er þú gjörðir;",
+          "þar fiðr þú belgi",
+          "blóði stokkna:",
+          "Sneið ek af höfuð",
+          "húna þinna",
+          "ok undir fen fjöturs",
+          "fætr um lagða-k."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "En þær skálar",
+          "er und skörum vóru",
+          "sveip ek útan silfri",
+          "senda ek Níðaði",
+          "en ór augum",
+          "jarknasteina",
+          "senda ek kunnigri",
+          "kván Níðaðar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "En ór tönnum",
+          "tveggja þeira",
+          "sló ek brjóstkringlur,",
+          "senda ek Böðvildi.",
+          "Nú gengr Böðvildr",
+          "barni aukin,",
+          "eingadóttir",
+          "ykkur beggja!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "[Níðuðr kvað:]",
+          "«Mæltir a þú það mál",
+          "er mik meirr tregi",
+          "né ek þik vilja, Völundr,",
+          "verr um níta;",
+          "er at svá maðr hár",
+          "að þik af hesti taki",
+          "né svá öflugr",
+          "að þik neðan skjóti",
+          "þar er þú skollir",
+          "við ský uppi!» ‖"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Hlæjandi Völundr",
+          "hófz að lofti",
+          "en ókátr Níðuðr",
+          "sat þá eftir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "[Níðuðr kvað:]",
+          "Upp rís tu, Þakkráðr,",
+          "þræll minn inn bezti;",
+          "bið þú Böðvildi,",
+          "meyna bráhvítu,",
+          "ganga fagrvarið",
+          "við föður ræða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Er það satt, Böðvildr,",
+          "er sögðu mér:",
+          "Sátuð ið Völundr",
+          "saman í hólmi?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "[Böðvildr kvað:]",
+          "«Satt er það, Níðaðr,",
+          "er sagði þér:",
+          "Sátu við Völundr",
+          "saman í hólmi",
+          "eina ögurstund;",
+          "æva skyldi!",
+          "Ek vætr hánum",
+          "kunna k,",
+          "ek vætr hánum",
+          "vinna mátta-k!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "О Вёлунде"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "Жил конунг в Свитьоде, звали его Нидуд. Двое сыновей было у него и дочь по имени Бёдвильд."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "prose",
+        "lines": [
+          "Жили три брата — сыновья конунга финнов, — одного звали Слагфид, другого Эгиль, третьего Вёлунд. Они ходили на лыжах и охотились. Пришли они в Ульвдалир 1 и построили себе дом. Есть там озеро, зовется оно Ульвсъяр.2 Рано утром увидели они на берегу озера трех женщин, которые пряли лен, а около них лежали их лебяжьи одежды,  — это были валькирии. Две из них были дочери конунга Хлёдвера: Хладгуд Лебяжьебелая и Хервёр Чудесная, а третья была Эльрун, дочь Кьяра из Валланда. Братья увели их с собой, Эгиль взял в жены Эльрун, Слагфид — Лебяжьебелую, а Вёлунд — Чудесную. Так они прожили семь зим. Потом валькирии умчались в битвы и не возвратились. Тогда Эгиль отправился искать Эльрун, Слагфид пошел на поиски Лебяжьебелой. А Вёлунд остался в Ульвдалире. Он был искуснейшим человеком среди всех людей, известных нам из древних сказаний. Конунг Нидуд велел схватить его, как здесь об этом рассказано."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "heading",
+        "lines": [
+          "О Вёлунде и Нидуде"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "С юга летели",
+          "над лесом дремучим",
+          "девы-валькирии,",
+          "битв искавшие;",
+          "остановились",
+          "на отдых у озера,",
+          "лен драгоценный",
+          "начали прясть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Первая дева, —",
+          "нет ее краше, —",
+          "на плечи Эгилю",
+          "руки вскинула;",
+          "Сванхвит вторая,",
+          "в одежде белой",
+          "из перьев лебяжьих;",
+          "а третья сестра",
+          "Вёлунда шею",
+          "рукой обвила."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Семь протекло",
+          "зим спокойных,",
+          "а на восьмую",
+          "тоска взяла их,",
+          "а на девятой",
+          "пришлось расстаться;",
+          "прочь устремились",
+          "в чащу леса",
+          "девы-валькирии,",
+          "битв искавшие."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Вернулись с охоты",
+          "стрелок зоркоглазый,",
+          "Слагфид и Эгиль",
+          "в дом опустелый,",
+          "бродили, искали,",
+          "вокруг озираясь.",
+          "За Эльрун к востоку",
+          "Эгиль на лыжах",
+          "и Слагфид на юг",
+          "за Сванхвит помчались."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "А Вёлунд один,",
+          "в Ульвдалире сидя,",
+          "каменья вправлять стал",
+          "в красное золото,",
+          "кольца, как змеи,",
+          "искусно сплетал он;",
+          "все поджидал —",
+          "вернется ли светлая?",
+          "Жена возвратится ли",
+          "снова к нему?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Ньяров владыка,",
+          "Нидуд проведал,",
+          "что Вёлунд один",
+          "остался в Ульвдалире.",
+          "В кольчугах воины",
+          "ночью поехали,",
+          "под ущербной луной",
+          "щиты их блестели."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "С седел сойдя",
+          "у двери жилища,",
+          "внутрь проникли,",
+          "прошли по дому.",
+          "Видят — на лыке",
+          "кольца подвешены, —",
+          "было семьсот их",
+          "у этого воина."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Стали снимать их",
+          "и снова нанизывать,",
+          "только одно",
+          "кольцо утаили.",
+          "Вёлунд пришел,",
+          "стрелок зоркоглазый,",
+          "из дальних мест",
+          "с охоты вернулся;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "мясо зажарить",
+          "медвежье хотел он;",
+          "горела как хворост",
+          "сосна сухая, —",
+          "высушил Вёлунду",
+          "ветер дрова."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Сидя на шкуре,",
+          "кольца считал",
+          "альвов властитель, —",
+          "нет одного —",
+          "подумал: взяла его,",
+          "в дом возвратясь,",
+          "Хлёдвера дочь,",
+          "валькирия юная."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Долго сидел,",
+          "наконец заснул.",
+          "Проснулся и видит —",
+          "беда стряслась:",
+          "крепкой веревкой",
+          "руки связаны,",
+          "стянуты ноги",
+          "путами тесными."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "[Вёлунд сказал:]",
+          "«Чьи это воины",
+          "здесь появились?",
+          "Кто меня накрепко",
+          "лыком связал?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Ньяров владыка,",
+          "Нидуд крикнул:",
+          "«Откуда ж ты, Вёлунд,",
+          "альвов властитель,",
+          "в краю этом мог",
+          "добыть наше золото?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "[Вёлунд сказал:]",
+          "«Грани поклажи",
+          "здесь ты не встретишь, —",
+          "Рейна холмы",
+          "отселе далёко.",
+          "Помню я: больше",
+          "было сокровищ",
+          "в дни, когда вместе",
+          "жили мы, родичи:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Хладгуд и Хервёр,",
+          "Хлёдвера дочери,",
+          "и Кьяра дочь",
+          "красавица Эльрун»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "В дом войдя,",
+          "прошла вдоль палаты,",
+          "стала и молвила",
+          "голосом тихим:",
+          "«Из леса идущий",
+          "другом не станет»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "lines": [
+          "III Конунг Нидуд отдал дочери свой Бёдвильд золотое кольцо, которое он снял с лыковой веревки у Вёлунда, а сам он стал носить меч Вёлунда. Тогда жена Нидуда сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "«Увидит ли меч он,",
+          "кольцо ли у Бёдвильд —",
+          "зубы свои",
+          "злобно он скалит;",
+          "глаза у него",
+          "горят, как драконьи;",
+          "скорей подрежьте",
+          "ему сухожилья, —",
+          "пусть он сидит",
+          "на острове Севарстёд!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "prose",
+        "lines": [
+          "V Так и было сделано: ему подрезали сухожилья под коленями и оставили его на острове, что был недалеко от берега и назывался Севарстёд. Там он ковал конунгу всевозможные драгоценности. Никто не смел посещать его, кроме конунга."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Вёлунд сказал:",
+          "«На поясе Нидуда",
+          "меч мой сверкает,",
+          "его наточил я",
+          "как можно острее",
+          "и закалил",
+          "как можно крепче;",
+          "мой меч навсегда",
+          "от меня унесли,",
+          "не быть ему больше",
+          "в кузнице Вёлунда;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "вот и у Бёдвильд",
+          "кольцо золотое",
+          "жены моей юной…",
+          "Как отмстить мне!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Сон позабыв,",
+          "молотом бил он —",
+          "хитрую штуку",
+          "готовил Нидуду.",
+          "Двое сынов",
+          "Нидуда вздумали",
+          "взглянуть на сокровища",
+          "острова Севарстёд."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "К ларю подошли,",
+          "ключи спросили, —",
+          "коварство их здесь",
+          "подстерегало;",
+          "много сокровищ",
+          "увидели юноши, —",
+          "красного золота",
+          "и украшений."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "[Вёлунд сказал:]",
+          "«В другой раз еще",
+          "вдвоем приходите, —",
+          "золото это",
+          "получите оба!",
+          "Только молчите:",
+          "ни челядь, ни девы",
+          "пусть не знают,",
+          "что здесь вы были!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Вскоре позвал",
+          "юноша брата:",
+          "«Брат, пойдем",
+          "посмотрим сокровища!»",
+          "К ларю подошли,",
+          "ключи спросили, —",
+          "коварство их здесь",
+          "подстерегало."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Головы прочь",
+          "отрезал обоим",
+          "и под меха",
+          "ноги их сунул;",
+          "из черепов",
+          "чаши он сделал,",
+          "вковал в серебро,",
+          "послал их Нидуду."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Ясных глаз",
+          "яхонты яркие",
+          "мудрой отправил",
+          "супруге Нидуда;",
+          "зубы обоих",
+          "взял и для Бёдвильд",
+          "нагрудные пряжки",
+          "сделал из них."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Бёдвильд пришла",
+          "с кольцом поврежденным,",
+          "его показала:",
+          "«Ты ведь один",
+          "в этом поможешь»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Вёлунд сказал:",
+          "«Так я исправлю",
+          "трещину в золоте,",
+          "что даже отец",
+          "доволен будет;",
+          "больше еще",
+          "понравится матери,",
+          "да и тебе",
+          "по душе придется»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Пива принес ей,",
+          "хитрец, и взял ее,",
+          "и на скамье",
+          "дева уснула.",
+          "«Вот отомстил я",
+          "за все обиды,",
+          "кроме одной",
+          "и самой тяжелой»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Вёлунд сказал:",
+          "«Теперь взлечу я",
+          "на крыльях, что отняли",
+          "воины Нидуда!»",
+          "Вёлунд, смеясь,",
+          "поднялся на воздух;",
+          "Бёдвильд, рыдая,",
+          "остров покинула:",
+          "скорбела о милом,",
+          "отца страшилась."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "У дома стоит",
+          "жена его мудрая,",
+          "в дом войдя,",
+          "прошла вдоль палаты;",
+          "а он на ограду",
+          "сел отдохнуть:",
+          "«Спишь ли, Нидуд,",
+          "Ньяров владыка?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "[Нидуд сказал:]",
+          "«Нет, я не сплю, —",
+          "горе томит меня,",
+          "до сна ли теперь, —",
+          "сынов я лишился;",
+          "губительны были",
+          "твои советы!",
+          "Сказать бы хотел",
+          "Вёлунду слово."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Молви мне, Вёлунд,",
+          "альвов властитель,",
+          "как ты сгубил",
+          "сынов моих юных?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "[Вёлунд сказал:]",
+          "«Сперва поклянись мне",
+          "крепкой клятвой,",
+          "бортом ладьи",
+          "и краем щита,",
+          "конским хребтом",
+          "и сталью меча,",
+          "что не сгубил ты",
+          "супруги Вёлунда,",
+          "что не был убийцей",
+          "жены моей милой;",
+          "другую жену",
+          "мою ты знаешь, —",
+          "дитя родит она",
+          "в доме твоем!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "В кузню пойди, —",
+          "ты сам ее строил,",
+          "кожу с голов",
+          "найдешь там кровавую:",
+          "головы напрочь",
+          "сынам я отрезал",
+          "и под меха",
+          "ноги их сунул."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Из черепов",
+          "чаши я сделал,",
+          "вковал в серебро",
+          "и Нидуду выслал;",
+          "ясных глаз",
+          "яхонты светлые",
+          "мудрой отправил",
+          "супруге Нидуда;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "а из зубов",
+          "нагрудные пряжки",
+          "я изготовил",
+          "и Бёдвильд послал их.",
+          "Бёдвильд теперь",
+          "беременной стала,",
+          "ваша дочь,",
+          "вами рожденная»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "[Нидуд сказал:]",
+          "«Горше слова",
+          "сказать не мог ты,",
+          "не было б слово",
+          "другое больнее!",
+          "Кто же, могучий,",
+          "тебя одолеет!",
+          "Кто же стрелой",
+          "пронзить тебя сможет,",
+          "когда ты паришь",
+          "высоко в небе!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Вёлунд, смеясь,",
+          "поднялся в воздух.",
+          "Нидуд в горе",
+          "один остался."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "[Нидуд сказал:]",
+          "«Такрад, вставай,",
+          "раб мой лучший,",
+          "Бёдвильд зови,",
+          "светлоокую деву,",
+          "пусть придет,",
+          "с отцом побеседует."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Правду ли, Бёдвильд,",
+          "поведали мне, —",
+          "была ли ты с Вёлундом",
+          "вместе на острове?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "[Бёдвильд сказала:]",
+          "«Правду тебе,",
+          "Нидуд, сказали:",
+          "с Вёлундом я",
+          "была на острове,",
+          "лучше б не знать мне",
+          "этого часа!",
+          "Я не смогла",
+          "противиться силе,",
+          "я не смогла",
+          "себя защитить!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "There was a king in Sweden named Nithuth. He had two sons and one daughter; her name was Bothvild. There were three brothers, sons of a king of the Finns: one was called Slagfith, another Egil, the third Völund. They went on snowshoes and hunted wild beasts. They came into Ulfdalir and there they built themselves a house; there was a lake there which is called Ulfsjar. Early one morning they found on the shore of the lake three women, who were spinning flax. Near them were their swan garments, for they were Valkyries. Two of them were daughters of King Hlothver, Hlathguth the Swan-White and Hervor the All-Wise, and the third was Olrun, daughter of Kjar from Valland. These did they bring home to their hall with them. Egil took Olrun, and Slagfith Swan-White, and Völund All-Wise. There they dwelt seven winters; but then they flew away to find battles, and came back no more. Then Egil set forth on his snowshoes to follow Olrun, and Slagfith followed Swan White, but Völund stayed in Ulfdalir. He was a most skillful man, as men know from old tales. King Nithuth had him taken by force, as the poem here tells."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "4",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Maids from the south",
+          "through Myrkwood flew,",
+          "Fair and young,",
+          "their fate to follow;",
+          "On the shore of the sea",
+          "to rest them they sat,",
+          "The maids of the south,",
+          "and flax they spun."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "*********",
+          "Hlathguth and Hervor,",
+          "Hlothver's children,",
+          "And Olrun the Wise",
+          "Kjar's daughter was."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "*********",
+          "One in her arms",
+          "took Egil then",
+          "To her bosom white,",
+          "the woman fair."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Swan-White second,",
+          "swan-feathers she wore,",
+          "*********",
+          "And her arms the third",
+          "of the sisters threw",
+          "Next round Völund's",
+          "neck so white."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "There did they sit",
+          "for seven winters,",
+          "In the eighth at last",
+          "came their longing again,",
+          "(And in the ninth",
+          "did need divide them).",
+          "The maidens yearned",
+          "for the murky wood,",
+          "The fair young maids,",
+          "their fate to follow."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Völund home",
+          "from his hunting came,",
+          "From a weary way,",
+          "the weather-wise bowman,",
+          "Slagfith and Egil",
+          "the hall found empty,",
+          "Out and in went they,",
+          "everywhere seeking."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "East fared Egil",
+          "after Olrun,",
+          "And Slagfith south",
+          "to seek for Swan-White;",
+          "Völund alone",
+          "in Ulfdalir lay,",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Red gold he fashioned",
+          "with fairest gems,",
+          "And rings he strung",
+          "on ropes of bast;",
+          "So for his wife",
+          "he waited long,",
+          "If the fair one home",
+          "might come to him."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "This Nithuth learned,",
+          "the lord of the Njars,",
+          "That Völund alone",
+          "in Ulfdalir lay;",
+          "By night went his men,",
+          "their mail-coats were studded,",
+          "Their shields in the waning",
+          "moonlight shone."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "From their saddles the gable",
+          "wall they sought,",
+          "And in they went",
+          "at the end of the hall;",
+          "Rings they saw there",
+          "on ropes of bast,",
+          "Seven hundred",
+          "the hero had."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Off they took them,",
+          "but all they left",
+          "Save one alone",
+          "which they bore away.",
+          "*********",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Völund home",
+          "from his hunting came,",
+          "From a weary way,",
+          "the weather-wise bowman;",
+          "A brown bear's flesh",
+          "would he roast with fire;",
+          "Soon the wood so dry",
+          "was burning well,",
+          "(The wind-dried wood",
+          "that Völund's was)."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "On the bearskin he rested,",
+          "and counted the rings,",
+          "The master of elves,",
+          "but one he missed;",
+          "That Hlothver's daughter",
+          "had it he thought,",
+          "And the all-wise maid",
+          "had come once more."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "So long he sat",
+          "that he fell asleep,",
+          "His waking empty",
+          "of gladness was;",
+          "Heavy chains",
+          "he saw on his hands,",
+          "And fetters bound",
+          "his feet together."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Völund spake:",
+          "\"What men are they",
+          "who thus have laid",
+          "Ropes of bast",
+          "to bind me now?\"",
+          "Then Nithuth called,",
+          "the lord of the Njars:",
+          "\"How gottest thou, Völund,",
+          "greatest of elves,",
+          "These treasures of ours",
+          "in Ulfdalir?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Völund spake:",
+          "\"The gold was not",
+          "on Grani's way,",
+          "Far, methinks, is our realm",
+          "from the hills of the Rhine;",
+          "I mind me that treasures",
+          "more we had",
+          "When happy together",
+          "at home we were.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Without stood the wife",
+          "of Nithuth wise,",
+          "And in she came",
+          "from the end of the hall;",
+          "On the floor she stood,",
+          "and softly spoke:",
+          "\"Not kind does he look",
+          "who comes from the wood.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "lines": [
+          "King Nithuth gave to his daughter Bothvild the gold ring that he had taken from the bast rope in Völund's house, and he himself wore the sword that Völund had had. The queen spake:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "\"The glow of his eyes",
+          "is like gleaming snakes,",
+          "His teeth he gnashes",
+          "if now is shown",
+          "The sword, or Bothvild's",
+          "ring he sees;",
+          "Let them straightway cut",
+          "his sinews of strength,",
+          "And set him then",
+          "in Sævarstath.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "prose",
+        "lines": [
+          "So was it done: the sinews in his knee-joints were cut, and he was set in an island which was near the mainland, and was called Sævarstath. There he smithied for the king all kinds of precious things. No man dared to go to him, save only the king himself. Völund spake:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"At Nithuth's girdle",
+          "gleams the sword",
+          "That I sharpened keen",
+          "with cunningest craft,",
+          "(And hardened the steel",
+          "with highest skill;)",
+          "The bright blade far",
+          "forever is borne,",
+          "(Nor back shall I see it",
+          "borne to my smithy;)",
+          "Now Bothvild gets",
+          "the golden ring",
+          "(That was once my bride's,",
+          "ne'er well shall it be.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "He sat, nor slept,",
+          "and smote with his hammer,",
+          "Fast for Nithuth",
+          "wonders he fashioned;",
+          "Two boys did go",
+          "in his door to gaze,",
+          "Nithuth's sons,",
+          "into Sævarstath."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "They came to the chest,",
+          "and they craved the keys,",
+          "The evil was open",
+          "when in they looked;",
+          "To the boys it seemed",
+          "that gems they saw,",
+          "Gold in plenty",
+          "and precious stones."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Völund spake:",
+          "\"Come ye alone,",
+          "the next day come,",
+          "Gold to you both",
+          "shall then be given;",
+          "Tell not the maids",
+          "or the men of the hall,",
+          "To no one say",
+          "that me you have sought.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "*********",
+          "Early did brother",
+          "to brother call:",
+          "\"Swift let us go",
+          "the rings to see.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "They came to the chest,",
+          "and they craved the keys,",
+          "The evil was open",
+          "when in they looked;",
+          "He smote off their heads,",
+          "and their feet he hid",
+          "Under the sooty",
+          "straps of the bellows."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Their skulls, once hid",
+          "by their hair, he took,",
+          "Set them in silver",
+          "and sent them to Nithuth;",
+          "Gems full fair",
+          "from their eyes he fashioned,",
+          "To Nithuth's wife",
+          "so wise he gave them."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "And from the teeth",
+          "of the twain he wrought",
+          "A brooch for the breast,",
+          "to Bothvild he sent it;",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Völund spake:",
+          "Bothvild then",
+          "of her ring did boast,",
+          "*********",
+          "*********",
+          "\"The ring I have broken,",
+          "I dare not say it",
+          "save to thee.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Völund spake:",
+          "'I shall weld the break",
+          "in the gold so well",
+          "That fairer than ever",
+          "thy father shall find it,",
+          "And better much",
+          "thy mother shall think it,",
+          "And thou no worse",
+          "than ever it was.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Beer he brought,",
+          "he was better in cunning,",
+          "Until in her seat",
+          "full soon she slept.",
+          "Völund spake:",
+          "\"Now vengeance I have",
+          "for all my hurts,",
+          "Save one alone,",
+          "on the evil woman.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "*********",
+          "*********",
+          "Völund: \"Would",
+          "that well were the sinews",
+          "Maimed in my feet",
+          "by Nithuth's men.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Laughing Völund",
+          "rose aloft,",
+          "Weeping Bothvild",
+          "went from the isle,",
+          "For her lover's flight",
+          "and her father's wrath."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Without stood the wife",
+          "of Nithuth wise,",
+          "And in she came",
+          "from the end of the hall;",
+          "But he by the wall",
+          "in weariness sat:",
+          "\"Wakest thou, Nithuth,",
+          "lord of the Njars?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Nithuth spake:",
+          "\"Always I wake,",
+          "and ever joyless,",
+          "Little I sleep",
+          "since my sons were slain;",
+          "Cold is my head,",
+          "cold was thy counsel,",
+          "One thing, with Völund",
+          "to speak, I wish."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "*********",
+          "\"Answer me, Völund,",
+          "greatest of elves,",
+          "What happed with my boys",
+          "that hale once were?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Völund spake:",
+          "\"First shalt thou all",
+          "the oaths now swear,",
+          "By the rail of ship,",
+          "and the rim of shield,",
+          "By the shoulder of steed,",
+          "and the edge of sword,",
+          "That to Völund's wife",
+          "thou wilt work no ill,",
+          "Nor yet my bride",
+          "to her death wilt bring,",
+          "Though a wife I should have",
+          "that well thou knowest,",
+          "And a child I should have",
+          "within thy hall."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "\"Seek the smithy",
+          "that thou didst set,",
+          "Thou shalt find the bellows",
+          "sprinkled with blood;",
+          "I smote off the heads",
+          "of both thy sons,",
+          "And their feet 'neath the sooty",
+          "straps I hid."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "\"Their skulls, once hid",
+          "by their hair, I took,",
+          "Set them in silver",
+          "and sent them to Nithuth;",
+          "Gems full fair",
+          "from their eyes I fashioned,",
+          "To Nithuth's wife",
+          "so wise I gave them."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "\"And from the teeth",
+          "of the twain I wrought",
+          "A brooch for the breast,",
+          "to Bothvild I gave it;",
+          "Now big with child",
+          "does Bothvild go,",
+          "The only daughter",
+          "ye two had ever.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Nithuth spake:",
+          "\"Never spakest thou word",
+          "that worse could hurt me,",
+          "Nor that made me, Völund,",
+          "more bitter for vengeance;",
+          "There is no man so high",
+          "from thy horse to take thee,",
+          "Or so doughty an archer",
+          "as down to shoot thee,",
+          "While high in the clouds",
+          "thy course thou takest.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Laughing Völund",
+          "rose aloft,",
+          "But left in sadness",
+          "Nithuth sat.",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Then spake Nithuth,",
+          "lord of the Njars:",
+          "\"Rise up, Thakkrath,",
+          "best of my thralls,",
+          "Bid Bothvild come,",
+          "the bright-browed maid,",
+          "Bedecked so fair,",
+          "with her father to speak.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "*********",
+          "\"Is it true, Bothvild,",
+          "that which was told me;",
+          "Once in the isle",
+          "with Völund wert thou?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Bothvild spake:",
+          "\"True is it, Nithuth,",
+          "that which was told thee,",
+          "Once in the isle",
+          "with Völund was I,",
+          "An hour of lust,",
+          "alas it should be!",
+          "Nought was my might",
+          "with such a man,",
+          "Nor from his strength",
+          "could I save myself.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

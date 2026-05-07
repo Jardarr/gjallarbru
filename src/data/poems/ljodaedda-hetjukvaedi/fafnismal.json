@@ -1,0 +1,2272 @@
+{
+  "category": "ljodaedda-hetjukvaedi",
+  "slug": "fafnismal",
+  "key": "Fafnismal",
+  "title": {
+    "on": "Fáfnismál",
+    "ru": "Речи Фафнира",
+    "en": "The Lay of Fáfnir"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Haraldur Bernharðsson. Текст на русском языке в переводе А. И. Корсуна, СЭ–1963, с. 104–108.",
+    "en": "An ancient Icelandic text, edited by Haraldur Bernharðsson. Translation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Sigurðr ok Reginn fóru upp á Gnitaheiði ok hittu þar slóð Fáfnis þá er hann skreið til vatns. Þar gjörði Sigurðr gröf mikla á veginum ok gekk Sigurðr þar í. En er Fáfnir skreið af gullinu blés hann eitri ok hraut það fyr ofan höfuð Sigurði. En er Fáfnir skreið yfir gröfina þá lagði Sigurðr hann með sverði til hjarta. Fáfnir hristi sik ok barði höfði ok sporði. Sigurðr hljóp ór gröfinni ok sá þá hvárr annan. Fáfnir kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "heading",
+        "lines": [
+          "Frá dauða Fáfnis"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«Sveinn ok sveinn!",
+          "Hverjum ert u",
+          "sveini um borinn?",
+          "Hverra ert u manna mögr",
+          "er þú á Fáfni rautt",
+          "þinn inn frána mæki?",
+          "Stönd umk til hjarta hjörr!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "II Sigurðr dulði nafns síns fyr því að það var trúa þeira í forneskju að orð feigs mannz mætti mikið ef hann bölvaði óvin sínum með nafni. Hann kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "«Göfugt dýr ek heiti",
+          "en ek gengið hef k",
+          "inn móðurlausi mögr,",
+          "föður ek á kk a",
+          "sem fira synir,",
+          "geng ek einn saman.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Fáfnir kvað:]",
+          "«Veizt u ef föður né átt at",
+          "sem fira synir,",
+          "af hverju vart u undri alinn?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Ætterni mitt",
+          "kveð ek þér ókunnigt vera",
+          "ok mik sjálfan ið sama:",
+          "Sigurðr ek heiti",
+          "Sigmundr hét minn faðir —",
+          "er hef k þik vápnum vegið.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "[Fáfnir kvað:]",
+          "«Hverr þik hvatti, ‖",
+          "hví hvetjaz lézt,",
+          "mínu fjörvi að fara?",
+          "Inn fráneygi sveinn,",
+          "þú áttir föður bitran",
+          "á burnu skjór á skeið.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Hugr mik hvatti,",
+          "hendr mér fulltýðu",
+          "ok minn inn hvassi hjörr;",
+          "fár er hvatr",
+          "er hröðaz tekr",
+          "ef í barnæsku er blauðr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Fáfnir kvað:]",
+          "«Veit ek, ef þú vaxa næðir",
+          "fyr þinna vina brjósti,",
+          "sæi maðr þik reiðan vega;",
+          "nú ert u haftr",
+          "ok hernuminn,",
+          "æ kveða bandingja bifaz.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Því bregðr þú nú mér, Fáfnir,",
+          "að til fjarri sjá-k",
+          "mínum feðrmunum,",
+          "eigi em ek haftr",
+          "þótt ek væra hernumi;",
+          "þú fannt að ek lauss lifi!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "[Fáfnir kvað:]",
+          "«Heiftyrði ein",
+          "telr þú þér í hvívetna",
+          "en ek þér satt eitt segi-k:",
+          "Ið gjalla gull",
+          "ok ið glóðrauða fé,",
+          "þér verða þeir baugar að bana!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Fé ráða",
+          "skal fyrða hverr",
+          "æ til ins eina dags",
+          "því að einu sinni",
+          "skal alda hverr",
+          "fara til heljar heðan.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "[Fáfnir kvað:]",
+          "«Norna dóm",
+          "þú munt fyr nesjum hafa",
+          "ok ósvinnz apa;",
+          "í vatni þú drukknar",
+          "ef í vindi rær;",
+          "allt er feigs forað.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Seg ðu mér, Fáfnir,",
+          "allz þik fróðan kveða",
+          "ok vel margt vita:",
+          "Hverjar ru þær nornir",
+          "er nauðgönglar ru",
+          "ok kjósa mæðr frá mögum?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Fáfnir kvað:",
+          "«Sundrbornar mjök",
+          "hygg ek að nornir sé,",
+          "eigu t þær ætt saman;",
+          "sumar eru áskunngar,",
+          "sumar álfkunngar,",
+          "sumar dætr Dvalins.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Sigurðr kvað:",
+          "«Seg ðu mér það, Fáfnir,",
+          "allz þik fróðan kveða",
+          "ok vel margt vita,",
+          "hvé sá hólmr heitir",
+          "er blanda hjörlegi",
+          "Surtr ok æsir saman.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Fáfnir kvað:",
+          "«Óskópnir hann heitir",
+          "en þar öll skulu",
+          "geirum leika goð;",
+          "Bilröst brotnar",
+          "er þeir á brott fara",
+          "ok svima í móðu marir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Ægis hjálm",
+          "bar ek um alda sonum",
+          "meðan ek um menjum lá-g;",
+          "einn rammari",
+          "hugðumk öllum vera,",
+          "fann k a ek marga mögu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Sigurðr kvað:",
+          "«Ægis hjálmr",
+          "bergr einugi",
+          "hvar s skulu reiðir vega;",
+          "þá það finnr",
+          "er með fleirum kjömr",
+          "að engi er einna hvatastr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Fáfnir kvað:",
+          "«Eitri ek fnæsta",
+          "er ek á arfi lá",
+          "miklum míns föður.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Sigurðr kvað:",
+          "«Inn rammi ormr,",
+          "þú gjörðir fræs mikla",
+          "ok gazt harðan hug;",
+          "heift að meiri",
+          "verðr hölða sonum",
+          "að þann hjálm hafi.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Fáfnir kvað:",
+          "«Ræð ek þér nú, Sigurðr,",
+          "en þú ráð nemir",
+          "ok ríð heim heðan!",
+          "Ið gjalla gull",
+          "ok ið glóðrauða fé,",
+          "þér verða þeir baugar að bana!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Sigurðr kvað:",
+          "«Ráð er þér ráðið",
+          "en ek ríða mun",
+          "til þess gullz er í lyngvi liggr,",
+          "en þú, Fáfnir, ligg",
+          "í fjörbrotum",
+          "þar er þik Hel hafi!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "[Fáfnir kvað:]",
+          "«Reginn mik réð,",
+          "hann þik ráða mun,",
+          "hann mun okkr verða",
+          "báðum að bana;",
+          "fjör sitt láta",
+          "hygg ek að Fáfnir myni;",
+          "þitt varð nú meira megin.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "III Reginn var á brott horfinn meðan Sigurðr vá Fáfni ok kom þá aftr er Sigurðr strauk ‖ blóð af sverðinu. Reginn kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "«Heill þú nú, Sigurðr,",
+          "nú hefir þú sigr vegið",
+          "ok Fáfni um farið;",
+          "manna þeira",
+          "er mold troða",
+          "þik kveð ek óblauðastan alinn.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Það er óvíst að vita",
+          "þá er komum allir saman,",
+          "sigtíva synir,",
+          "hverr óblauðastr er alinn;",
+          "margr er sá hvatr",
+          "er hjör né rýðr",
+          "annars brjóstum í.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "[Reginn kvað:]",
+          "«Glaðr ert u nú, Sigurðr,",
+          "ok gagni feginn",
+          "er þú þerrir Gram á grasi;",
+          "bróður minn",
+          "hefir þú benjaðan",
+          "ok veld ek þó sjálfr sumu.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "Þú því rétt",
+          "er ek ríða skylda k",
+          "heilög fjöll hinnig;",
+          "fé ok fjörvi",
+          "réði sá inn fráni ormr",
+          "nema þú frýðir",
+          "mér hvats hugar.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "IV Þá gekk Reginn að Fáfni ok skar hjarta ór hánum með sverði er Rið­ill heitir ok þá drakk hann blóð ór undinni eftir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "[Reginn kvað:]",
+          "«Sit tu nú, Sigurðr,",
+          "en ek mun sofa ganga",
+          "ok halt Fáfnis hjarta við funa!",
+          "Eisköld ek vil",
+          "etin láta",
+          "eftir þenna dreyra drykk.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Sigurðr kvað:",
+          "«Fjarri þú gekkt",
+          "meðan ek á Fáfni rauð k",
+          "minn inn hvassa hjör;",
+          "afli mínu",
+          "atta ek við orms megin",
+          "meðan þú í lyngvi látt.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Reginn kvað:",
+          "«Lengi liggja",
+          "létir þú þann lyngvi í,",
+          "inn aldna jötun,",
+          "ef þú sverðs né nytir,",
+          "þess er ek sjálfr gjörða,",
+          "ok þíns ins hvassa hjörs.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Sigurðr kvað:",
+          "«Hugr er betri",
+          "en sé hjörs megin",
+          "hvar s reiðir skulu vega",
+          "því að hvatan mann",
+          "ek sé harðliga vega",
+          "með slævu sverði sigr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "«Hvötum er betra",
+          "en sé óhvötum",
+          "í hildileik hafaz",
+          "glöðum er betra",
+          "en sé glúpnanda",
+          "hvað sem að hendi kjömr.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "lines": [
+          "V Sigurðr tók Fáfnis hjarta ok stei­kði á teini. Er hann hugði að full­ steikt væri ok freyddi sveitinn ór hjartanu þá tók hann á fin­gri sínum ok skynjaði hvárt full­steikt væri. Hann brann ok brá fingrinum í munn sér. En er hjart­blóð Fáfnis kom á tungu há­num ok skildi hann fuglsrödd. Hann heyrði að igður klökuðu á hrí­si­num. Igðan kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "«Þar sitr Sigurðr",
+          "sveita stokkinn,",
+          "Fáfnis hjarta",
+          "við funa steikir;",
+          "spakr þætti mér",
+          "spillir bauga",
+          "ef hann fjörsega",
+          "fránan æti.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Önnur kvað:",
+          "«Þar liggr Reginn,",
+          "ræðr um við sik,",
+          "vill tæla mög",
+          "þann er trúir hánum,",
+          "berr af reiði",
+          "röng orð saman,",
+          "vill bölva smiðr",
+          "bróður hefna.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Þriðja kvað:",
+          "«Höfði skemmra",
+          "láti hann inn hára þul",
+          "fara til heljar heðan!",
+          "Öllu gulli",
+          "þá kná hann einn ráða,",
+          "fjölð, því er und Fáfni lá.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Fjórða kvað:",
+          "«Horskr þætti mér",
+          "ef hafa kynni",
+          "ástráð mikið",
+          "yðvar systra;",
+          "hygði hann um sik",
+          "ok Hugin gleddi;",
+          "þar er mér úlfs vón",
+          "er ek eyru sé-k.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "[In fimmta kvað:]",
+          "«Er at svá horskr",
+          "hildi‖meiðr",
+          "sem ek hers jaðar",
+          "hyggja mynda k",
+          "ef hann bróður lætr",
+          "á brott komaz",
+          "en hann öðrum hefr",
+          "aldrs of synjað.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "[In sétta kvað:]",
+          "«Mjök er ósviðr",
+          "ef hann enn sparir",
+          "fjánda inn fólkská",
+          "þar er Reginn liggr",
+          "er hann ráðinn hefr;",
+          "kann at hann við",
+          "slíku að sjá.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "[In sjaunda kvað:]",
+          "«Höfði skemmra láti hann",
+          "þann inn hrímkalda jötun",
+          "ok af baugum búa;",
+          "þá mund u fjár",
+          "þess er Fáfnir réð",
+          "einvaldi vera.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "[Sigurðr kvað:]",
+          "«Verða svá rík sköp",
+          "að Reginn skyli",
+          "mitt banorð bera",
+          "því að þeir báðir bræðr",
+          "skulu brálliga",
+          "fara til Heljar heðan.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "prose",
+        "lines": [
+          "VI Sigurðr hjó höfuð af Regin ok þá át hann Fáfnis hjarta ok drakk blóð þeira beggja, Regins ok Fáfnis. Þá heyrði Sigurðr hvað igður mæltu:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "«Bitt þú, Sigurðr,",
+          "bauga rauða;",
+          "er a konungligt",
+          "kvíða mörgu!",
+          "Mey veit ek eina,",
+          "myklu fegrsta,",
+          "gulli gædda,",
+          "ef þú geta mættir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "«Liggja til Gjúka",
+          "grænar brautir,",
+          "fram vísa sköp",
+          "fólklíðöndum;",
+          "þar hefir dýrr konungr",
+          "dóttur alna,",
+          "þá mund u, Sigurðr,",
+          "mundi kaupa.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "«Salr er á há",
+          "Hindarfjalli,",
+          "allr er hann útan",
+          "eldi sveipinn;",
+          "þann hafa horskir",
+          "halir um görvan",
+          "ór ódökkum",
+          "ógnar ljóma.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "«Veit ek á fjalli",
+          "fólkvitr sofa",
+          "ok leikr yfir",
+          "lindar váði;",
+          "Yggr stakk þorni:",
+          "aðra felldi",
+          "Hör-Gefn hali",
+          "en hafa vildi.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "«Knátt u, mögr, sjá",
+          "mey und hjálmi",
+          "þá er frá vígi",
+          "Vingskorni reið;",
+          "má at Sigrdrífar",
+          "svefni bregða,",
+          "skjöldunga niðr,",
+          "fyr sköpum norna.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "prose",
+        "lines": [
+          "VII Sigurðr reið eftir slóð Fáfnis til bælis hans ok fann það opið ok hurðir af járni ok gætti; af járni vóru ok allir timbrstokkar í húsinu en grafið í jörð niðr. Þar fann Sigurðr stórmikið gull ok fylldi þar tvær kistur. Þar tók hann ægis hjálm ok gullbrynju ok sverðið Hrotta ok marga dýrgripi ok klyfjaði þar með Grana. En hestrinn vildi eigi fram ganga fyrr en Sigurðr steig á bak hánum."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "I Сигурд и Регин отправились на Гнитахейд и нашли там след Фавнира, который он оставил, когда полз к водопою. Сигурд вырыл большую яму возле следа и засел в ней. И когда Фавнир пополз от сокровища, он изрыгал яд, и яд падал на голову Сигурда. И когда Фавнир проползал над ямой, Сигурд вонзил ему в сердце меч. Фавнир затрясся и стал бить головой и хвостом. Сигурд выскочил из ямы, и они увидели друг друга. Фавнир сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "heading",
+        "lines": [
+          "О смерти Фавнира"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "«Юнец, юнец!",
+          "Кем ты рожден?",
+          "Чей сын ты, ответь?",
+          "О Фавнира ты",
+          "свой меч окровавил;",
+          "в сердце стоит он!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "II Сигурд скрыл свое имя, потому что в древние времена верили, что слова умирающего могущественны, если он проклинает своего недруга, называя его по имени. Он сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "«Я зверь благородный,",
+          "был я всю жизнь",
+          "сыном без матери;",
+          "нет и отца,",
+          "как у людей,",
+          "всегда одинок я»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Фавнир сказал:]",
+          "«Коль нету отца,",
+          "как у людей,",
+          "чем же рожден ты?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Род мой тебе",
+          "еще не ведом,",
+          "и сам я тоже:",
+          "Сигурд зовусь —",
+          "Сигмунд отец мой,",
+          "мной ты сражен»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "[Фавнир сказал:]",
+          "«Кто тебя подстрекнул,",
+          "почему ты решился",
+          "жизнь отнять у меня?",
+          "Взор твой сверкает,",
+          "сын храбреца,",
+          "ты с детства был храбрым!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Смелость вела,",
+          "помогали руки",
+          "и крепкий клинок мой;",
+          "храбрым не станет",
+          "стареющий воин,",
+          "если в детстве был трусом»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Фавнир сказал:]",
+          "«Знаю: если б возрос",
+          "на груди у друзей, —",
+          "разил бы рьяно;",
+          "но, в неволе рожденный,",
+          "стал ты рабом",
+          "и робеешь, как раб»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«К чему твой попрек,",
+          "что я далеко",
+          "от наследья отца!",
+          "Нет, я не раб,",
+          "хоть пленником был;",
+          "я свободен, ты видишь!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "[Фавнир сказал:]",
+          "«Слышишь ты всюду",
+          "слово вражды,",
+          "но прав я, поверь:",
+          "золото звонкое,",
+          "клад огнекрасный,",
+          "погубит тебя!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Богатством владеть",
+          "всем суждено",
+          "до какого-то дня,",
+          "ибо для всех",
+          "время настанет",
+          "в могилу сойти»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "[Фавнир сказал:]",
+          "«Норн приговор",
+          "у мыса узнаешь",
+          "и жребий глупца;",
+          "в бурю ты станешь",
+          "грести осторожно,",
+          "и все ж ты потонешь»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Фавнир, скажи мне,",
+          "ты мудр, я слышал,",
+          "и многое знаешь:",
+          "кто эти норны,",
+          "что могут прийти",
+          "к женам рожающим?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Фавнир сказал:",
+          "«Различны рожденьем",
+          "норны, я знаю, —",
+          "их род не единый:",
+          "одни от асов,",
+          "от альвов иные,",
+          "другие от Двалина»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Сигурд сказал:",
+          "«Фавнир, скажи мне,",
+          "ты мудр, я слышал,",
+          "и многое знаешь:",
+          "как остров зовется,",
+          "где кровь смешают",
+          "асы и Сурт?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Фавнир сказал:",
+          "«Оскопнир — остров,",
+          "богам суждено там",
+          "копьями тешиться;",
+          "Бильрёст рухнет,",
+          "вплавь будут кони",
+          "прочь уносить их."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Шлем-страшило",
+          "носил я всегда,",
+          "на золоте лежа;",
+          "всех сильнее",
+          "себя я считал,",
+          "с кем бы ни встретился»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Сигурд сказал:",
+          "«Шлем-страшило",
+          "не защитит",
+          "в схватке смелых;",
+          "в том убедится",
+          "бившийся часто,",
+          "что есть и сильнейшие»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Фавнир сказал:",
+          "«Яд изрыгал я,",
+          "когда лежал",
+          "на наследстве отцовом»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Сигурд сказал:",
+          "«Змей могучий,",
+          "шипел ты громко",
+          "и храбрым ты был;",
+          "оттого сильнее",
+          "людей ненавидел,",
+          "что шлемом владел ты»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "[Фавнир] сказал:",
+          "«Дам тебе, Сигурд,",
+          "совет, — прими его:",
+          "вспять возвратись ты!",
+          "Золото звонкое,",
+          "клад огнекрасный,",
+          "погубит тебя!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "[Сигурд] сказал:",
+          "«С тобой покончено,",
+          "я ж поспешу",
+          "к золоту в вереске;",
+          "Фавнир, валяйся",
+          "средь жизни обломков, —",
+          "Хель заберет тебя!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "[Фавнир сказал:]",
+          "«Предан я Регином,",
+          "предаст и тебя он,",
+          "погибнем мы оба;",
+          "сдается мне, Фавнир",
+          "с жизнью простится, —",
+          "ты, Сигурд, сильнее»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "III Регина не было, когда Сигурд убивал Фавнира. Он вернулся, когда Сигурд вытирал кровь с меча. Регин сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "«Привет тебе, Сигурд,",
+          "в бою победил ты,",
+          "с Фавниром справясь;",
+          "из всех людей,",
+          "попирающих землю,",
+          "ты самый смелый»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Как указать,",
+          "когда соберутся",
+          "богов сыновья,",
+          "кто самый смелый?",
+          "Многие смелы,",
+          "клинка не омыв",
+          "во вражьей крови»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "[Регин сказал:]",
+          "«Рад ты, Сигурд,",
+          "с Грама кровь",
+          "о траву отирая;",
+          "брат мой родной",
+          "тобою убит,",
+          "в том виновен я тоже»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«Виновен ты в том,",
+          "что сюда я приехал",
+          "по склонам священным;",
+          "богатством и жизнью",
+          "змей бы владел, —",
+          "ты к битве понудил»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "IV Тогда Регин подошел к Фавниру и вырезал у него сердце ме­чом, который называется Ридиль. Затем он стал пить кровь из раны."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "[Регин сказал:]",
+          "«Спать я пойду,",
+          "ты ж подержи",
+          "в пламени сердце!",
+          "Его я потом",
+          "отведать хочу",
+          "с напитком кровавым»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Сигурд [сказал:]",
+          "«Был ты далеко,",
+          "когда обагрял я",
+          "о Фавнира меч;",
+          "силами я",
+          "со змеем померился,",
+          "пока отдыхал ты»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Регин [сказал:]",
+          "«Ты дал бы лежать",
+          "долго в траве",
+          "старику исполину,",
+          "если за острый",
+          "не взялся бы меч, —",
+          "но ведь я его выковал»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "[Сигурд] сказал:",
+          "«Смелость лучше",
+          "силы меча",
+          "в битве героев, —",
+          "доблестный муж",
+          "одержит победу",
+          "мечом ненаточенным."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Смелому лучше,",
+          "чем трусу, придется",
+          "в играх валькирий;",
+          "лучше храбрец,",
+          "чем разиня испуганный,",
+          "что б ни случилось»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "lines": [
+          "V Сигурд взял сердце Фавнира и стал поджаривать его на палочке. Когда он решил, что оно изжарилось, и кровь из сердца запенилась, он дотронулся до него пальцем, чтобы узнать, готово ли оно. Он обжегся и поднес палец ко рту. Но когда кровь из сердца Фавнира попала ему на язык, он стал понимать птичью речь. Он услышал, как щебечут синицы в кустах. Синица сказала:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "«Вот конунг Сигурд,",
+          "обрызганный кровью,",
+          "Фавнира сердце",
+          "хочет поджарить;",
+          "мудрым сочла бы",
+          "дарящего кольца,",
+          "если б он съел",
+          "сердце блестящее»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "[Вторая сказала:]",
+          "«Вот Регин лежит,",
+          "он злое задумал,",
+          "обманет он князя,",
+          "а тот ему верит;",
+          "в гневе слагает",
+          "злые слова,",
+          "за брата отмстит",
+          "злобу кующий»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Третья [сказала:]",
+          "«Тула седого",
+          "пусть обезглавит, —",
+          "в Хель ему место!",
+          "Сокровищем всем,",
+          "что Фавнир стерег,",
+          "один владел бы»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Четвертая [сказала:]",
+          "«Умным сочла бы,",
+          "когда б он послушался",
+          "наших, сестры,",
+          "добрых советов;",
+          "о себе бы радел",
+          "и радовал ворона;",
+          "волка узнаешь",
+          "по волчьим ушам»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "[Пятая сказала:]",
+          "«Не будет мудрым",
+          "ясень сраженья,",
+          "каким я войска",
+          "считала вершину,",
+          "если позволит",
+          "уйти человеку,",
+          "брат которого",
+          "был им убит»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "[Шестая сказала:]",
+          "«Глупо поступит,",
+          "когда пощадит",
+          "низкого недруга;",
+          "Регин лежит здесь,",
+          "предавший его,",
+          "зло он задумал»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "[Седьмая сказала:]",
+          "«Пусть великану",
+          "он голову срубит",
+          "и кольца отнимет;",
+          "тогда завладеет",
+          "золотом всем,",
+          "что у Фавнира было»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "[Сигурд сказал:]",
+          "«У судьбы не возьмет",
+          "Регин той силы,",
+          "что смерть мне сулила б,",
+          "вдвоем должны",
+          "в Хель поспешать",
+          "братья отсюда»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "prose",
+        "lines": [
+          "VI Сигурд отрубил голову Реги­ну. Затем он отведал сердца Фавнира и отпил крови обоих — Регина и Фавнира. Тогда Сигурд услышал, как синицы говорили:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "«Связывай кольца",
+          "красные, Сигурд,",
+          "долго тревожиться",
+          "конунг не должен!",
+          "Знаю, есть дева —",
+          "золотом убрана,",
+          "прекрасна лицом —",
+          "твоей быть могла бы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "К Гьюки ведут",
+          "зеленые тропы,",
+          "страннику путь",
+          "укажет судьба!",
+          "Конунг достойный",
+          "дочь взрастил там,",
+          "Сигурд, за деву",
+          "ты вено заплатишь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Высокий чертог",
+          "на вершине Хиндарфьялль,",
+          "весь опоясан",
+          "снаружи огнем;",
+          "мудрые люди",
+          "его воздвигли",
+          "из пламени вод,",
+          "тьму озарившего."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Знаю — валькирия",
+          "спит на вершине,",
+          "ясеня гибель",
+          "играет над нею;",
+          "усыпил ее Один,",
+          "шипом уколов, —",
+          "не того сгубила,",
+          "кто был ей указан."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Сможешь увидеть",
+          "деву под шлемом;",
+          "вынес из битвы",
+          "Вингскорнир деву;",
+          "не в силах Сигрдрива",
+          "сон побороть,",
+          "конунгов отпрыск, —",
+          "так норна велела»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "prose",
+        "lines": [
+          "VII Сигурд поехал по следу Фавнира в его логово и нашел его открытым, и двери были железными, и дверная рама тоже. Железными бы­ли также все балки в доме, и дом был закопан в землю. Там Сигурд нашел очень много золота и наполнил им два сундука. Там он взял шлем-страшило, золотую кольчугу, меч Хротти и много сокровищ и нагрузил всем этим Грани. Но конь не хотел идти, пока Сигурд не сел на него."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "prose",
+        "lines": [
+          "Sigurth and Regin went up to the Gnitaheith, and found there the track that Fafnir made when he crawled to water. Then Sigurth made a great trench across the path, and took his place therein. When Fafnir crawled from his gold, he blew out venom, and it ran down from above on Sigurth's head. But when Fafnir crawled over the trench, then Sigurth thrust his sword into his body to the heart. Fafnir writhed and struck out with his head and tail. Sigurth leaped from the trench, and each looked at the other. Fafnir said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Youth, oh, youth!",
+          "of whom then, youth, art thou born?",
+          "Say whose son thou art,",
+          "Who in Fafnir's blood",
+          "thy bright blade reddened,",
+          "And struck thy sword to my heart.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "prose",
+        "lines": [
+          "Sigurth concealed his name because it was believed in olden times that the word of a dying man might have great power if he cursed his foe by his name. He said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"The Noble Hart",
+          "my name, and I go",
+          "A motherless man abroad;",
+          "Father I had not,",
+          "as others have,",
+          "And lonely ever I live.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Fafnir spake:",
+          "\"If father thou hadst not,",
+          "as others have,",
+          "By what wonder wast thou born?",
+          "(Though thy name on the day",
+          "of my death thou hidest,",
+          "Thou knowest now thou dost lie.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Sigurth spake:",
+          "\"My race, methinks,",
+          "is unknown to thee,",
+          "And so am I myself;",
+          "Sigurth my name,",
+          "and Sigmund's son,",
+          "Who smote thee thus with the sword.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Fafnir spake:",
+          "\"Who drove thee on?",
+          "why wert thou driven",
+          "My life to make me lose?",
+          "A father brave",
+          "had the bright-eyed youth,",
+          "For bold in boyhood thou art.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Sigurth spake:",
+          "\"My heart did drive me,",
+          "my hand fulfilled,",
+          "And my shining sword so sharp;",
+          "Few are keen",
+          "when old age comes,",
+          "Who timid in boyhood be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Fafnir spake:",
+          "\"If thou mightest grow",
+          "thy friends among,",
+          "One might see thee fiercely fight;",
+          "But bound thou art,",
+          "and in battle taken,",
+          "And to fear are prisoners prone.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Thou blamest me, Fafnir,",
+          "that I see from afar",
+          "The wealth that my father's was;",
+          "Not bound am I,",
+          "though in battle taken,",
+          "Thou hast found that free I live.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Fafnir spake:",
+          "\"In all I say",
+          "dost thou hatred see,",
+          "Yet truth alone do I tell;",
+          "The sounding gold,",
+          "the glow-red wealth,",
+          "And the rings thy bane shall be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Some one the hoard",
+          "shall ever hold,",
+          "Till the destined day shall come;",
+          "For a time there is",
+          "when every man",
+          "Shall journey hence to hell.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Fafnir spake:",
+          "\"The fate of the Norns",
+          "before the headland",
+          "Thou findest, and doom of a fool;",
+          "In the water shalt drown",
+          "if thou row 'gainst the wind,",
+          "All danger is near to death.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Tell me then, Fafnir,",
+          "for wise thou art famed,",
+          "And much thou knowest now:",
+          "Who are the Norns",
+          "who are helpful in need,",
+          "And the babe from the mother bring?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Fafnir spake:",
+          "\"Of many births",
+          "the Norns must be,",
+          "Nor one in race they were;",
+          "Some to gods, others",
+          "to elves are kin,",
+          "And Dvalin's daughters some.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Tell me then, Fafnir,",
+          "for wise thou art famed,",
+          "And much thou knowest now:",
+          "How call they the isle",
+          "where all the gods",
+          "And Surt shall sword-sweat mingle?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Fafnir spake:",
+          "\"Oskopnir is it,",
+          "where all the gods",
+          "Shall seek the play of swords;",
+          "Bilrost breaks",
+          "when they cross the bridge,",
+          "And the steeds shall swim in the flood.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Fafnir spake:",
+          "\"The fear-helm I wore",
+          "to afright mankind,",
+          "While guarding my gold I lay;",
+          "Mightier seemed I",
+          "than any man,",
+          "For a fiercer never I found.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Sigurth spake:",
+          "\"The fear-helm surely",
+          "no man shields",
+          "When he faces a valiant foe;",
+          "Oft one finds,",
+          "when the foe he meets,",
+          "That he is not the bravest of all.,\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Fafnir spake:",
+          "\"Venom I breathed",
+          "when bright I lay",
+          "By the hoard my father had;",
+          "(There was none so mighty",
+          "as dared to meet me,",
+          "And weapons nor wiles I feared.)\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Glittering worm,",
+          "thy hissing was great,",
+          "And hard didst show thy heart;",
+          "But hatred more",
+          "have the sons of men",
+          "For him who owns the helm.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Fafnir spake:",
+          "\"I counsel thee, Sigurth,",
+          "heed my speech,",
+          "And ride thou homeward hence,",
+          "The sounding gold,",
+          "the glow-red wealth,",
+          "And the rings thy bane shall be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Thy counsel is given,",
+          "but go I shall",
+          "To the gold in the heather hidden;",
+          "And, Fafnir, thou",
+          "with death dost fight,",
+          "Lying where Hel shall have thee.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Fafnir spake:",
+          "\"Regin betrayed me,",
+          "and thee will betray,",
+          "Us both to death will he bring;",
+          "His life, methinks,",
+          "must Fafnir lose,",
+          "For the mightier man wast thou.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "Regin had gone to a distance while Sigurth fought Fafnir, and came back while Sigurth was wiping the blood from his sword. Regin said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"Hail to thee, Sigurth!",
+          "Thou victory hast,",
+          "And Fafnir in fight hast slain;",
+          "Of all the men",
+          "who tread the earth,",
+          "Most fearless art thou, methinks.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Unknown it is,",
+          "when all are together,",
+          "(The sons of the glorious gods,)",
+          "Who bravest born shall seem;",
+          "Some are valiant",
+          "who redden no sword",
+          "In the blood of a foeman's breast.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Regin spake:",
+          "\"Glad art thou, Sigurth,",
+          "of battle gained,",
+          "As Gram with grass thou cleansest;",
+          "My brother fierce",
+          "in fight hast slain,",
+          "And somewhat I did myself.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Afar didst thou go",
+          "while Fafnir reddened",
+          "With his blood my blade so keen;",
+          "With the might of the dragon",
+          "my strength I matched,",
+          "While thou in the heather didst hide.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Regin spake:",
+          "\"Longer wouldst thou",
+          "in the heather have let",
+          "Yon hoary giant hide,",
+          "Had the weapon availed not",
+          "that once I forged,",
+          "The keen-edged blade thou didst bear.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Better is heart",
+          "than a mighty blade",
+          "For him who shall fiercely fight;",
+          "The brave man well",
+          "shall fight and win,",
+          "Though dull his blade may be.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "\"Brave men better",
+          "than cowards be,",
+          "When the clash of battle comes;",
+          "And better the glad",
+          "than the gloomy man",
+          "Shall face what before him lies.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "\"Thy rede it was",
+          "that I should ride",
+          "Hither o'er mountains high;",
+          "The glittering worm",
+          "would have wealth and life",
+          "If thou hadst not mocked at my might.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "lines": [
+          "Then Regin went up to Fafnir and cut out his heart with his sword, that was named Rithil, and then he drank blood from the wounds. Regin said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "\"Sit now, Sigurth,",
+          "for sleep will I,",
+          "Hold Fafnir's heart to the fire;",
+          "For all his heart",
+          "shall eaten be,",
+          "Since deep of blood I have drunk.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "prose",
+        "lines": [
+          "Sigurth took Fafnir's heart and cooked it on a spit. When he thought that it was fully cooked, and the blood foamed out of the heart, then he tried it with his finger to see whether it was fully cooked. He burned his finger, and put it in his mouth. But when Fafnir's heart's-blood came on his tongue, he understood the speech of birds. He heard nut-hatches chattering in the thickets. A nut hatch said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "\"There sits Sigurth,",
+          "sprinkled with blood,",
+          "And Fafnir's heart",
+          "with fire he cooks;",
+          "Wise were the breaker",
+          "of rings, I ween,",
+          "To eat the life-muscles",
+          "all so bright.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "A second spake:",
+          "\"There Regin lies,",
+          "and plans he lays",
+          "The youth to betray",
+          "who trusts him well;",
+          "Lying words",
+          "with wiles will he speak,",
+          "Till his brother the maker",
+          "of mischief avenges.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "A third spake:",
+          "\"Less by a head",
+          "let the chatterer hoary",
+          "Go from here to hell;",
+          "Then all of the wealth",
+          "he alone can wield,",
+          "The gold that Fafnir guarded.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "A fourth spake:",
+          "\"Wise would he seem",
+          "if so he would heed",
+          "The counsel good",
+          "we sisters give;",
+          "Thought he would give,",
+          "and the ravens gladden,",
+          "There is ever a wolf",
+          "where his ears I spy.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "A fifth spake:",
+          "\"Less wise must be",
+          "the tree of battle",
+          "Than to me would seem",
+          "the leader of men,",
+          "If forth he lets",
+          "one brother fare,",
+          "When he of the other",
+          "the slayer is.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "A sixth spake:",
+          "\"Most foolish he seems",
+          "if he shall spare",
+          "His foe, the bane of the folk,",
+          "There Regin lies,",
+          "who hath wronged him so,",
+          "Yet falsehood knows he not.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "A seventh spake:",
+          "\"Let the head from the frost-cold",
+          "giant be hewed,",
+          "And let him of rings be robbed;",
+          "Then all the wealth",
+          "which Fafnir's was",
+          "Shall belong to thee alone.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Sigurth spake:",
+          "\"Not so rich a fate",
+          "shall Regin have",
+          "As the tale of my death to tell;",
+          "For soon the brothers",
+          "both shall die,",
+          "And hence to hell shall go.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "prose",
+        "lines": [
+          "Sigurth hewed off Regin's head, and then he ate Fafnir's heart, and drank the blood of both Regin and Fafnir. Then Sigurth heard what the nut-hatch said:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "\"Bind, Sigurth, the golden",
+          "rings together, Not kingly is it",
+          "aught to fear; I know a maid,",
+          "there is none so fair, Rich in gold,",
+          "if thou mightest get her.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "\"Green the paths",
+          "that to Gjuki lead,",
+          "And his fate the way",
+          "to the wanderer shows;",
+          "The doughty king",
+          "a daughter has,",
+          "That thou as a bride",
+          "mayst, Sigurth, buy.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Another spake:",
+          "\"A hall stands high",
+          "on Hindarfjoll,",
+          "All with flame",
+          "is it ringed without;",
+          "Warriors wise",
+          "did make it once",
+          "Out of the flaming",
+          "light of the flood.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "\"On the mountain sleeps",
+          "a battle-maid,",
+          "And about her plays",
+          "the bane of the wood;",
+          "Ygg with the thorn",
+          "hath smitten her thus,",
+          "For she felled the fighter",
+          "he fain would save.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "\"There mayst thou behold",
+          "the maiden helmed,",
+          "Who forth on Vingskornir",
+          "rode from the fight;",
+          "The victory-bringer",
+          "her sleep shall break not,",
+          "Thou heroes' son,",
+          "so the Norns have set.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "prose",
+        "lines": [
+          "Sigurth rode along Fafnir's trail to his lair, and found it open. The gate-posts were of iron, and the gates; of iron, too, were all the beams in the house, which was dug down into the earth. There Sigurth found a mighty store of gold, and he filled two chests full thereof; he took the fear-helm and a golden mail-coat and the sword Hrotti, and many other precious things, and loaded Grani with them, but the horse would not go forward until Sigurth mounted on his back."
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

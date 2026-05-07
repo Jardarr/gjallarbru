@@ -1,0 +1,366 @@
+{
+  "category": "runakvidur",
+  "slug": "runakvaedi",
+  "key": "Runakvaedi",
+  "title": {
+    "on": "Runakvædi",
+    "ru": "Рунопеснь",
+    "en": "Rune Song"
+  },
+  "subtitle": {
+    "ru": "Норвежская руническая поэма",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "Оригинал рукописи сгорел в копенгагенском пожаре 1728 г. Самое раннее воспроизведение текста поэмы: O. Worm. Danica Literatura antiquissima, 1636, p. 105; Aug. 2nd. 1651, p. 95.",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древненорвежский текст: Die Runeschrift, Ludv. F. A. Wimmer, (aus dem Dänischen übersetzt von Dr. F. Holthausen) Berlin, 1887. Перевод: Н. Топчий.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "ᚠ (fé) vældr frænda róge;",
+          "fóðesk ulfr í skóge."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "ᚢ (úr) er af illu jarne;",
+          "opt løypr ræinn á hjarne."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "ᚦ (Þurs) vældr kvinna kvillu;",
+          "kátr værðr fár af illu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "ᚮ (óss) er flæstra færða",
+          "för; en skalpr er sværða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "ᚱ (ræið) kvæða rossom væsta;",
+          "Reginn sló sværðet bæzta."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "ᚴ (kaun) er barna bölvan;",
+          "böl gørver mánn fölvan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "ᚼ (hagall) er kaldastr korna;",
+          "Kristr skóp hæimenn forna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "ᚿ (nauðr) gerer næppa koste;",
+          "nøktan kælr í froste."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "ᛁ (ís) köllum brú bræiða;",
+          "blindan þarf at læiða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "ᛆ (ár) er gumna góðe;",
+          "get ek at örr var Fróðe."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "ᛍ (sól) er landa ljóme;",
+          "lúti ek helgum dóme."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "ᛐ (Týr) er æinendr ása;",
+          "opt værðr smiðr at blása."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "ᛒ (bjarkan) er lavgrønstr líma;",
+          "Loki bar flærðar tíma."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "ᛘ (maðr) er moldar auki;",
+          "mikil er græip á hauki."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "ᛚ (lögr) er, er fællr ór fjalle",
+          "foss; en gull ero nosser."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "ᛦ (ýr) er vetrgrønstr víða;",
+          "vant er, er brennr, at svíða."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Богатство вызывает раздор родичей;",
+          "волк кормится в лесу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Шлак — от плохого железа;",
+          "часто северный олень c бежит по насту."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Турс причиняет женщинам муки;",
+          "веселыми делает немногих несчастье."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Устье реки — большинства",
+          "путешествий путь;",
+          "как ножны мечу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Верховая езда, говорят,",
+          "лошадей измучивает;",
+          "Регинн e сковал меч наилучший."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Язва — детская погибель;",
+          "беда делает людей бледными."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Град — холоднейшее зерно;",
+          "Христос создал мир издревле."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Нужда создает гнетущее положение;",
+          "нагому холодно в мороз."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Лед зовется широким мостом;",
+          "слепой нуждается в ведении за руку."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Урожайный год — людей благо;",
+          "полагаю я, что щедрым был Фроди."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Солнце — земли сиянье;",
+          "я склоняюсь перед",
+          "священным приговором."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Тюр — однорукий ас;",
+          "часто приходится кузнецу поддувать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Берёза — ветвь с самыми",
+          "зелёными листьями;",
+          "Локи приносит лжи удачу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Человек — праха приплод;",
+          "велик коготь у ястреба."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Влага — то, что падает",
+          "из горного водопада;",
+          "как золото есть сокровище."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Тис — самое зимой зелёное дерево;",
+          "обычно пламенеет, сгорая."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

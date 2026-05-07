@@ -1,0 +1,2552 @@
+{
+  "category": "ljodaedda-godakvaedi",
+  "slug": "hyndluljod",
+  "key": "Hyndluljod",
+  "title": {
+    "on": "Hyndluljóð",
+    "ru": "Песнь о Хюндле",
+    "en": "The Lay of Hyndla"
+  },
+  "subtitle": {
+    "on": "ok Völuspá in skamma",
+    "ru": "и краткое прорицание вёльвы",
+    "en": "and a brief prophecy of the völva"
+  },
+  "description": {
+    "on": "",
+    "ru": "Древнеисландский текст приведён в соответствие с рукописью GKS 1005 fol по изданию Flateyjarbok. I. Christiania. 1860. Pp. 11–16.",
+    "en": "The Old Icelandic text has been brought into line with the manuscript GKS 1005 fol according to the edition of Flateyjarbok. I. Christiania. 1860. Pp. 11–16."
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст, ред. Guðni Jónsson, Eddukvæði (Sæmundar-Edda). 2 vols. 1949–54. Текст на русском языке в переводе А. И. Корсуна, СЭ–1963, с. 164–169.",
+    "en": "An ancient Icelandic text, edited by Guðni Jónsson. Translation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Hér hefr upp Hyndlu hljóð kveðit um Óttar heimska"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "[Freyja kvað:]",
+          "«Vaki mær meyja,",
+          "vaki mín vina,",
+          "Hyndla systir,",
+          "er í helli býr;",
+          "nú er rökkr rökkra,",
+          "ríða vit skulum",
+          "til Valhallar",
+          "ok til vés heilags."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Biðjum Herjaföðr",
+          "í hugum sitja,",
+          "hann geldr ok gefr",
+          "gull verðungu;",
+          "gaf hann Hermóði",
+          "hjalm ok brynju,",
+          "en Sigmundi",
+          "sverð at þiggja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Gefr hann sigr sumum,",
+          "en sumum aura,",
+          "mælsku mörgum",
+          "ok mannvit firum;",
+          "byri gefr hann brögnum,",
+          "en brag skaldum,",
+          "gefr hann mannsemi",
+          "mörgum rekki."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Þórr mun hon blóta,",
+          "þess mun hon biðja,",
+          "at hann æ við þik",
+          "einart láti;",
+          "þó er hánum ótítt",
+          "við jötuns brúðir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Nú taktu ulf þinn",
+          "einn af stalli,",
+          "lát hann renna",
+          "með runa mínum.»",
+          "[Hyndla kvað:]",
+          "«Seinn er göltr þinn",
+          "goðveg troða,",
+          "vilk-at ek mar minn",
+          "mætan hlæða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Flá ertu, Freyja,",
+          "er þú freistar mín,",
+          "vísar þú augum",
+          "á oss þannig,",
+          "er þú hefir ver þinn",
+          "í valsinni",
+          "Óttar unga",
+          "Innsteins bur.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Freyja kvað:]",
+          "«Dulin ertu, Hyndla,",
+          "draums ætlak þér,",
+          "er þú kveðr ver minn",
+          "í valsinni,",
+          "þar er göltr glóar",
+          "Gullinbursti,",
+          "Hildisvíni,",
+          "er mér hagir gerðu,",
+          "dvergar tveir,",
+          "Dáinn ok Nabbi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Senn vit ór söðlum",
+          "sitja vit skulum",
+          "ok um jöfra",
+          "ættir dæma,",
+          "gumna þeira,",
+          "er frá goðum kvámu.",
+          "Þeir hafa veðjat",
+          "Vala malmi",
+          "Óttarr ungi",
+          "ok Angantýr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Skylt er at veita,",
+          "svá at skati inn ungi",
+          "föðurleifð hafi",
+          "eftir frændr sína.",
+          "Hörg hann mér gerði",
+          "hlaðinn steinum,",
+          "— nú er grjót þat",
+          "at gleri orðit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Rauð hann í nýju",
+          "nauta blóði;",
+          "æ trúði Óttarr",
+          "á ásynjur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Nú láttu forna",
+          "niðja talða",
+          "ok upp bornar",
+          "ættir manna:",
+          "Hvat ek ‖ Skjöldunga,",
+          "hvat ek Skilfinga,",
+          "hvat er Öðlinga,",
+          "hvat er Ylfinga,",
+          "hvat er höldborit,",
+          "hvat er hersborit",
+          "mest manna val",
+          "und Miðgarði?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "[Hyndla kvað:]",
+          "«Þú ert, Óttarr,",
+          "borinn Innsteini,",
+          "en Innsteinn var",
+          "Alfi inum gamla,",
+          "Alfr var Ulfi,",
+          "Ulfr Sæfara,",
+          "en Sæfari",
+          "Svan inum rauða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Móður átti faðir þinn",
+          "menjum göfga,",
+          "hygg ek, at hon héti",
+          "Hlédís gyðja;",
+          "Fróði var faðir þeirar,",
+          "en Fríund móðir;",
+          "öll þótti ætt sú",
+          "með yfirmönnum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Áli var áðr",
+          "öflgastr manna,",
+          "Halfdan fyrri",
+          "hæstr Skjöldunga;",
+          "fræg váru folkvíg,",
+          "þau er framir gerðu,",
+          "hvarfla þóttu hans verk",
+          "með himins skautum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Eflðisk hann við Eymund",
+          "æðstan manna,",
+          "en hann vá Sigtrygg",
+          "með svölum eggjum,",
+          "eiga gekk Almveig,",
+          "æðsta kvinna,",
+          "ólu þau ok áttu",
+          "átján sonu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Þaðan eru Skjöldungar,",
+          "þaðan Skilfingar,",
+          "þaðan Öðlingar,",
+          "þaðan Ynglingar,",
+          "þaðan höldborit,",
+          "þaðan hersborit,",
+          "mest manna val",
+          "und Miðgarði;",
+          "allt er þat ætt þín,",
+          "Óttarr heimski."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Var Hildigunnr",
+          "hennar móðir,",
+          "Sváfu barn",
+          "ok sækonungs;",
+          "allt er þat ætt þín,",
+          "Óttarr heimski.",
+          "Varðar, at viti svá.",
+          "Viltu enn lengra?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Dagr átti Þóru",
+          "drengja móður,",
+          "ólusk í ætt þar",
+          "æðstir kappar:",
+          "Fraðmarr ok Gyrðr",
+          "ok Frekar báðir,",
+          "Ámr ok Jösurmarr,",
+          "Alfr inn gamli.",
+          "Varðar, at viti svá.",
+          "Viltu enn lengra?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Ketill hét vinr þeira,",
+          "Klypps arfþegi,",
+          "var hann móðurfaðir",
+          "móður þinnar;",
+          "þar var Fróði",
+          "fyrr en Kári,",
+          "inn eldri var",
+          "Alfr of getinn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Nanna var næst þar",
+          "Nökkva dóttir,",
+          "var mögr hennar",
+          "mágr þíns föður;",
+          "fyrnð er sú mægð,",
+          "fram tel ek lengra;",
+          "kunna ek báða",
+          "Brodd ok Hörvi;",
+          "allt er þat ætt þín,",
+          "Óttarr heimski."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Ísolfr ok Ásolfr",
+          "Ölmóðs synir",
+          "ok Skúrhildar",
+          "Skekkils dóttur;",
+          "skaltu til telja",
+          "skatna margra;",
+          "allt er þat ætt þín,",
+          "Óttarr heimski."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Gunnarr balkr,",
+          "Grímr arðskafi,",
+          "járnskjöldr Þórir,",
+          "Ulfr gínandi.",
+          "Búi ok Brámi,",
+          "Barri ok Reifnir,",
+          "Tindr ok Tyrfingr,",
+          "ok tveir Haddingjar;",
+          "allt er þat ætt þín,",
+          "Óttarr heimski."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Ani ok Omi",
+          "váru bornir",
+          "Arngríms synir",
+          "ok Eyfuru,",
+          "brökun var berserkja,",
+          "böl margs konar,",
+          "um lönd ok um lög",
+          "sem logi færi;",
+          "allt er þat ætt þín,",
+          "Óttarr heimski."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Kunnak báða",
+          "Brodd ok Hörvi;",
+          "váru þeir í hirð",
+          "Hrolfs ins gamla.",
+          "Allir bornir",
+          "frá Jörmunreki,",
+          "Sigurðar mági,",
+          "— hlýð þú sögu minni, —",
+          "folkum grimms,",
+          "þess er Fáfni vá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Sá var vísir",
+          "frá Völsungi",
+          "ok Hjördís",
+          "frá Hrauðungi,",
+          "en Fylimi",
+          "frá Öðlingum;",
+          "allt er þat ætt þín,",
+          "Óttarr heimski."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Gunnarr ok Högni,",
+          "Gjúka arfar,",
+          "ok it sama Guðrún,",
+          "systir þeira;",
+          "eigi var Gutþormr",
+          "Gjúka ættar,",
+          "þó var hann bróðir",
+          "beggja þeira;",
+          "allt er þat ætt þín,",
+          "Óttarr heimski."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Haraldr hilditönn",
+          "borinn Hræreki",
+          "slöngvanbauga,",
+          "sonr var hann Auðar,",
+          "Auðr djúpúðga",
+          "Ívars dóttir,",
+          "en Ráðbarðr var",
+          "Randvers faðir;",
+          "þeir váru gumnar",
+          "goðum signaðir;",
+          "allt er þat ætt þín,",
+          "Óttarr heimski."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "31",
+        "type": "heading",
+        "lines": [
+          "[Völuspá in skamma]"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "(1) Váru ellifu",
+          "æsir talðir,",
+          "Baldr er hné,",
+          "við banaþúfu;",
+          "þess lézk Váli",
+          "verðr at hefna,",
+          "síns of bróður",
+          "sló hann handbana;",
+          "allt er þat ætt þín,",
+          "Óttarr heimski."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "(2) Var Baldrs faðir",
+          "Burs arfþegi,",
+          "Freyr átti Gerði,",
+          "hon var Gymis dóttir,",
+          "jötna ættar,",
+          "ok Aurboðu;",
+          "þó var Þjazi,",
+          "þeira frændi,",
+          "skrautgjarn jötunn,",
+          "hans var Skaði dóttir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "(3) Margt segjum þér",
+          "ok munum fleira;",
+          "vörumk, at viti svá.",
+          "Viltu enn fleira?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "(4) Haki var Hveðnu",
+          "hóti beztr sona,",
+          "en Hveðnu var",
+          "Hjörvarðr faðir;",
+          "Heiðr ok Hrossþjófr",
+          "Hrímnis kindar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "(5) Eru völur allar",
+          "frá Viðolfi,",
+          "vitkar allir",
+          "frá Vilmeiði,",
+          "seiðberendr",
+          "frá Svarthöfða,",
+          "jötnar allir",
+          "frá Ymi komnir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "(6) Margt segjum þér",
+          "ok munum fleira;",
+          "vörumk, at viti svá.",
+          "Viltu enn lengra?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "(7) Varð einn borin",
+          "í árdaga",
+          "rammaukinn mjök",
+          "rögna kindar;",
+          "níu báru þann",
+          "naddgöfgan mann",
+          "jötna meyjar",
+          "við jarðar þröm."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "(8) Margt segjum þér",
+          "ok munum fleira;",
+          "vörumk, at viti svá.",
+          "Viltu enn lengra?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "(9) Hann Gjalp of bar,",
+          "hann Greip of bar,",
+          "bar hann Eistla",
+          "ok Eyrgjafa,",
+          "hann bar Ulfrún",
+          "ok Angeyja,",
+          "Imdr ok Atla",
+          "ok Járnsaxa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "(10) Sá var aukinn",
+          "jarðar megni,",
+          "svalköldum sæ",
+          "ok sónardreyra."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "(11) Margt segjum þér",
+          "ok munum fleira;",
+          "vörumk, at viti svá.",
+          "Viltu enn lengra?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "(12) Ól ulf Loki",
+          "við Angrboðu,",
+          "en Sleipni gat",
+          "við Svaðilfara;",
+          "eitt þótti skass",
+          "allra feiknast,",
+          "þat var bróður frá",
+          "Býleists komit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "(13) Loki át hjarta",
+          "lindi brenndu,",
+          "fann hann halfsviðinn",
+          "hugstein kónu;",
+          "varð Loftr kviðugr",
+          "af konu illri;",
+          "þaðan er á foldu",
+          "flagð hvert komit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "(14) Haf gengr hríðum",
+          "við himin sjalfan,",
+          "líðr lönd yfir,",
+          "en loft bilar;",
+          "þaðan koma snjóvar",
+          "ok snarir vindar;",
+          "þá er í ráði,",
+          "at rögn of þrjóti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "(15) Varð einn borinn",
+          "öllum meiri,",
+          "sá var aukinn",
+          "jarðar megni;",
+          "þann kveða stilli",
+          "stórúðgastan",
+          "sif sifjaðan",
+          "sjötum görvöllum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "(16) Þá kemr annarr",
+          "enn máttkari,",
+          "þó þori ek eigi",
+          "þann at nefna;",
+          "fáir séa nú",
+          "fram of lengra",
+          "en Óðinn mun",
+          "ulfi mæta»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "[Freyja kvað:]",
+          "«Ber þú minnisöl",
+          "mínum gesti,",
+          "svá hann öll muni",
+          "orð at tína",
+          "þessar ræðu",
+          "á þriðja morgni,",
+          "þá er þeir Angantýr",
+          "ættir rekja.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "[Hyndla kvað:]",
+          "«Snúðu braut heðan,",
+          "sofa lystir mik,",
+          "fær þú fátt af mér",
+          "fríðra kosta;",
+          "hleypr þú, eðlvina,",
+          "úti á náttum,",
+          "sem með höfrum",
+          "Heiðrún fari."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Rannt at æði",
+          "ey þreyjandi,",
+          "skutusk þér fleiri",
+          "und fyrirskyrtu;",
+          "hleypr þú, eðlvina,",
+          "úti á náttum,",
+          "sem með höfrum",
+          "Heiðrún fari."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Ek slæ eldi",
+          "af íviðju,",
+          "svá at þú eigi kemsk",
+          "á braut heðan.",
+          "Hleypr þú, eðlvina,",
+          "úti á náttum,",
+          "sem með höfrum",
+          "Heiðrún fari."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Hyr sé ek brenna,",
+          "en hauðr loga,",
+          "verða flestir",
+          "fjörlausn þola;",
+          "ber þú Óttari",
+          "bjór at hendi",
+          "eitri blandinn mjök,",
+          "illu heilli.",
+          "Hleypr þú, eðlvina,",
+          "úti á náttum,",
+          "sem með höfrum",
+          "Heiðrún fari."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "[Freyja kvað:]",
+          "«Orðheill þín",
+          "skal engu ráða,",
+          "þóttú, brúðr jötuns,",
+          "bölvi heitir;",
+          "hann skal drekka",
+          "dýrar veigar;",
+          "bið ek Óttari",
+          "öll goð duga.»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Далее Хюндлы внимает речам Оттар неразумный"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "[Фрейя сказала:]",
+          "«Проснись, дева дев!",
+          "Пробудись, подруга,",
+          "Хюндла, сестра,",
+          "в пещере живущая!",
+          "Ночь непроглядна,",
+          "настало нам время",
+          "в Вальхаллу ехать,",
+          "в чертоги священные!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Ратей Отца",
+          "попросим о милости!",
+          "Золото воинам",
+          "он раздает;",
+          "шлем дал он Хермоду,",
+          "дал и кольчугу,",
+          "Сигмунду меч",
+          "разящий вручил он."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Победу одним,",
+          "другим же богатство,",
+          "иным красноречье",
+          "и разум дает он;",
+          "ветер пловцам,",
+          "песнопения скальдам",
+          "и мужество в битвах",
+          "воинам многим."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Жертвы для Тора",
+          "я приготовлю,",
+          "чтоб милость свою",
+          "он тебе даровал,",
+          "хоть он не жалует",
+          "ётунов жен."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Волка скорее",
+          "Из стойла выведи,",
+          "пусть он поскачет",
+          "с вепрем моим!»",
+          "[Хюндла сказала:]",
+          "«Плох твой кабан",
+          "для дороги богов;",
+          "и коня моего",
+          "неохота мне мучить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Ты, хитрая Фрейя,",
+          "меня испытуешь:",
+          "взоры твои",
+          "о помощи просят,",
+          "ведь милый твой здесь,",
+          "на дороге мертвых,",
+          "юноша Оттар",
+          "Иннстейна сын»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "[Фрейя сказала:]",
+          "«Ошиблась ты, Хюндла,",
+          "грезишь во сне ты,",
+          "милого нет",
+          "на дороге мертвых,",
+          "то вепрь сияет",
+          "щетиной из золота,",
+          "вепрь Хильдисвини,",
+          "его мне когда-то",
+          "дверги сделали",
+          "Даин и Набби."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "С седел сойдем!",
+          "Сядем с тобой,",
+          "о княжьих родах",
+          "начнем говорить,",
+          "о героях, чей род",
+          "от богов ведется!",
+          "Ангантюр спорит",
+          "с юношей Оттаром, —",
+          "вальский металл",
+          "им служит закладом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Помочь я хочу",
+          "юному воину",
+          "наследье добыть,",
+          "что оставили родичи.",
+          "Алтарь для меня",
+          "из камня сложил он,",
+          "и камень в стекло",
+          "переплавлен теперь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Обагрял он алтарь",
+          "жертвенной кровью:",
+          "в асиний верил",
+          "Оттар всегда.",
+          "кто херсира сын,",
+          "кто из людей",
+          "в Мидгарде лучший?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "О родичах древних",
+          "ты расскажи мне",
+          "и родословья",
+          "ты перечисли!",
+          "Кто родом Скьёльдунг,",
+          "кто родом Скильвинг,",
+          "кто родом Аудлинг,",
+          "кто родом Ильвинг,",
+          "кто родом хёльд,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "[Хюндла сказала:]",
+          "«Ты, юный Оттар,",
+          "Иннстейна сын,",
+          "Иннстейн был сыном",
+          "старого Альва,",
+          "Альв — сыном Ульва,",
+          "Ульв — сыном Сефари,",
+          "Сефари был",
+          "сын Свана Рыжего."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Мать у отца",
+          "была твоего",
+          "Хледис жрица",
+          "в уборах из золота;",
+          "был Фроди отцом ей,",
+          "а матерью Фриунд;",
+          "род этот был",
+          "родом героев."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Был некогда Али",
+          "самым могучим,",
+          "Хальвдан до этого",
+          "лучший был Скьёльдунг;",
+          "победные войны",
+          "вел он, воитель,",
+          "до края небес",
+          "неслась его слава."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "В родство он вступил",
+          "с Эймундом смелым,",
+          "холодным мечом",
+          "поразил он Сигтрюгга,",
+          "женился на Альмвейг,",
+          "лучшей из женщин,",
+          "у них родилось",
+          "восемнадцать сынов."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Отсюда род Скьёльдунгов,",
+          "отсюда и Скильвинги,",
+          "отсюда и Аудлинги,",
+          "отсюда и Ильвинги,",
+          "хёльды отсюда,",
+          "отсюда и херсиры,",
+          "в Мидгарде люди",
+          "самые лучшие, —",
+          "все это — твой род,",
+          "неразумный Оттар!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Хильдигунн матерью",
+          "Фриун была,",
+          "дочь Свавы прекрасной",
+          "и конунга моря:",
+          "все это — твой род,",
+          "неразумный Оттар!",
+          "Должен ты знать это;",
+          "будешь ли слушать?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Даг в жены взял Тору,",
+          "героев родившую;",
+          "то были воины",
+          "лучшие в мире:",
+          "Фрадмар и Гюрд",
+          "и оба Фреки,",
+          "Ёсурмар, Ам",
+          "и с ними Альв Старый;",
+          "должен ты знать это;",
+          "будешь ли слушать?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Друг их был Кетиль,",
+          "Клюпа наследник,",
+          "дедом твоей",
+          "матери был он;",
+          "Фроди родился",
+          "раньше, чем Кари,",
+          "был из них старшим",
+          "Альв по рожденью."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Еще назову я",
+          "Нанну, дочь Нёккви;",
+          "сын ее — шурин",
+          "отцу твоему;",
+          "родство то забыто,",
+          "о нем расскажу;",
+          "я знала обоих —",
+          "Бродда и Хёрви;",
+          "все это — твой род,",
+          "неразумный Оттар!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Исольв и Асольв,",
+          "Эльмода дети,",
+          "и Скурхильд,",
+          "дочери Скеккиля;",
+          "ты их причисли",
+          "ко многим героям;",
+          "все это — твой род,",
+          "неразумный Оттар!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Гуннар Стена",
+          "и Грим Закаленный,",
+          "Ульв Жадный Зев,",
+          "Щитоносец Торир,",
+          "Буи и Брами,",
+          "Барри и Рейвнир,",
+          "Тинд и Тюрвинг",
+          "и Хаддингов двое;",
+          "все это — твой род,",
+          "неразумный Оттар!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Ани и Оми",
+          "потом родились,",
+          "дети от брака",
+          "Арнгрима с Эйфурой, —",
+          "берсерков буря,",
+          "великие беды",
+          "шли как пожар",
+          "по земле и по морю;",
+          "все это — твой род,",
+          "неразумный Оттар!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Я знала обоих —",
+          "Бродда и Хёрви,",
+          "дружинников смелых",
+          "Старого Хрольва,",
+          "Ёрмунрекк им",
+          "обоим отец,",
+          "родич он Сигурда, —",
+          "слушай рассказ мой! —",
+          "славного мужа,",
+          "сразившего Фавнира."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "От Вёльсунга род свой",
+          "вождь этот вел,",
+          "а Хьёрдис была",
+          "из Храудунга рода,",
+          "Эйлими родом",
+          "из Аудлингов дома;",
+          "все это — твой род,",
+          "неразумный Оттар!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Гуннар и Хёгни,",
+          "наследники Гьюки,",
+          "а Гудрун сестрою",
+          "была им обоим;",
+          "Готторм — тот не был",
+          "отпрыском Гьюки,",
+          "но все же он брат",
+          "Хёгни и Гуннара;",
+          "все это — твой род,",
+          "неразумный Оттар!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Харальд Клык Битвы,",
+          "Хрёрека сын,",
+          "Колец Расточителя,",
+          "сыном был Ауд,",
+          "Ауд Премудрая —",
+          "Ивара дочь,",
+          "а Радбарда сын",
+          "Рандвером звался,",
+          "мужи эти — жертва,",
+          "богам принесенная;",
+          "все это — твой род,",
+          "неразумный Оттар!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "31",
+        "type": "heading",
+        "lines": [
+          "[Краткое прорицание вёльвы]"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "(1) В живых оставалось",
+          "одиннадцать асов,",
+          "когда Бальдр пал",
+          "у смерти бугра;",
+          "обещал тогда Вали",
+          "за брата отмстить,",
+          "и поразил он",
+          "брата убийцу;",
+          "все это — твой род,",
+          "неразумный Оттар!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "(2) Бальдра отец",
+          "был наследником Бура,",
+          "Фрейр в жены взял Герд,",
+          "Гюмира дочь,",
+          "ётуна родом,",
+          "жена его Аурбода;",
+          "Тьяци их родич,",
+          "к сокровищам жадный,",
+          "дочерью Тьяци",
+          "Скади была."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "(3) Я много сказала,",
+          "но больше скажу, —",
+          "ты знать это должен;",
+          "будешь ли слушать?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "(4) Хаки был сыном",
+          "достойнейшим Хведны,",
+          "а Хведны отец",
+          "Хьёрвардом звался,",
+          "Хейд и Хросстьов —",
+          "потомки Хримнира."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "(5) От Видольва род свой",
+          "все вёльвы ведут,",
+          "от Вильмейда род",
+          "ведут все провидцы,",
+          "а все чародеи —",
+          "от Черной Главы,",
+          "а ётунов племя —",
+          "от Имира корня."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "(6) Я много сказала,",
+          "но больше скажу, —",
+          "ты знать это должен;",
+          "будешь ли слушать?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "(7) В давние годы",
+          "родился однажды",
+          "могучий герой",
+          "из рода богов;",
+          "дочери ётунов —",
+          "девять их было —",
+          "родили его",
+          "у края земли."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "(8) Я много сказала,",
+          "но больше скажу, —",
+          "ты знать это должен;",
+          "будешь ли слушать?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "(9) Родила его Гьяльп,",
+          "родила его Грейп,",
+          "родила его Эйстла,",
+          "родила его Эйргьява,",
+          "родила его Ангейя,",
+          "Атла и Ульврун,",
+          "Имд и Ярнсакса",
+          "героя родили."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "(10) Взял силу земли он,",
+          "студеного моря",
+          "и силу кабаньей",
+          "жертвенной крови."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "(11) Я много сказала,",
+          "но больше скажу, —",
+          "ты знать это должен;",
+          "будешь ли слушать?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "(12) От Ангрбоды Локи",
+          "Волка родил,",
+          "а Слейпнир — сын Локи",
+          "от Свадильфари;",
+          "еще одно чудище,",
+          "самое злое,",
+          "на свет рождено",
+          "Бюлейста братом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "(13) Найдя на костре",
+          "полусгоревшее",
+          "женщины сердце,",
+          "съел его Локи;",
+          "так Лофт зачал",
+          "от женщины злой;",
+          "отсюда пошли",
+          "все ведьмы на свете."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "(14) Ветер вздымает",
+          "до неба валы,",
+          "на сушу бросает их,",
+          "небо темнеет;",
+          "мчится буран,",
+          "и бесятся вихри;",
+          "это предвестья",
+          "кончины богов."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "(15) Родился один",
+          "самый могучий,",
+          "силы земли",
+          "питали его;",
+          "самый, как слышно,",
+          "великий властитель,",
+          "родич для всех",
+          "людей на земле."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "(16) Но будет еще",
+          "сильнейший из всех,",
+          "имя его",
+          "назвать я не смею;",
+          "мало кто ведает,",
+          "что совершится",
+          "следом за битвой",
+          "Одина с Волком»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "[Фрейя сказала:]",
+          "«Памяти пива",
+          "дай выпить вепрю,",
+          "чтоб каждое слово",
+          "вепрь мой помнил,",
+          "когда исчислять",
+          "наследники будут",
+          "родичей всех",
+          "на третье утро»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "[Хюндла сказала:]",
+          "«Прочь уходи!",
+          "Спать я хочу;",
+          "доброго слова",
+          "ты не услышишь;",
+          "ты по ночам,",
+          "распутная, бегаешь,",
+          "как Хейдрун с козлами",
+          "бегать умеет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "В исступленьи носилась,",
+          "желаньем томясь,",
+          "и другие к тебе",
+          "под подол забирались;",
+          "ты по ночам,",
+          "распутная, бегаешь,",
+          "как Хейдрун с козлами",
+          "бегать умеет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Пламя извергну",
+          "я великанское,",
+          "отсюда тебе",
+          "ни за что не уйти!",
+          "Ты по ночам,",
+          "распутная, бегаешь,",
+          "как Хейдрун с козлами",
+          "бегать умеет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Я вижу огонь,",
+          "запылала земля;",
+          "откупиться от смерти",
+          "каждый хотел бы;",
+          "Оттару пиво",
+          "ты поднеси, —",
+          "будет в нем яд",
+          "растворен смертельный!",
+          "Ты по ночам,",
+          "распутная, бегаешь,",
+          "как Хейдрун с козлами",
+          "бегать умеет.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "[Фрейя сказала:]",
+          "«Не вызовет зла",
+          "заклятье твое,",
+          "хоть ты, исполинша,",
+          "злом угрожаешь:",
+          "пусть испивает",
+          "напиток чудесный,",
+          "прошу у богов я",
+          "помощи Оттару!»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Freyja spake:",
+          "\"Maiden, awake!",
+          "wake thee, my friend,",
+          "My sister Hyndla,",
+          "in thy hollow cave!",
+          "Already comes darkness,",
+          "and ride must we",
+          "To Valhall to seek",
+          "the sacred hall.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"The favor of Heerfather",
+          "seek we to find,",
+          "To his followers gold",
+          "he gladly gives;",
+          "To Hermoth gave he",
+          "helm and mail-coat,",
+          "And to Sigmund he gave",
+          "a sword as gift.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Triumph to some,",
+          "and treasure to others,",
+          "To many wisdom",
+          "and skill in words,",
+          "Fair winds to the sailor,",
+          "to the singer his art,",
+          "And a manly heart",
+          "to many a hero.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Thor shall I honor,",
+          "and this shall I ask,",
+          "That his favor true",
+          "mayst thou ever find;",
+          "*********",
+          "Though little the brides",
+          "of the giants he loves.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"From the stall now",
+          "one of thy wolves lead forth,",
+          "And along with my boar",
+          "shalt thou let him run;",
+          "For slow my boar goes",
+          "on the road of the gods,",
+          "And I would not weary",
+          "my worthy steed.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Hyndla spake:",
+          "\"Falsely thou askest me,",
+          "Freyja, to go,",
+          "For so in the glance",
+          "of thine eyes I see;",
+          "On the way of the slain",
+          "thy lover goes with thee.",
+          "Ottar the young,",
+          "the son of Instein.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Freyja spake:",
+          "\"Wild dreams, methinks,",
+          "are thine when thou sayest",
+          "My lover is with me",
+          "on the way of the slain;",
+          "There shines the boar",
+          "with bristles of gold,",
+          "Hildisvini,",
+          "he who was made",
+          "By Dain and Nabbi,",
+          "the cunning dwarfs.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "\"Now let us down",
+          "from our saddles leap,",
+          "And talk of the race",
+          "of the heroes twain;",
+          "The men who were born",
+          "of the gods above,",
+          "*********\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "\"A wager have made",
+          "in the foreign metal",
+          "Ottar the young",
+          "and Angantyr;",
+          "We must guard, for the hero",
+          "young to have,",
+          "His father's wealth,",
+          "the fruits of his race.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "\"For me a shrine",
+          "of stones he made,",
+          "And now to glass",
+          "the rock has grown;",
+          "Oft with the blood",
+          "of beasts was it red;",
+          "In the goddesses ever",
+          "did Ottar trust.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Freyja spake:",
+          "\"Tell to me now",
+          "the ancient names,",
+          "And the races of all",
+          "that were born of old:",
+          "Who are of the Skjoldungs,",
+          "who of the Skilfings,",
+          "Who of the Othlings,",
+          "who of the Ylfings,",
+          "Who are the free-born,",
+          "who are the high-born,",
+          "The noblest of men",
+          "that in Mithgarth dwell?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Hyndla spake:",
+          "\"Thou art, Ottar,",
+          "the son of Instein,",
+          "And Instein the son",
+          "of Alf the Old,",
+          "Alf of Ulf,",
+          "Ulf of Sæfari,",
+          "And Sæfari's father",
+          "was Svan the Red.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "\"Thy mother, bright",
+          "with bracelets fair,",
+          "Hight, methinks,",
+          "the priestess Hledis;",
+          "Frothi her father,",
+          "and Friaut her mother;",
+          "Her race of the mightiest",
+          "men must seem.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "\"Of old the noblest",
+          "of all was Ali,",
+          "Before him Halfdan,",
+          "foremost of Skjoldungs;",
+          "Famed were the battles",
+          "the hero fought,",
+          "To the corners of heaven",
+          "his deeds were carried.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "\"Strengthened by Eymund,",
+          "the strongest of men,",
+          "Sigtrygg he slew",
+          "with the ice-cold sword;",
+          "His bride was Almveig,",
+          "the best of women,",
+          "And eighteen boys",
+          "did Almveig bear him.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Hyndla spake:",
+          "\"Hence come the Skjoldungs,",
+          "hence the Skilfings,",
+          "Hence the Othlings,",
+          "hence the Ynglings,",
+          "Hence come the free-born,",
+          "hence the high-born,",
+          "The noblest of men",
+          "that in Mithgarth dwell:",
+          "And all are thy kinsmen,",
+          "Ottar, thou fool!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "\"Hildigun then",
+          "her mother hight,",
+          "The daughter of Svava",
+          "and Sækonung;",
+          "And all are thy kinsmen,",
+          "Ottar, thou fool!",
+          "It is much to know,",
+          "wilt thou hear yet more?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "\"The mate of Dag",
+          "was a mother of heroes,",
+          "Thora, who bore him",
+          "the bravest of fighters,",
+          "Frathmar and Gyrth",
+          "and the Frekis twain,",
+          "Am and Jofurmar,",
+          "Alf the Old;",
+          "It is much to know,",
+          "wilt thou hear yet more?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "\"Her husband was Ketil,",
+          "the heir of Klypp,",
+          "He was of thy mother",
+          "the mother's-father;",
+          "Before the days",
+          "of Kari was Frothi,",
+          "And horn of Hild",
+          "was Hoalf then.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "\"Next was Nanna,",
+          "daughter of Nokkvi,",
+          "Thy father's kinsman",
+          "her son became;",
+          "Old is the line,",
+          "and longer still,",
+          "And all are thy kinsmen,",
+          "Ottar, thou fool!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Hyndla spake:",
+          "\"Isolf and Osolf,",
+          "the sons of Olmoth,",
+          "Whose wife was Skurhild,",
+          "the daughter of Skekkil,",
+          "Count them among",
+          "the heroes mighty,",
+          "And all are thy kinsmen,",
+          "Ottar, thou fool!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "\"Gunnar the Bulwark,",
+          "Grim the Hardy,",
+          "Thorir the Iron-shield,",
+          "Ulf the Gaper,",
+          "Brodd and Hörvir",
+          "both did I know;",
+          "In the household they were",
+          "of Hrolf the Old.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "\"Hervarth, Hjorvarth,",
+          "Hrani, Angantyr,",
+          "Bui and Brami,",
+          "Barri and Reifnir,",
+          "Tind and Tyrfing,",
+          "the Haddings twain,",
+          "And all are thy kinsmen,",
+          "Ottar, thou fool!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "\"Eastward in Bolm",
+          "were born of old",
+          "The sons of Arngrim",
+          "and Eyfura;",
+          "With berserk-tumult",
+          "and baleful deed",
+          "Like fire o'er land",
+          "and sea they fared,",
+          "And all are thy kinsmen,",
+          "Ottar, thou fool!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "\"The sons of Jormunrek",
+          "all of yore",
+          "To the gods in death",
+          "were as offerings given;",
+          "He was kinsman of Sigurth,",
+          "hear well what I say,",
+          "The foe of hosts,",
+          "and Fafnir's slayer.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Hyndla spake:",
+          "\"From Volsung's seed",
+          "was the hero sprung,",
+          "And Hjordis was born",
+          "of Hrauthung's race,",
+          "And Eylimi",
+          "from the Othlings came,",
+          "And all are thy kinsmen,",
+          "Ottar, thou fool!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "\"Gunnar and Hogni,",
+          "the heirs of Gjuki,",
+          "And Guthrun as well,",
+          "who their sister was;",
+          "But Gotthorm was not",
+          "of Gjuki's race,",
+          "Although the brother",
+          "of both he was:",
+          "And all are thy kinsmen,",
+          "Ottar, thou fool!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "\"Of Hvethna's sons",
+          "was Haki the best,",
+          "And Hjorvarth the father",
+          "of Hvethna was;",
+          "*********\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "\"Harald Battle-tooth",
+          "of Auth was born,",
+          "Hrörek the Ring-giver",
+          "her husband was;",
+          "Auth the Deep-minded",
+          "was Ivar's daughter,",
+          "But Rathbarth the father",
+          "of Randver was:",
+          "And all are thy kinsmen,",
+          "Ottar, thou fool!\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "heading",
+        "lines": [
+          "[The short seeress prophecy]"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "(1)\"Eleven in number",
+          "the gods were known,",
+          "When Baldr o'er the hill",
+          "of death was bowed;",
+          "And this to avenge",
+          "was Vali swift,",
+          "When his brother's slayer",
+          "soon he slew.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "(2)\"The father of Baldr",
+          "was the heir of Bur,",
+          "Freyr's wife was Gerth,",
+          "the daughter of Gymir,",
+          "Of the giants' brood,",
+          "and Aurbotha bore her;",
+          "To these as well",
+          "was Thjazi kin,",
+          "The dark-loving giant;",
+          "his daughter was Skathi.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "(3)\"Much have I told thee,",
+          "and further will tell;",
+          "There is much that I know;",
+          "wilt thou hear yet more?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "(4)\"Heith and Hrossthjof,",
+          "the children of Hrimnir.",
+          "Of Hvethna's sons",
+          "Haki was best by a bit,",
+          "by Hjorvarth was",
+          "Hvethna's father.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "(5)\"The sybils arose",
+          "from Vitholf's race,",
+          "From Vilmeith all",
+          "the seers are,",
+          "And the workers of charms",
+          "are Svarthofthi's children,",
+          "And from Ymir sprang",
+          "the giants all.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "(6)\"Much have I told thee,",
+          "and further will tell;",
+          "There is much that I know;",
+          "wilt thou hear yet more?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "(7)\"One there was born",
+          "in the bygone days,",
+          "Of the race of the gods,",
+          "and great was his might;",
+          "Nine giant women,",
+          "at the world's edge,",
+          "Once bore the man",
+          "so mighty in arms.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "(8)\"Gjolp there bore him,",
+          "Greip there bore him,",
+          "Eistla bore him,",
+          "and Eyrgjafa,",
+          "Ulfrun bore him,",
+          "and Angeyja,",
+          "Imth and Atla,",
+          "and Jarnsaxa.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "(9)\"Strong was he made",
+          "with the strength of earth,",
+          "With the ice-cold sea,",
+          "and the blood of swine.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "(10)\"Much have I told thee,",
+          "and further will tell;",
+          "There is much that I know;",
+          "wilt thou hear yet more?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "(11)\"The wolf did Loki",
+          "with Angrbotha win,",
+          "And Sleipnir bore he",
+          "to Svathilfari;",
+          "The worst of marvels",
+          "seemed the one",
+          "That sprang from the brother",
+          "of Byleist then.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "(12)\"A heart ate Loki,",
+          "in the embers it lay,",
+          "And half-cooked found he",
+          "the woman's heart;",
+          "With child from the woman",
+          "Lopt soon was,",
+          "And thence among men",
+          "came the monsters all.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "(13)\"The sea, storm-driven,",
+          "seeks heaven itself,",
+          "O'er the earth it flows,",
+          "the air grows sterile;",
+          "Then follow the snows",
+          "and the furious winds,",
+          "For the gods are doomed,",
+          "and the end is death.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "(14)\"One there was born,",
+          "the best of all,",
+          "And strong was he made",
+          "with the strength of earth;",
+          "The proudest is called",
+          "the kinsman of men",
+          "Of the rulers all",
+          "throughout the world.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "(15)\"Then comes another,",
+          "a greater than all,",
+          "Though never I dare",
+          "his name to speak;",
+          "Few are they now",
+          "that farther can see",
+          "Than the moment when Othin",
+          "shall meet the wolf.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Freyja spake:",
+          "\"To my boar now bring",
+          "the memory-beer,",
+          "So that all thy words,",
+          "that well thou hast spoken,",
+          "The third morn hence",
+          "he may hold in mind,",
+          "When their races Ottar",
+          "and Angantyr tell.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Hyndla spake:",
+          "\"Hence shalt thou fare,",
+          "for fain would I sleep,",
+          "From me thou gettest",
+          "few favors good;",
+          "My noble one, out",
+          "in the night thou leapest",
+          "As Heithrun goes",
+          "the goats among\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "\"To Oth didst thou run,",
+          "who loved thee ever,",
+          "And many under",
+          "thy apron have crawled;",
+          "My noble one, out",
+          "in the night thou leapest,",
+          "As Heithrun goes",
+          "the goats among.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Freyja spake:",
+          "\"Around the giantess",
+          "flames shall I raise,",
+          "So that forth unburned",
+          "thou mayst not fare.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Hyndla spake:",
+          "\"Flames I see burning,",
+          "the earth is on fire,",
+          "And each for his life",
+          "the price must lose;",
+          "Bring then to Ottar",
+          "the draught of beer,",
+          "Of venom full",
+          "for an evil fate.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Freyja spake:",
+          "\"Thine evil words",
+          "shall work no ill,",
+          "Though, giantess, bitter",
+          "thy baleful threats;",
+          "A drink full fair",
+          "shall Ottar find,",
+          "If of all the gods",
+          "the favor I get.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

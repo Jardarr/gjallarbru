@@ -1,0 +1,192 @@
+{
+  "category": "diutisk-j-sahsisk",
+  "slug": "gegen-fallsucht",
+  "key": "GegenFallsucht",
+  "title": {
+    "on": "Gegen fallsucht",
+    "ru": "Заклинание против эпилепсии",
+    "en": "Spell against epilepsy"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древний текст: Georg Baesecke: Contra caducum morbum. // Beiträge zur Geschichte der deutschen Sprache und Literatur 62 (1938). S. 456–460. Перевод: Т. В. Топорова. Язык и стиль древнегерманских заговоров. — М.: 2006. С. 135–136.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "P: Contra caducum morbum"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Donerdutigo. dietewigo.",
+          "Do quam des tiufeles sun.",
+          "uf Adames bruggon.",
+          "unde sciteta einen",
+          "stein ce wite.",
+          "Do quam der Adames sun.",
+          "unde sluog des tiufeles sun",
+          "zuo zeinero studon.",
+          "Petrus gesanta. Paulum",
+          "sinen bruoder.",
+          "da zer Aderuna.",
+          "aderon ferbunde.",
+          "Pontum Patum.",
+          "ferstiez er den Satanan.",
+          "Also tuon ih dih unreiner athmo. fon disemo christenen lichamen.",
+          " Also sciero werde buoz disemo christenen lichamen. so sciero so ih mit den handon die erdon beruere."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "heading",
+        "lines": [
+          "M: Pro cadente morbo"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Doner dutiger [p cadente mor]",
+          "diet mahtiger",
+          "stuont uf dess",
+          "adamez prucche",
+          "schitote stein zemo Wite.",
+          "Stuont des adamez zun.",
+          "unt sluoc den tieueles zun.",
+          "zu der studein.",
+          "Sant pet. sante zinen",
+          "pruder paulen",
+          "daz er arome adren ferbunte",
+          "frepunte den paten.",
+          "frigezeden. samath frivvize dih",
+          "unreiner atē.",
+          "fon desemo menesche zo sciero",
+          "zo diu hant wentet zer erden.",
+          "ter cum pater noster."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "heading",
+        "lines": [
+          "M(ünchen)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Donar, Vertrauter,",
+          "des Volkes Kämpfer.",
+          "Gnädiger und",
+          "immerwährender Donar!",
+          "Tosender Donar,",
+          "ewiger Schall!"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "P(aris)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Донер, милостивый,",
+          "вечный для народа!",
+          "Тогда пришел сын дьявола",
+          "на Адамов мост",
+          "и расколол камень в щепу.",
+          "Тогда пришел сын Адама",
+          "и убил сына дьявола в лесу.",
+          "Петр послал Павла,",
+          "своего брата,",
+          "чтобы он соединил",
+          "жилы Адеруне.",
+          "На широком мосту",
+          "он оттолкнул сатану.",
+          "Так же я поступлю с тобой, нечистая сила, в этом христианском теле.",
+          "Так же быстро пусть излечится это христианское тело, как только я коснусь руками земли."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "5",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

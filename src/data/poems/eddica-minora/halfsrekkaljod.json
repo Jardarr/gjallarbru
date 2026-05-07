@@ -1,0 +1,997 @@
+{
+  "category": "eddica-minora",
+  "slug": "halfsrekkaljod",
+  "key": "Halfsrekkaljod",
+  "title": {
+    "on": "Hálfsrekkaljóð",
+    "ru": "Песнь о воинах Хальва",
+    "en": "Song of the Warriors of Halva"
+  },
+  "subtitle": {
+    "on": "Innsteinkviða",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Guðni Jónsson, Eddukvæði (Sæmundar-Edda). 2 vols. 1949–54: Hálfsrekkaljóð, Andreas Heusler, Wilhelm Ranisch: Eddica minora (Dortmund 1903), pp. 33–37. Перевод: Т. Ермолаев.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Ásmundr bauð Hálfi konungi"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Hálfr konungr fór til ríkis síns ór hernaði. Þeir fengu storm mikinn í hafi. Skip þeira varð ekki ausit. Þá var þat ráðs tekit at hluta mann fyrir borð, en þess þurfti eigi, því at hverr bauð sínum félaga fyrir borð at fara. En er þeir stigu fyrir borð, þá mæltu þeir: «Strálaust er fyrir stokkum.» En er Hálfr konungr kom til Hörðalands, þá fór Ásmundr konungr á fund hans ok gerðist hans maðr ok sór honum eiða ok bauð honum til veizlu ok hálfu liði hans. En annan morgin er konungr bjóst ok sagði, at helmingr liðs skyldi eftir vera á skipum, kvað Innsteinn:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Upp mundum vér",
+          "allir ganga,",
+          "skatna beztir,",
+          "af skipum várum,",
+          "láta brenna",
+          "bragninga sveit",
+          "ok Ásmundar lið",
+          "aldri týna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Konungr kvað:",
+          "Vér skulum hálfir",
+          "herjar þessa",
+          "sáttir sækja",
+          "frá sjó neðan.",
+          "Ásmundr hefir",
+          "oss of boðna",
+          "hringa rauða",
+          "sem hafa viljum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Innsteinn kvað:",
+          "Sér eigi þú allan",
+          "Ásmundar hug,",
+          "hefir fylkir sá",
+          "flærð í brjósti.",
+          "Mundir þú, þengill,",
+          "ef vér því réðim,",
+          "mági þínum",
+          "mjök lítt trúa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Konungr kvað:",
+          "Ásmundr hefir",
+          "oss of unnit",
+          "margar tryggðir,",
+          "sem menn vitu.",
+          "Mun-at góðr konungr",
+          "ganga á sáttir",
+          "né gramr annan",
+          "í griðum véla."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Innsteinn kvað:",
+          "Þér er orðinn",
+          "Óðinn til gramr,",
+          "er þú Ásmundi",
+          "allvel trúir.",
+          "Hann mun alla",
+          "oss of véla,",
+          "nema þú víti",
+          "viðsjár fáir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Konungr kvað:",
+          "Æ lystir þik",
+          "æðru at mæla,",
+          "mun-at sá konungr",
+          "sáttir rjúfa.",
+          "Gull eigum þar",
+          "ok gersimar,",
+          "hringa rauða,",
+          "frá hans búum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Innsteinn kvað:",
+          "Hálfr, dreymði mik,",
+          "— hyggðu at slíku, —",
+          "at logi léki",
+          "of liði váru,",
+          "illt væri þar",
+          "ór at leysask.",
+          "Hvat kveðr þú, þengill,",
+          "þann draum vita?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Konungr kvað:",
+          "Gefa mun ek hverjum",
+          "hjálm ok brynju",
+          "frækna drengja,",
+          "er fylgja mér.",
+          "Þat mun at líta",
+          "sem logi brenni",
+          "skjöldungs liði",
+          "of skarar fjöllum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Innsteinn kvað:",
+          "Enn dreymði mik",
+          "öðru sinni:",
+          "Hugðak á öxlum",
+          "elda brenna.",
+          "Gruna tek ek nokkut,",
+          "at þat gott viti.",
+          "Hvat kveðr þú, þengill,",
+          "þann draum vita?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Konungr kvað:",
+          "Hrynja um herðar",
+          "þeim, er hamalt fylkja,",
+          "grams verðungu,",
+          "gylldar brynjur.",
+          "Þat mun á öxlum",
+          "öðlings vinum",
+          "ljóst at líta,",
+          "sem logi brenni."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Innsteinn kvað:",
+          "Þat dreymði mik",
+          "þriðja sinni,",
+          "at vér í kaf niðr",
+          "komnir værim.",
+          "Eiga mun allstórt",
+          "um at véla.",
+          "Hvat kveðr þú, þengill,",
+          "þann draum vita?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Konungr kvað:",
+          "Fulllangt er sjá",
+          "fíflskapr talaðr,",
+          "vera kveð ek ekki",
+          "undir slíku.",
+          "Seg þú enga,",
+          "svá at heyri,",
+          "drauma þína",
+          "í degi síðan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Innsteinn kvað:",
+          "Hlýði Hrókar",
+          "ok herr konungs",
+          "orðum mínum,",
+          "Útsteinn þriði:",
+          "Göngum allir",
+          "upp frá ströndu,",
+          "kunnum ekki",
+          "konungs mál of þat."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Útsteinn kvað:",
+          "Konung látum vér",
+          "keppinn ráða",
+          "fyrir í fólki",
+          "um farir várar.",
+          "Hættum, bróðir,",
+          "svá at honum líki,",
+          "fjörvi okkru",
+          "með frömum vísi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Innsteinn kvað:",
+          "Hlítt hefir fylkir",
+          "í förum úti",
+          "mínum ráðum",
+          "mörgu sinni.",
+          "Nú kveð ek engu,",
+          "er ek mæli,",
+          "hlýða vilja,",
+          "síz hingat kómum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "heading",
+        "lines": [
+          "Svik Ásmundar konungs"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "II Hálfr konungr gekk upp til bæ­jar Ásmundar konungs  með hel­ming liðs síns. Þar var fyrir fjöl­menni mikit. Veizla var kapp­sam­lig ok drykkr svá sterkr, at Hálf­srekkar sofnuðu fast. Ás­mundr konungr ok hirðin lögðu eld í höllina."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "lines": [
+          "III En sá, er fyrst vaknaði af Hálf­srek­kum, sá höllina nær fulla af re­yk. Hann mælti: «Rjúka mun um hauka vára nú,» sagði hann. Sí­ðan lagðist hann niðr ok svaf."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "lines": [
+          "IV Þá vaknaði annarr ok sá, at höl­lin logaði, ok mælti: «Drjúpa mun nú vax af söxum.» Sá lagðist niðr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "lines": [
+          "V Ok þá vaknaði Hálfr konungr. Hann stóð upp ok vakti liðit ok bað þá vápnast. Þeir hlupu þá á veg­gina, svá at af gengu na­far­ nar af tim­brstokkunum. Þá kvað Inn­ste­inn:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Rýkr um hauka",
+          "í höll konungs,",
+          "ván er, at drjúpi",
+          "vax af söxum.",
+          "Mál er gulli",
+          "ok gersimum,",
+          "hjálmum skipta",
+          "með Hálfsrekkum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Hins fýsi ek nú,",
+          "at Hálfr vaki;",
+          "eru-t af eklu",
+          "eldar kyndir.",
+          "Áttu, menbrjótr,",
+          "mági þínum",
+          "grimmlunduðum",
+          "gjafir launa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Hrindum heilir",
+          "hallar bjóri.",
+          "Nú taka súlur",
+          "í sundr þoka.",
+          "Æ mun uppi,",
+          "meðan öld lifir,",
+          "Hálfsrekka för",
+          "til hertoga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Hart skulum ganga",
+          "ok hliða ekki við,",
+          "verðr vísis lið",
+          "at vega með söxum.",
+          "Þeir skulu sjálfir",
+          "á sér bera",
+          "blóðgar benjar,",
+          "áðr braki létti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Snúizk snarliga,",
+          "snyrtidrengir,",
+          "út ór eldi",
+          "með auðbrota.",
+          "Engi er ýta,",
+          "sá er æ lifir.",
+          "Mun-at baugbroti",
+          "við bana kvíða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "heading",
+        "lines": [
+          "Fall Hálfs konungs ok Hálfsrekka"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "lines": [
+          "VI Svá er hér sagt, at Hálfr ko­n­ungr ok Hálfsrekkar kæmist út ór eldinum ok Hálfr konungr felli fyrir ofrefli liðs ok sveit hans. Innsteinn kvað, er konungr var fallinn:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Hér sá ek alla",
+          "einum fylgja",
+          "jafnröskliga",
+          "öðlings syni.",
+          "Hittumk heilir,",
+          "þá heðan líðum,",
+          "er-at léttara",
+          "líf en dauði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "VII Þá kómu Hálfsrekkar til or­ rus­tu, þeir sem við skip höfðu ve­rit. Þar fell mikill hlutr Hálfs­rek­ka. Orrustan helzt allt til nætr, áðr Innsteinn fell. Inn­ste­inn kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Hrókr er fallin",
+          "með hertoga",
+          "frækn at fótum",
+          "fólks oddvita.",
+          "Eigum Óðni",
+          "illt at gjalda,",
+          "er hann slíkan konung",
+          "sigri rænti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Ek hefi úti",
+          "átján sumur",
+          "fylgt fullhuga",
+          "flein at rjóða.",
+          "Skalk-at annan",
+          "eiga dróttin",
+          "gunnar gjarnan",
+          "né gamall verða."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Hér mun Innsteinn",
+          "til jarðar hníga",
+          "horskr at höfði",
+          "hers oddvita.",
+          "Þat munu seggir",
+          "at sögum gera,",
+          "at Hálfr konungr",
+          "hlæjandi dó."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "Асмунд приглашает конунга Хальва"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "prose",
+        "lines": [
+          "I Конунг Хальв возвращался из похода в своё государство. Они попали в сильную бурю на море. На их корабле не удавалось вычерпать воду. Тогда было решено часть людей по жребию отправить за борт, но этого не понадобилось, потому что каждый предложил прыгнуть за борт вместо своего товарища. Прыгнув за борт, они сказали: «Здесь не подстелили соломы!» Когда же конунг Хальв пришёл в Хёрдаланд, конунг Асмунд отправился к нему и сделался его человеком. Он принёс ему клятву и пригласил на пир его и половину его войска. А на следующее утро, когда конунг собрался и сказал, что половина войска останется на кораблях, Иннстейн сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Вместе наверх",
+          "все мы пойдём,",
+          "лучшие воины,",
+          "от кораблей,",
+          "пусть запылает",
+          "героев край,",
+          "и Асмунда люд",
+          "никого не погубит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Конунг сказал:",
+          "Разделим мы надвое",
+          "эти войска,",
+          "мирно пойдём",
+          "снизу от моря.",
+          "Асмунд владеть",
+          "нам предложил",
+          "красными кольцами,",
+          "как пожелаем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Иннстейн сказал:",
+          "Не видишь ты весь",
+          "Асмунда ум,",
+          "у этого князя",
+          "коварство в сердце.",
+          "Тебе, предводитель,",
+          "будь наша воля,",
+          "матери мужу",
+          "верить бы меньше."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Конунг сказал:",
+          "Асмунд нам дал",
+          "заверения в верности",
+          "многие клятвы,",
+          "как людям известно.",
+          "Добрый же конунг",
+          "мир не нарушит,",
+          "вождь не солжёт",
+          "в перемирьи другому."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Иннстейн сказал:",
+          "Погубит тебя",
+          "Один разгневанный,",
+          "если ты Асмунду",
+          "слепо доверишься.",
+          "Сможет он всех",
+          "нас обмануть,",
+          "коль осторожность",
+          "ты позабудешь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Конунг сказал:",
+          "Вечно ты речь",
+          "ведёшь малодушную,",
+          "конунг сей мир",
+          "не разломает.",
+          "Злато получим",
+          "и драгоценности,",
+          "красные кольца",
+          "из его дома."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Иннстейн сказал:",
+          "Хальв, снилось мне, —",
+          "подумай над этим, —",
+          "как пламя играло",
+          "с нашим отрядом,",
+          "было бы тяжко",
+          "освободиться.",
+          "Что скажешь ты, князь,",
+          "как сон объяснишь?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Конунг сказал:",
+          "Каждому дам я",
+          "шлем золочёный",
+          "храброму воину,",
+          "что за мной следовал.",
+          "Будет как пламя",
+          "ярко горящее",
+          "на войске скьёльдунгов",
+          "гор превыше."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Иннстейн сказал:",
+          "Ещё снилось мне",
+          "во второй раз:",
+          "казалось, пылал",
+          "огонь на плечах.",
+          "Сомнения есть,",
+          "что знак это добрый.",
+          "Что скажешь ты, князь,",
+          "как сон объяснишь?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Конунг сказал:",
+          "Спускаются с плеч",
+          "клином построенных",
+          "князя людей",
+          "золочёные брони.",
+          "Они на плечах",
+          "товарищей конунга",
+          "кажутся светом,",
+          "подобным пламени."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Иннстейн сказал:",
+          "Так мне приснилось",
+          "на третий раз,",
+          "что погрузились мы",
+          "в моря глубины.",
+          "Это, должно быть,",
+          "великий обман.",
+          "Что скажешь ты, князь,",
+          "как сон объяснишь?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Конунг сказал:",
+          "Слишком длинна",
+          "болтовня эта глупая,",
+          "я говорить",
+          "о таком и не стану.",
+          "Никому не болтай,",
+          "чтобы не слышали,",
+          "о снах твоих",
+          "с этого дня."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Иннстейн сказал:",
+          "Хроки, внимайте,",
+          "в конунга войске",
+          "моим же словам,",
+          "Утстейн же — третий:",
+          "поднимемся все",
+          "наверх с побережья,",
+          "не нравятся конунга",
+          "мысли об этом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Утстейн сказал:",
+          "Дадим мы конунгу",
+          "рьяному властвовать",
+          "над всеми людьми",
+          "в наших походах.",
+          "Рискнём, брат,",
+          "как хочет он,",
+          "жизнями нашими",
+          "с дерзким вождём."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Иннстейн сказал:",
+          "Следовал князь",
+          "в заморских походах",
+          "советам моим",
+          "неоднократно.",
+          "Не повторю,",
+          "что говорил я,",
+          "волю приму,",
+          "раз уж пришли сюда."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "heading",
+        "lines": [
+          "Предательство конунга Асмунда"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "prose",
+        "lines": [
+          "II Конунг Хальв поднялся в палаты конунга Асмунда с половиной своего войска. Там было множество людей. Пир был усердным и питьё таким крепким, что воины Хальва беспробудно заснули. Конунг Асмунд и его дружина подожгли палаты."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "prose",
+        "lines": [
+          "III А тот, кто первым проснулся из воинов Хальва, увидел, что палаты почти заполнены дымом. Он сказал: «Закоптят сейчас наших ястребов», — сказал он. Потом он улёгся и уснул."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "prose",
+        "lines": [
+          "IV Тогда проснулся второй, увидел, что палаты горят, и сказал: «Закапает сейчас с саксов воск». И улёгся снова."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "prose",
+        "lines": [
+          "V И тогда проснулся конунг Хальв. Он встал, разбудил войско и приказал вооружиться. Тогда они прыгнули на стену, так что из балок вылезли гвозди. Тогда Иннстейн сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Коптят ястребов",
+          "в палатах конунга,",
+          "похоже, закапает",
+          "с саксов воск.",
+          "Пора уже золото",
+          "и драгоценности,",
+          "шлемы делить",
+          "меж воинами Хальва."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Иного я жажду,",
+          "как Хальв пробудился;",
+          "не по нужде",
+          "огни развели.",
+          "Кольцедробитель,",
+          "ты должен отчиму",
+          "за жесткосердные",
+          "дары отплатить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Выбьем в палате",
+          "переднюю стену.",
+          "Уже столбы",
+          "начинают смещаться.",
+          "Всегда будут помнить,",
+          "пока живут люди,",
+          "поход воинов Хальва",
+          "к военачальнику."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Твёрдо пойдём",
+          "и не отступим,",
+          "войску вождя —",
+          "саксами биться.",
+          "Сами они",
+          "себе нанесут",
+          "раны кровавые,",
+          "пока шум утихнет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Быстро бегите,",
+          "ладные воины,",
+          "прочь из огня",
+          "с богатств расточителем.",
+          "Никому из людей",
+          "вечно не жить.",
+          "Кольцедробитель",
+          "убийц не страшится."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "heading",
+        "lines": [
+          "Гибель конунга Хальва и воинов Хальва"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "lines": [
+          "VI Как здесь рассказывается, конунг Хальв и его воины выбрались из огня. Конунг Хальв погиб из-за превосходства вражеских сил. Когда конунг пал, Иннстейн сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Видел я: здесь",
+          "все одному",
+          "следуют храбро",
+          "вождя сыну.",
+          "Встретимся целые,",
+          "уйдя отсюда,",
+          "не легче жизнь,",
+          "смерти."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "VII Тогда явились на битву воины Хальва, которые оставались на кораблях. Там погибла большая часть воинов Хальва. Эта битва продолжалась до самой ночи, пока не погиб Иннстейн. Иннстейн сказал:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Хрок пал",
+          "храбрый, с вождём,",
+          "к ногам полка",
+          "предводителя.",
+          "Следует Одину",
+          "злом заплатить,",
+          "что победу отнял",
+          "у такого конунга."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Следовал я",
+          "восемнадцать лет",
+          "вместе с бесстрашным,",
+          "копьё кровавя.",
+          "Другого не будет",
+          "мне господина,",
+          "к битве охочего,",
+          "и не стану я старым."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Иннстейн к земле",
+          "здесь наклонился,",
+          "мудрый, к главе",
+          "войск предводителя.",
+          "Про то расскажут",
+          "в созданных сагах,",
+          "как конунг Хальв",
+          "смеющийся умер."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,947 @@
+{
+  "category": "ljodaedda-godakvaedi",
+  "slug": "baldrs-draumar",
+  "key": "BaldrsDreaumar",
+  "title": {
+    "on": "Baldrs draumar",
+    "ru": "Сны Бальдра",
+    "en": "Baldr's Dreams"
+  },
+  "subtitle": {
+    "on": "Vegtamskviða",
+    "ru": "Песнь о Вегтаме"
+  },
+  "description": {
+    "on": "",
+    "ru": "Здесь приводится расширенный вариант песни: помимо 14 известных по рукописи A строф (пронумерованы (1)–(14) в скобках), приводятся дополнительные строфы (a)–(g), известные только по поздним бумажным рукописям (в списке источников — начиная с O и ниже).",
+    "en": "This edition presents an expanded version of the song: in addition to the 14 stanzas known from manuscript A (numbered (1)–(14) in brackets), additional stanzas (a)–(g) are given, known only from later paper manuscripts (in the list of sources – starting with O and below)."
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Sophus Bugge: Sæmundar Edda. Vegtamskviða eða Baldrs dravmar. 1867. Перевод строф (1)–(14) — А. И. Корсун, СЭ–1963, с. 158–159, Перевод дополнительных строф (a)–(g) — Vanamær Eyvarsdóttir.",
+    "en": "An ancient Icelandic text, edited by Sophus Bugge: Sæmundar Edda. Vegtamskviða eða Baldrs dravmar. 1867.\nTranslation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "(1) Senn váru æsir",
+          "allir á þingi",
+          "ok ásynjur",
+          "allar á máli,",
+          "ok um þat réðu",
+          "ríkir tívar,",
+          "hví væri Baldri",
+          "ballir draumar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "(a) Mjök var hapti",
+          "höfugr blundr",
+          "heillir í svefni",
+          "horfnar sýndust;",
+          "spurðu jólnar†",
+          "spar framvísar,",
+          "ef þat myndi",
+          "angrs vita."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "(b) Fréttir sögðu,",
+          "at feigr væri",
+          "Ullar sefi",
+          "einna þekkastr;",
+          "fékk þat angrs",
+          "Frigg ok Sváfni,",
+          "rögnum öðrum:",
+          "ráð sér festu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "(c) Út skyldi senda",
+          "allar vættir",
+          "griða at beiða,",
+          "granda ei Baldri;",
+          "vann alls konar",
+          "eið at vægja,",
+          "Frigg tók allar",
+          "Festar ok soeri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "(d) Valföðr uggir,",
+          "van sé tekit,",
+          "hamingjur ætlar",
+          "horfnar mundu;",
+          "æsi kallar,",
+          "afráðs krefr;",
+          "málstefnu at",
+          "mart of roeðist."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "(2) Upp reis Óðinn,",
+          "alda gautr,",
+          "ok hann á Sleipni",
+          "söðul of lagði;",
+          "reið hann niðr þaðan",
+          "niflheljar til;",
+          "mætti hann hvelpi,",
+          "þeim er ór helju kom."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "(3) Sá var blóðugr",
+          "um brjóst framan",
+          "(e) Kjapt vígfrekan",
+          "ok kjálka neðan;",
+          "gó hann á móti",
+          "ok gein stórum",
+          "ok galdrs föður",
+          "gól of lengi;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "fram reið Óðinn,",
+          "foldvegr dunði;",
+          "hann kom at hávu",
+          "Heljar ranni.",
+          "(4) Þá reið Óðinn (Yggr)",
+          "fyrir austan dyrr,",
+          "þar er hann vissi",
+          "völu leiði;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "nam hann vittugri",
+          "valgaldr kveða,",
+          "(f) leit í norðr,",
+          "lagði á stafi,",
+          "froeði tók þylja,",
+          "frétta beiddi,",
+          "unz nauðig reis,",
+          "nás orð of kvað:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "(5) «Hvat er manna þat",
+          "mér ókunnra,",
+          "er mér hefir aukit",
+          "erfitt sinni?",
+          "Var ek snivin snævi",
+          "ok slegin regni",
+          "ok drifin döggu,",
+          "dauð var ek lengi.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Óðinn kvað:",
+          "(6) «Vegtamr ek heiti,",
+          "sonr em ek Valtams;",
+          "segðu mér ór helju,",
+          "ek mun ór heimi:",
+          "Hveim eru bekkir",
+          "baugum sánir,",
+          "flet fagrlig",
+          "flóuð gulli?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Völva kvað:",
+          "(7) «Hér stendr Baldri",
+          "of brugginn mjöðr,",
+          "skírar veigar,",
+          "liggr skjöldr yfir,",
+          "en ásmegir",
+          "í ofvæni;",
+          "nauðug sagðak,",
+          "nú mun ek þegja.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Óðinn kvað:",
+          "(8) «Þegj-at-tu, völva,",
+          "þik vil ek fregna,",
+          "unz alkunna,",
+          "vil ek enn vita:",
+          "Hverr mun Baldri",
+          "at bana verða",
+          "ok Óðins son",
+          "aldri ræna?»",
+          ""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Völva kvað:",
+          "(9) «Höðr berr hávan",
+          "hróðrbaðm þinig,",
+          "hann mun Baldri",
+          "at bana verða",
+          "ok Óðins son",
+          "aldri ræna;",
+          "nauðug sagðak,",
+          "nú mun ek þegja.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Óðinn kvað:",
+          "(10) «Þegj-at-tu, völva,",
+          "þik vil ek fregna,",
+          "unz alkunna,",
+          "vil ek enn vita:",
+          "Hverr mun heift Heði",
+          "hefnt of vinna",
+          "eða Baldrs bana",
+          "á bál vega?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Völva kvað:",
+          "(11) Rindr berr Vála",
+          "í vestrsölum,",
+          "sá mun Óðins sonr",
+          "einnættr vega:",
+          "hönd of þvær",
+          "né höfuð kembir,",
+          "áðr á bál of berr",
+          "Baldrs andskota;",
+          "nauðug sagðak,",
+          "nú mun ek þegja.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Óðinn kvað:",
+          "(12) «Þegj-at-tu, völva,",
+          "þik vil ek fregna,",
+          "unz alkunna,",
+          "vil ek enn vita:",
+          "Hverjar ro þær meyjar,",
+          "er at muni gráta",
+          "ok á himin verpa",
+          "halsa skautum?",
+          "(g) seg þú þat eina!",
+          "sefrattu fyrri.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Völva kvað:",
+          "(13) «Ert-at-tu Vegtamr,",
+          "sem ek hugða,",
+          "heldr ertu Óðinn,",
+          "aldinn gautr.»",
+          "Óðinn kvað:",
+          "«Ert-at-tu völva",
+          "né vís kona,",
+          "heldr ertu þriggja",
+          "þursa móðir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Völva kvað:",
+          "(14) «Heim ríð þú, Óðinn,",
+          "ok ver hróðigr,",
+          "svá komir manna",
+          "meir aftr á vit,",
+          "er lauss Loki",
+          "líðr ór böndum",
+          "ok ragna rök",
+          "rjúfendr koma.»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "(1) Тотчас собрались",
+          "все асы на тинг,",
+          "и асиньи все",
+          "сошлись на совет:",
+          "о том совещались",
+          "сильные боги,",
+          "отчего сны у Бальдра",
+          "такие зловещие."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "(a) Стал сон страданьем",
+          "светлому асу,",
+          "знамений знаки",
+          "добрых исчезли.",
+          "Боги сошлись,",
+          "вопрошали мудрых:",
+          "не жребий худой ли",
+          "судьба готовит?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "(b) Гласили ответы:",
+          "родичу Улля",
+          "норны сулят",
+          "доброму гибель.",
+          "настало для Фригг",
+          "и Свавнира горе",
+          "и богов могучих.",
+          "Так рассудили:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "(c) послали вести,",
+          "взяли зарок,",
+          "со всех живущих:",
+          "в мире быть с Бальдром.",
+          "Клятву давали",
+          "вреда не чинить —",
+          "сущее всё",
+          "Фригг в том поклялось."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "(d) Павших отец",
+          "недоброе чует:",
+          "видит, удача",
+          "асов покинула.",
+          "Тинг созывает",
+          "могучих богов,",
+          "внимает речам,",
+          "их множество сказано."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "(2) Один поднялся,",
+          "древний Гаут,",
+          "седло возложил",
+          "на спину Слейпнира;",
+          "оттуда он вниз",
+          "в Нивльхель поехал;",
+          "встретил он пса,",
+          "из Хель прибежавшего."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "(3) У пса была грудь",
+          "кровью покрыта,",
+          "(e) жадная пасть",
+          "жаждала вгрызться,",
+          "грозно он выл",
+          "и клацал клыками,",
+          "на отца колдовства",
+          "долго он лаял;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "дальше помчался —",
+          "гудела земля —",
+          "Один к высокому",
+          "Хель жилищу.",
+          "(4) На восток от ворот",
+          "выехал Один,",
+          "где, как он ведал,",
+          "вёльвы могила;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "заклинанье он начал",
+          "и вещую поднял,",
+          "(f) вырезал руны,",
+          "глядя на север,",
+          "пел до тех пор,",
+          "пока не принудил",
+          "чарами мёртвую",
+          "вёльву ответить:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "(5) «Что там за воин,",
+          "неведомый мне,",
+          "что в путь повелел мне",
+          "нелегкий отправиться?",
+          "Снег заносил меня,",
+          "дождь заливал",
+          "и роса покрывала, —",
+          "давно я мертва»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "[Один сказал:]",
+          "(6) «Имя мне Вегтам,",
+          "я Вальтама сын;",
+          "про Хель мне поведай,",
+          "про мир я поведаю;",
+          "скамьи для кого",
+          "кольчугами устланы,",
+          "золотом пол",
+          "усыпан красиво?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "[Вёльва сказала:]",
+          "(7) «Мёд здесь стоит,",
+          "он сварен для Бальдра,",
+          "светлый напиток,",
+          "накрыт он щитом;",
+          "отчаяньем сыны",
+          "асов охвачены.",
+          "Больше ни слова",
+          "ты не услышишь»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "[Один сказал:]",
+          "(8) «Вёльва, ответь!",
+          "Я спрашивать буду,",
+          "чтоб все мне открылось:",
+          "еще хочу знать,",
+          "кому доведется",
+          "стать Бальдра убийцей,",
+          "кто сына Одина",
+          "смерти предаст»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "[Вёльва сказала:]",
+          "(9) «Хёд ввергнет сюда",
+          "дерево славы;",
+          "ему доведется",
+          "стать Бальдра убийцей,",
+          "он сына Одина",
+          "смерти предаст.",
+          "Больше ни слова",
+          "ты не услышишь»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "[Один сказал:]",
+          "(10) «Вёльва, ответь!",
+          "Я спрашивать буду,",
+          "чтоб всё мне открылось:",
+          "ещё хочу знать,",
+          "кто за убийство",
+          "Хёду отплатит,",
+          "кем на костёр",
+          "он будет отправлен»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "[Вёльва сказала:]",
+          "(11) «Ринд в западном доме",
+          "Вали родит,",
+          "и Одина сын",
+          "начнет поединок,",
+          "рук не омоет,",
+          "волос не причешет,",
+          "пока не убьёт",
+          "Бальдра убийцу.",
+          "Больше ни слова",
+          "ты не услышишь»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "[Один сказал:]",
+          "(12) «Вёльва, ответь!",
+          "Я спрашивать буду,",
+          "чтоб всё мне открылось:",
+          "ещё знать хочу,",
+          "кто эти девы,",
+          "что будут рыдать,",
+          "края покрывал",
+          "в небо бросая.",
+          "(g) Сна знать не будешь,",
+          "ответ не поведав!»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "[Вёльва сказала:]",
+          "(13) «Нет, ты не Вегтам,",
+          "как я считала,",
+          "ты, верно, Один,",
+          "ты древний Гаут!»",
+          "[Один сказал:]",
+          "«Ты же не вёльва,",
+          "провидица вещая,",
+          "ты, верно, мать",
+          "трех великанов!»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "[Вёльва сказала:]",
+          "(14) «Домой поезжай!",
+          "Гордись своей славой!",
+          "Отныне сюда",
+          "никто не придет,",
+          "пока свои узы",
+          "Локи не сбросит",
+          "и не настанет",
+          "гибель богов!»"
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "\"Once were the gods",
+          "together met,",
+          "And the goddesses came",
+          "and council held,",
+          "And the far-famed ones",
+          "the truth would find,",
+          "Why baleful dreams",
+          "to Baldr had come.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "\"Then Othin rose,",
+          "the enchanter old,",
+          "And the saddle he laid",
+          "on Sleipnir's back;",
+          "Thence rode he down",
+          "to Niflhel deep,",
+          "And the hound he met",
+          "that came from hell.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "\"Bloody he was",
+          "on his breast before,",
+          "At the father of magic",
+          "he howled from afar;",
+          "Forward rode Othin,",
+          "the earth resounded",
+          "Till the house so high",
+          "of Hel he reached.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "\"Then Othin rode",
+          "to the eastern door,",
+          "There, he knew well,",
+          "was the wise-woman's grave;",
+          "Magic he spoke",
+          "and mighty charms,",
+          "Till spell-bound she rose,",
+          "and in death she spoke:\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "\"What is the man,",
+          "to me unknown,",
+          "That has made me travel",
+          "the troublous road?",
+          "I was snowed on with snow,",
+          "and smitten with rain,",
+          "And drenched with dew;",
+          "long was I dead.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Othin spake:",
+          "\"Vegtam my name,",
+          "I am Valtam's son;",
+          "Speak thou of hell,",
+          "for of heaven I know:",
+          "For whom are the benches",
+          "bright with rings,",
+          "And the platforms gay",
+          "bedecked with gold?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "The Wise-Woman spake:",
+          "\"Here for Baldr",
+          "the mead is brewed,",
+          "The shining drink,",
+          "and a shield lies o'er it;",
+          "But their hope is gone",
+          "from the mighty gods.",
+          "Unwilling I spake,",
+          "and now would be still.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Othin spake:",
+          "\"Wise-woman, cease not!",
+          "I seek from thee",
+          "All to know",
+          "that I fain would ask:",
+          "Who shall the bane",
+          "of Baldr become,",
+          "And steal the life",
+          "from Othin's son?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "The Wise-Woman spake:",
+          "\"Hoth thither bears",
+          "the far-famed branch,",
+          "He shall the bane",
+          "of Baldr become,",
+          "And steal the life",
+          "from Othin's son.",
+          "Unwilling I spake,",
+          "and now would be still.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Othin spake:",
+          "\"Wise-woman, cease not!",
+          "I seek from thee",
+          "All to know",
+          "that I fain would ask:",
+          "Who shall vengeance win",
+          "for the evil work,",
+          "Or bring to the flames",
+          "the slayer of Baldr?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "The Wise-Woman spake:",
+          "\"Rind bears Vali",
+          "in Vestrsalir,",
+          "And one night old",
+          "fights Othin's son;",
+          "His hands he shall wash not,",
+          "his hair he shall comb not,",
+          "Till the slayer of Baldr",
+          "he brings to the flames.",
+          "Unwilling I spake,",
+          "and now would be still.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Othin spake:",
+          "\"Wise-woman, cease not!",
+          "I seek from thee",
+          "All to know",
+          "that I fain would ask:",
+          "What maidens are they",
+          "who then shall weep,",
+          "And toss to the sky",
+          "the yards of the sails?\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "The Wise-Woman spake:",
+          "\"Vegtam thou art not,",
+          "as erstwhile I thought;",
+          "Othin thou art,",
+          "the enchanter old.\"",
+          "Othin spake:",
+          "\"No wise-woman art thou,",
+          "nor wisdom hast;",
+          "Of giants three",
+          "the mother art thou.\""
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "The Wise-Woman spake:",
+          "\"Home ride, Othin,",
+          "be ever proud; For no one of men",
+          "shall seek me more Till Loki wanders",
+          "loose from his bonds, And to the last strife",
+          "the destroyers come.\""
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

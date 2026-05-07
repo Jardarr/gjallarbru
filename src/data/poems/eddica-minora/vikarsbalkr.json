@@ -1,0 +1,2185 @@
+{
+  "category": "eddica-minora",
+  "slug": "vikarsbalkr",
+  "key": "Vikarsbalkr",
+  "title": {
+    "on": "Víkarsbálkr",
+    "ru": "Викарсбалк",
+    "en": "The Lay of Vikar"
+  },
+  "subtitle": {
+    "on": "Starkaðr Gamli Stórvirksson",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Andreas Heusler, Wilhelm Ranisch: Eddica minora (Dortmund 1903), pp. 38–43, Guðni Jónsson, 1954. Перевод, примечания: Н. Топчий.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Svá segir Starkaðr:",
+          "Þá var ek ungr,",
+          "er inni brann",
+          "flotna fjöld",
+          "með feðr mínum,",
+          "[þjóð nær vági",
+          "fyr Þrumu innan",
+          "ok herhröðuðr",
+          "Haralds ins egðska,]",
+          "ok menbrota",
+          "mágar véltu",
+          "Fjöri ok Fýri,",
+          "Freka arfþegar,",
+          "[Unnar bræðr,",
+          "eiðu minnar;]"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Þá er Herþjófr",
+          "Harald um vélti,",
+          "sér ójafnan",
+          "sveik í tryggðum,",
+          "Egða dróttin",
+          "öndu rænti,",
+          "en hans sonum",
+          "haftbönd sneri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Þrévetran mik",
+          "þaðan of flutti",
+          "Hrosshárs-Grani",
+          "til Hörðalands;",
+          "nam ek á Aski",
+          "upp at vaxa,",
+          "sákat niðja",
+          "á níu vetrum (sumrum)."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Afl gat ek ærit,",
+          "uxu tjálgur,",
+          "langir leggir",
+          "ok ljótt höfuð,",
+          "en hímaldi",
+          "'af hagli' sat,",
+          "fás forvitinn,",
+          "í fleti niðri,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Unz Víkarr kom",
+          "frá vita innan,",
+          "gísli Herþjófs,",
+          "gekk inn í sal;",
+          "hann kenndi mik,",
+          "hann kvaddi mik",
+          "upp at standa",
+          "ok andsvara."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Hann mældi mik",
+          "mundum ok spönnum,",
+          "alla arma",
+          "til úlfliða,",
+          ".........",
+          ".........",
+          "vaxit hári",
+          "á höku niðri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Þá safnaði",
+          "Sörkvi ok Gretti",
+          "Haralds arfþegi,",
+          "Hildigrími,",
+          "Erp ok Úlfi,",
+          "Áni ok Skúmu,",
+          "Hróa ok Hrotta",
+          "Herbrands syni,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Styr ok Steinþóri",
+          "frá Staði norðan;",
+          "þar var inn gamli",
+          "Gunnólfr blesi;",
+          "þá várum vér",
+          "þrettán saman;",
+          "fær varliga",
+          "fríðri drengi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Svá kómum vér",
+          "til konungs garða,",
+          "hristum grindr,",
+          "hjuggum gætti;",
+          "brutum borglokur,",
+          "brugðum sverðum,",
+          "þar er sjau tigir",
+          "seggir stóðu",
+          "[kostum góðir",
+          "fyr konungi;",
+          "þó var um aukit",
+          "öllum þrælum,",
+          "verkalýðum",
+          "ok vatndrögum.]"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Var Víkari",
+          "vant at fylgja",
+          "því at fremstr ok fyrstr",
+          "í flokki stóð;",
+          "hjuggum hjálma",
+          "með höfuðgnípum,",
+          "brynjur sneiddum",
+          "ok brutum skjöldu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Var Víkari",
+          "vegs um auðit,",
+          "en Herþjófi",
+          "heiptir goldnar,",
+          "særðum seggi,",
+          "en suma drápum,",
+          "stóðkat ek fjarri,",
+          "þá er fell konungr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Vart þú eigi",
+          "með Víkari",
+          "austr í Væni",
+          "árdag snemma,",
+          "þá er sóttu vér",
+          "Sísar á velli,",
+          "þat var þrekvirki",
+          "þokks megnara."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Mik lét sverði hann",
+          "sáru höggvinn",
+          "skarpeggjuðu",
+          "skjöld í gegnum,",
+          "hjálm af höfði,",
+          "en haus skorat",
+          "ok kinnkjálka",
+          "klofinn í jaxla;",
+          "[en it vinstra",
+          "viðbein lamit.]"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Ok á síðu",
+          "sverði beitti",
+          "mér öflugr",
+          "fyrir mjöðm ofan,",
+          "en í aðra",
+          "atgeir lagði",
+          "köldum broddi,",
+          "svát á kafi yddi;",
+          "[þau sér merki",
+          "á mér gróin.]"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Sneidda ek honum",
+          "síðu aðra",
+          "bitrum brandi",
+          "um búk þveran;",
+          "svá ek af heiptum",
+          "hjörvi beittak,",
+          "at alls megins",
+          "áðr kostaðak."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Lét þreksamr",
+          "þriðja sinni",
+          "Hildar leik",
+          "háðan verða,",
+          "áðr Upplönd",
+          "unnin yrði",
+          "ok Geirþjófr",
+          "of gefinn helju."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Átti sér",
+          "erfivörðu",
+          "tírsamr tvá",
+          "tiggi alna;",
+          "hét hans sonr",
+          "Haraldr inn ellri;",
+          "setti hann þann",
+          "at Þelamörku."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Var sínkgjarn",
+          "sagðr af gulli",
+          "Neri jarl,",
+          "nýtr í ráðum,",
+          "Víkars sonr,",
+          "vanr í sóknum;",
+          "sá réð einn",
+          "Upplendingum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Réð Friðþjófr",
+          "fyrst at senda",
+          "heiptar boð",
+          "horskum jöfri,",
+          "hvárt Víkarr",
+          "vildi gjalda",
+          "hilmi skatt",
+          "eða her þola."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Réðum um,",
+          "ræddum lengi,",
+          "urðum vit",
+          "ekki dælir;",
+          "þat kaus herr,",
+          "at konungr skyldi",
+          "ríkr með her",
+          "rómu knýja."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Réð Óláfr",
+          "austr inn skyggni,",
+          "sældar gramr,",
+          "fyr Svíaríki;",
+          "hann bauð út",
+          "almenningi;",
+          "mikill var hans",
+          "helmingr talinn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Gengum fram",
+          "í glam vápna",
+          "konungs menn",
+          "kappi gnægðir;",
+          "þar var Úlfr",
+          "ok Erpr litinn;",
+          "hjó ek brynjulauss",
+          "báðum höndum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Réð Friðþjófr",
+          "friðar at biðja,",
+          "því at Víkarr",
+          "vægði ekki",
+          "ok Starkaðr",
+          "Stórvirksson",
+          "almátt fram",
+          "allan lagði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Mér gaf Víkarr",
+          "valamálm,",
+          "hring inn rauða,",
+          "er ek á hendi ber,",
+          "mér þrímerking,",
+          "en ek Þrumu honum,",
+          "fylgda ek fylki",
+          "fimmtán sumur."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "I Víkarr konungr sigldi af Ögðum norðr á Hörðaland ok hafði lið mikit. Hann lá í hólmum nokkurum lengi ok fekk andviðri mikit. Þeir felldu spán til byrjar, ok fell svá, at Óðinn vildi þiggja mann at hlutfalli at hanga ór hernum. Þá var skipt liðinu til hlutfalla, ok kom upp hlutr Víkars konungs. Við þat urðu allir hljóðir, ok var ætlat um daginn eptir, at ráðsmenn skyldu eiga stefnu um þetta vandmæli."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "II Um nóttina nær miðri nótt vakti Hrosshárs-Grani Starkað, fóstra sinn, ok bað hann fara með sér. Þeir taka bát einn lítinn ok reru til eyjar einnar inn frá hólminum. Þeir gengu upp til skógar ok fundu þar rjóðr eitt í skóginum. Í rjóðrinu var fjölmenni mikit, ok var þar þing sett. Þar sátu ellifu menn á stólum, en inn tólfti var auðr. Þeir gengu fram á þingit, ok settist Hrosshárs-Grani á stólinn inn tólfta. Þar heilsuðu allir Óðni. Hann mælti, at dómendr skyldi þá dæma örlög Starkaðs."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "prose",
+        "lines": [
+          "III Þá tók Þórr til orða ok mælti: «Álfhildr, móðir föður Starkaðs, kaus föður at syni sínum hundvísan jötun heldr en Ásaþór, ok skapa ek þat Starkaði, at hann skal hvárki eiga son né dóttur ok enda svá ætt sína.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "lines": [
+          "IV Óðinn svaraði: «Þat skapa ek honum, at hann skal lifa þrjá mannsaldra.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "prose",
+        "lines": [
+          "V Þórr mælti: «Hann skal vinna níðingsverk á hverjum mannsaldri.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "VI Óðinn svaraði: «Þat skapa ek honum, at hann skal eiga in beztu vápn ok váðir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "prose",
+        "lines": [
+          "VII Þórr mælti: «Þat skapa ek honum, at hann skal hvárki eiga land né láð.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "prose",
+        "lines": [
+          "VIII Óðinn mælti: «Ek gef honum þat, at hann skal eiga of lausafjár.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "prose",
+        "lines": [
+          "IX Þórr mælti: «Þat legg ek á hann, at hann skal aldri þykkjast nóg eiga.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "lines": [
+          "X Óðinn svaraði: «Ek gef honum sigr ok snilld at hverju vígi.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "prose",
+        "lines": [
+          "XI Þórr svaraði: «Þat legg ek á hann, at hann fái í hverju vígi meiðslasár.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "lines": [
+          "XII Óðinn mælti: «Ek gef honum skáldskap, svá at hann skal eigi seinna yrkja en mæla.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "prose",
+        "lines": [
+          "XIII Þórr mælti: «Hann skal ekki muna eptir, þat er hann yrkir.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "prose",
+        "lines": [
+          "XIV Óðinn mælti: «Þat skapa ek honum, at hann skal þykkja hæstr inum göfgustum mönnum ok inum beztum.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "lines": [
+          "XV Þórr mælti: «Leiðr skal hann alþýðu allri.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "prose",
+        "lines": [
+          "XVI Þá dæmdu dómendr allt þetta á hendr Starkaði, er þeir höfðu um mælt, ok sleit svá þinginu. Fóru þeir Hrosshárs-Grani ok Starkaðr til báts síns."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "prose",
+        "lines": [
+          "XVII Þá mælti Hrosshárs-Grani til Starkaðs: «Vel muntu nú launa mér, fóstri, liðsemd þá, er ek veitta þér.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "prose",
+        "lines": [
+          "XVIII «Vel,» sagði Starkaðr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "prose",
+        "lines": [
+          "XIX Þá mælti Hrosshárs-Grani: «Þá skaltu nú senda mér Víkar konung, en ek mun ráðin til leggja.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "prose",
+        "lines": [
+          "XX Starkaðr játar þessu. Þá fekk Hrosshárs-Grani geir í hönd honum ok sagði, at þat mundi sýnast reyrsproti. Þá fóru þeir út til liðsins, ok var þá komit at degi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "prose",
+        "lines": [
+          "XXI Um morguninn eptir gengu ráðgjafar konungs á stefnu til umráða. Kom þat ásamt með þeim, at þeir skyldu gera nokkura minning blótsins, ok sagði Starkaðr upp ráðagerðina. Þar stóð fura ein hjá þeim ok stofn einn hár nær furunni. Neðarliga af furunni stóð einn kvistr mjór ok tók í limit upp. Þá bjuggu þjónustusveinar mat manna, ok var kálfr einn skorinn ok krufðr. Starkaðr lét taka kálfsþarmana. Síðan steig Starkaðr upp á stofninn ok sveigði ofan þann inn mjóva kvistinn ok knýtti þar um kálfsþörmunum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "lines": [
+          "XXII Þá mælti Starkaðr til konungs: «Nú er hér búinn þér gálgi, konungr, ok mun sýnast eigi allmannhættligr. Nú gakktu hingat, ok mun ek leggja snöru á háls þér.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "prose",
+        "lines": [
+          "XXIII I Konungr mælti: «Sé þessi umbúð ekki mér hættuligri en mér sýnist, þá vænti ek, at mik skaði þetta ekki, en ef öðruvís er, þá mun auðna ráða, hvat at gerist.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "prose",
+        "lines": [
+          "XXIV Síðan steig hann upp á stofninn, ok lagði Starkaðr virgulinn um háls honum ok steig síðan ofan af stofninum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "prose",
+        "lines": [
+          "XXV Þá stakk Starkaðr sprotanum á konungi ok mælti: «Nú gef ek þik Óðni.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "prose",
+        "lines": [
+          "XXVI I Þá lét Starkaðr lausan furukvistinn. Reyrsprotinn varð at geir, ok stóð í gegnum konunginn. Stofninn fell undan fótum honum, en kálfsþarmarnir urðu at viðju sterkri, en kvistrinn reis upp ok hóf upp konunginn við limar, ok dó hann þar. Nú heita þar síðan Víkarshólmar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "prose",
+        "lines": [
+          "XXVII Af þessu verki varð Starkað mjök óþokkaðr af alþýðu, ok af þessu verki varð hann fyrst landflótti af Hörðalandi. Eptir þat strauk hann brutt ór Noregi ok austr í Svíaveldi ok var þar lengi með Uppsala konungum, Eireki ok Alreki, sonum Agna Skjálfarbónda, ok var í herförum með þeim. Ok er Alrekr spurði Starkað, hvat hann kunni tíðenda at segja frá frændum sínum eða sjálfum sér, þá orti Starkaðr kvæði þat, er heitir Víkarsbálkr. Þar segir svá frá drápi Víkars konungs:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Fylgda ek fylki,",
+          "þeim er framast vissak,",
+          "þá unda ek bezt",
+          "ævi minni,",
+          "áðr fóru vér,",
+          "en því flögð ullu,",
+          "hinzta sinni",
+          "til Hörðalands."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Þess eyrendis,",
+          "at Þórr um skóp",
+          "mér níðings nafn,",
+          "nauð margs konar;",
+          ".........",
+          ".........",
+          "hlaut ek óhróðigr",
+          "illt at vinna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Skylda ek Víkar",
+          "í viði hávum",
+          "Geirþjófsbana",
+          "goðum of signa;",
+          "lagða ek geiri",
+          "gram til hjarta,",
+          "þat er mér harmast",
+          "handaverka."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Þaðan vappaða ek",
+          "villtar brautir,",
+          "Hörðum leiðr,",
+          "með huga illan,",
+          "hringa vanr",
+          "ok hróðrkvæða,",
+          "dróttinlauss,",
+          "dapr alls hugar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Nú sótta ek",
+          "til Svíþjóðar,",
+          "Ynglinga sjöt,",
+          "til Uppsala;",
+          "hér láta mik,",
+          "sem ek lengi man,",
+          "þöglan þul",
+          "þjóðans synir.",
+          "* * *"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "prose",
+        "lines": [
+          "XXVIII Þat má finna á Starkaði, at honum þykkir þetta eitthvert verk sitt verst ok óskapligast orðit hafa, er hann drap Víkar konung..."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Hér settu mik",
+          "sveina milli,",
+          "heldr hæðinn",
+          "ok hvítbráan,",
+          "skelkja skatnar",
+          "ok skop draga",
+          "ofs óframir",
+          "at jöfurs greppi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Sjá þykkjast þeir",
+          "á sjálfum mér",
+          "jötunkuml,",
+          "átta handa,",
+          "er Hlórriði",
+          "fyr hamar norðan",
+          "Hergrímsbana",
+          "höndum rænti."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Hlæja rekkar (menn),",
+          "er mik séa,",
+          "ljótan skolt,",
+          "langa trjónu,",
+          "hár úlfgrátt,",
+          "hangar tjálgur,",
+          "hrjúfan háls,",
+          "húð jótraða."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Так говорит Старкад:",
+          "Тогда я был юн,",
+          "когда сожгли в доме",
+          "приплывшие множество",
+          "с отцом народа.",
+          "У залива тоскует",
+          "в глубинах Трумы",
+          "пламя битвы",
+          "Харальда Агдирца.",
+          "Шурья обманули",
+          "ожерелий дробителя,",
+          "Фьёри и Фюри,",
+          "Фреки наследники,",
+          "братья Унн,",
+          "моей матери."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Тогда Хертьов",
+          "обманул Харальда,",
+          "себе неравного",
+          "вероломно предал,",
+          "у вождя Агдира",
+          "жизнь отнял,",
+          "а его сыновей",
+          "обратил в узников."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Трех зим отроду",
+          "увёз оттуда",
+          "в Хёрдаланд",
+          "Грани меня",
+          "Конский Волос.",
+          "У Ясеня я",
+          "вверх вырос,",
+          "родни не видел",
+          "за девять зим."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Получил я, созрев, силушку,",
+          "Бычьи руки",
+          "да ноги длинные,",
+          "да светлую голову.",
+          "Но увальнем всё",
+          "на скамье сидел,",
+          "на приступке снизу,",
+          "не любознательный."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Не явился покуда",
+          "с поста сигнального,",
+          "заложник Хертьова —",
+          "Викар в зал взошёл.",
+          "Он признал меня,",
+          "попросил меня,",
+          "чтоб поднялся я",
+          "и ответствовал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Он измерил меня",
+          "локтями и пядами,",
+          "все руки сверху",
+          "и до запястий.",
+          ".........",
+          ".........",
+          "Пророс уж волос",
+          "под подбородком."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Тогда собрал",
+          "наследник Харальда",
+          "Сёркви и Греттира,",
+          "и Хильдигрима,",
+          "Эрпа и Ульва,",
+          "Ана и Скума,",
+          "Хрои и Хротти,",
+          "cынов Хербранда,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Стюра и Стейнтора",
+          "из Стада с севера;",
+          "был там и старый",
+          "Гуннольв Отметина.",
+          "Тогда были мы,",
+          "тринадцать, вместе;",
+          "Сторожко шли",
+          "ладные воины."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Так явились мы",
+          "ко двору конунга,",
+          "сотрясли ворота,",
+          "прорубили косяк,",
+          "разбили засовы крепости.",
+          "Мечами махали:",
+          "там семь десятков",
+          "мужей стояло,",
+          "столовавшихся славно",
+          "у конунга Хертьова;",
+          "были вдобавок",
+          "там все рабы,",
+          "работники все",
+          "и водоносы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Была у Викара",
+          "нехватка спутников,",
+          "потому встал яро",
+          "первым в отряде.",
+          "Рубили шлемы",
+          "с шишаками,",
+          "рассекали кольчуги,",
+          "щиты дробили."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Была Викару",
+          "суждена слава,",
+          "когда Хертьову",
+          "отплатил яростью:",
+          "людей ранили,",
+          "а других убили.",
+          "Стоял недалече я,",
+          "когда пал конунг."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Не был тогда ты",
+          "вместе с Викаром",
+          "на востоке у Венера",
+          "в то время давнее,",
+          "когда напали мы",
+          "на Сисара в поле —",
+          "отчаянный подвиг,",
+          "так думали многие."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Меня меч его",
+          "ранил рубящий,",
+          "остролезвийный,",
+          "щит пронзил",
+          "и надетый шлем",
+          "так, что ранил голову:",
+          "cбоку челюсть",
+          "рассечена до зубов",
+          "и ключица левая",
+          "разбита."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "И на боку",
+          "меч укусил",
+          "меня мощно",
+          "бедра выше.",
+          "А ещё прежде",
+          "остриё укололо",
+          "алебарды холодное,",
+          "вонзив конец.",
+          "Те метки видны",
+          "на мне, зажившие."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Разрезал я ему",
+          "бок сперва",
+          "мечом кусачим",
+          "поперёк тулова.",
+          "Так я в ярости",
+          "клинком резал,",
+          "покуда силы",
+          "все не истратил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Велел отважный",
+          "в третий раз",
+          "Хильд игру",
+          "провести,",
+          "допреж Упплёнд",
+          "был завоёван",
+          "и Гейртьов",
+          "отдан Хель."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Имел Викар",
+          "себе наследников",
+          "двоих, славный,",
+          "рождённых знатными.",
+          "Звался сын его",
+          "Харальд Старший;",
+          "он сидел тогда",
+          "в Теламёрке."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Жаден был,",
+          "говорят, до золота",
+          "Нери ярл,",
+          "полезный советами,",
+          "Викара сын,",
+          "привычный к атакам,",
+          "что один",
+          "правил Упплёндом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Решил Фридтьов",
+          "сперва отправить",
+          "послание злобное",
+          "вождю мудрому:",
+          "мол, иль Викарр",
+          "платить выберет",
+          "князю дань —",
+          "иль терпеть войска его."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Совещались все,",
+          "долго советовались,",
+          "решенья мудрого",
+          "так и не приняли.",
+          "Избрал государь,",
+          "что конунг должен",
+          "власть войсками",
+          "в бою выбороть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "На востоке Олав",
+          "правил Ясновидец,",
+          "князь удачливый,",
+          "раньше Швецией.",
+          "Повелел он",
+          "созвать ополчение,",
+          "числом бóльше",
+          "его войско было."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Шли вперёд",
+          "в оружия грохоте",
+          "мужи конунга,",
+          "бойцов множество.",
+          "Было видно там",
+          "Ульва и Эрпа;",
+          "без кольчуги рубил",
+          "я с обеих рук."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Решил Фридтьов",
+          "мира просить,",
+          "ибо Викар был",
+          "беспощаден,",
+          "и Старкад,",
+          "сын Сторвирка,",
+          "всех сильнейший,",
+          "врагов валил."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Дал мне Викар",
+          "металл вальский,",
+          "кольцо красное",
+          "(на руке ношу его)",
+          "мне в три марки;",
+          "отдарился я Трумою.",
+          "Полководцу я следовал",
+          "пятнадцать лет уже."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "lines": [
+          "I Конунг Викар отплыл из Агдира на север в Хёрдаланд, и у него было большое войско. Он надолго встал на якорь у одного острова, поскольку дул сильный встречный ветер. Бросили гадательные дощечки 24 о попутном ветре, и выпало так, что Один желает получить из войска человека по жребию, чтобы повесить. Тогда кинули меж людьми жребий, и выпала эта доля конунгу Викару. От такого все приумолкли, и было решено следующим днём, что советники соберутся по этому трудному вопросу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "II Ночью, около полуночи, Грани Конский Волос разбудил Старкада, своего воспитанника, и велел идти с ним. Они берут небольшую лодку и гребут к одному островку у их острова. Они поднялись к лесу и нашли в нём одну поляну. На поляне находилось великое множество народа, и устроен был тинг. Восседали там на престолах одиннадцать мужей, в то время как двенадцатый пустовал. Они прошли на тинг и сел Грани Конский Волос на двенадцатый престол. Тут все приветствовали Одина. Он сказал, что судьи должны присудить долю Старкаду."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "prose",
+        "lines": [
+          "III Тогда взял Тор слово и сказал: «Альвхильд, мать отца Старкада, предпочла в отцы своему сыну мудрого ётуна, а не Аcатора. Ипредопределяю я Старкаду, что не будет он иметь ни сына, ни дочери и так завершит свой род»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "lines": [
+          "IV Один ответил: «Я предопределяю ему, что он будет жить три людских века»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "prose",
+        "lines": [
+          "V Тор сказал: «Он совершит позорное деяние в каждом из них»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "lines": [
+          "VI Один ответил: «Предопределяю я ему, что он будет иметь лучшие оружие и одежды»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "prose",
+        "lines": [
+          "VII Тор сказал: «Предопределяю я ему, что он не будет иметь ни страны, ни земли»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "prose",
+        "lines": [
+          "VIII Один сказал: «Я одариваю его тем, что он будет иметь движимое имущество»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "prose",
+        "lines": [
+          "IX Тор сказал: «Так постановляю я ему, что никогда он не будет считать, что имеет достаточно»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "lines": [
+          "X Один ответил: «Я даю ему победу и мастерство в каждой битве»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "prose",
+        "lines": [
+          "XI Тор сказал: «Так постановляю я ему, что в каждой битве получит он опасную рану»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "lines": [
+          "XII Один сказал: «Я даю ему талант скальда, так что будет он столь же быстро сочинять стихи, как и говорить»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "prose",
+        "lines": [
+          "XIII Тор сказал: «Он не будет помнить того, что сочиняет»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "prose",
+        "lines": [
+          "XIV Один сказал: «Предопределяю я ему, что будет он почитаться превыше всех меж лучшими и уважаемыми людьми»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "lines": [
+          "XV Тор сказал: «Он будет нелюбим всем народом»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "prose",
+        "lines": [
+          "XVI Затем судьи приговорили Старкада ко всему, что было ими сказано, и завершили тем тинг. Грани Конский Волос и Старкад отправились к своей лодке."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "prose",
+        "lines": [
+          "XVII Тогда сказал Грани Конский Волос Старкаду: «Хорошо бы теперь отплатить мне, воспитанник, за ту помощь, что я даровал тебе»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "prose",
+        "lines": [
+          "XVIII «Хорошо», — ответил Старкад."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "prose",
+        "lines": [
+          "XIX Грани Конский Волос сказал: «Тогда отправь ко мне нынче конунга Викара, я же дам совет, как этого достичь»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "prose",
+        "lines": [
+          "XX Старкад согласился на это. Грани Конский Волос дал ему в руки копьё и сказал, что оно будет казаться стеблем тростника. Тем временем вернулись они с моря к войску, и было тогда начало дня."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "prose",
+        "lines": [
+          "XXI Наутро вслед за тем явились советники конунга на намеченное совещание. Установилось меж ними согласие, что должны они совершить нечто, напоминающее жертвоприношение, и рассказал Старкад свой план. Стояла неподалёку от них сосна, и высокая колода подле неё. Одна тонкая сосновая тонкая ветвь была опущена, а её веточки-отростки тянулись вверх. Слуги в это время готовили еду людям, и был зарезан и выпотрошен телёнок. Старкад велел взять его кишки. Затем поднялся Старкад на колоду, согнул книзу ту тонкую ветвь и привязал к ней телячьи кишки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "lines": [
+          "XXII Тогда обратился Старкад к конунгу: «Вот тут готова виселица, конунг, и выглядит она не слишком грозной. Теперь иди сюда, и я надену петлю тебе на шею»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "prose",
+        "lines": [
+          "XXIII Конунг сказал: «Как кажется, это устройство мне не опасно, так что надеюсь, что оно мне не повредит. Но если это не так, пусть судьба решит, чему свершиться»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "prose",
+        "lines": [
+          "XXIV Он поднялся на колоду. Старкад надел ему на шею петлю, и сошёл с бревна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "prose",
+        "lines": [
+          "XXV Затем Старкад уколол конунга стеблем и сказал: «Теперь я отдаю тебя Одину»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "prose",
+        "lines": [
+          "XXVI Старкад освободил сосновую ветвь. Камышовый стебель стал копьём и пронзил конунга насквозь. Колода упала у него из под ног, а телячьи кишки в петле сделались крепкими, ветвь же поднялась и подняла конунга вместе с порослью веточек, и там он и умер. С тех пор это место зовётся Викарсхольм."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "prose",
+        "lines": [
+          "XXVII Этот поступок сделал Старкада ненавистным людям, и из-за него он в первый раз бежал из Хёрдаланда. После своего бегства он вырвался из Норвегии на восток, в Швецию, и долгое время пробыл там с уппсальскими конунгами Эйриком и Альреком, сыновьями Агни Супруга Скьяльв,28 и ходил с ними в воинские походы. Альрек спросил Старкада, какими вестями он может поделиться о своих родичах и о себе. Тогда Старкад сочинил стихотворение, которое называется «Викарсбалк». Там он так говорит про убийство конунга Викара:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Следовал полководцу я",
+          "из всех славнейшему,",
+          "наслаждался своим",
+          "наилучшим временем,",
+          "пока не пошли мы, —",
+          "то трольш проделки! —",
+          "в последний раз",
+          "к Хёрдаланду."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Работа Торова,",
+          "определил он",
+          "бесчестным зваться мне",
+          "и беды разные;",
+          ".........",
+          ".........",
+          "мне слава следом",
+          "дурная выпала."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Был должен Викара",
+          "на древе выросшем,",
+          "убийцу Гейртьова,",
+          "богам посвятить.",
+          "Вложил копьё",
+          "вождю я в сердце,",
+          "всех дел мне горше",
+          "то дело рук моих."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Оттель побрёл я",
+          "по бездорожью,",
+          "путём суровым,",
+          "с душою мрачной,",
+          "c колец нехваткой,",
+          "хвалебных песен,",
+          "вождя лишенный,",
+          "со скорбным сердцем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Ныне направился",
+          "к народу свейскому,",
+          "в обитель Инглингов",
+          "я в Уппсалу.",
+          "Меня тут приняли, —",
+          "то долго помнить мне, —",
+          "тула-молчальника",
+          "сыны правителя."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "XXVIII То можно узнать о Старка-",
+          "де, что он считал наихудшим и",
+          "самым чудовищным из всех дея-",
+          "ний убийство конунга Викара..."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Меня усадили",
+          "парней промеж,",
+          "весьма ехидных,",
+          "белых ресницами,",
+          "мужам в посмешище.",
+          "Шуточки тянутся",
+          "чрезмерно робких",
+          "за князя чудищем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Мнится им, видят",
+          "во мне самом",
+          "ётуна метку,",
+          "те восемь рук,",
+          "что Молот Хлорриди",
+          "пред тем на севере",
+          "убийцы Хергрима",
+          "похитил некогда."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Смеются герои,",
+          "меня завидев:",
+          "безобразную рожу,",
+          "длинное рыло,",
+          "волосы волчьи,",
+          "клыки висящие,",
+          "шершавую шею",
+          "и грубую шкуру."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "A boy was I when they burned in hall,",
+          "with my father, the warrior host—",
+          "not far outside the firth of Thruma."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Was Harold of Agthir’s host overthrown—",
+          "had his kinsmen bewrayed the ring-breaker,",
+          "Fiori and Fýri, earl Freki’s heirs.",
+          "Were they Unni’s brothers, my own mother’s;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "the time Herthióf Harold betrayed,",
+          "betrayed the king who trusted in him.",
+          "He robbed of his life the liege of Agthir,",
+          "and fetters fastened for his twain sons."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Me three winters old thence did bring",
+          "Hrosshársgrani to Horthaland;",
+          "at Ask gan I grow and strengthen,",
+          "saw none of my sib for nine summers."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Strength gat I mighty, grew stalwart my arms,",
+          "and long my legs, loathly my head;",
+          "as a gaby, dozing I gaping sate,",
+          "listless and lazy, on lower bench."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Then Víkar wended, from watch-fire faring,",
+          "Herthióf’s hostage, into the hall.",
+          "He knew me again by name and bade me",
+          "up to arise and answer him."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "With hands and fingers he fathomed me:",
+          "were all my arms (much etin-like,)",
+          "to the wrists downward (rough and hairy,)",
+          "and my face bearded from brow to chin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Then Harold’s heir the host gathered:",
+          "Sorkvir and Grettir and Hildigrím,",
+          "Erp and Ulf, Án and Skúma,",
+          "Hrói and Hrotti, which were Herbrand’s sons,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Stýr and Steinthór from Stath in the North,",
+          "gathered also old Gunnólf blesi.",
+          "Were then of us thirteen together:",
+          "a hardier host will hardly be found."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "To Herthióf’s hall we hied us then,",
+          "shook its door-posts, broke down its gates,",
+          "shattered its bars, brandished our swords",
+          "where stood seventy stalwart warriors."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "We vied with each other, Víkar to follow",
+          "since first and foremost in the flock he stood;",
+          "we hewed helmets and the heads that bore them,",
+          "sundered byrnies and broke through shields."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Was great glory granted to Víkar,",
+          "but Herthióf paid for his hateful deed:",
+          "some we wounded, and slew others;",
+          "not far was I stead when fell the king."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "On the Vænir18 wert not with Víkar then,",
+          "east in the land at early morn,",
+          "in the field when we fought with Sísar:",
+          "were those doughty deeds of undying fame."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "With his sword did he sorely wound me—",
+          "sharp-edged was it— through my shield cleaving.",
+          "My helm he hewed from off my head,",
+          "my chin he cleft clean to the jawteeth."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "And on one side with his sword he cut me—",
+          "mightier than I— the midriff above;",
+          "but through the other he thrust his spear,",
+          "the cold iron, within it stood."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "With my sword, Sísar’s side I cut then",
+          "with bitter brand, his belly athwart.",
+          "So wrathfully I raised my sword",
+          "that all my strength I bestowed on it."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Much Welsh gold gave me Víkar—",
+          "the red-gold ring which on wrist I wear,",
+          "of three marks’ weight; I Thruma gave him.",
+          "I followed the king fifteen summers."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "I followed the king whom foremost I knew:",
+          "my life did I like best then.",
+          "’T was ere we fared— did foul trolls drive us—",
+          "to Horthaland: this happened last."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "The outcome this, that Thór gave me",
+          "a nithing’s25 name, unnumbered woes—",
+          ".........",
+          "I was fated fell things to do."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "In high tree was I to hallow Víkar,",
+          "to give to the gods Geirthiof’s slayer.",
+          "Through his heart I thrust the thane with my spear:",
+          "of all my works most woeful this!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "On wilding ways I wandered thence,",
+          "by the Horthar hated, with heart rueful,",
+          "bereft of rings and robbed of honor,",
+          "leaderless, forlorn in mind."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Now have I sought the Swedish lands,",
+          "the Ynglings’ seat, Uppsala halls.",
+          "A speechless poet, the prince’s sons",
+          "did let me stay— as long I shall."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "They set me here brash30 swains between,",
+          "who scornfully scoff at the aged skald;",
+          "gleefully girding, they make game of me,",
+          "and lewdly laugh at the liege’s poet."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "They ween they see on my own self",
+          "the etin mark of eight arms,",
+          "the time Hlórrithi31 Hergrím’s slayer",
+          "reft of his arms in the outmost North."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "The men laugh when looking at me—",
+          "at my loathly mug and long snout,",
+          "my wolf-grey hair and hanging arms,",
+          "my scurvy neck and wrinkled skin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "28",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "29",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "30",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "31",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "32",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "33",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "34",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "35",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "36",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "37",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "38",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "39",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "40",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "41",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "42",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "43",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "44",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "45",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "46",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "47",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "48",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "49",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "50",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "51",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "52",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "58",
+        "type": "prose",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

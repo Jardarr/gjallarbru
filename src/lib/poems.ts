@@ -6,6 +6,7 @@ export function getPoemsList(): PoemListItem[] {
         slug: poem.slug,
         key: poem.key,
         title: poem.title,
+        category: poem.category,
     }));
 }
 

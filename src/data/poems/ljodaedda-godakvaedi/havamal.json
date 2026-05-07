@@ -1,0 +1,7274 @@
+{
+  "category": "ljodaedda-godakvaedi",
+  "slug": "havamal",
+  "key": "Havamal",
+  "title": {
+    "on": "Hávamál",
+    "ru": "Речи Высокого",
+    "en": "Sayings of the High One"
+  },
+  "subtitle": {
+    "on": "",
+    "ru": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "Прежде чем в дом войдешь, все входы ты осмотри, ты огляди, — ибо как знать, в этом жилище недругов нет ли.",
+    "en": "Within the gates ere a man shall go, (Full warily let him watch,) Full long let him look about him; For little he knows where a foe may lurk, And sit in the seats within."
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Haraldur Bernharðsson. Текст на русском языке в переводе А. И. Корсуна, СЭ–1963, с. 16–30",
+    "en": "An ancient Icelandic text, edited by Haraldur Bernharðsson. Translation by Henry Adams Bellows."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          "I. Gestaþáttr"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Gáttir allar,",
+          "áðr gangi fram,",
+          "um skoðaz skyli,",
+          "um skyggnaz skyli",
+          "því að óvíst er að vita",
+          "hvar óvinir",
+          "sitja á fleti fyr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Gefendr heilir!",
+          "Gestr er inn kominn!",
+          "Hvar skal sitja sjá?",
+          "Mjök er bráðr",
+          "sá er á bröndum skal",
+          "síns um freista frama."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Elds er þörf",
+          "þeim s inn er kominn",
+          "ok á kné kalinn;",
+          "matar ok váða",
+          "er manni þörf,",
+          "þeim er hefir um fjall farið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Vatns er þörf",
+          "þeim er til verðar kjömr,",
+          "þerru ok þjóðlaðar,",
+          "góðs um æðis,",
+          "ef sér geta mætti,",
+          "orðs ok endrþögu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Vits er þörf",
+          "þeim er víða ratar;",
+          "dælt er heima hvað;",
+          "að augabragði verðr",
+          "sá er ekki kann",
+          "ok með snotrum sitr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Að hyggjandi sinni",
+          "skyli t maðr hræsinn vera",
+          "heldr gætinn að geði;",
+          "þá er horskr ok þögull",
+          "kjömr heimisgarða til",
+          "sjaldan verðr víti vörum",
+          "því að óbrigðra vin",
+          "fær maðr aldregi",
+          "en manvit mikið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Inn vari gestr,",
+          "er til verðar kjömr,",
+          "þunnu hljóði þegir;",
+          "eyrum hlýðir",
+          "en augum skoðar;",
+          "svá nýsiz fróðra hverr fyr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Hinn er sæll",
+          "er sér um getr",
+          "lof ok líknstafi;",
+          "ódælla er við það",
+          "er maðr eiga skal",
+          "annars brjóstum í."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Sá er sæll",
+          "er sjálfr um á",
+          "lof ok vit meðan lifir",
+          "því að ill ráð",
+          "hefir maðr oft þegið",
+          "annars brjóstum ór."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Byrði betri",
+          "berr at maðr brautu að",
+          "en sé manvit mikið;",
+          "auði betra",
+          "þikkir það í ókunnum stað,",
+          "slíkt er válaðs vera."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Byrði betri",
+          "berr at maðr brautu að",
+          "en sé manvit mikið;",
+          "vegnest verra",
+          "vegr a hann velli að",
+          "en sé ofdrykkja öls;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "er a svá gott",
+          "sem gott kveða",
+          "öl alda sona",
+          "því að færa veit",
+          "er fleira drekkr",
+          "síns til geðs gumi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Óminnis hegri heitir",
+          "sá er yfir ölðrum þrumir,",
+          "hann stelr geði guma;",
+          "þess fugls fjöðrum",
+          "ek fjötraðr var-k",
+          "í garði Gunnlaðar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Ölr ek varð,",
+          "varð ofrölvi,",
+          "að ins fróða Fjalars;",
+          "því er ölðr bazt,",
+          "að aftr uf heimtir",
+          "hverr sitt geð gumi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Þagalt ok hugalt",
+          "skyli þjóðans barn",
+          "ok vígdjarft vera; ‖",
+          "glaðr ok reifr",
+          "skyli gumna hverr",
+          "unz sinn bíðr bana."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Ósnjallr maðr",
+          "hyggz munu ey lifa",
+          "ef hann við víg varaz",
+          "en elli gefr",
+          "hánum engi frið",
+          "þótt hánum geirar gefi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Kópir afglapi",
+          "er til kynnis kjömr,",
+          "þylsk hann um eða þrumir;",
+          "allt er senn",
+          "ef hann sylg um getr,",
+          "uppi er þá geð guma."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Sá einn veit,",
+          "er víða ratar",
+          "ok hefir fjölð um farið,",
+          "hverju geði",
+          "stýrir gumna hverr;",
+          "sá er vitandi er vits."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Haldi-t maðr á keri,",
+          "drekki þó að hófi mjöð,",
+          "mæli þarft eða þegi;",
+          "ókynnis þess",
+          "vár þik engi maðr",
+          "að þú gangir snemma að sofa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Gráðugr halr,",
+          "nema geðs viti,",
+          "etr sér aldrtrega;",
+          "oft fær hlægis,",
+          "er með horskum kjömr,",
+          "manni heimskum magi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Hjarðir það vitu",
+          "nær þær heim skulu",
+          "ok ganga þá af grasi",
+          "en ósviðr maðr",
+          "kann ævagi",
+          "síns um mál maga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Vesall maðr",
+          "ok illa skapi",
+          "hlær að hvívetna;",
+          "hitt ki hann veit,",
+          "er hann vita þyrfti,",
+          "að hann er a vamma vanr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Ósviðr maðr",
+          "vakir um allar nætr",
+          "ok hyggr að hvívetna;",
+          "þá er móðr",
+          "er að morgni kjömr:",
+          "allt er víl sem var."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Ósnotr maðr",
+          "hyggr sér alla vera",
+          "viðhlæjendr vini;",
+          "hitt ki hann fiðr",
+          "þótt þeir um hann fár lesi",
+          "ef hann með snotrum sitr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Ósnotr maðr",
+          "hyggr sér alla vera",
+          "viðhlæjendr vini;",
+          "þá það finnr",
+          "er að þingi kjömr",
+          "að hann á formælendr fá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Ósnotr maðr",
+          "þikkiz allt vita",
+          "ef hann á sér í vá veru;",
+          "hitt ki hann veit",
+          "hvað hann skal við kveða",
+          "ef hans freista firar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Ósnotr maðr",
+          "er með aldir kjömr,",
+          "það er bazt að hann þegi;",
+          "engi það veit",
+          "að hann ekki kann",
+          "nema hann mæli til margt;",
+          "veit a maðr,",
+          "hinn er vættki veit,",
+          "þótt hann mæli til margt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Fróðr sá þykkiz",
+          "er fregna kann",
+          "ok segja ið sama;",
+          "eyvitu leyna",
+          "megu ýta sönir,",
+          "því er gengr um guma."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Ærna mælir",
+          "sá er æva þegir",
+          "staðlausu stafi;",
+          "hraðmælt tunga,",
+          "nema haldendr eigi,",
+          "oft sér ógott um gelr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Að augabragði",
+          "skal a maðr annan hafa",
+          "þótt til kynnis komi;",
+          "margr þá fróðr þikkiz",
+          "ef hann freginn er at",
+          "ok nái hann þurrfjallr þruma."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Fróðr þikkiz",
+          "sá er flótta tekr",
+          "gestr að gest hæðinn;",
+          "veit a görla",
+          "sá er um verði ‖ glissir",
+          "þótt hann með grömum glami."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Gumnar margir",
+          "eru sk gagnhollir",
+          "en að virði rekaz;",
+          "aldar róg",
+          "það mun æ vera,",
+          "órir gestr við gest."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Árliga verðar",
+          "skyli maðr oft fá",
+          "nema til kynnis komi;",
+          "sitr ok snópir,",
+          "lætr sem sólginn sé",
+          "ok kann fregna að fá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Afhvarf mikið",
+          "er til illz vinar",
+          "þótt á brautu búi",
+          "en til góðs vinar",
+          "liggja gagnvegir",
+          "þótt hann sé firr farinn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Ganga skal,",
+          "skal a gestr vera",
+          "ey í einum stað;",
+          "ljúfr verðr leiðr",
+          "ef lengi sitr",
+          "annars fletjum á."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Bú er betra",
+          "þótt lítið sé,",
+          "halr er heima hverr;",
+          "þótt tvær geitr eigi",
+          "ok taugreftan sal,",
+          "það er þó betra en bæn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Bú er betra",
+          "þótt lítið sé,",
+          "halr er heima hverr;",
+          "blóðugt er hjarta",
+          "þeim er biðja skal",
+          "sér í mál hvert matar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Vápnum sínum",
+          "skal a maðr velli á",
+          "feti ganga framarr",
+          "því að óvíst er að vita",
+          "nær verðr á vegum úti",
+          "geirs um þörf guma."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Fann k a ek mildan mann",
+          "eða svá matargóðan",
+          "að ei væri þiggja þegið",
+          "eða síns fjár",
+          "svági [glöggvan],",
+          "að leið sé laun ef þægi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Fjár síns,",
+          "er fengið hefr,",
+          "skyli-t maðr þörf þola;",
+          "oft sparir leiðum",
+          "það s hefir ljúfum hugað;",
+          "margt gengr verr en varir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Vápnum ok váðum",
+          "skulu vinir gleðjaz,",
+          "það er á sjálfum sýnst;",
+          "viðrgefendr ok endrgefendr",
+          "eru st lengst vinir",
+          "ef það bíðr að verða vel."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Vin sínum",
+          "skal maðr vinr vera",
+          "ok gjalda gjöf við gjöf;",
+          "hlátr við hlátri",
+          "skyli hölðar taka",
+          "en lausung við lygi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Vin sínum",
+          "skal maðr vinr vera,",
+          "þeim ok þess vin;",
+          "en óvinar síns",
+          "skyli engi maðr",
+          "vinar vinr vera."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Veizt u, ef þú vin átt,",
+          "þann er þú vel trúir",
+          "ok vill þú af hánum gott geta,",
+          "geði skalt u við þann blanda",
+          "ok gjöfum skipta,",
+          "fara að finna oft."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Ef þú átt annan,",
+          "þann z þú illa trúir,",
+          "vild u af hánum þó gott geta,",
+          "fagrt skalt u við þann mæla",
+          "en flátt hyggja",
+          "ok gjalda lausung við lygi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Það er enn of þann",
+          "er þú illa trúir",
+          "ok þér er grunr að hans geði,",
+          "hlæja skalt u við þeim",
+          "ok um hug mæla;",
+          "glík skulu gjöld gjöfum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Ungr var ek forðum,",
+          "fór ek einn saman;",
+          "þá varð ek villr vega;",
+          "auðigr þóttumz",
+          "er ek annan fann;",
+          "maðr er mannz gaman."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Mildir, fræknir",
+          "menn bazt lifa,",
+          "sjaldan sút ala;",
+          "en ósnjallr maðr",
+          "uggir hotvetna,",
+          "sýtir æ glöggr við gjöfum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "Váðir mínar",
+          "gaf ek velli að",
+          "tveim trémönnum:",
+          "Rekkar það þóttuz",
+          "er þeir rift höfðu;",
+          "neiss er nökkviðr halr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Hrörnar þöll",
+          "sú ‖ er stendr þorpi á,",
+          "hlýr at henni börkr né barr;",
+          "svá er maðr",
+          "sá er manngi ann;",
+          "hvað skal hann lengi lifa?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Eldi heitari",
+          "brennr með illum vinum",
+          "friðr fimm daga",
+          "en þá sloknar",
+          "er inn sétti kjömr",
+          "ok versnar allr vinskapr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Mikið eitt",
+          "skal a manni gefa;",
+          "oft kaupir sér í litlu lof;",
+          "með hálfum hleif",
+          "ok með höllu keri",
+          "fekk ek mér félaga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "Lítilla sanda,",
+          "lítilla sæva,",
+          "lítil eru geð guma;",
+          "því að allir menn",
+          "urðu t jafnspakir;",
+          "hálb er öld hvar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Meðalsnotr",
+          "skyli manna hverr,",
+          "æva til snotr sé;",
+          "þeim er fyrða",
+          "fegrst að lifa",
+          "er vel margt vitu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Meðalsnotr",
+          "skyli manna hverr,",
+          "æva til snotr sé;",
+          "því að snotrs mannz hjarta",
+          "verðr sjaldan glatt",
+          "ef sá er alsnotr er á."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Meðalsnotr",
+          "skyli manna hverr,",
+          "æva til snotr sé;",
+          "örlög sín",
+          "viti engi maðr fyrir;",
+          "þeim er sorgalausastr sefi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Brandr af brandi",
+          "brenn unz brunninn er,",
+          "funi kveykiz af funa;",
+          "maðr af manni",
+          "verðr að máli kuðr",
+          "en til dælskr af dul."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Ár skal rísa",
+          "sá er annars vill",
+          "fé eða fjör hafa;",
+          "sjaldan liggjandi úlfr",
+          "lær um getr",
+          "né sofandi maðr sigr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Ár skal rísa",
+          "sá er á yrkjendr fá",
+          "ok ganga síns verka á vit;",
+          "margt um dvelr",
+          "þann er um morgin sefr;",
+          "hálfr er auðr und hvötum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Þurra skíða",
+          "ok þakinna næfra,",
+          "þess kann maðr mjöt,",
+          "ok þess viðar",
+          "er vinnaz megi",
+          "mál ok misseri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Þveginn ok mettr",
+          "ríði maðr þingi að",
+          "þótt hann sé-t væddr til vel;",
+          "skúa ok bróka",
+          "skammiz engi maðr",
+          "né hests in heldr",
+          "þótt hann hafi-t góðan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Fregna ok segja",
+          "skal fróðra hverr,",
+          "sá er vill heitinn horskr;",
+          "einn vita",
+          "né annarr skal;",
+          "þjóð veit ef þrír u."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Snapir ok gnapir,",
+          "er til sævar kjömr,",
+          "örn á aldinn mar;",
+          "svá er maðr",
+          "er með mörgum kjömr",
+          "ok á formælendr fá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Ríki sitt",
+          "skyli ráðsnotra hverr",
+          "í hófi hafa;",
+          "þá hann það finnr",
+          "er með fræknum kjömr",
+          "að engi er einna hvatastr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          ".........",
+          "Orða þeira,",
+          "er maðr öðrum segir,",
+          "oft hann gjöld um getr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "Mikilsti snemma",
+          "kom ek í marga staði",
+          "en til síð í suma:",
+          "öl var drukkið,",
+          "sumt var ólagað;",
+          "sjaldan hittir leiðr í lið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "67.",
+        "lines": [
+          "Hér ok hvar",
+          "myndi mér heim uf boðið",
+          "ef þyrfta k að málun gi mat",
+          "eða tvau lær hengi",
+          "að ins tryggva vinar",
+          "þar s ek hafða eitt etið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "68.",
+        "lines": [
+          "Eldr er beztr",
+          "með ýta sonum",
+          "ok sólar sýn,",
+          "heilyndi sitt",
+          "ef maðr hafa náir",
+          "án við löst að lifa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "69.",
+        "lines": [
+          "Er at maðr allz vesall",
+          "þótt hann sé illa heill: ‖",
+          "Sumr er af sonum sæll,",
+          "sumr af frændum,",
+          "sumr af fé ærnu,",
+          "sumr af verkum vel."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "70.",
+        "lines": [
+          "Betra er lifðum",
+          "ok sællifðum;",
+          "ey getr kvikr kú;",
+          "eld sá ek upp brenna",
+          "auðgum manni fyr",
+          "en úti var dauðr fyr durum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "71.",
+        "lines": [
+          "Haltr ríðr hrossi,",
+          "hjörð rekr handarvanr,",
+          "daufr vegr ok dugir;",
+          "blindr er betri",
+          "en brenndr sé;",
+          "nýtr manngi nás."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "stanza",
+        "number": "72.",
+        "lines": [
+          "Sonr er betri",
+          "þótt sé síð of alinn",
+          "eftir genginn guma;",
+          "sjaldan bautarsteinar",
+          "standa brautu nær",
+          "nema reisi niðr að nið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "73.",
+        "lines": [
+          "Tveir ru eins herjar,",
+          "tunga er höfuðs bani,",
+          "er mér í heðin hvern",
+          "handar væni;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "74.",
+        "lines": [
+          "nótt verðr feginn",
+          "sá er nesti trúir;",
+          "skammar ru skips rár;",
+          "hverb er haustgríma;",
+          "fjölð um viðrir",
+          "á fimm dögum,",
+          "enn meira á mánaði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "75.",
+        "lines": [
+          "Veit a hinn",
+          "er vættki veit:",
+          "Margr verðr aflauðrum api;",
+          "maðr er auðigr,",
+          "annarr óauðigr,",
+          "skyli t þann vítka vár."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "76.",
+        "lines": [
+          "Deyr fé,",
+          "deyja frændr,",
+          "deyr sjálfr ið sama;",
+          "en orðstírr",
+          "deyr aldregi",
+          "hveim er sér góðan getr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "77.",
+        "lines": [
+          "Deyr fé,",
+          "deyja frændr,",
+          "deyr sjálfr ið sama;",
+          "ek veit einn",
+          "að aldri deyr",
+          "dómr um dauðan hvern."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "stanza",
+        "number": "78.",
+        "lines": [
+          "Fullar grindr",
+          "sá ek fyr Fitjungs sonum;",
+          "nú bera þeir vánar völ;",
+          "svá er auðr",
+          "sem augabragð;",
+          "hann er valtastr vina."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "79.",
+        "lines": [
+          "Ósnotr maðr,",
+          "ef eignaz getr",
+          "fé eða fljóðs munúð,",
+          "metnaðr hánum þróaz",
+          "en manvit aldregi;",
+          "fram gengr hann drjúgt í dul."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "80.",
+        "lines": [
+          "Það er þá reynt",
+          "er þú að rúnum spyrr",
+          "inum reginkunnum,",
+          "þeim er gjörðu ginnregin",
+          "ok fáði fimbulþulr;",
+          "þá hefir hann bazt ef hann þegir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "81.",
+        "lines": [
+          "Að kveldi skal dag leyfa,",
+          "konu er brennd er,",
+          "mæki er reyndr er,",
+          "mey er gefin er,",
+          "ís er yfir kjömr,",
+          "öl er drukkið er."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "stanza",
+        "number": "82.",
+        "lines": [
+          "Í vindi skal við höggva,",
+          "veðri á sjó róa,",
+          "myrkri við man spjalla;",
+          "mörg eru dags augu;",
+          "á skip skal skriðar orka",
+          "en á skjöld til hlífar,",
+          "mæki höggs",
+          "en mey til kossa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "stanza",
+        "number": "83.",
+        "lines": [
+          "Við eld skal öl drekka",
+          "en á ísi skríða,",
+          "magran mar kaupa",
+          "en mæki saurgan,",
+          "heima hest feita",
+          "en hund á búi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "stanza",
+        "number": "84.",
+        "lines": [
+          "Meyjar orðum",
+          "skyli manngi trúa",
+          "né því er kveðr kona",
+          "því að á hverfanda hvéli",
+          "vóru þeim hjörtu sköpuð,",
+          "brigð í brjóst um lagið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "stanza",
+        "number": "85.",
+        "lines": [
+          "Brestanda boga,",
+          "brennanda loga,",
+          "gínanda úlfi,",
+          "galandi kráku,",
+          "rýtanda svíni,",
+          "rótlausum viði,",
+          "vaxanda vági,",
+          "vellanda katli."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "87",
+        "type": "stanza",
+        "number": "86.",
+        "lines": [
+          "Fljúganda fleini,",
+          "fallandi báru,",
+          "ísi einnættum,",
+          "ormi hringlegnum,",
+          "brúðar beðmálum",
+          "eða brotnu sverði,",
+          "bjarnar leiki",
+          "eða barni konungs."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "88",
+        "type": "stanza",
+        "number": "87.",
+        "lines": [
+          "Sjúkum kálfi,",
+          "sjálfráða þræli,",
+          "völu vilmæli,",
+          "val nýfelldum;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "89",
+        "type": "stanza",
+        "number": "88.",
+        "lines": [
+          "akri ár ‖ sánum",
+          "trúi engi maðr",
+          "né til snemma syni;",
+          "veðr ræðr akri",
+          "en vit syni;",
+          "hætt er þeira hvárt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "90",
+        "type": "stanza",
+        "number": "89.",
+        "lines": [
+          "Bróðurbana sínum",
+          "þótt á brautu mæti,",
+          "húsi hálfbrunnu,",
+          "hesti alskjótum;",
+          "þá er jór ónýtr",
+          "ef einn fótr brotnar;",
+          "verðr it maðr svá tryggr",
+          "að þessu trúi öllu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "91",
+        "type": "stanza",
+        "number": "90.",
+        "lines": [
+          "Svá er friðr kvenna,",
+          "þeira er flátt hyggja,",
+          "sem aki jó óbryddum",
+          "á ísi hálum,",
+          "teitum, tvévetrum,",
+          "ok sé tamr illa,",
+          "eða í byr óðum",
+          "beiti stjórnlausu,",
+          "eða skyli haltr henda",
+          "hrein í þáfjalli."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "92",
+        "type": "stanza",
+        "number": "91.",
+        "lines": [
+          "Bert ek nú mæli",
+          "því að ek bæði veit,",
+          "brigðr er karla hugr konum;",
+          "þá vér fegrst mælum",
+          "er vér flást hyggjum;",
+          "það tælir horska hugi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "93",
+        "type": "stanza",
+        "number": "92.",
+        "lines": [
+          "Fagrt skal mæla",
+          "ok fé bjóða",
+          "sá er vill fljóðs ást fá,",
+          "líki leyfa",
+          "ins ljósa mans;",
+          "sá fær er frjár."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "94",
+        "type": "stanza",
+        "number": "93.",
+        "lines": [
+          "Ástar firna",
+          "skyli engi maðr",
+          "annan aldregi;",
+          "oft fá á horskan,",
+          "er á heimskan né fá,",
+          "lostfagrir litir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "95",
+        "type": "stanza",
+        "number": "94.",
+        "lines": [
+          "Eyvitar firna",
+          "er maðr annan skal",
+          "þess er um margan gengr guma;",
+          "heimska ór horskum",
+          "gjörir hölða sonu",
+          "sá inn máttki munr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "96",
+        "type": "stanza",
+        "number": "95.",
+        "lines": [
+          "Hugr einn það veit",
+          "er býr hjarta nær,",
+          "einn er hann sér um sefa;",
+          "öng er sótt verri",
+          "hveim snotrum manni",
+          "en sér öngu að una."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "97",
+        "type": "stanza",
+        "number": "96.",
+        "lines": [
+          "Það ek þá reynda",
+          "er ek í reyri sat",
+          "ok vætta k míns munar;",
+          "hold ok hjarta",
+          "var mér in horska mær;",
+          "þeygi ek hana að heldr hefi-k."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "98",
+        "type": "stanza",
+        "number": "97.",
+        "lines": [
+          "Billings mey",
+          "ek fann beðjum á,",
+          "sólhvíta sofa;",
+          "jarls ynði",
+          "þótti mér ekki vera",
+          "nema við það lík að lifa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "99",
+        "type": "stanza",
+        "number": "98.",
+        "lines": [
+          "«Auk nær aftni",
+          "skalt u, Óðinn, koma",
+          "ef þú vilt þér mæla man;",
+          "allt eru ósköp",
+          "nema einir viti",
+          "slíkan löst saman.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "100",
+        "type": "stanza",
+        "number": "99.",
+        "lines": [
+          "Aftr ek hvarf",
+          "ok unna þóttumz",
+          "vísum vilja frá;",
+          "hitt ek hugða",
+          "að ek hafa mynda",
+          "geð hennar allt ok gaman."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "101",
+        "type": "stanza",
+        "number": "100.",
+        "lines": [
+          "Svá kom ek næst",
+          "að in nýta var",
+          "vígdrótt öll um vakin,",
+          "með brennandum ljósum",
+          "ok bornum viði,",
+          "svá var mér vilstígr of vitaðr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "102",
+        "type": "stanza",
+        "number": "101.",
+        "lines": [
+          "Ok nær morgni,",
+          "er ek var enn um kominn,",
+          "þá var saldrótt um sofin;",
+          "grey eitt ek þá fann",
+          "innar góðu konu",
+          "bundið beðjum á."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "103",
+        "type": "stanza",
+        "number": "102.",
+        "lines": [
+          "Mörg er góð mær,",
+          "ef görva kannar,",
+          "hugbrigð við hali;",
+          "þá ek það reynda",
+          "er ið ráðspaka",
+          "teygða ek á flærðir fljóð.",
+          "Háðungar hverrar",
+          "leitaði mér ið horska man",
+          "ok hafða ek þess vættki vífs."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "104",
+        "type": "stanza",
+        "number": "103.",
+        "lines": [
+          "Heima glaðr gumi",
+          "ok við gesti reifr,",
+          "sviðr skal um sik vera,",
+          "minnigr ok málugr",
+          "ef hann vill margfróðr vera,",
+          "oft skal góðs geta.",
+          "Fimbulfambi heitir",
+          "sá er fátt kann segja;",
+          "það er ósnotrs aðal."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "105",
+        "type": "stanza",
+        "number": "104.",
+        "lines": [
+          "Inn aldna jötun ‖ ek sótta;",
+          "nú em ek aftr um kominn;",
+          "fátt gat ek þegjandi þar;",
+          "mörgum orðum",
+          "mælta ek í minn frama",
+          "í Suttungs sölum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "106",
+        "type": "stanza",
+        "number": "105.",
+        "lines": [
+          "Gunnlöð mér um gaf",
+          "gullnum stóli á",
+          "drykk ins dýra mjaðar;",
+          "ill iðgjöld",
+          "lét ek hana eftir hafa",
+          "síns ins heila hugar,",
+          "síns ins svára sefa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "107",
+        "type": "stanza",
+        "number": "106.",
+        "lines": [
+          "Rata munn",
+          "létumk rúms um fá",
+          "ok um grjót gnaga;",
+          "yfir ok undir",
+          "stóðu mk jötna vegir;",
+          "svá hætta ek höfði til."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "108",
+        "type": "stanza",
+        "number": "107.",
+        "lines": [
+          "Vel keypts litar",
+          "hefi ek vel notið,",
+          "fás er fróðum vant",
+          "því að Óðrerir",
+          "er nú upp kominn",
+          "á alda vés jarðar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "109",
+        "type": "stanza",
+        "number": "108.",
+        "lines": [
+          "Ifi er mér á",
+          "að ek væra enn kominn",
+          "jötna görðum ór",
+          "ef ek Gunnlaðar né nyta k,",
+          "innar góðu konu,",
+          "þeirar er lögð umk arm yfir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "110",
+        "type": "stanza",
+        "number": "109.",
+        "lines": [
+          "Ins hindra dags",
+          "gengu hrímþursar",
+          "Háva ráðs að fregna",
+          "Háva höllu í;",
+          "að Bölverki þeir spurðu,",
+          "ef hann væri með",
+          "böndum kominn",
+          "eða hefði hánum",
+          "Suttungr of sóið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "111",
+        "type": "stanza",
+        "number": "110.",
+        "lines": [
+          "Baugeið Óðinn",
+          "hygg ek að unnið hafi;",
+          "hvað skal hans tryggðum trúa?",
+          "Suttung svikinn",
+          "hann lét sumbli frá",
+          "ok grætta Gunnlöðu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "112",
+        "type": "stanza",
+        "number": "111.",
+        "lines": [
+          "Mál er að þylja",
+          "þular stóli á,",
+          "Urðar brunni að,",
+          "sá ek ok þagða k,",
+          "sá ek ok hugða k,",
+          "hlýdda ek á manna mál,",
+          "of rúnar heyrða ek dæma,",
+          "né um ráðum þögðu,",
+          "Háva höllu að,",
+          "Háva höllu í,",
+          "heyrða ek segja svá:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "113",
+        "type": "stanza",
+        "number": "112.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "að þú ráð nemir,",
+          "njóta mund u ef þú nemr,",
+          "þér munu góð ef þú getr:",
+          "nótt þú rís at",
+          "nema á njósn sér",
+          "eða þú leitir þér innan út staðar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "114",
+        "type": "stanza",
+        "number": "113.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "að þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr:",
+          "fjölkunnigri konu",
+          "skal at u í faðmi sofa",
+          "svá að hon lyki þik liðum;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "115",
+        "type": "stanza",
+        "number": "114.",
+        "lines": [
+          "hon svá gjörir",
+          "að þú gáir eigi",
+          "þings né þjóðans máls;",
+          "mat þú vill at",
+          "né mannzkis gaman,",
+          "ferr þú sorgafullr að sofa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "116",
+        "type": "stanza",
+        "number": "115.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "að þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr:",
+          "annars konu",
+          "teyg ðu þér aldregi",
+          "eyrarúnu að."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "117",
+        "type": "stanza",
+        "number": "116.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "á fjalli eða firði,",
+          "ef þik fara tíðir,",
+          "fást u að virði vel."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "118",
+        "type": "stanza",
+        "number": "117.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr:",
+          "illan mann",
+          "lát tu aldregi",
+          "óhöpp að þér vita",
+          "því að af illum manni",
+          "fær þú aldregi",
+          "gjöld ins góða hugar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "119",
+        "type": "stanza",
+        "number": "118.",
+        "lines": [
+          "Ofarla bíta",
+          "ek sá einum hal",
+          "orð illrar konu;",
+          "fláráð tunga",
+          "varð hánum að fjörlagi",
+          "ok þeygi um sanna sök."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "120",
+        "type": "stanza",
+        "number": "119.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "veizt u ef þú vin átt,",
+          "þann z þú vel trúir,",
+          "far ðu að finna oft",
+          "því að hrísi vex",
+          "ok hávu grasi",
+          "vegr er vættki tröðr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "121",
+        "type": "stanza",
+        "number": "120.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "góðan mann",
+          "teyg ðu þér að gamanrúnum",
+          "ok nem líknargaldr meðan",
+          " þú lifir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "122",
+        "type": "stanza",
+        "number": "121.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "vin þínum",
+          "ver þú aldregi",
+          "fyrri að flaumslitum;",
+          "sorg etr hjarta",
+          "ef þú segja né náir",
+          "einhverjum allan hug."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "123",
+        "type": "stanza",
+        "number": "122.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "orðum skipta",
+          "þú skalt aldregi",
+          "við ósvinna apa;"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "124",
+        "type": "stanza",
+        "number": "123.",
+        "lines": [
+          "því að af illum manni",
+          "mund u aldregi ‖",
+          "góðs laun um geta",
+          "en góðr maðr",
+          "mun þik gjörva mega",
+          "líknfastan að lofi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "125",
+        "type": "stanza",
+        "number": "124.",
+        "lines": [
+          "Sifjum er þá blandað",
+          "hverr er segja ræðr",
+          "einum allan hug;",
+          "allt er betra",
+          "en sé brigðum að vera;",
+          "er a sá vinr öðrum",
+          "er vilt eitt segir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "126",
+        "type": "stanza",
+        "number": "125.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "þrimr orðum senna",
+          "skal at u þér við verra mann;",
+          "oft inn betri bilar",
+          "þá er inn verri vegr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "127",
+        "type": "stanza",
+        "number": "126.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "skósmiðr þú verir",
+          "né skeftismiðr",
+          "nema þú sjálfum þér sér;",
+          "skór er skapaðr illa",
+          "eða skaft sé rangt",
+          "þá er þér böls beðið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "128",
+        "type": "stanza",
+        "number": "127.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "hvar s þú böl kannt",
+          "kveð u þér bölvi að",
+          "ok gef at þínum fjándum frið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "129",
+        "type": "stanza",
+        "number": "128.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "illu feginn",
+          "ver þú aldregi",
+          "en lát þér að góðu getið."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "130",
+        "type": "stanza",
+        "number": "129.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "upp líta",
+          "skal at tu í orrustu,",
+          "gjalti glíkir",
+          "verða gumna synir,",
+          "síðr þitt um heilli halir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "131",
+        "type": "stanza",
+        "number": "130.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr:",
+          "Ef þú vilt þér góða konu",
+          "kveðja að gamanrúnum",
+          "ok fá fögnuð af,",
+          "fögru skald u heita",
+          "ok láta fast vera;",
+          "leiðiz manngi gott ef getr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "132",
+        "type": "stanza",
+        "number": "131.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "varan bið ek þik vera",
+          "ok eigi of varan;",
+          "ver þú við öl varastr",
+          "ok við annars konu",
+          "ok við það ið þriðja",
+          "að þjófar né leiki."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "133",
+        "type": "stanza",
+        "number": "132.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "að háði né hlátri",
+          "haf ðu aldregi",
+          "gest né ganganda."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "134",
+        "type": "stanza",
+        "number": "133.",
+        "lines": [
+          "Oft vitu ógörla",
+          "þeir er sitja inni fyr",
+          "hvers þeir ru kyns er koma;",
+          "er at maðr svá góðr",
+          "að galli né fylgi",
+          "né svá illr að einugi dugi."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "135",
+        "type": "stanza",
+        "number": "134.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr:",
+          "að hárum þul",
+          "hlæ þú aldregi;",
+          "oft er gott, það er gamlir kveða;",
+          "oft ór skörpum belg",
+          "skilin orð koma",
+          "þeim er hangir með hám",
+          "ok skollir með skrám",
+          "ok váfir með vilmögum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "136",
+        "type": "stanza",
+        "number": "135.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "gest þú né geyj a",
+          "né á grind hrækir,",
+          "get þú váluðum vel."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "137",
+        "type": "stanza",
+        "number": "136.",
+        "lines": [
+          "Rammt er það tré",
+          "er ríða skal",
+          "öllum að upploki;",
+          "baug þú gef",
+          "eða það biðja mun",
+          "þér læs hvers á liðu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "138",
+        "type": "stanza",
+        "number": "137.",
+        "lines": [
+          "Ráðumk þér, Loddfáfnir,",
+          "en þú ráð nemir,",
+          "njóta mundu ef þú nemr,",
+          "þér munu góð ef þú getr",
+          "hvar s þú öl drekkir",
+          "kjós þú þér jarðar megin",
+          "því að jörð tekr við ölðri",
+          "en eldr við sóttum,",
+          "eik við abbindi,",
+          "ax við fjölkynngi,",
+          "höll við hýrógi,",
+          "heiftum skal mána kveðja—",
+          "beiti við bitsóttum,",
+          "en við bölvi rúnar,",
+          "fold skal við flóði taka."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "139",
+        "type": "heading",
+        "lines": [
+          "V. Rúnatal"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "140",
+        "type": "stanza",
+        "number": "138.",
+        "lines": [
+          "Veit ek að ek hekk",
+          "vindga meiði á",
+          "nætr allar níu,",
+          "geiri undaðr",
+          "ok gefinn Óðni,",
+          "sjálfr sjálfum mér",
+          "á þeim meiði",
+          "er manngi veit",
+          "hvers hann af rótum renn."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "141",
+        "type": "stanza",
+        "number": "139.",
+        "lines": [
+          "Við hleifi mik seldu",
+          "né við horni gi,",
+          "nýsta ek niðr,",
+          "nam ek upp rúnar,",
+          "æpandi nam,",
+          "fell ek aftr þaðan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "142",
+        "type": "stanza",
+        "number": "140.",
+        "lines": [
+          "Fimbulljóð níu",
+          "nam ek af inum frægja syni",
+          "Bölþórs, Bestlu föður,",
+          "ok ek drykk of gat",
+          "ins dýra mjaðar,",
+          "ausinn Óðreri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "143",
+        "type": "stanza",
+        "number": "141.",
+        "lines": [
+          "Þá nam ek frævaz",
+          "ok fróðr vera",
+          "ok vaxa ok vel hafaz,",
+          "orð mér af orði",
+          "orðs leitaði,",
+          "verk mér af verki",
+          "verks leitaði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "144",
+        "type": "stanza",
+        "number": "142.",
+        "lines": [
+          "Rúnar munt þú finna",
+          "ok ráðna stafi,",
+          "mjök stóra stafi,",
+          "mjök ‖ stinna stafi",
+          "er fáði fimbulþulr",
+          "ok gjörðu ginnregin",
+          "ok reist hroftr rögna."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "145",
+        "type": "stanza",
+        "number": "143.",
+        "lines": [
+          "Óðinn með ásum",
+          "en fyr álfum Dvalinn,",
+          "Dáinn dvergum fyr,",
+          "Ásviðr jötnum fyr;",
+          "ek reist sjálfr sumar."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "146",
+        "type": "stanza",
+        "number": "144.",
+        "lines": [
+          "Veizt u hvé rísta skal?",
+          "Veizt u hvé ráða skal?",
+          "Veizt u hvé fá skal?",
+          "Veizt u hvé freista skal?",
+          "Veizt u hvé biðja skal?",
+          "Veizt u hvé blóta skal?",
+          "Veizt u hvé senda skal?",
+          "Veizt u hvé sóa skal?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "147",
+        "type": "stanza",
+        "number": "145.",
+        "lines": [
+          "Betra er óbeðið",
+          "en sé ofblótið,",
+          "ey sér til gildis gjöf;",
+          "betra er ósent",
+          "en sé ofsóið.",
+          "Svá Þundr um reist",
+          "fyr þjóða rök;",
+          "þar hann upp um reis",
+          "er hann aftr of kom."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "148",
+        "type": "stanza",
+        "number": "146.",
+        "lines": [
+          "Ljóð ek þau kann",
+          "er kann at þjóðans kona",
+          "ok mannzkis mögr;",
+          "hjálp heitir eitt",
+          "en það þér hjálpa mun",
+          "við sökum ok sorgum",
+          "ok sútum görvöllum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "149",
+        "type": "stanza",
+        "number": "147.",
+        "lines": [
+          "Það kann ek annað",
+          "er þurfu ýta synir,",
+          "þeir er vilja læknar lifa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "150",
+        "type": "stanza",
+        "number": "148.",
+        "lines": [
+          "Það kann ek þriðja,",
+          "ef mér verðr þörf mikil",
+          "hafts við mína heiftmögu,",
+          "eggjar ek deyfi",
+          "minna andskota,",
+          "bíta t þeim vápn né velir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "151",
+        "type": "stanza",
+        "number": "149.",
+        "lines": [
+          "Það kann ek ið fjórða,",
+          "ef mér fyrðar bera",
+          "bönd að bóglimum,",
+          "svá ek gel",
+          "að ek ganga má,",
+          "sprettr mér af fótum fjöturr",
+          "en af höndum haft."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "152",
+        "type": "stanza",
+        "number": "150.",
+        "lines": [
+          "Það kann ek ið fimmta,",
+          "ef ek sé af fári skotinn",
+          "flein í fólki vaða,",
+          "flýgr a hann svá stinnt",
+          "að ek stöðvi-g-a-k",
+          "ef ek hann sjónum of sé-k."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "153",
+        "type": "stanza",
+        "number": "151.",
+        "lines": [
+          "Það kann ek ið sétta,",
+          "ef mik særir þegn",
+          "á rótum rás viðar",
+          "ok þann hal,",
+          "er mik heifta kveðr,",
+          "þann eta mein heldr en mik."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "154",
+        "type": "stanza",
+        "number": "152.",
+        "lines": [
+          "Það kann ek ið sjaunda,",
+          "ef ek sé hávan loga",
+          "sal um sessmögum,",
+          "brennr at svá breitt",
+          "að ek hánum bjargi-g-a-k,",
+          "þann kann ek galdr að gala."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "155",
+        "type": "stanza",
+        "number": "153.",
+        "lines": [
+          "Það kann ek ið átta",
+          "er öllum er",
+          "nytsamligt að nema:",
+          "hvar s hatr vex",
+          "með hildings sonum",
+          "það má ek bæta brátt."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "156",
+        "type": "stanza",
+        "number": "154.",
+        "lines": [
+          "Það kann ek ið níunda,",
+          "ef mik nauðr um stendr",
+          "að bjarga fari mínu á floti,",
+          "vind ek kyrri",
+          "vági á",
+          "ok svæfi k allan sæ."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "157",
+        "type": "stanza",
+        "number": "155.",
+        "lines": [
+          "Það kann ek ið tíunda,",
+          "ef ek sé túnriður",
+          "leika lofti á,",
+          "ek svá vinn k",
+          "að þeir villir fara",
+          "sinna heimhama,",
+          "sinna heimhuga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "158",
+        "type": "stanza",
+        "number": "156.",
+        "lines": [
+          "Það kann ek ið ellifta,",
+          "ef ek skal til orrostu",
+          "leiða langvini,",
+          "undir randir ek gel",
+          "en þeir með ríki fara",
+          "heilir hildar til,",
+          "heilir hildi frá,",
+          "koma þeir heilir hvaðan."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "159",
+        "type": "stanza",
+        "number": "157.",
+        "lines": [
+          "Það kann ek ið tólfta,",
+          "ef ek sé á tré uppi",
+          "váfa virgilná,",
+          "svá ek ríst",
+          "ok í rúnum fá k",
+          "að sá gengr gumi",
+          "ok mælir við mik."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "160",
+        "type": "stanza",
+        "number": "158.",
+        "lines": [
+          "Það kann ek ið þrettánda,",
+          "ef ek skal þegn ungan",
+          "verpa vatni á,",
+          "mun at hann falla",
+          "þótt hann í fólk komi,",
+          "hnígr a sá halr fyr hjörum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "161",
+        "type": "stanza",
+        "number": "159.",
+        "lines": [
+          "Það kann ek ið fjórtánda,",
+          "ef ek skal fyrða liði",
+          "telja tíva fyr,",
+          "ása ok álfa",
+          "ek kann allra skil;",
+          "fár kann ósnotr svá."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "162",
+        "type": "stanza",
+        "number": "160.",
+        "lines": [
+          "Það kann ek ið fimmtánda",
+          "er gól Þjóðrörir",
+          "dvergr fyr Dellings durum;",
+          "afl gól hann ásum",
+          "en álfum frama,",
+          "hyggju Hroftatý."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "163",
+        "type": "stanza",
+        "number": "161.",
+        "lines": [
+          "Það kann ek ið sextánda,",
+          "ef ek vil ins svinna mans",
+          "hafa geð allt ok ‖ gaman,",
+          "hugi ek hverfi",
+          "hvítarmri konu",
+          "ok sný ek hennar öllum sefa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "164",
+        "type": "stanza",
+        "number": "162.",
+        "lines": [
+          "Það kann ek ið sjautjánda",
+          "að mik mun seint firraz",
+          "ið manunga man;",
+          "ljóða þessa",
+          "munð u, Loddfáfnir,",
+          "lengi vanr vera;",
+          "þó sé þér góð ef þú getr,",
+          "nýt ef þú nemr,",
+          "þörf ef þú þiggr."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "165",
+        "type": "stanza",
+        "number": "163.",
+        "lines": [
+          "Það kann ek ið átjánda",
+          "er ek æva kenni g",
+          "mey né mannz konu,",
+          "allt er betra",
+          "er einn um kann;",
+          "það fylgir ljóða lokum,",
+          "nema þeiri einni",
+          "er mik armi verr",
+          "eða mín systir sé."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "166",
+        "type": "stanza",
+        "number": "164.",
+        "lines": [
+          "Nú eru Háva mál kveðin",
+          "Háva höllu í,",
+          "allþörf ýta sonum,",
+          "óþörf ýta sonum.",
+          "Heill sá er kvað!",
+          "Heill sá er kann!",
+          "Njóti sá er nam!",
+          "Heilir þeir s hlýddu!"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Прежде чем в дом",
+          "войдешь, все входы",
+          "ты осмотри,",
+          "ты огляди, —",
+          "ибо как знать,",
+          "в этом жилище",
+          "недругов нет ли."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Дающим привет!",
+          "Гость появился!",
+          "Где место найдет он?",
+          "Торопится тот,",
+          "кто хотел бы скорей",
+          "у огня отогреться."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Дорог огонь",
+          "тому, кто с дороги,",
+          "чьи застыли колени;",
+          "в еде и одежде",
+          "нуждается странник",
+          "в горных краях."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Гостю вода",
+          "нужна и ручник,",
+          "приглашенье учтивое,",
+          "надо приветливо",
+          "речь повести",
+          "и выслушать гостя."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Ум надобен тем,",
+          "кто далёко забрел, —",
+          "дома все тебе ведомо;",
+          "насмешливо будут",
+          "глядеть на невежду,",
+          "средь мудрых сидящего."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Умом пред людьми",
+          "похваляться не надо —",
+          "скрывать его стоит;",
+          "если мудрец",
+          "будет молчать —",
+          "не грозит ему горе,",
+          "ибо нет на земле",
+          "надежнее друга,",
+          "чем мудрость житейская."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Гость осторожный,",
+          "дом посетивший,",
+          "безмолвно внимает —",
+          "чутко слушать",
+          "и зорко смотреть",
+          "мудрый стремится."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Счастливы те,",
+          "кто заслужил",
+          "похвалу и приязнь;",
+          "труднее найти",
+          "добрый совет",
+          "в груди у других."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Счастливы те,",
+          "кто в жизни славны",
+          "разумом добрым;",
+          "неладный совет",
+          "часто найдешь",
+          "у другого в груди."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Нету в пути",
+          "драгоценней ноши,",
+          "чем мудрость житейская,",
+          "дороже сокровищ",
+          "она на чужбине —",
+          "то бедных богатство."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Нету в пути",
+          "драгоценней ноши,",
+          "чем мудрость житейская,",
+          "хуже нельзя",
+          "в путь запастись,",
+          "чем пивом опиться."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Меньше от пива",
+          "пользы бывает,",
+          "чем думают многие;",
+          "чем больше ты пьешь,",
+          "тем меньше покорен",
+          "твой разум тебе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Цапля забвенья",
+          "вьется над миром,",
+          "рассудок крадет;",
+          "крылья той птицы",
+          "меня приковали",
+          "в доме у Гуннлёд."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Пьяным я был,",
+          "слишком напился",
+          "у мудрого Фьялара;",
+          "но лучшее в пиве —",
+          "что хмель от него",
+          "исчезает бесследно."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Осторожным быть должен",
+          "конунга отпрыск",
+          "и смелым в сраженье;",
+          "каждый да будет",
+          "весел и добр",
+          "до часа кончины."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Глупый надеется",
+          "смерти не встретить,",
+          "коль битв избегает;",
+          "но старость настанет —",
+          "никто от нее",
+          "не сыщет защиты."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Глазеет глупец,",
+          "приехавший в гости,",
+          "болтая иль молча;",
+          "а выпьет глоток —",
+          "и сразу покажет,",
+          "как мало в нем мудрости,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Знает лишь тот,",
+          "кто много земель",
+          "объездил и видел, —",
+          "коль сам он умен, —",
+          "что на уме",
+          "у каждого мужа."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Пей на пиру,",
+          "но меру блюди",
+          "и дельно беседуй;",
+          "не прослывешь",
+          "меж людей неучтивым,",
+          "коль спать рано ляжешь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Без толку жадный",
+          "старается жрать",
+          "себе на погибель;",
+          "смеются порой",
+          "над утробой глупца",
+          "на пиршестве мудрых."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Знают стада,",
+          "что срок наступил",
+          "покинуть им пастбища;",
+          "а кто неумен,",
+          "меры не знает,",
+          "живот набивая."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Кто нравом тяжел,",
+          "тот всех осуждает,",
+          "смеется над всем;",
+          "ему невдомек,",
+          "а должен бы знать,",
+          "что сам он с изъяном."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Глупый не спит",
+          "всю ночь напролет",
+          "в думах докучных;",
+          "утро настанет —",
+          "где же усталому",
+          "мудро размыслить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Муж неразумный",
+          "увидит приязнь",
+          "в улыбке другого;",
+          "с мудрыми сидя,",
+          "глупец не поймет",
+          "над собою насмешки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Муж неразумный",
+          "увидит приязнь",
+          "в улыбке другого;",
+          "а после на тинге",
+          "едва ли отыщет",
+          "сторонников верных."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "Муж неразумный",
+          "все знает на свете,",
+          "в углу своем сидя;",
+          "но не найдет он",
+          "достойных ответов",
+          "в дельной беседе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "Муж неразумный",
+          "на сборище людном",
+          "молчал бы уж лучше;",
+          "не распознать",
+          "в человеке невежду,",
+          "коль он не болтлив,",
+          "но невежда всегда",
+          "не видит того,",
+          "что болтлив он безмерно."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Мудрым слывет,",
+          "кто расспросит других",
+          "и расскажет разумно;",
+          "скрыть не умеют",
+          "люди в беседах,",
+          "что с ними случилось."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Кто молчать не умеет,",
+          "тот лишние речи",
+          "заводит нередко;",
+          "быстрый язык",
+          "накличет беду,",
+          "коль его не сдержать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "Насмешливых взглядов",
+          "не надо бросать",
+          "на гостей приглашенных",
+          "не спросишь иного —",
+          "он мнит, что разумен,",
+          "и мирно пирует."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Доволен глумливый,",
+          "коль, гостя обидев,",
+          "удрать ухитрился;",
+          "насмешник такой",
+          "не знает, что нажил",
+          "гневных врагов."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Люди друзьями",
+          "слывут, но порой",
+          "на пиру подерутся;",
+          "распри всегда",
+          "готовы возникнуть:",
+          "гость ссорится с гостем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Рано поешь,",
+          "а в гости сбираясь,",
+          "есть надо плотно:",
+          "или голодным",
+          "будешь в гостях —",
+          "не сможешь беседовать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Путь неблизок",
+          "к другу плохому,",
+          "хоть двор его рядом;",
+          "а к доброму другу",
+          "дорога пряма,",
+          "хоть далек его двор."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Гость не должен",
+          "назойливым быть",
+          "и сидеть бесконечно;",
+          "даже приятель",
+          "станет противен,",
+          "коль долго гостит он."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Пусть невелик",
+          "твой дом, но твой он,",
+          "и в нем ты владыка;",
+          "пусть крыша из прутьев",
+          "и две лишь козы, —",
+          "это лучше подачек."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Пусть невелик",
+          "твой дом, но твой он,",
+          "и в нем ты владыка;",
+          "кровью исходит",
+          "сердце у тех,",
+          "кто просит подачек."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Муж не должен",
+          "хотя бы на миг",
+          "отходить от оружья;",
+          "ибо как знать,",
+          "когда на пути",
+          "копье пригодится."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "Не знаю радушных",
+          "и щедрых, что стали б",
+          "дары отвергать;",
+          "ни таких, что, в ответ",
+          "на подарок врученный,",
+          "подарка б не приняли."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "Добра не жалей,",
+          "что нажито было,",
+          "не скорби о потере;",
+          "что другу обещано,",
+          "недруг возьмет —",
+          "выйдет хуже, чем думалось."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Оружье друзьям",
+          "и одежду дари —",
+          "то тешит их взоры;",
+          "друзей одаряя,",
+          "ты дружбу крепишь,",
+          "коль судьба благосклонна."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "Надобно в дружбе",
+          "верным быть другу,",
+          "одарять за подарки;",
+          "смехом на смех",
+          "пристойно ответить",
+          "и обманом — на ложь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "Надобно в дружбе",
+          "верным быть другу",
+          "и другом друзей его;",
+          "с недругом друга",
+          "никто не обязан",
+          "дружбу поддерживать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "Если дружбу ведешь",
+          "и в друге уверен",
+          "и добра ждешь от друга, —",
+          "открывай ему душу,",
+          "дары приноси,",
+          "навещай его часто."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "Но если другому",
+          "поверил оплошно,",
+          "добра ожидая,",
+          "сладкою речью",
+          "скрой злые мысли",
+          "и лги, если лжет он."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "Так же и с теми,",
+          "в ком усомнишься,",
+          "в ком видишь коварство, —",
+          "улыбайся в ответ,",
+          "скрывай свои мысли, —",
+          "тем же отплачивай."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Молод я был,",
+          "странствовал много",
+          "и сбился с пути;",
+          "счел себя богачом,",
+          "спутника встретив, —",
+          "друг — радость друга."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "Щедрые, смелые",
+          "счастливы в жизни,",
+          "заботы не знают;",
+          "а трус, тот всегда",
+          "спасаться готов,",
+          "как скупец — от подарка."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "В поле я отдал",
+          "одежду мою",
+          "двум мужам деревянным;",
+          "от этого стали",
+          "с людьми они сходны:",
+          "жалок нагой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "Сосна, у дома",
+          "возросшая, сохнет,",
+          "корой не укрыта;",
+          "и человек,",
+          "что людям не люб, —",
+          "зачем ему жить!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Жарко приязнь",
+          "пылает пять дней",
+          "меж дурными друзьями;",
+          "а пятый прошел —",
+          "погаснет огонь,",
+          "и дружба вся врозь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "Подарок большой",
+          "не всюду пригоден,",
+          "он может быть малым;",
+          "неполный кувшин,",
+          "половина краюхи",
+          "мне добыли друга."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "У малых песчинок,",
+          "у малых волн",
+          "мудрости мало;",
+          "не все мудрецы, —",
+          "глупых и умных",
+          "поровну в мире."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "Следует мужу",
+          "в меру быть умным,",
+          "не мудрствуя много;",
+          "лучше живется",
+          "тем людям, чьи знанья",
+          "не слишком обширны."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "Следует мужу",
+          "в меру быть умным,",
+          "не мудрствуя много;",
+          "ибо редка",
+          "радость в сердцах,",
+          "если разум велик."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "Следует мужу",
+          "в меру быть умным,",
+          "не мудрствуя много;",
+          "тот, кто удел свой",
+          "не знает вперед,",
+          "всего беззаботней."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "Головня головне",
+          "передать готова",
+          "пламя от пламени;",
+          "в речах человек",
+          "познает человека,",
+          "в безмолвье глупеет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "Рано встает,",
+          "кто хочет отнять",
+          "добро или жизнь;",
+          "не видеть добычи",
+          "лежачему волку,",
+          "а победы — проспавшему."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "Рано встает,",
+          "кто без подмоги",
+          "к труду приступает;",
+          "утром дремота",
+          "работе помеха —",
+          "кто бодр, тот богат."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Мера бересты",
+          "и балок для кровли",
+          "известна хозяину,",
+          "и сколько потребно",
+          "в полгода поленьев",
+          "сжигать в очаге."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Сытым и чистым",
+          "на тинг собирайся,",
+          "хоть и в бедной одежде;",
+          "сапог и штанов",
+          "стыдиться не надо,",
+          "а также коня,",
+          "коль он неказист."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "Вопросит и ответит",
+          "умный всегда,",
+          "коль слыть хочет сведущим;",
+          "должен один",
+          "знать, а не двое, —",
+          "у трех все проведают."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "Вытянув шею,",
+          "орел озирает",
+          "древнее море;",
+          "так смотрит муж,",
+          "в чуждой толпе",
+          "защиты не знающий."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "Силу свою",
+          "должен мудрец",
+          "осторожно показывать;",
+          "в том убедится",
+          "бившийся часто,",
+          "что есть и сильнейшие."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          ".........",
+          "Бывает, ты слово",
+          "скажешь другому,",
+          "а после поплатишься."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "Случалось, я рано",
+          "в гости являлся",
+          "иль поздно порою:",
+          "там выпили пиво,",
+          "а там не варили —",
+          "кто не мил, тот некстати."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "67.",
+        "lines": [
+          "Повсюду меня",
+          "приглашали бы в гости,",
+          "но только без трапез",
+          "иль если бы, окорок",
+          "съевши у друга,",
+          "я два отдавал бы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "68.",
+        "lines": [
+          "Драгоценен огонь",
+          "для сынов человека",
+          "и солнца сиянье;",
+          "если телом ты здрав,",
+          "то здоровье, а также",
+          "жизнь без порока."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "69.",
+        "lines": [
+          "Хворый судьбой",
+          "не совсем обездолен:",
+          "этот счастлив сынами,",
+          "этот близкой родней,",
+          "этот богатством,",
+          "а этот деяньями."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "70.",
+        "lines": [
+          "Лучше живым быть,",
+          "нежели мертвым;",
+          "живой — наживает;",
+          "для богатого пламя,",
+          "я видел, пылало,",
+          "но ждала его смерть."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "71.",
+        "lines": [
+          "Ездить может хромой,",
+          "безрукий — пасти,",
+          "сражаться — глухой;",
+          "даже слепец",
+          "до сожженья полезен —",
+          "что толку от трупа!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "stanza",
+        "number": "72.",
+        "lines": [
+          "Сын — это счастье,",
+          "хотя бы на свете",
+          "отца не застал он;",
+          "не будет и камня",
+          "у края дороги,",
+          "коль сын не поставит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "73.",
+        "lines": [
+          "Двое — смерть одному;",
+          "голове враг — язык;",
+          "под каждым плащом",
+          "рука наготове."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "74.",
+        "lines": [
+          "Ночь тому не страшна,",
+          "кто сделал запасы;",
+          "коротки реи;",
+          "ненастна ночь осенью;",
+          "сменится ветер",
+          "не раз за пять дней,",
+          "несчетно — за месяц."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "75.",
+        "lines": [
+          "Иной не постигнет,",
+          "что вреден подчас",
+          "достаток рассудку;",
+          "один — богатей,",
+          "другой же — бедняк",
+          "и в том невиновен."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "76.",
+        "lines": [
+          "Гибнут стада,",
+          "родня умирает,",
+          "и смертен ты сам;",
+          "но смерти не ведает",
+          "громкая слава",
+          "деяний достойных."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "77.",
+        "lines": [
+          "Гибнут стада,",
+          "родня умирает,",
+          "и смертен ты сам;",
+          "но знаю одно,",
+          "что вечно бессмертно:",
+          "умершего слава."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "stanza",
+        "number": "78.",
+        "lines": [
+          "У Фитьюнга были",
+          "сыны богачами",
+          "и бедность изведали;",
+          "может внезапно",
+          "исчезнуть достаток —",
+          "друг он неверный."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "79.",
+        "lines": [
+          "Если глупцу",
+          "достается в удел",
+          "любовь иль богатство,",
+          "не добудет ума он,",
+          "но чванство умножит",
+          "и спесью прославится."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "80.",
+        "lines": [
+          "Вот что отвечу,",
+          "когда вопрошаешь",
+          "о рунах божественных,",
+          "что создали сильные,",
+          "а вырезал Вещий:",
+          "благо в молчанье."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "81.",
+        "lines": [
+          "День хвали вечером,",
+          "жен — на костре,",
+          "меч — после битвы,",
+          "дев — после свадьбы,",
+          "лед — если выдержит,",
+          "пиво — коль выпито."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "stanza",
+        "number": "82.",
+        "lines": [
+          "Лес руби на ветру,",
+          "жди погоды для гребли,",
+          "с девой беседуй",
+          "во тьме — зорок день;",
+          "у ладьи — быстрота,",
+          "у щита — оборона,",
+          "удар — у меча,",
+          "поцелуи — у девы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "stanza",
+        "number": "83.",
+        "lines": [
+          "Пиво пей у огня,",
+          "по льду скользи,",
+          "коня купи тощего,",
+          "меч — заржавелый,",
+          "корми коня дома,",
+          "а пса — у чужих."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "stanza",
+        "number": "84.",
+        "lines": [
+          "Не доверяй",
+          "ни девы речам,",
+          "ни жены разговорам —",
+          "на колесе",
+          "их слеплено сердце,",
+          "коварство в груди их."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "stanza",
+        "number": "85.",
+        "lines": [
+          "Непрочному луку,",
+          "жаркому пламени,",
+          "голодному волку,",
+          "горластой вороне,",
+          "визжащей свинье,",
+          "стволу без корней,",
+          "встающему валу,",
+          "котлу, что кипит,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "87",
+        "type": "stanza",
+        "number": "86.",
+        "lines": [
+          "летящей стреле,",
+          "отходящему валу,",
+          "тонкому льду,",
+          "змее, что свилась,",
+          "жены объясненьям,",
+          "с изъяном мечу,",
+          "медведя проделкам,",
+          "и конунга сыну,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "88",
+        "type": "stanza",
+        "number": "87.",
+        "lines": [
+          "скотине больной,",
+          "рабу своевольному,",
+          "лести колдуньи,",
+          "врагу, что сражен,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "89",
+        "type": "stanza",
+        "number": "88.",
+        "lines": [
+          "всходам ранним",
+          "не должно нам верить,",
+          "ни сыну до срока:",
+          "погоде для сева",
+          "и сына уму",
+          "доверять не дерзай."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "90",
+        "type": "stanza",
+        "number": "89.",
+        "lines": [
+          "Брата убийце,",
+          "коль встречен он будет,",
+          "горящему дому,",
+          "коню слишком резвому, —",
+          "конь захромает —",
+          "куда он годится, —",
+          "всему, что назвал я,",
+          "верить не надо!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "91",
+        "type": "stanza",
+        "number": "90.",
+        "lines": [
+          "Женщин любить,",
+          "в обманах искусных, —",
+          "что по льду скакать",
+          "на коне без подков,",
+          "норовистом, двухлетнем",
+          "коне непокорном,",
+          "иль в бурю корабль",
+          "без кормила вести,",
+          "иль хромцу за оленем",
+          "в распутицу гнаться."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "92",
+        "type": "stanza",
+        "number": "91.",
+        "lines": [
+          "Откровенно скажу",
+          "о мужах и о женах:",
+          "мужи тоже лживы;",
+          "красно говоря,",
+          "но задумав коварство, —",
+          "улестим даже умных."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "93",
+        "type": "stanza",
+        "number": "92.",
+        "lines": [
+          "Красно говори",
+          "и подарки готовь,",
+          "чтобы жен соблазнять;",
+          "дев красоту",
+          "неустанно хваля,",
+          "будь уверен в успехе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "94",
+        "type": "stanza",
+        "number": "93.",
+        "lines": [
+          "Никто за любовь",
+          "никогда осуждать",
+          "другого не должен;",
+          "часто мудрец",
+          "опутан любовью,",
+          "глупцу непонятной."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "95",
+        "type": "stanza",
+        "number": "94.",
+        "lines": [
+          "Мужей не суди",
+          "за то, что может",
+          "с каждым свершиться;",
+          "нередко бывает",
+          "мудрец безрассудным",
+          "от сильной страсти."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "96",
+        "type": "stanza",
+        "number": "95.",
+        "lines": [
+          "Твоей лишь душе",
+          "ведомо то,",
+          "что в сердце твоем;",
+          "худшей на свете",
+          "хвори не знаю,",
+          "чем духа томленье."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "97",
+        "type": "stanza",
+        "number": "96.",
+        "lines": [
+          "Изведал я это:",
+          "милую ждал я,",
+          "таясь в тростниках;",
+          "дороже была мне,",
+          "чем тело с душой,",
+          "но моею не стала."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "98",
+        "type": "stanza",
+        "number": "97.",
+        "lines": [
+          "Солнечноясную",
+          "Биллинга дочь",
+          "нашел я на ложе;",
+          "мне ярла власть",
+          "не была так желанна,",
+          "как светлая дева."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "99",
+        "type": "stanza",
+        "number": "98.",
+        "lines": [
+          "«Вечером, Один,",
+          "прийди, чтоб деву",
+          "к согласью склонить:",
+          "будет неладно,",
+          "если другие",
+          "про это проведают»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "100",
+        "type": "stanza",
+        "number": "99.",
+        "lines": [
+          "Ее я оставил —",
+          "казалось, от страсти",
+          "мой разум мутился;",
+          "таил я надежду,",
+          "что будет моей",
+          "дева любимая."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "101",
+        "type": "stanza",
+        "number": "100.",
+        "lines": [
+          "Вновь я пришел,",
+          "увидел, что воины",
+          "стали стеной, —",
+          "факелы блещут,",
+          "завалы из бревен",
+          "мне путь преградили."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "102",
+        "type": "stanza",
+        "number": "101.",
+        "lines": [
+          "А перед утром, —",
+          "все почивали, —",
+          "явился я вновь;",
+          "лишь сука была",
+          "привязана к ложу",
+          "девы достойной."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "103",
+        "type": "stanza",
+        "number": "102.",
+        "lines": [
+          "Девы нередко,",
+          "коль их разгадаешь,",
+          "коварство таят;",
+          "изведал я это,",
+          "деву пытаясь",
+          "к ласкам склонить;",
+          "был тяжко унижен",
+          "жестокой и все ж",
+          "не достиг я успеха."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "104",
+        "type": "stanza",
+        "number": "103.",
+        "lines": [
+          "Будь дома весел,",
+          "будь с гостем приветлив,",
+          "но разум храни;",
+          "прослыть хочешь мудрым —",
+          "в речах будь искусен, —",
+          "тебя не забудут;",
+          "глупцом из глупцов",
+          "прослывет безмолвный —",
+          "то свойственно глупым."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "105",
+        "type": "stanza",
+        "number": "104.",
+        "lines": [
+          "От старого турса",
+          "вернулся назад я;",
+          "промолчал бы — что пользы!",
+          "Но речи я вел",
+          "и удачи добился",
+          "в палатах у Суттунга."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "106",
+        "type": "stanza",
+        "number": "105.",
+        "lines": [
+          "Гуннлёд меня",
+          "угостила медом",
+          "на троне из золота;",
+          "плату недобрую",
+          "деве я отдал",
+          "за ласку, любовь,",
+          "за всю ее скорбь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "107",
+        "type": "stanza",
+        "number": "106.",
+        "lines": [
+          "Рати клыкам",
+          "в камень велел я",
+          "крепко вгрызаться;",
+          "ётунов стены",
+          "меня обступили,",
+          "мне гибель грозила."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "108",
+        "type": "stanza",
+        "number": "107.",
+        "lines": [
+          "Хитростью вдоволь",
+          "я насладился,",
+          "все умный сумеет;",
+          "так ныне Одрёрир",
+          "в доме священном",
+          "людей покровителя."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "109",
+        "type": "stanza",
+        "number": "108.",
+        "lines": [
+          "Не удалось бы",
+          "выбраться мне",
+          "из жилья исполинов,",
+          "когда бы не помощь",
+          "Гуннлёд прекрасной,",
+          "меня обнимавшей."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "110",
+        "type": "stanza",
+        "number": "109.",
+        "lines": [
+          "Назавтра собрались",
+          "и двинулись хримтурсы",
+          "к палатам Высокого",
+          "спросить у Высокого:",
+          "Бёльверк — спросили —",
+          "вернулся к богам",
+          "иль сразил его Суттунг?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "111",
+        "type": "stanza",
+        "number": "110.",
+        "lines": [
+          "Клятву Один",
+          "дал на кольце;",
+          "не коварна ли клятва?",
+          "Напиток достал он",
+          "обманом у Суттунга",
+          "Гуннлёд на горе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "112",
+        "type": "stanza",
+        "number": "111.",
+        "lines": [
+          "Пора мне с престола",
+          "тула поведать",
+          "у источника Урд;",
+          "смотрел я в молчанье,",
+          "смотрел я в раздумье,",
+          "слушал слова я;",
+          "говорили о рунах,",
+          "давали советы",
+          "у дома Высокого,",
+          "в доме Высокого",
+          "так толковали:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "113",
+        "type": "stanza",
+        "number": "112.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "ночью вставать",
+          "по нужде только надо",
+          "иль следя за врагом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "114",
+        "type": "stanza",
+        "number": "113.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "с чародейкой не спи,",
+          "пусть она не сжимает",
+          "в объятьях тебя."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "115",
+        "type": "stanza",
+        "number": "114.",
+        "lines": [
+          "Заставит она",
+          "тебя позабыть",
+          "о тинге и сходках;",
+          "есть не захочешь,",
+          "забудешь друзей,",
+          "сон горестным станет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "116",
+        "type": "stanza",
+        "number": "115.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "чужую жену",
+          "не должен ты брать",
+          "в подруги себе."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "117",
+        "type": "stanza",
+        "number": "116.",
+        "lines": [
+          "Советы мои",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "в горах ли ты едешь",
+          "или по фьордам —",
+          "еды бери вдоволь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "118",
+        "type": "stanza",
+        "number": "117.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "с дурным человеком",
+          "несчастьем своим",
+          "делиться не должно;",
+          "ведь люди дурные",
+          "тебе не отплатят",
+          "добром за доверье"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "119",
+        "type": "stanza",
+        "number": "118.",
+        "lines": [
+          "Я видел однажды,",
+          "как муж был погублен",
+          "злой женщины словом;",
+          "коварный язык",
+          "уязвил клеветой,",
+          "обвиняя облыжно."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "120",
+        "type": "stanza",
+        "number": "119.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "есть друг у тебя,",
+          "кому доверяешь, —",
+          "навещай его часто;",
+          "высокой травой",
+          "и кустами покрыты",
+          "неторные тропы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "121",
+        "type": "stanza",
+        "number": "120.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "с мужем достойным",
+          "мирно беседуй,",
+          "добивайся доверья."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "122",
+        "type": "stanza",
+        "number": "121.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "дружбу блюди",
+          "и первым ее",
+          "порвать не старайся;",
+          "скорбь твое сердце",
+          "сожжет, коль не сможешь",
+          "другу довериться."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "123",
+        "type": "stanza",
+        "number": "122.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "глупцу не перечь,",
+          "с мужем неумным",
+          "в спор не вступай,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "124",
+        "type": "stanza",
+        "number": "123.",
+        "lines": [
+          "ибо дурной",
+          "тебе не отплатит",
+          "благом за благо,",
+          "а добрый ответит",
+          "на дружбу всегда",
+          "похвалой и приязнью."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "125",
+        "type": "stanza",
+        "number": "124.",
+        "lines": [
+          "Хорошему другу",
+          "что только хочешь",
+          "правдиво поведай;",
+          "всегда откровенность",
+          "лучше обмана;",
+          "не только приятное",
+          "другу рассказывай."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "126",
+        "type": "stanza",
+        "number": "125.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "с тем, кто хуже тебя,",
+          "спорить не надо;",
+          "нападет негодяй,",
+          "а достойный уступит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "127",
+        "type": "stanza",
+        "number": "126.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "обтесывай древки",
+          "и обувь готовь",
+          "лишь себе самому;",
+          "если обувь плоха",
+          "или погнуто древко —",
+          "проклятья получишь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "128",
+        "type": "stanza",
+        "number": "127.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "злые поступки",
+          "злыми зови,",
+          "мсти за злое немедля."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "129",
+        "type": "stanza",
+        "number": "128.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "дурным никогда",
+          "доволен не будь,",
+          "дорожи только добрым."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "130",
+        "type": "stanza",
+        "number": "129.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь;",
+          "вверх не смотри,",
+          "вступая в сраженье, —",
+          "нс сглазил бы враг, —",
+          "воины часто",
+          "разум теряют."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "131",
+        "type": "stanza",
+        "number": "130.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "если встречи с красавицей",
+          "ищешь и ею",
+          "насладиться намерен —",
+          "обещанья давай",
+          "и крепко держи их!",
+          "Добро не прискучит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "132",
+        "type": "stanza",
+        "number": "131.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "будь осторожен,",
+          "но страха чуждайся,",
+          "пиву не верь",
+          "и хитрому вору,",
+          "не доверяй",
+          "и жене другого."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "133",
+        "type": "stanza",
+        "number": "132.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "потешаться не вздумай",
+          "над путником дальним,",
+          "глумиться над гостем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "134",
+        "type": "stanza",
+        "number": "133.",
+        "lines": [
+          "Не ведают часто",
+          "сидящие дома,",
+          "кто путник пришедший;",
+          "изъян и у доброго",
+          "сыщешь, а злой",
+          "не во всем нехорош."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "135",
+        "type": "stanza",
+        "number": "134.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "над седым стариком",
+          "никогда не смейся;",
+          "цени слово старца;",
+          "цедится мудрость",
+          "из старого меха,",
+          "что висит возле шкур,",
+          "качаясь средь кож,",
+          "с сычугами в соседстве."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "136",
+        "type": "stanza",
+        "number": "135.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "над гостями не смейся,",
+          "в дверь не гони их,",
+          "к несчастным будь щедр."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "137",
+        "type": "stanza",
+        "number": "136.",
+        "lines": [
+          "Ворота сломаешь,",
+          "коль всех без разбора",
+          "впускать будешь в дом;",
+          "кольцо подари,",
+          "не то пожеланья",
+          "плохие получишь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "138",
+        "type": "stanza",
+        "number": "137.",
+        "lines": [
+          "Советы мои,",
+          "Лоддфавнир, слушай,",
+          "на пользу их примешь,",
+          "коль ты их поймешь:",
+          "если ты захмелел —",
+          "землей исцелишься,",
+          "ведь землей лечат хмель,",
+          "а пламенем — хвори,",
+          "понос лечат дубом,",
+          "колосьями — порчу,",
+          "безумье — луной,",
+          "бузиною — желтуху,",
+          "червями — укусы",
+          "и рунами — чирьи,",
+          "земля ж выпьет влагу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "139",
+        "type": "heading",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "140",
+        "type": "stanza",
+        "number": "138.",
+        "lines": [
+          "Знаю, висел я",
+          "в ветвях на ветру",
+          "девять долгих ночей,",
+          "пронзенный копьем,",
+          "посвященный Одину,",
+          "в жертву себе же,",
+          "на дереве том,",
+          "чьи корни сокрыты",
+          "в недрах неведомых."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "141",
+        "type": "stanza",
+        "number": "139.",
+        "lines": [
+          "Никто не питал,",
+          "никто не поил меня,",
+          "взирал я на землю,",
+          "поднял я руны,",
+          "стеная их поднял —",
+          "и с древа рухнул."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "142",
+        "type": "stanza",
+        "number": "140.",
+        "lines": [
+          "Девять песен узнал я",
+          "от сына Бёльторна,",
+          "Бестли отца,",
+          "меду отведал",
+          "великолепного,",
+          "что в Одрёрир налит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "143",
+        "type": "stanza",
+        "number": "141.",
+        "lines": [
+          "Стал созревать я",
+          "и знанья множить,",
+          "расти, процветая;",
+          "слово от слова",
+          "слово рождало,",
+          "дело от дела",
+          "дело рождало."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "144",
+        "type": "stanza",
+        "number": "142.",
+        "lines": [
+          "Руны найдешь",
+          "и постигнешь знаки,",
+          "сильнейшие знаки,",
+          "крепчайшие знаки,",
+          "Хрофт их окрасил,",
+          "а создали боги",
+          "и Один их вырезал,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "145",
+        "type": "stanza",
+        "number": "143.",
+        "lines": [
+          "Один у асов,",
+          "а Даин у альвов,",
+          "Двалин у двергов,",
+          "у ётунов Асвид,",
+          "и сам я их резал."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "146",
+        "type": "stanza",
+        "number": "144.",
+        "lines": [
+          "Умеешь ли резать?",
+          "Умеешь разгадывать?",
+          "Умеешь окрасить?",
+          "Умеешь ли спрашивать?",
+          "Умеешь молиться",
+          "и жертвы готовить?",
+          "Умеешь раздать?",
+          "Умеешь заклать?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "147",
+        "type": "stanza",
+        "number": "145.",
+        "lines": [
+          "Хоть совсем не молись,",
+          "но не жертвуй без меры,",
+          "на дар ждут ответа;",
+          "совсем не коли,",
+          "чем без меры закалывать.",
+          "Так вырезал Тунд",
+          "до рожденья людей;",
+          "вознесся он там,",
+          "когда возвратился."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "148",
+        "type": "stanza",
+        "number": "146.",
+        "lines": [
+          "Заклинанья я знаю —",
+          "не знает никто их,",
+          "даже конунгов жены;",
+          "помощь — такое",
+          "первому имя —",
+          "помогает в печалях,",
+          "в заботах и горестях."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "149",
+        "type": "stanza",
+        "number": "147.",
+        "lines": [
+          "Знаю второе, —",
+          "оно врачеванью",
+          "пользу приносит."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "150",
+        "type": "stanza",
+        "number": "148.",
+        "lines": [
+          "Знаю и третье, —",
+          "оно защитит",
+          "в битве с врагами,",
+          "клинки их туплю,",
+          "их мечи и дубины",
+          "в бою бесполезны."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "151",
+        "type": "stanza",
+        "number": "149.",
+        "lines": [
+          "Четвертое знаю, —",
+          "коль свяжут мне члены",
+          "оковами крепкими,",
+          "так я спою,",
+          "что мигом спадут",
+          "узы с запястий",
+          "и с ног кандалы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "152",
+        "type": "stanza",
+        "number": "150.",
+        "lines": [
+          "И пятое знаю, —",
+          "коль пустит стрелу",
+          "враг мой в сраженье,",
+          "взгляну — и стрела",
+          "не долетит,",
+          "взору покорная."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "153",
+        "type": "stanza",
+        "number": "151.",
+        "lines": [
+          "Знаю шестое, —",
+          "коль недруг корнями",
+          "вздумал вредить мне, —",
+          "немедля врага,",
+          "разбудившего гнев мой,",
+          "несчастье постигнет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "154",
+        "type": "stanza",
+        "number": "152.",
+        "lines": [
+          "Знаю седьмое, —",
+          "коль дом загорится",
+          "с людьми на скамьях,",
+          "тотчас я пламя",
+          "могу погасить,",
+          "запев заклинанье."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "155",
+        "type": "stanza",
+        "number": "153.",
+        "lines": [
+          "Знаю восьмое, —",
+          "это бы всем",
+          "помнить полезно:",
+          "где ссора начнется",
+          "средь воинов смелых,",
+          "могу помирить их."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "156",
+        "type": "stanza",
+        "number": "154.",
+        "lines": [
+          "Знаю девятое, —",
+          "если ладья",
+          "борется с бурей,",
+          "вихрям улечься",
+          "и волнам утихнуть",
+          "пошлю повеленье."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "157",
+        "type": "stanza",
+        "number": "155.",
+        "lines": [
+          "Знаю десятое, —",
+          "если замечу,",
+          "что ведьмы взлетели,",
+          "сделаю так,",
+          "что не вернуть им",
+          "душ своих старых,",
+          "обличий оставленных."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "158",
+        "type": "stanza",
+        "number": "156.",
+        "lines": [
+          "Одиннадцатым",
+          "друзей оберечь",
+          "в битве берусь я,",
+          "в щит я пою, —",
+          "побеждают они,",
+          "в боях невредимы,",
+          "из битв невредимы",
+          "прибудут с победой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "159",
+        "type": "stanza",
+        "number": "157.",
+        "lines": [
+          "Двенадцатым я,",
+          "увидев на дереве",
+          "в петле повисшего,",
+          "так руны вырежу,",
+          "так их окрашу,",
+          "что он оживет",
+          "и беседовать будет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "160",
+        "type": "stanza",
+        "number": "158.",
+        "lines": [
+          "Тринадцатым я",
+          "водою младенца",
+          "могу освятить, —",
+          "не коснутся мечи его,",
+          "и невредимым",
+          "в битвах он будет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "161",
+        "type": "stanza",
+        "number": "159.",
+        "lines": [
+          "Четырнадцатым",
+          "число я открою",
+          "асов и альвов,",
+          "прозванье богов",
+          "поведаю людям, —",
+          "то может лишь мудрый."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "162",
+        "type": "stanza",
+        "number": "160.",
+        "lines": [
+          "Пятнадцатое",
+          "Тьодрёрир пел",
+          "пред дверью Деллинга;",
+          "напел силу асам,",
+          "и почести — альвам,",
+          "и Одину — дух."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "163",
+        "type": "stanza",
+        "number": "161.",
+        "lines": [
+          "Шестнадцатым я",
+          "дух шевельну",
+          "девы достойной,",
+          "коль дева мила,",
+          "овладею душой,",
+          "покорю ее помыслы."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "164",
+        "type": "stanza",
+        "number": "162.",
+        "lines": [
+          "Семнадцатым я",
+          "опутать смогу",
+          "душу девичью;",
+          "те заклятья, Лоддфавнир,",
+          "будут тебе",
+          "навек неизвестны;",
+          "хотя хороши они,",
+          "впрок бы принять их,",
+          "на пользу усвоить."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "165",
+        "type": "stanza",
+        "number": "163.",
+        "lines": [
+          "Восемнадцатое",
+          "ни девам, ни женам",
+          "сказать не смогу я, —",
+          "один сбережет",
+          "сокровеннее тайну, —",
+          "тут песня пресеклась —",
+          "откроюсь, быть может,",
+          "только жене",
+          "иль сестре расскажу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "166",
+        "type": "stanza",
+        "number": "164.",
+        "lines": [
+          "Вот речи Высокого",
+          "в доме Высокого,",
+          "нужные людям,",
+          "ненужные ётунам.",
+          "Благо сказавшему!",
+          "Благо узнавшим!",
+          "Кто вспомнит —",
+          "воспользуйся!",
+          "Благо внимавшим!"
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Within the gates",
+          "ere a man shall go,",
+          "(Full warily let him watch,)",
+          "Full long let him look about him;",
+          "For little he knows",
+          "where a foe may lurk,",
+          "And sit in the seats within."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Hail to the giver!",
+          "a guest has come;",
+          "Where shall the stranger sit?",
+          "Swift shall he be who,",
+          "with swords shall try",
+          "The proof of his might to make."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Fire he needs",
+          "who with frozen knees",
+          "Has come from the cold without;",
+          "Food and clothes",
+          "must the farer have,",
+          "The man from the mountains come."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Water and towels",
+          "and welcoming speech",
+          "Should he find who comes, to the feast;",
+          "If renown he would get,",
+          "and again be greeted,",
+          "Wisely and well must he act."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Wits must he have",
+          "who wanders wide,",
+          "But all is easy at home;",
+          "At the witless man",
+          "the wise shall wink",
+          "When among such men he sits."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "A man shall not boast",
+          "of his keenness of mind,",
+          "But keep it close in his breast;",
+          "To the silent and wise",
+          "does ill come seldom",
+          "When he goes as guest to a house;",
+          "(For a faster friend",
+          "one never finds",
+          "Than wisdom tried and true.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "The knowing guest",
+          "who goes to the feast,",
+          "In silent attention sits;",
+          "With his ears he hears,",
+          "with his eyes he watches,",
+          "Thus wary are wise men all."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Happy the one",
+          "who wins for himself",
+          "Favor and praises fair;",
+          "Less safe by far",
+          "is the wisdom found",
+          "That is hid in another's heart."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Happy the man",
+          "who has while he lives",
+          "Wisdom and praise as well,",
+          "For evil counsel",
+          "a man full oft",
+          "Has from another's heart."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "A better burden",
+          "may no man bear",
+          "For wanderings wide than wisdom;",
+          "It is better than wealth",
+          "on unknown ways,",
+          "And in grief a refuge it gives."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "A better burden",
+          "may no man bear",
+          "For wanderings wide than wisdom;",
+          "Worse food for the journey",
+          "he brings not afield",
+          "Than an over-drinking of ale."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Less good there lies",
+          "than most believe",
+          "In ale for mortal men;",
+          "For the more he drinks",
+          "the less does man",
+          "Of his mind the mastery hold."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Over beer the bird",
+          "of forgetfulness broods,",
+          "And steals the minds of men;",
+          "With the heron's feathers",
+          "fettered I lay",
+          "And in Gunnloth's house was held."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Drunk I was,",
+          "I was dead-drunk,",
+          "When with Fjalar wise I was;",
+          "'Tis the best of drinking",
+          "if back one brings",
+          "His wisdom with him home."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "The son of a king",
+          "shall be silent and wise,",
+          "And bold in battle as well;",
+          "Bravely and gladly",
+          "a man shall go,",
+          "Till the day of his death is come."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "The sluggard believes",
+          "he shall live forever,",
+          "If the fight he faces not;",
+          "But age shall not grant him",
+          "the gift of peace,",
+          "Though spears may spare his life."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "The fool is agape",
+          "when he comes to the feast,",
+          "He stammers or else is still;",
+          "But soon if he gets",
+          "a drink is it seen",
+          "What the mind of the man is like."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "He alone is aware",
+          "who has wandered wide,",
+          "And far abroad has fared,",
+          "How great a mind",
+          "is guided by him",
+          "That wealth of wisdom has."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Shun not the mead,",
+          "but drink in measure;",
+          "Speak to the point or be still;",
+          "For rudeness none",
+          "shall rightly blame thee",
+          "If soon thy bed thou seekest."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "The greedy man,",
+          "if his mind be vague,",
+          "Will eat till sick he is;",
+          "The vulgar man,",
+          "when among the wise,",
+          "To scorn by his belly is brought."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "The herds know well",
+          "when home they shall fare,",
+          "And then from the grass they go;",
+          "But the foolish man",
+          "his belly's measure",
+          "Shall never know aright."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "A paltry man",
+          "and poor of mind",
+          "At all things ever mocks;",
+          "For never he knows,",
+          "what he ought to know,",
+          "That he is not free from faults."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "The witless man",
+          "is awake all night,",
+          "Thinking of many things;",
+          "Care-worn he is",
+          "when the morning comes,",
+          "And his woe is just as it was."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "The foolish man",
+          "for friends all those",
+          "Who laugh at him will hold;",
+          "When among the wise",
+          "he marks it not",
+          "Though hatred of him they speak."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "The foolish man",
+          "for friends all those",
+          "Who laugh at him will hold;",
+          "But the truth when he comes",
+          "to the council he learns,",
+          "That few in his favor will speak."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "An ignorant man",
+          "thinks that all he knows,",
+          "When he sits by himself in a corner;",
+          "But never what answer",
+          "to make he knows,",
+          "When others with questions come."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "28",
+        "type": "stanza",
+        "number": "27.",
+        "lines": [
+          "A witless man,",
+          "when he meets with men,",
+          "Had best in silence abide;",
+          "For no one shall find",
+          "that nothing he knows,",
+          "If his mouth is not open too much.",
+          "(But a man knows not,",
+          "if nothing he knows,",
+          "When his mouth has been open too much.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "29",
+        "type": "stanza",
+        "number": "28.",
+        "lines": [
+          "Wise shall he seem",
+          "who well can question,",
+          "And also answer well;",
+          "Nought is concealed",
+          "that men may say",
+          "Among the sons of men."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "30",
+        "type": "stanza",
+        "number": "29.",
+        "lines": [
+          "Often he speaks",
+          "who never is still",
+          "With words that win no faith;",
+          "The babbling tongue,",
+          "if a bridle it find not,",
+          "Oft for itself sings ill."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "31",
+        "type": "stanza",
+        "number": "30.",
+        "lines": [
+          "In mockery no onea man shall hold,",
+          "Although he fare to the feast;",
+          "Wise seems one oft,if nought he is asked,",
+          "And safely he sits dry-skinned."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "32",
+        "type": "stanza",
+        "number": "31.",
+        "lines": [
+          "Wise a guest holds it",
+          "to take to his heels,",
+          "When mock of another he makes;",
+          "But little he knows",
+          "who laughs at the feast,",
+          "Though he mocks in the midst of his foes."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "33",
+        "type": "stanza",
+        "number": "32.",
+        "lines": [
+          "Friendly of mind",
+          "are many men,",
+          "Till feasting they mock at their friends;",
+          "To mankind a bane",
+          "must it ever be",
+          "When guests together strive."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "34",
+        "type": "stanza",
+        "number": "33.",
+        "lines": [
+          "Oft should one make",
+          "an early meal,",
+          "Nor fasting come to the feast;",
+          "Else he sits and chews",
+          "as if he would choke,",
+          "And little is able to ask."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "35",
+        "type": "stanza",
+        "number": "34.",
+        "lines": [
+          "Crooked and far",
+          "is the road to a foe,",
+          "Though his house on the highway be;",
+          "But wide and straight",
+          "is the way to a friend,",
+          "Though far away he fare."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "36",
+        "type": "stanza",
+        "number": "35.",
+        "lines": [
+          "Forth shall one go,",
+          "nor stay as a guest",
+          "In a single spot forever;",
+          "Love becomes loathing",
+          "if long one sits",
+          "By the hearth in another's home."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "37",
+        "type": "stanza",
+        "number": "36.",
+        "lines": [
+          "Better a house,",
+          "though a hut it be,",
+          "A man is master at home;",
+          "A pair of goats",
+          "and a patched-up roof",
+          "Are better far than begging."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "38",
+        "type": "stanza",
+        "number": "37.",
+        "lines": [
+          "Better a house,",
+          "though a hut it be,",
+          "A man is master at home;",
+          "His heart is bleeding",
+          "who needs must beg",
+          "When food he fain would have."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "39",
+        "type": "stanza",
+        "number": "38.",
+        "lines": [
+          "Away from his arms",
+          "in the open field",
+          "A man should fare not a foot;",
+          "For never he knows",
+          "when the need for a spear",
+          "Shall arise on the distant road."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "40",
+        "type": "stanza",
+        "number": "39.",
+        "lines": [
+          "If wealth a man",
+          "has won for himself,",
+          "Let him never suffer in need;",
+          "Oft he saves for a foe",
+          "what he plans for a friend,",
+          "For much goes worse than we wish."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "41",
+        "type": "stanza",
+        "number": "40.",
+        "lines": [
+          "None so free with gifts",
+          "or food have I found",
+          "That gladly he took not a gift,",
+          "Nor one who so widely",
+          "scattered his wealth",
+          "That of recompense hatred he had."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "42",
+        "type": "stanza",
+        "number": "41.",
+        "lines": [
+          "Friends shall gladden each other",
+          "with arms and garments,",
+          "As each for himself can see;",
+          "Gift-givers' friendships",
+          "are longest found,",
+          "If fair their fates may be."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "43",
+        "type": "stanza",
+        "number": "42.",
+        "lines": [
+          "To his friend a man",
+          "a friend shall prove,",
+          "And gifts with gifts requite;",
+          "But men shall mocking",
+          "with mockery answer,",
+          "And fraud with falsehood meet."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "44",
+        "type": "stanza",
+        "number": "43.",
+        "lines": [
+          "To his friend a man",
+          "a friend shall prove,",
+          "To him and the friend of his friend;",
+          "But never a man",
+          "shall friendship make",
+          "With one of his foeman's friends."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "45",
+        "type": "stanza",
+        "number": "44.",
+        "lines": [
+          "If a friend thou hast",
+          "whom thou fully wilt trust,",
+          "And good from him wouldst get,",
+          "Thy thoughts with his mingle,",
+          "and gifts shalt thou make,",
+          "And fare to find him oft."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "46",
+        "type": "stanza",
+        "number": "45.",
+        "lines": [
+          "If another thou hast",
+          "whom thou hardly wilt trust,",
+          "Yet good from him wouldst get,",
+          "Thou shalt speak him fair,",
+          "but falsely think,",
+          "And fraud with falsehood requite."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "47",
+        "type": "stanza",
+        "number": "46.",
+        "lines": [
+          "So is it with him",
+          "whom thou hardly wilt trust,",
+          "And whose mind thou mayst not know;",
+          "Laugh with him mayst thou,",
+          "but speak not thy mind,",
+          "Like gifts to his shalt thou give."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "48",
+        "type": "stanza",
+        "number": "47.",
+        "lines": [
+          "Young was I once,",
+          "and wandered alone,",
+          "And nought of the road I knew;",
+          "Rich did I feel",
+          "when a comrade I found,",
+          "For man is man's delight."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "49",
+        "type": "stanza",
+        "number": "48.",
+        "lines": [
+          "The lives of the brave",
+          "and noble are best,",
+          "Sorrows they seldom feed;",
+          "But the coward fear",
+          "of all things feels,",
+          "And not gladly the niggard gives."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "50",
+        "type": "stanza",
+        "number": "49.",
+        "lines": [
+          "My garments once",
+          "in a field I gave",
+          "To a pair of carven poles;",
+          "Heroes they seemed",
+          "when clothes they had,",
+          "But the naked man is nought."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "51",
+        "type": "stanza",
+        "number": "50.",
+        "lines": [
+          "On the hillside drear",
+          "the fir-tree dies,",
+          "All bootless its needles and bark;",
+          "It is like a man",
+          "whom no one loves,--",
+          "Why should his life be long?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "52",
+        "type": "stanza",
+        "number": "51.",
+        "lines": [
+          "Hotter than fire",
+          "between false friends",
+          "Does friendship five days burn;",
+          "When the sixth day comes",
+          "the fire cools,",
+          "And ended is all the love."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "53",
+        "type": "stanza",
+        "number": "52.",
+        "lines": [
+          "No great thing needs",
+          "a man to give,",
+          "Oft little will purchase praise;",
+          "With half a loaf",
+          "and a half-filled cup",
+          "A friend full fast I made."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "54",
+        "type": "stanza",
+        "number": "53.",
+        "lines": [
+          "A little sand",
+          "has a little sea,",
+          "And small are the minds of men;",
+          "Though all men are not",
+          "equal in wisdom,",
+          "Yet half-wise only are all."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "55",
+        "type": "stanza",
+        "number": "54.",
+        "lines": [
+          "A measure of wisdom",
+          "each man shall have,",
+          "But never too much let him know;",
+          "The fairest lives",
+          "do those men live",
+          "Whose wisdom wide has grown."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "56",
+        "type": "stanza",
+        "number": "55.",
+        "lines": [
+          "A measure of wisdom",
+          "each man shall have,",
+          "But never too much let him know;",
+          "For the wise man's heart",
+          "is seldom happy,",
+          "If wisdom too great he has won."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "57",
+        "type": "stanza",
+        "number": "56.",
+        "lines": [
+          "A measure of wisdom",
+          "each man shall have,",
+          "But never too much let him know;",
+          "Let no man the fate",
+          "before him see,",
+          "For so is he freest from sorrow."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "58",
+        "type": "stanza",
+        "number": "57.",
+        "lines": [
+          "A brand from a brand",
+          "is kindled and burned,",
+          "And fire from fire begotten;",
+          "And man by his speech",
+          "is known to men,",
+          "And the stupid by their stillness."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "59",
+        "type": "stanza",
+        "number": "58.",
+        "lines": [
+          "He must early go forth",
+          "who fain the blood",
+          "Or the goods of another would get;",
+          "The wolf that lies idle",
+          "shall win little meat,",
+          "Or the sleeping man success."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "60",
+        "type": "stanza",
+        "number": "59.",
+        "lines": [
+          "He must early go forth",
+          "whose workers are few,",
+          "Himself his work to seek;",
+          "Much remains undone",
+          "for the morning-sleeper,",
+          "For the swift is wealth half won."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "61",
+        "type": "stanza",
+        "number": "60.",
+        "lines": [
+          "Of seasoned shingles",
+          "and strips of bark",
+          "For the thatch let one know his need,",
+          "And how much of wood",
+          "he must have for a month,",
+          "Or in half a year he will use."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "62",
+        "type": "stanza",
+        "number": "61.",
+        "lines": [
+          "Washed and fed",
+          "to the council fare,",
+          "But care not too much for thy clothes;",
+          "Let none be ashamed",
+          "of his shoes and hose,",
+          "Less still of the steed he rides,",
+          "(Though poor be the horse he has.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "63",
+        "type": "stanza",
+        "number": "62.",
+        "lines": [
+          "When the eagle comes",
+          "to the ancient sea,",
+          "He snaps and hangs his head;",
+          "So is a man",
+          "in the midst of a throng,",
+          "Who few to speak for him finds."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "64",
+        "type": "stanza",
+        "number": "63.",
+        "lines": [
+          "To question and answer",
+          "must all be ready",
+          "Who wish to be known as wise;",
+          "Tell one thy thoughts,",
+          "but beware of two,--",
+          "All know what is known to three."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "65",
+        "type": "stanza",
+        "number": "64.",
+        "lines": [
+          "The man who is prudent",
+          "a measured use",
+          "Of the might he has will make;",
+          "He finds when among",
+          "the brave he fares",
+          "That the boldest he may not be."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "66",
+        "type": "stanza",
+        "number": "65.",
+        "lines": [
+          ".........",
+          "Oft for the words",
+          "that to others one speaks",
+          "He will get but an evil gift."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "67",
+        "type": "stanza",
+        "number": "66.",
+        "lines": [
+          "Too early to many",
+          "a meeting I came,",
+          "And some too late have I sought;",
+          "The beer was all drunk,",
+          "or not yet brewed;",
+          "Little the loathed man finds."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "68",
+        "type": "stanza",
+        "number": "67.",
+        "lines": [
+          "To their homes men would bid",
+          "me hither and yon,",
+          "If at meal-time I needed no meat,",
+          "Or would hang two hams",
+          "in my true friend's house,",
+          "Where only one I had eaten."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "69",
+        "type": "stanza",
+        "number": "68.",
+        "lines": [
+          "Fire for men",
+          "is the fairest gift,",
+          "And power to see the sun;",
+          "Health as well,",
+          "if a man may have it,",
+          "And a life not stained with sin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "70",
+        "type": "stanza",
+        "number": "69.",
+        "lines": [
+          "All wretched is no man,",
+          "though never so sick;",
+          "Some from their sons have joy,",
+          "Some win it from kinsmen,",
+          "and some from their wealth,",
+          "And some from worthy works."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "71",
+        "type": "stanza",
+        "number": "70.",
+        "lines": [
+          "It is better to live",
+          "than to lie a corpse,",
+          "The live man catches the cow;",
+          "I saw flames rise",
+          "for the rich man's pyre,",
+          "And before his door he lay dead."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "72",
+        "type": "stanza",
+        "number": "71.",
+        "lines": [
+          "The lame rides a horse,",
+          "the handless is herdsman,",
+          "The deaf in battle is bold;",
+          "The blind man is better",
+          "than one that is burned,",
+          "No good can come of a corpse."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "73",
+        "type": "stanza",
+        "number": "72.",
+        "lines": [
+          "A son is better,",
+          "though late he be born,",
+          "And his father to death have fared;",
+          "Memory-stones",
+          "seldom stand by the road",
+          "Save when kinsman honors his kin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "74",
+        "type": "stanza",
+        "number": "73.",
+        "lines": [
+          "Two make a battle,",
+          "the tongue slays the head;",
+          "In each furry coat",
+          "a fist I look for."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "75",
+        "type": "stanza",
+        "number": "74.",
+        "lines": [
+          "He welcomes the night",
+          "whose fare is enough,",
+          "(Short are the yards of a ship,)",
+          "Uneasy are autumn nights;",
+          "Full oft does the weather",
+          "change in a week,",
+          "And more in a month's time."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "76",
+        "type": "stanza",
+        "number": "75.",
+        "lines": [
+          "A man knows not,",
+          "if nothing he knows,",
+          "That gold oft apes begets;",
+          "One man is wealthy",
+          "and one is poor,",
+          "Yet scorn for him none should know."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "77",
+        "type": "stanza",
+        "number": "76.",
+        "lines": [
+          "Among Fitjung's sons saw I well-stocked folds,–",
+          "Now bear they the beggar's staff;",
+          "Wealth is as swift as a winking eye,",
+          "Of friends the falsest it is."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "78",
+        "type": "stanza",
+        "number": "77.",
+        "lines": [
+          "Cattle die, and kinsmen die,",
+          "And so one dies one's self;",
+          "But a noble name will never die,",
+          "If good renown one gets."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "79",
+        "type": "stanza",
+        "number": "78.",
+        "lines": [
+          "Cattle die, and kinsmen die,",
+          "And so one dies one's self;",
+          "One thing now that never dies,",
+          "The fame of a dead man's deeds."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "80",
+        "type": "stanza",
+        "number": "79.",
+        "lines": [
+          "Certain is that which is sought from runes,",
+          "That the gods so great have made,",
+          "And the Master-Poet painted;",
+          "*********",
+          "the race of gods:",
+          "Silence is safest and best."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "81",
+        "type": "stanza",
+        "number": "80.",
+        "lines": [
+          "An unwise man, if a maiden's love",
+          "Or wealth he chances to win,",
+          "His pride will wax, but his wisdom never,",
+          "Straight forward he fares in conceit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "82",
+        "type": "stanza",
+        "number": "81.",
+        "lines": [
+          "Give praise to the day at evening,",
+          "to a woman on her pyre,",
+          "To a weapon which is tried,",
+          "to a maid at wed lock,",
+          "To ice when it is crossed,",
+          "to ale that is drunk."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "83",
+        "type": "stanza",
+        "number": "82.",
+        "lines": [
+          "When the gale blows hew wood,",
+          "in fair winds seek the water;",
+          "Sport with maidens at dusk,",
+          "for day's eyes are many;",
+          "From the ship seek swiftness,",
+          "from the shield protection,",
+          "Cuts from the sword,",
+          "from the maiden kisses."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "84",
+        "type": "stanza",
+        "number": "83.",
+        "lines": [
+          "By the fire drink ale,",
+          "over ice go on skates;",
+          "Buy a steed that is lean,",
+          "and a sword when tarnished,",
+          "The horse at home fatten,",
+          "the hound in thy dwelling."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "85",
+        "type": "stanza",
+        "number": "84.",
+        "lines": [
+          "A man shall trust not",
+          "the oath of a maid,",
+          "Nor the word a woman speaks;",
+          "For their hearts on a whirling",
+          "wheel were fashioned,",
+          "And fickle their breasts were formed."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "86",
+        "type": "stanza",
+        "number": "85.",
+        "lines": [
+          "In a breaking bow",
+          "or a burning flame,",
+          "A ravening wolf",
+          "or a croaking raven,",
+          "In a grunting boar,",
+          "a tree with roots broken,",
+          "In billowy seas",
+          "or a bubbling kettle."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "87",
+        "type": "stanza",
+        "number": "86.",
+        "lines": [
+          "In a flying arrow",
+          "or falling waters,",
+          "In ice new formed",
+          "or the serpent's folds,",
+          "In a bride's bed-speech",
+          "or a broken sword,",
+          "In the sport of bears",
+          "or in sons of kings,"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "88",
+        "type": "stanza",
+        "number": "87.",
+        "lines": [
+          "n a calf that is sick",
+          "or a stubborn thrall,",
+          "A flattering witch",
+          "or a foe new slain."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "89",
+        "type": "stanza",
+        "number": "88.",
+        "lines": [
+          "In a brother's slayer,",
+          "if thou meet him abroad,",
+          "In a half-burned house,",
+          "in a horse full swift--",
+          "One leg is hurt",
+          "and the horse is useless--",
+          "None had ever such faith",
+          "as to trust in them all."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "90",
+        "type": "stanza",
+        "number": "89.",
+        "lines": [
+          "Hope not too surely",
+          "for early harvest,",
+          "Nor trust too soon in thy son;",
+          "The field needs good weather,",
+          "the son needs wisdom,",
+          "And oft is either denied."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "91",
+        "type": "stanza",
+        "number": "90.",
+        "lines": [
+          "The love of women",
+          "fickle of will",
+          "Is like starting o'er ice",
+          "with a steed unshod,",
+          "A two-year-old restive",
+          "and little tamed,",
+          "Or steering a rudderless",
+          "ship in a storm,",
+          "Or, lame, hunting reindeer",
+          "on slippery rocks."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "92",
+        "type": "stanza",
+        "number": "91.",
+        "lines": [
+          "Clear now will I speak,",
+          "for I know them both,",
+          "Men false to women are found;",
+          "When fairest we speak,",
+          "then falsest we think,",
+          "Against wisdom we work with deceit."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "93",
+        "type": "stanza",
+        "number": "92.",
+        "lines": [
+          "Soft words shall he speak",
+          "and wealth shall he offer",
+          "Who longs for a maiden's love,",
+          "And the beauty praise",
+          "of the maiden bright;",
+          "He wins whose wooing is best."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "94",
+        "type": "stanza",
+        "number": "93.",
+        "lines": [
+          "Fault for loving",
+          "let no man find",
+          "Ever with any other;",
+          "Oft the wise are fettered,",
+          "where fools go free,",
+          "By beauty that breeds desire."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "95",
+        "type": "stanza",
+        "number": "94.",
+        "lines": [
+          "Fault with another",
+          "let no man find",
+          "For what touches many a man;",
+          "Wise men oft",
+          "into witless fools",
+          "Are made by mighty love."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "96",
+        "type": "stanza",
+        "number": "95.",
+        "lines": [
+          "The head alone knows",
+          "what dwells near the heart,",
+          "A man knows his mind alone;",
+          "No sickness is worse",
+          "to one who is wise",
+          "Than to lack the longed-for joy."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "97",
+        "type": "stanza",
+        "number": "96.",
+        "lines": [
+          "This found I myself,",
+          "when I sat in the reeds,",
+          "And long my love awaited;",
+          "As my life the maiden",
+          "wise I loved,",
+          "Yet her I never had."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "98",
+        "type": "stanza",
+        "number": "97.",
+        "lines": [
+          "Billing's daughter",
+          "I found on her bed,",
+          "In slumber bright as the sun;",
+          "Empty appeared",
+          "an earl's estate",
+          "Without that form so fair."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "99",
+        "type": "stanza",
+        "number": "98.",
+        "lines": [
+          "Othin, again",
+          "at evening come,",
+          "If a woman thou wouldst win;",
+          "Evil it were",
+          "if others than we",
+          "Should know of such a sin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "100",
+        "type": "stanza",
+        "number": "99.",
+        "lines": [
+          "Away I hastened,",
+          "hoping for joy,",
+          "And careless of counsel wise;",
+          "Well I believed",
+          "that soon I should win",
+          "Measureless joy with the maid."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "101",
+        "type": "stanza",
+        "number": "100.",
+        "lines": [
+          "So came I next",
+          "when night it was,",
+          "The warriors all were awake;",
+          "With burning lights",
+          "and waving brands",
+          "I learned my luckess way."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "102",
+        "type": "stanza",
+        "number": "101.",
+        "lines": [
+          "At morning then,",
+          "when once more I came,",
+          "And all were sleeping still,",
+          "A dog found",
+          "in the fair one's place,",
+          "Bound there upon her bed."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "103",
+        "type": "stanza",
+        "number": "102.",
+        "lines": [
+          "Many fair maids,",
+          "if a man but tries them,",
+          "False to a lover are found;",
+          "That did I learn",
+          "when I longed to gain",
+          "With wiles the maiden wise;",
+          "Foul scorn was my meed",
+          "from the crafty maid,",
+          "And nought from the woman I won."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "104",
+        "type": "stanza",
+        "number": "103.",
+        "lines": [
+          "Though glad at home,",
+          "and merry with guests,",
+          "A man shall be wary and wise;",
+          "The sage and shrewd,",
+          "wide wisdom seeking,",
+          "Must see that his speech be fair;",
+          "A fool is he named",
+          "who nought can say,",
+          "For such is the way of the witless."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "105",
+        "type": "stanza",
+        "number": "104.",
+        "lines": [
+          "I found the old giant,",
+          "now back have I fared,",
+          "Small gain from silence I got;",
+          "Full many a word,",
+          "my will to get,",
+          "I spoke in Suttung's hall."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "106",
+        "type": "stanza",
+        "number": "105.",
+        "lines": [
+          "The mouth of Rati",
+          "made room for my passage,",
+          "And space in the stone he gnawed;",
+          "Above and below",
+          "the giants' paths lay,",
+          "So rashly I risked my head."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "107",
+        "type": "stanza",
+        "number": "106.",
+        "lines": [
+          "Gunnloth gave",
+          "on a golden stool",
+          "A drink of the marvelous mead;",
+          "A harsh reward",
+          "did I let her have",
+          "For her heroic heart,",
+          "And her spirit troubled sore."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "108",
+        "type": "stanza",
+        "number": "107.",
+        "lines": [
+          "The well-earned beauty",
+          "well I enjoyed,",
+          "Little the wise man lacks;",
+          "So Othrörir now",
+          "has up been brought",
+          "To the midst of the men of earth."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "109",
+        "type": "stanza",
+        "number": "108.",
+        "lines": [
+          "Hardly, methinks,",
+          "would I home have come,",
+          "And left the giants' land,",
+          "Had not Gunnloth helped me,",
+          "the maiden good,",
+          "Whose arms about me had been."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "110",
+        "type": "stanza",
+        "number": "109.",
+        "lines": [
+          "The day that followed,",
+          "the frost-giants came,",
+          "Some word of Hor to win,",
+          "(And into the hall of Hor;)",
+          "Of Bolverk they asked,",
+          "were he back midst the gods,",
+          "Or had Suttung slain him there?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "111",
+        "type": "stanza",
+        "number": "110.",
+        "lines": [
+          "On his ring swore Othin",
+          "the oath, methinks;",
+          "Who now his troth shall trust?",
+          "Suttung's betrayal",
+          "he sought with drink,",
+          "And Gunnloth to grief he left."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "112",
+        "type": "stanza",
+        "number": "111.",
+        "lines": [
+          "It is time to chant",
+          "from the chanter's stool;",
+          "By the wells of Urth I was,",
+          "I saw and was silent,",
+          "I saw and thought,",
+          "And heard the speech of Hor.",
+          "(Of runes heard I words,",
+          "nor were counsels wanting,",
+          "At the hall of Hor,",
+          "In the hall of Hor;",
+          "Such was the speech I heard.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "113",
+        "type": "stanza",
+        "number": "112.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest,",
+          "Great thy gain if thou learnest:",
+          "Rise not at night,",
+          "save if news thou seekest,",
+          "Or fain to the outhouse wouldst fare."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "114",
+        "type": "stanza",
+        "number": "113.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest,",
+          "Great thy gain if thou learnest:",
+          "Beware of sleep",
+          "on a witch's bosom,",
+          "Nor let her limbs ensnare thee."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "115",
+        "type": "stanza",
+        "number": "114.",
+        "lines": [
+          "Such is her might",
+          "that thou hast no mind",
+          "For the council or meeting of men;",
+          "Meat thou hatest,",
+          "joy thou hast not,",
+          "And sadly to slumber thou farest."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "116",
+        "type": "stanza",
+        "number": "115.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest,",
+          "Great thy gain if thou learnest:",
+          "Seek never to win",
+          "the wife of another,",
+          "Or long for her secret love."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "117",
+        "type": "stanza",
+        "number": "116.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest,",
+          "Great thy gain if thou learnest:",
+          "If o'er mountains or gulfs",
+          "thou fain wouldst go,",
+          "Look well to thy food for the way."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "118",
+        "type": "stanza",
+        "number": "117.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest,",
+          "Great thy gain if thou learnest:",
+          "An evil man",
+          "thou must not let",
+          "Bring aught of ill to thee;",
+          "For an evil man",
+          "will never make",
+          "Reward for a worthy thought."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "119",
+        "type": "stanza",
+        "number": "118.",
+        "lines": [
+          "I saw a man",
+          "who was wounded sore",
+          "By an evil woman's word;",
+          "A lying tongue",
+          "his death-blow launched,",
+          "And no word of truth there was."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "120",
+        "type": "stanza",
+        "number": "119.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest,",
+          "Great thy gain if thou learnest:",
+          "If a friend thou hast",
+          "whom thou fully wilt trust,",
+          "Then fare to find him oft;",
+          "For brambles grow",
+          "and waving grass",
+          "On the rarely trodden road."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "121",
+        "type": "stanza",
+        "number": "120.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest,",
+          "Great thy gain if thou learnest:",
+          "A good man find",
+          "to hold in friendship,",
+          "And give heed to his healing charms."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "122",
+        "type": "stanza",
+        "number": "121.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest,",
+          "Great thy gain if thou learnest:",
+          "Be never the first",
+          "to break with thy friend",
+          "The bond that holds you both;",
+          "Care eats the heart",
+          "if thou canst not speak",
+          "To another all thy thought."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "123",
+        "type": "stanza",
+        "number": "122.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest",
+          "Great thy gain if thou learnest:",
+          "Exchange of words",
+          "with a witless ape",
+          "Thou must not ever make."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "124",
+        "type": "stanza",
+        "number": "123.",
+        "lines": [
+          "For never thou mayst",
+          "from an evil man",
+          "A good requital get;",
+          "But a good man oft",
+          "the greatest love",
+          "Through words of praise will win thee."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "125",
+        "type": "stanza",
+        "number": "124.",
+        "lines": [
+          "Mingled is love",
+          "when a man can speak",
+          "To another all his thought;",
+          "Nought is so bad",
+          "as false to be,",
+          "No friend speaks only fair."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "126",
+        "type": "stanza",
+        "number": "125.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest",
+          "Great thy gain if thou learnest:",
+          "With a worse man speak not",
+          "three words in dispute,",
+          "Ill fares the better oft",
+          "When the worse man wields a sword."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "127",
+        "type": "stanza",
+        "number": "126.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest",
+          "Great thy gain if thou learnest:",
+          "A shoemaker be,",
+          "or a maker of shafts,",
+          "For only thy single self;",
+          "If the shoe is ill made,",
+          "or the shaft prove false,",
+          "Then evil of thee men think."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "128",
+        "type": "stanza",
+        "number": "127.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest",
+          "Great thy gain if thou learnest:",
+          "If evil thou knowest,",
+          "as evil proclaim it,",
+          "And make no friendship with foes."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "129",
+        "type": "stanza",
+        "number": "128.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest",
+          "Great thy gain if thou learnest:",
+          "In evil never",
+          "joy shalt thou know,",
+          "But glad the good shall make thee."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "130",
+        "type": "stanza",
+        "number": "129.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest,",
+          "Great thy gain if thou learnest:",
+          "Look not up",
+          "when the battle is on,",
+          "(Like madmen the sons",
+          "of men become,)",
+          "Lest men bewitch thy wits."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "131",
+        "type": "stanza",
+        "number": "130.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest",
+          "Great thy gain if thou learnest:",
+          "If thou fain wouldst win",
+          "a woman's love,",
+          "And gladness get from her,",
+          "Fair be thy promise",
+          "and well fulfilled;",
+          "None loathes what good he gets."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "132",
+        "type": "stanza",
+        "number": "131.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest",
+          "Great thy gain if thou learnest:",
+          "I bid thee be wary,",
+          "but be not fearful;",
+          "(Beware most with ale or another's wife,",
+          "And third beware",
+          "lest a thief outwit thee.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "133",
+        "type": "stanza",
+        "number": "132.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest",
+          "Great thy gain if thou learnest:",
+          "Scorn or mocking",
+          "ne'er shalt thou make",
+          "Of a guest or a journey-goer."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "134",
+        "type": "stanza",
+        "number": "133.",
+        "lines": [
+          "Oft scarcely he knows",
+          "who sits in the house",
+          "What kind is the man who comes;",
+          "None so good is found",
+          "that faults he has not,",
+          "Nor so wicked that nought he is worth."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "135",
+        "type": "stanza",
+        "number": "134.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest,",
+          "Great thy gain if thou learnest:",
+          "Scorn not ever",
+          "the gray-haired singer,",
+          "Oft do the old speak good;",
+          "(Oft from shrivelled skin",
+          "come skillful counsels,",
+          "Though it hang with the hides,",
+          "And flap with the pelts,",
+          "And is blown with the bellies.)"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "136",
+        "type": "stanza",
+        "number": "135.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest",
+          "Great thy gain if thou learnest:",
+          "Curse not thy guest,",
+          "nor show him thy gate,",
+          "Deal well with a man in want."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "137",
+        "type": "stanza",
+        "number": "136.",
+        "lines": [
+          "Strong is the beam",
+          "that raised must be",
+          "To give an entrance to all;",
+          "Give it a ring,",
+          "or grim will be",
+          "The wish it would work on thee."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "138",
+        "type": "stanza",
+        "number": "137.",
+        "lines": [
+          "I rede thee, Loddfafnir!",
+          "and hear thou my rede,",
+          "Profit thou hast if thou hearest,",
+          "Great thy gain if thou learnest:",
+          "When ale thou drinkest)",
+          "seek might of earth,",
+          "(For earth cures drink,",
+          "and fire cures ills,",
+          "The oak cures tightness,",
+          "the ear cures magic,",
+          "Rye cures rupture,",
+          "the moon cures rage,",
+          "Grass cures the scab,",
+          "and runes the sword-cut;)",
+          "The field absorbs the flood."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "139",
+        "type": "heading",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      },
+      {
+        "id": "140",
+        "type": "stanza",
+        "number": "138.",
+        "lines": [
+          "I ween that I hung",
+          "on the windy tree,",
+          "Hung there for nights full nine;",
+          "With the spear I was wounded,",
+          "and offered I was",
+          "To Othin, myself to myself,",
+          "On the tree that none",
+          "may ever know",
+          "What root beneath it runs."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "141",
+        "type": "stanza",
+        "number": "139.",
+        "lines": [
+          "None made me happy",
+          "with loaf or horn,",
+          "And there below I looked;",
+          "I took up the runes,",
+          "shrieking I took them,",
+          "And forthwith back I fell."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "142",
+        "type": "stanza",
+        "number": "140.",
+        "lines": [
+          "Nine mighty songs",
+          "I got from the son",
+          "Of Bolthorn, Bestla's father;",
+          "And a drink I got",
+          "of the goodly mead",
+          "Poured out from Othrörir."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "143",
+        "type": "stanza",
+        "number": "141.",
+        "lines": [
+          "Then began I to thrive,",
+          "and wisdom to get,",
+          "I grew and well I was;",
+          "Each word led me on",
+          "to another word,",
+          "Each deed to another deed."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "144",
+        "type": "stanza",
+        "number": "142.",
+        "lines": [
+          "Runes shalt thou find,",
+          "and fateful signs,",
+          "That the king of singers colored,",
+          "And the mighty gods have made;",
+          "Full strong the signs,",
+          "full mighty the signs",
+          "That the ruler of gods doth write."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "145",
+        "type": "stanza",
+        "number": "143.",
+        "lines": [
+          "Othin for the gods,",
+          "Dain for the elves,",
+          "And Dvalin for the dwarfs,",
+          "Alsvith for giants",
+          "and all mankind,",
+          "And some myself I wrote."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "146",
+        "type": "stanza",
+        "number": "144.",
+        "lines": [
+          "Knowest how one shall write,",
+          "knowest how one shall rede?",
+          "Knowest how one shall tint,",
+          "knowest how one makes trial?",
+          "Knowest how one shall ask,",
+          "knowest how one shall offer?",
+          "Knowest how one shall send,",
+          "knowest how one shall sacrifice?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "147",
+        "type": "stanza",
+        "number": "145.",
+        "lines": [
+          "Better no prayer",
+          "than too big an offering,",
+          "By thy getting measure thy gift;",
+          "Better is none",
+          "than too big a sacrifice,",
+          "*********",
+          "So Thund of old wrote",
+          "ere man's race began,",
+          "Where he rose on high",
+          "when home he came"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "148",
+        "type": "stanza",
+        "number": "146.",
+        "lines": [
+          "The songs I know",
+          "that king's wives know not,",
+          "Nor men that are sons of men;",
+          "The first is called help,",
+          "and help it can bring thee",
+          "In sorrow and pain and sickness."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "149",
+        "type": "stanza",
+        "number": "147.",
+        "lines": [
+          "A second I know,",
+          "that men shall need",
+          "Who leechcraft long to use;",
+          "*********",
+          "*********"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "150",
+        "type": "stanza",
+        "number": "148.",
+        "lines": [
+          "A third I know,",
+          "if great is my need",
+          "Of fetters to hold my foe;",
+          "Blunt do I make",
+          "mine enemy's blade,",
+          "Nor bites his sword or staff."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "151",
+        "type": "stanza",
+        "number": "149.",
+        "lines": [
+          "A fourth I know,",
+          "if men shall fasten",
+          "Bonds on my bended legs;",
+          "So great is the charm",
+          "that forth I may go,",
+          "The fetters spring from my feet,",
+          "Broken the bonds from my hands."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "152",
+        "type": "stanza",
+        "number": "150.",
+        "lines": [
+          "A fifth I know,",
+          "if I see from afar",
+          "An arrow fly 'gainst the folk;",
+          "It flies not so swift",
+          "that I stop it not,",
+          "If ever my eyes behold it."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "153",
+        "type": "stanza",
+        "number": "151.",
+        "lines": [
+          "A sixth I know,",
+          "if harm one seeks",
+          "With a sapling's roots to send me;",
+          "The hero himself",
+          "who wreaks his hate",
+          "Shall taste the ill ere I."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "154",
+        "type": "stanza",
+        "number": "152.",
+        "lines": [
+          "A seventh I know,",
+          "if I see in flames",
+          "The hall o'er my comrades' heads;",
+          "It burns not so wide",
+          "that I will not quench it,",
+          "I know that song to sing."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "155",
+        "type": "stanza",
+        "number": "153.",
+        "lines": [
+          "An eighth I know,",
+          "that is to all",
+          "Of greatest good to learn;",
+          "When hatred grows",
+          "among heroes' sons,",
+          "I soon can set it right."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "156",
+        "type": "stanza",
+        "number": "154.",
+        "lines": [
+          "A ninth I know,",
+          "if need there comes",
+          "To shelter my ship on the flood;",
+          "The wind I calm",
+          "upon the waves,",
+          "And the sea I put to sleep."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "157",
+        "type": "stanza",
+        "number": "155.",
+        "lines": [
+          "A tenth I know,",
+          "what time I see",
+          "House-riders flying on high;",
+          "So can I work",
+          "that wildly they go,",
+          "Showing their true shapes,",
+          "Hence to their own homes."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "158",
+        "type": "stanza",
+        "number": "156.",
+        "lines": [
+          "An eleventh I know,",
+          "if needs I must lead",
+          "To the fight my long-loved friends;",
+          "I sing in the shields,",
+          "and in strength they go",
+          "Whole to the field of fight,",
+          "Whole from the field of fight,",
+          "And whole they come thence home."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "159",
+        "type": "stanza",
+        "number": "157.",
+        "lines": [
+          "A twelfth I know,",
+          "if high on a tree",
+          "I see a hanged man swing;",
+          "So do I write",
+          "and color the runes",
+          "That forth he fares,",
+          "And to me talks."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "160",
+        "type": "stanza",
+        "number": "158.",
+        "lines": [
+          "A thirteenth I know,",
+          "if a thane full young",
+          "With water I sprinkle well;",
+          "He shall not fall,",
+          "though he fares mid the host,",
+          "Nor sink beneath the swords."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "161",
+        "type": "stanza",
+        "number": "159.",
+        "lines": [
+          "A fourteenth I know,",
+          "if fain I would name",
+          "To men the mighty gods;",
+          "All know I well",
+          "of the gods and elves,",
+          "Few be the fools know this."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "162",
+        "type": "stanza",
+        "number": "160.",
+        "lines": [
+          "A fifteenth I know,",
+          "that before the doors",
+          "Of Delling sang Thjothrörir the dwarf;",
+          "Might he sang for the gods,",
+          "and glory for elves,",
+          "And wisdom for Hroptatyr wise."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "163",
+        "type": "stanza",
+        "number": "161.",
+        "lines": [
+          "A sixteenth I know,",
+          "if I seek delight",
+          "To win from a maiden wise;",
+          "The mind I turn",
+          "of the white-armed maid,",
+          "And thus change all her thoughts."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "164",
+        "type": "stanza",
+        "number": "162.",
+        "lines": [
+          "A seventeenth I know,",
+          "so that seldom shall go",
+          "A maiden young from me;",
+          "Long these songs",
+          "thou shalt, Loddfafnir,",
+          "Seek in vain to sing;",
+          "Yet good it were",
+          "if thou mightest get them,",
+          "Well, if thou wouldst them learn,",
+          "Help, if thou hadst them."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "165",
+        "type": "stanza",
+        "number": "163.",
+        "lines": [
+          "An eighteenth I know,",
+          "that ne'er will I tell",
+          "To maiden or wife of man,",
+          "The best is what none",
+          "but one's self doth know,",
+          "So comes the end of the songs,",
+          "Save only to her",
+          "in whose arms I lie,",
+          "Or who else my sister is."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "166",
+        "type": "stanza",
+        "number": "164.",
+        "lines": [
+          "Now are Hor's words",
+          "spoken in the hall,",
+          "Kind for the kindred of men,",
+          "Cursed for the kindred of giants:",
+          "Hail to the speaker,",
+          "and to him who learns!",
+          "Profit be his who has them!",
+          "Hail to them who hearken!"
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}

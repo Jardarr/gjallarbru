@@ -1,0 +1,735 @@
+{
+  "category": "norroenar-thjodkvaedi",
+  "slug": "ungen-svejdal",
+  "key": "UngenSvejdal",
+  "title": {
+    "on": "Ungen Svejdal",
+    "ru": "Юный Свейдаль",
+    "en": "Young Svejdal"
+  },
+  "subtitle": {
+    "ru": "",
+    "en": ""
+  },
+  "description": {
+    "on": "",
+    "ru": "",
+    "en": ""
+  },
+  "source": {
+    "on": "",
+    "ru": "Датский текст: Danske Folkeviser i Udvalg. Ved Axel Olrik, under medvirken af Ida Falbe-Hansen. 1918. Перевод: Игн. Ивановский. Скандинавская баллада. C. 120–124. М.: «НАУКА», 1978.",
+    "en": ""
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Det var ungen Svejdal,",
+          "han skulde Bolden lege;",
+          "Bolden drev",
+          "i Jomfruens Skød,",
+          "det gjorde hendes Kinder blege.",
+          "Du lad dine Ord vel!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Bolden drev",
+          "i Jomfruens Bur,",
+          "og Svenden efter gik;",
+          "førend han ud af Buret kom,",
+          "stor Sorg hun i Hjertet fik."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "“Du tørst",
+          "ikke kaste",
+          "Bolden efter mig;",
+          "der sidder en Mø",
+          "i fremmed Land,",
+          "hun lider fast efter dig."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Du skal aldrig",
+          "Søvnen sove",
+          "og aldrig Roen faa,",
+          "før du faar løst",
+          "den skønne Jomfru,",
+          "som længe har ligget i Traa.”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Det var ungen Svejdal,",
+          "svøber han sig i Skind;",
+          "saa gaar han i Stuen",
+          "for raske Hovmænd ind."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "“Hil sidde I, alle mine",
+          "Hovmænd!",
+          "I drikker Mjød af Skaal,",
+          "medens jeg gaar til Bjerget",
+          "at høre min Moders Maal.”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Det var ungen Svejdal,",
+          "han tager til at kalde;",
+          "der revned Mur",
+          "og Marmelsten",
+          "og Bjerget tager til at falde."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "“Hvem er det, der kalder?",
+          "hvi vækker I mig saa mod?",
+          "maa jeg ikke med Freden ligge",
+          "opunder den sorte Jord?”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "“Det er unge",
+          "Svejdal,",
+          "eneste Sønnen din;",
+          "han vil gerne have gode Raad",
+          "af kære Moder sin."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Min Søster og min Stedmoder",
+          "har lagt mit Hjærte i Traa",
+          "alt for saa skøn en Jomfru,",
+          "jeg aldrig med Øjne saa.”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "“Jeg skal give dig Fole,",
+          "fuldvel skal han bære dig fram;",
+          "han løber over",
+          "den salte Fjord",
+          "som over det grønne Land."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Jeg skal give dig Sværdet,",
+          "er hærdet i Drageblod;",
+          "ihvor du rider gennem",
+          "mørke Skov,",
+          "da brænder det som et Baal.”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Det var ungen Svejdal,",
+          "han tog sin Hest med Spore;",
+          "saa red han over det brede Hav",
+          "og gennem de mørke Skove."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Det var ungen Svejdal,",
+          "han rider sig ud med Strand;",
+          "der fik han",
+          "se den Hyrde,",
+          "som driver det Fæ i Vand."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "“Hør du, gode",
+          "Hyrde,",
+          "og Sanding sige du mig:",
+          "Hvem da ejer det meget Fæ,",
+          "som du driver her for dig?”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "“Her er en Jomfru",
+          "paa dette Land,",
+          "hun ligger i lang Attraa:",
+          "alt for en Svend,",
+          "hedder Svejdal,",
+          "hun aldrig",
+          "med Øjne saa.”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "“Og vedst du,",
+          "hvor den Jomfru er,",
+          "du dølge det ikke for mig!",
+          "bliver jeg Konge paa dette Land,",
+          "til Ridder slaar jeg dig.”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "“Foroven under",
+          "grønne Lind",
+          "der stander min Jomfrus Gaard;",
+          "Husene er af graa Marmelsten,",
+          "og Dørene lagte med Staal."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Husene er af graa Marmelsten,",
+          "og Dørene lagte med Staal;",
+          "det er vel atten Vintre siden,",
+          "den Jomfru Solen saa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Der staar en Bjørn",
+          "for min Jomfrus Bur,",
+          "dertil en Løve saa gram;",
+          "men er du den",
+          "rette Svejdal,",
+          "saa frit maa du gaa fram.”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Bort red ungen Svejdal,",
+          "han ind ad Porten saa;",
+          "alle de Laase, der hængte,",
+          "de ginge da selver fraa."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Løven og den",
+          "vilde Bjørn",
+          "de fulde den Herre til Fod;",
+          "Linden med sine",
+          "forgyldene Blade",
+          "hun bugned neder til Jord."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Linden bugned neder til Jord",
+          "med sine forgyldene Blade;",
+          "op da stod den stolte Jomfru,",
+          "som længe havde ligget i Dvale."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Op da vaagned",
+          "den stolte Jomfru,",
+          "hun hørte de Sporer klinge;",
+          "“Lovet være Gud",
+          "i Himmerig,",
+          "jeg maatte blive løst af Tvange!”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Ind kom",
+          "ungen Svejdal,",
+          "han var baade favr og ung;",
+          "det var den stolte Jomfru,",
+          "hun favned saa vel hans Komm’."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "“Velkommen",
+          "ungen Svejdal,",
+          "ædelig Herre min!",
+          "lovet være Gud i Himmerig,",
+          "os baade har løst af Pine!”"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "Du lad dine Ord vel!"
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Юный Свейдаль играет в мяч,",
+          "Кидает метко и смело.",
+          "В красивую девушку",
+          "мяч попал,",
+          "И девушка побледнела.",
+          "Ты говори с умом!"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "В комнату к девушке",
+          "мяч попал,",
+          "Свейдаль пошел за мячом.",
+          "Грустный вышел он назад,",
+          "Грустить ему было о чем."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "«Юный Свейдаль,",
+          "твой меткий мяч",
+          "Ты не бросай мне вслед.",
+          "В чужой стране",
+          "тебя девушка ждет,",
+          "Без тебя ей счастья нет."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Не будешь ты",
+          "ни пить, ни есть,",
+          "И будет твой сон нехорош,",
+          "Покуда ты",
+          "от сонных чар",
+          "Девушку не спасешь»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Юный Свейдаль накинул мех,",
+          "Был его мех богат.",
+          "Свейдаль отправился туда,",
+          "Где воины сидят."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "«Здесь вы сидите, люди мои,",
+          "Мед и вина — ваше питье.",
+          "К могиле матери я пойду,",
+          "Совета спрошу у нее»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "К могиле матери Свейдаль",
+          "пришел,",
+          "И стал он громко звать.",
+          "Треснули камни,",
+          "и дрогнул холм,",
+          "Под которым лежала мать."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "«Кто это? Кто меня зовет",
+          "И прах тревожит мой?",
+          "Кто не дает мне мирно спать",
+          "В моей могиле сырой?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "«Это Свейдаль,",
+          "единственный сын,",
+          "Которого ты родила.",
+          "Он хочет, чтобы ты ему",
+          "Добрый совет дала."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Мачеха с дочкой сделали так,",
+          "Чтоб о девушке я страдал,",
+          "А девушку эту никогда",
+          "Я в глаза не видал»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "«Я дам тебе резвого коня,",
+          "Ты ловко сидишь в седле.",
+          "Он побежит",
+          "по соленым волнам,",
+          "Словно но твердой земле."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Я дам тебе волшебный меч,",
+          "С ним светел темный бор.",
+          "В крови дракона",
+          "меч закален",
+          "И будет пылать, как костер»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Юный Свейдаль сел на коня",
+          "И задал работу шпорам.",
+          "То полем широким скачет он,",
+          "То темным дремучим бором."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "По берегу моря скачет он,",
+          "У самой волны морской,",
+          "И видит — к берегу",
+          "гонит пастух",
+          "Скотину на водопой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "«Скажи мне правду,",
+          "добрый пастух,",
+          "Правду не надо таить,",
+          "Чей ты сам и чей это скот,",
+          "Что гонишь ты поить?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "«С нашей юной",
+          "госпожой",
+          "Стряслась большая беда.",
+          "Каким-то Свейдалем",
+          "бредит она,",
+          "Хоть не был он",
+          "здесь никогда»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "«Добрый пастух,",
+          "скажи поскорей,",
+          "Как мне найти госпожу.",
+          "Если я стану твоим королем,",
+          "Щедро тебя награжу»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "«Двор на горе,",
+          "где липы стоят,",
+          "Не такая уж даль.",
+          "Из серого мрамора дома,",
+          "А дверь закована в сталь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Из серого мрамора дома,",
+          "И сталью скована дверь.",
+          "Минуло восемнадцать зим",
+          "Моей госпоже теперь."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Слева у двери —",
+          "лютый медведь,",
+          "А справа — грозный лев.",
+          "Но если истинный",
+          "Свейдаль ты,",
+          "Не страшен тебе их гнев»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Свейдаль в гору погнал коня,",
+          "Поднялся дорогой крутой,",
+          "И все запоры на дверях",
+          "Упали сами собой."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Грозный лев и",
+          "лютый медведь",
+          "К его ногам легли,",
+          "И липа золотую",
+          "листву",
+          "Склонила до земли."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Липа склонила до земли",
+          "Золотую листву,",
+          "И девушка, открыв глаза,",
+          "Увидела все наяву."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "24",
+        "type": "stanza",
+        "number": "24.",
+        "lines": [
+          "Открыла девушка",
+          "глаза",
+          "И слышит — звенят стремена.",
+          "«Хвала творцу,",
+          "я от сонных чар",
+          "Свейдалем спасена»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "25",
+        "type": "stanza",
+        "number": "25.",
+        "lines": [
+          "Юный Свейдаль",
+          "вошел в покой.",
+          "Немногие так хороши.",
+          "Взглянула девушка на него",
+          "И обняла от души."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "26",
+        "type": "stanza",
+        "number": "26.",
+        "lines": [
+          "«Добро пожаловать,",
+          "мой жених,",
+          "К верной твоей невесте.",
+          "Хвала всевышнему в небесах,",
+          "Мы будем счастливы вместе»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "27",
+        "type": "prose",
+        "lines": [
+          "Ты говори с умом!"
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "",
+        "lines": [
+          ""
+        ],
+        "placeholder": true
+      }
+    ]
+  }
+}

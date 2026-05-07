@@ -1,0 +1,1054 @@
+{
+  "category": "eddica-minora",
+  "slug": "haraldskvaedi-eda-hrafnsmal",
+  "key": "HaraldskvaediEdaHrafnsmal",
+  "title": {
+    "on": "Haraldskvæði еða Hrafnsmál",
+    "ru": "Песнь о Харальде или Речи Ворона",
+    "en": "The Lay of Harold"
+  },
+  "subtitle": {
+    "ru": "Торбьёрн Хорнклови",
+    "en": "Þórbjörn hornklofi"
+  },
+  "description": {
+    "on": "",
+    "ru": "Торбьёрн Хорнклови — придворный скальд конунга Харальда Прекрасноволосого (ок. 850–933 гг.), деяниям которого и посвящена эта Песнь. Текст Песни собран воедино из фрагментов, сохранившихся в рукописи Fagrskinna, «Красивая кожа» (созд. ок. 1220 г., оригинал манускрипта сгорел, сохранились только поздние бумажные копии). Отрывки «Песни» сохранились также в «Саге о Харальде Прекрасноволосом» и «Младшей Эдде».",
+    "en": "Thorbjörn Hornklovi was the court skald of King Harald Fairhair (c. 850–933), whose deeds this Lay is dedicated to. The text of the Lay is compiled from fragments preserved in the manuscript Fagrskinna, or \"Beautiful Skin\" (created c. 1220; the original manuscript burned, leaving only later paper copies). Fragments of the Lay are also preserved in the Saga of Harald Fairhair and the Prose Edda."
+  },
+  "source": {
+    "on": "",
+    "ru": "Древнеисландский текст: Finnur Jónsson, Den norsk-islandske Skjaldedigtning: A1, 1912, p. 24–29; B1, 1912, p. 22–25. Перевод: Надежда Топчий.",
+    "en": "An ancient Icelandic text, edited by Finnur Jónsson, Den norsk-islandske Skjaldedigtning: A1, 1912, p. 24–29; B1, 1912, p. 22–25. Translation by Lee M. Hollander (1936)."
+  },
+  "texts": {
+    "on": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Skáld:",
+          "Hlýði hringberendr,",
+          "meðan frá Haraldi",
+          "segik odda íþróttir",
+          "hinum afarauðga;",
+          "frá málum munk segja,",
+          "þeim's ek mey heyrða",
+          "hvíta haddbjarta,",
+          "es við hrafn dœmði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Vitr þóttisk valkyrja;",
+          "verar né óru",
+          "þekkir svá hinni fránleitu,",
+          "es fugls rödd kunni.",
+          "Kvaddi hin glæhvarma",
+          "ok hin kverkhvíta",
+          "Hymis hausrofa,",
+          "es sat á horni vinbjarga."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "[Valkyrja kvað:]",
+          "Hvat es yðr, hrafnar,",
+          "hvaðan eruð komnir",
+          "með dreyrgu nefi",
+          "at degi öndurðum?",
+          "Hold loðir yðr í klóum,",
+          "hræs þefr gengr ór munni,",
+          "nær hykk í nótt bjogguð",
+          "því's vissuð nái liggja»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Skáld:",
+          "Hreyfðisk hinn hösfjaðri",
+          "ok of hyrnu þerði,",
+          "arnar eiðbróðir,",
+          "ok at andsvörum hugði:",
+          "[Hrafn kvað:]",
+          "«Haraldi vér fylgðum,",
+          "syni Halfdanar,",
+          "ungum öðlingi,",
+          "síts ór eggi kómum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Kunna hugðak þik konung,",
+          "þann's á Kvinnum býr,",
+          "dróttin Norðmanna,",
+          "djúpum ræðr kjólum,",
+          "roðnum röngum,",
+          "ok rauðum skjöldum,",
+          "tjörguðum árum,",
+          "ok tjöldum drifnum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Úti vill jól drekka,",
+          "ef skal einn ráða,",
+          "fylkir hinn framlyndi,",
+          "ok Freys leik heyja.",
+          "Ungr leiddisk eldvelli",
+          "ok inni at sitja,",
+          "varma dyngju",
+          "eða vöttu dúns fulla."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Heyrði í Hafrsfirði,",
+          "hvé hizig barðisk",
+          "konungr hinn kynstóri",
+          "við Kjötva hinn auðlagða;",
+          "knerrir kómu austan",
+          "kapps of lystir",
+          "með gínöndum höfðum",
+          "ok gröfnum tinglum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Hlaðnir óru hölða",
+          "ok hvítra skjalda,",
+          "vigra vestrœnna",
+          "ok valskra sverða;",
+          "grenjuðu berserkir,",
+          "guðr vas á sinnum,",
+          "emjuðu Ulfheðnar",
+          "ok ísörn dúðu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Freistuðu hins framráða",
+          "es þeim flœja kendi,",
+          "allvalds austmanna,",
+          "es býr at Útsteini;",
+          "stóðum Nökkva brá,",
+          "es vas styrjar væni;",
+          "hlömmun vas á hlífum,",
+          "áðr Haklangr felli."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Leiddisk þá fyr Lúfu",
+          "landi at halda",
+          "hilmir hinn halsdigri,",
+          "holm lézk at skildi.",
+          "Slógusk und sessþiljur",
+          "es sárir óru,",
+          "létu upp stjölu stúpa,",
+          "stungu í kjöl höfðum."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Á baki létu blíkja,",
+          "barðir óru grjóti,",
+          "Sváfnis salnæfrar",
+          "seggir hyggjandi;",
+          "œstusk austkylfur",
+          "ok of Jaðar hljópu",
+          "heim ór Hafrsfirði,",
+          "hugðu á mjöðdrykkju."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "Valr lá þar á sandi",
+          "vitinn hinum eineygja",
+          "Friggjar faðmbyggvi,",
+          "fögnuðum dáð slíkri."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Annat skolu þær eiga",
+          "ambáttir Ragnhildar,",
+          "dísir dramblátar,",
+          "at drykkjumálum,",
+          "an séið hergaupur,",
+          "es Haraldr of hafi",
+          "sveltar valdreyra,",
+          "en verar þeira bræði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Hafnaði Hólmrygjum",
+          "ok Hörða meyjum,",
+          "hverri hinni Heinversku",
+          "ok Hölga ættar",
+          "konungr hinn kynstóri,",
+          "es tók konu danska.»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "[Valkyrja kvað:]",
+          "Hversu es fégjöfull",
+          "þeim es fold verja,",
+          "ítra ógnflýtir,",
+          "við íþróttarmenn sína?»"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "[Hrafn kvað:]",
+          "Mjök eru reifðir",
+          "rógbirtingar,",
+          "þeir's í Haralds túni",
+          "húnum of verpa;",
+          "féi eru gœddir",
+          "ok fögrum mækum,",
+          "málmi húnlenzkum",
+          "ok mani austrœnu."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Þá eru þeir reifir",
+          "es vitu rómu væni,",
+          "örvir upp at hlaupa",
+          "ok árar at sveigja,",
+          "hölmur at slíta",
+          "en hái at brjóta,",
+          "ríkula hykk þá vörru",
+          "þeysa at vísa ráði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "[Valkyrja kvað:]",
+          "At skalda reiðu vilk spyrja,",
+          "alls þykkisk skil vita:",
+          "greppa ferðir",
+          "munt görla kunna,",
+          "þeira's með Haraldi hafask."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "[Hrafn kvað:]",
+          "Á gerðum sér þeira",
+          "ok á gollbaugum",
+          "at eru í kunnleikum",
+          "við konung,",
+          "feldum ráða rauðum,",
+          "vel fagrrenduðum,",
+          "sverðum silfrvöfðum,",
+          "serkjum hringofnum,",
+          "gyldum andfetlum,",
+          "ok gröfnum hjálmum,",
+          "hringum handbærum,",
+          "es þeim Haraldr valði."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "[Valkyrja kvað:]",
+          "At berserkja reiðu",
+          "vilk spyrja,",
+          "bergir hræsævar,",
+          "hversu es fengit",
+          "þeim's í fólk vaða",
+          "vígdjörfum verum?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "[Hrafn kvað:]",
+          "Ulfheðnar heita,",
+          "þeir's í orrostum",
+          "blóðgar randir bera,",
+          "vigrar rjóða,",
+          "þás til vígs koma,",
+          "þeim's þar sýst saman.",
+          "Áræðismönnum [einum]",
+          "hygg þar undir felisk",
+          "skyli sá hinn skilvísi",
+          "þeim's í skjöld höggva."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "[Valkyrja kvað:]",
+          "At leikurum ok trúðum",
+          "hefk þik lítt fregit:",
+          "hverr es örgáti",
+          "þeira Andaðar",
+          "at húsum Haralds?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "[Hrafn kvað:]",
+          "At hundi elskar Andaðr",
+          "ok heimsku drýgir",
+          "eyrnalausum,",
+          "ok jöfur hlœgir.",
+          "Hinir 'ru ok aðrir,",
+          "es of eld skolu",
+          "brinnanda spán bera,",
+          "logöndum húfum",
+          "hafask und linda drepit,",
+          "hældræpir halir."
+        ],
+        "placeholder": false
+      }
+    ],
+    "ru": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Скальд:",
+          "Кольценосцы, внемлите,",
+          "покуда про Харальда,",
+          "искусств остриё,",
+          "расскажу, сверхбогатого.",
+          "О речах расскажу,",
+          "от девы услышанных,",
+          "белой, светловолосой,",
+          "что судила раз с вороном."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Видят мудрой валькирию,",
+          "мужи не милы ей,",
+          "очами сверкающей,",
+          "что голос птиц ведает.",
+          "Приветила белогорлая",
+          "небес крушителя,",
+          "на край присевшего",
+          "друзей защит:"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "Валькирия:",
+          "«Что с вами, вороны?",
+          "Откуда явились вы",
+          "с кровавыми клювами",
+          "в раннюю рань?",
+          "Плоть пристала к когтям,",
+          "из глотки вонь падали;",
+          "похоже, что были",
+          "в ночи вы у трупов."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Скальд:",
+          "Серопёрый встряхнулся",
+          "и клюв вытер.",
+          "Орла побратим,",
+          "так он ответствовал:",
+          "Ворон:",
+          "«За Харальдом следовали,",
+          "за сыном Хальвдана,",
+          "наследником юным,",
+          "с тех пор, как вылупились."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "Ведом, я думал,",
+          "тебе конунг с Квиннара,­",
+          "предводитель норвежцев,",
+          "что килями правит,",
+          "кровавым шпангоутом,",
+          "щитами червлёными,",
+          "cмолёными вёслами,",
+          "штормовыми палатками."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Коль то в его воле —",
+          "в море Йоль встретит,",
+          "воевода отважный,",
+          "в игры Фрейра сыграет.",
+          "С младу дым не любил",
+          "и в стенах просиживать,",
+          "тёплое гнёздышко,",
+          "иль пуховые варежки."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Слыхали в Хаврсфьорде,",
+          "как бился там конунг",
+          "высокого рода",
+          "с Кьётви Богатым.",
+          "Кнорры с востока",
+          "жаждали битвы —",
+          "с пастями разверстыми,",
+          "с резными штевнями."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "Бойцы были свалены",
+          "кучею с копьями,",
+          "щитами белыми,",
+          "мечами вальскими.",
+          "Ревели берсерки,",
+          "кончалась битва,",
+          "ульвхедины выли,",
+          "потрясая железом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Испытали правящего,",
+          "что сбегать их выучил,",
+          "властелина восточных",
+          "людей из Утстейна.",
+          "Стронул Нёккви коня",
+          "пучины пред боем,",
+          "щиты грохотали,",
+          "доколь не пал Хакланг."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "Пред Косматым тошно",
+          "стало править краем,",
+          "вождь толстовыий",
+          "щитом взял остров.",
+          "Под палуб скамьи",
+          "нырнули раненые,",
+          "хребты склонили",
+          "носами к килям."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "На спине сверкало,",
+          "колотили камни",
+          "кровлю залов Свавнира",
+          "у благоразумных.",
+          "Струсили восточники,",
+          "ринулись от Ядара",
+          "к дому из Хаврсфьорда,",
+          "грезя выпить мёду."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "В песок легли павшие,",
+          "данью одноглазому",
+          "гостю Фригг объятий,",
+          "что рад был подвигу."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Иных получат",
+          "рабыни Рагнхильд,",
+          "дисы надменные,",
+          "мужей к застольям,",
+          "чем рыси боя,",
+          "что крови сражённых",
+          "от Харальда жаждали:",
+          "их насытили павшие."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "Отверг холмрюгских",
+          "и хёрдских дев,",
+          "всех в Хадаланде",
+          "и Хельги рода",
+          "вождь благородный,",
+          "жену взяв датскую."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "Валькирия:",
+          "Сколь щедр на золото",
+          "с земли защитою,",
+          "на битву скорый —",
+          "к своим умельцам?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "Ворон:",
+          "Многим одаривал",
+          "смелых воителей,",
+          "в подворье Харальда",
+          "в хнеттавль играющих:",
+          "богатством копий,",
+          "мечей прекрасных,",
+          "металлом гуннов,",
+          "с востока девами."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Тогда им радость,",
+          "когда ждут битв,",
+          "вскочить готовы",
+          "и вёсла гнуть,",
+          "ремни срывая,",
+          "крушить уключины:",
+          "мню, мощно пенят",
+          "вал князя волею."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "Валькирия:",
+          "Спрошу про скальдов,",
+          "про всё, знать, знающих:",
+          "поэтам конунга",
+          "походы ведомы,",
+          "раз были с Харальдом»."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "Ворон:",
+          "По наряду заметно их",
+          "и по кольцам из золота,",
+          "что друзья они конунгу.",
+          "Плащами владеют",
+          "красными,",
+          "красивыми, полосатыми;",
+          "мечи, серебром обвитые,",
+          "рубахи кольцеплетёные,",
+          "клинков дорогие перевязи,",
+          "и шлемы, все изузорены,",
+          "запястий обручья ценные,",
+          "что выбраны для них",
+          "Харальдом."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "Валькирия:",
+          "Спрошу про берсерков,",
+          "рек трупов бражников:",
+          "в войска готовы ли",
+          "мужей отважнейших",
+          "ворваться яростно?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "Ворон:",
+          "Зовут волчьешкурыми",
+          "тех, что кровавый",
+          "щит в сечу несут,",
+          "в сраженьи окрашенный,",
+          "когда идут в бой,",
+          "где дерутся плеч-о-плеч.",
+          "Только таким отважным,",
+          "думаю, доверяется,",
+          "князь, их видавший в битве,",
+          "щиты врагов разрубающих."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "Валькирия:",
+          "И про потешников",
+          "спрошу я коротко:",
+          "как развлекаются",
+          "фигляры с Андадом",
+          "в хоромах Харальда?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "Ворон:",
+          "Пса обожает",
+          "Андад безухого,",
+          "глупости множит",
+          "и тешит конунга.",
+          "Есть и другие,",
+          "что над огнём",
+          "лучины несут",
+          "в шляпах пылающих",
+          "и пинки получают,",
+          "пинков достойные."
+        ],
+        "placeholder": false
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "type": "stanza",
+        "number": "1.",
+        "lines": [
+          "Hearken, ye ring-bearers, while of Harold I tell you,",
+          "the mightily wealthy, and his manful war-deeds;",
+          "words I o’erheard a maiden high-minded speaking,",
+          "golden-haired, white-armed, with a glossy-beaked raven."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "2",
+        "type": "stanza",
+        "number": "2.",
+        "lines": [
+          "Wise thought her the valkyrie; were welcome never",
+          "men to the bright-eyed one, her who birds’ speech knew well.",
+          "Greeted the light-lashed maiden, the lily-throated woman,",
+          "the Hymir’s-skull-cleaver as on cliff he was perching."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "3",
+        "type": "stanza",
+        "number": "3.",
+        "lines": [
+          "How is it, ye ravens— whence are ye come now",
+          "with beaks all gory, at break of morning?",
+          "Carrion-reek ye carry, and your claws are bloody.",
+          "Were ye near, at night-time, where ye knew of corpses?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "4",
+        "type": "stanza",
+        "number": "4.",
+        "lines": [
+          "Shook himself the dun-hued one, and dried his beak,",
+          "the eagle’s oath-brother, and of answer bethought him:",
+          "Harold we follow, Halfdan’s first-born,",
+          "I the young Yngling, since out of egg we crept."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "5",
+        "type": "stanza",
+        "number": "5.",
+        "lines": [
+          "That king thou knowest, him who at Kvinnar dwelleth,",
+          "the hoard-warder of North men, who has hollow war-ships",
+          "with reddish ribs and with reddened war-shields,",
+          "with tarred oar-blades and with tents foam-besprinkled."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "6",
+        "type": "stanza",
+        "number": "6.",
+        "lines": [
+          "Fain outside would he drink the ale at Yule-tide,",
+          "the fight-loving folk-warder, and Frey’s-game play there.",
+          "Even half-grown, he hated the hearthfire cozy,",
+          "the warm women’s room, and the wadded down-mittens."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "7",
+        "type": "stanza",
+        "number": "7.",
+        "lines": [
+          "Hearken how the high-born one in the Hafrs-firth fought there,",
+          "the keen-eyed king’s son, against Kiotvi the wealthy:",
+          "came the fleet from the eastward, eager for fighting,",
+          "with gaping figureheads and graven ship-prows."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "8",
+        "type": "stanza",
+        "number": "8.",
+        "lines": [
+          "They were laden with franklins and lindenshields gleaming,",
+          "with Westland spearshafts and with Welsh broadswords.",
+          "The berserkers bellowed as the battle opened,",
+          "the wolf-coats shrieked loud and shook their weapons."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "9",
+        "type": "stanza",
+        "number": "9.",
+        "lines": [
+          "Their strength would they try, but he taught them to flee,",
+          "the lord of the Eastmen23 who at Útstein dwelleth.",
+          "The steeds-of-Nokkvi he steered out when started the battle.",
+          "Then boomed the bucklers ere a blow felled Haklang."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "10",
+        "type": "stanza",
+        "number": "10.",
+        "lines": [
+          "The thick-necked atheling behind the isle took shelter:",
+          "he grew loath, against Lúfa to hold the land of his fathers.",
+          "Then hid under benches, and let their buttocks stick up,",
+          "they who were wounded, but thrust their heads keelward."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "11",
+        "type": "stanza",
+        "number": "11.",
+        "lines": [
+          "Their shoulders shielded the shifty heroes—",
+          "were they showered with slung-shot— with the shingles-of-Gladhome.",
+          "Home from Hafrs-firth hastened they eastward,",
+          "fled by way of Iathar, of ale-cups thinking."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "12",
+        "type": "stanza",
+        "number": "12.",
+        "lines": [
+          "On the gravel lay the fallen, given to the one-eyed",
+          "husband of Fulla; were we33 fain of such doings."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "13",
+        "type": "stanza",
+        "number": "13.",
+        "lines": [
+          "Of more and other things shall the maids of Ragnhild,",
+          "the haughty women-folk, now have to gabble",
+          "than of the heath-dwellers which Harold not ever",
+          "feasted on the fallen, as their friends had done oft."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "14",
+        "type": "stanza",
+        "number": "14.",
+        "lines": [
+          "The high-born liege-lord took the lady from Denmark—",
+          "broke with his Rogaland sweethearts and their sisters from Horthaland,",
+          "with those from Heithmork and Hálogaland eke."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "15",
+        "type": "stanza",
+        "number": "15.",
+        "lines": [
+          "THE VALKYRIE:",
+          "Whether is open-handed he-who-hastens-the-battle,",
+          "to those who fend faithfully foemen from his homeland?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "16",
+        "type": "stanza",
+        "number": "16.",
+        "lines": [
+          "THE RAVEN:",
+          "With much goods are gladdened the gallant warriors,",
+          "who in the hall of Harold while the time with chess-play:",
+          "with much wealth he rewards them, and with well-forged broadswords,",
+          "with gold from Hunland40 and with girls from the Eastfolks."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "17",
+        "type": "stanza",
+        "number": "17.",
+        "lines": [
+          "Most happy are they when there is hope for battle,",
+          "all ready to rouse them and to row strongly,",
+          "so as to snap the thongs and to sunder the thole-pins,",
+          "to churn the brine briskly at the beck of their liege-lord."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "18",
+        "type": "stanza",
+        "number": "18.",
+        "lines": [
+          "THE VALKYRIE:",
+          "Of the skalds’ lot would I ask thee, since thou skill of that boastest:",
+          "how the bards fare there thou full well knowest—",
+          "they who are in Harold’s hall."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "19",
+        "type": "stanza",
+        "number": "19.",
+        "lines": [
+          "THE RAVEN:",
+          "Is seen from their raiment and their red-gold finger-rings",
+          "that a kind king they have.",
+          "Red fur-cloaks own they, most fairly bordered,",
+          "swords wound with silver, and sarks ring-woven,",
+          "gilded baldricks and graven helmets,",
+          "heavy gold bracelets which Harold bestowed on them."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "20",
+        "type": "stanza",
+        "number": "20.",
+        "lines": [
+          "THE VALKYRIE:",
+          "Of the berserkers’ lot would I ask thee, thou who batten’st on corpses:",
+          "how fare the fighters who rush forth to battle,",
+          "and stout-hearted stand ’gainst the foe?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "21",
+        "type": "stanza",
+        "number": "21.",
+        "lines": [
+          "THE RAVEN:",
+          "Wolf-coats are they called, the warriors unfleeing,",
+          "who bear bloody shields in battle;",
+          "the darts redden where they dash into battle",
+          "and shoulder to shoulder stand.",
+          "T is men tried and true only, who can targes shatter,",
+          "whom the wise war-lord wants in battle."
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "22",
+        "type": "stanza",
+        "number": "22.",
+        "lines": [
+          "THE VALKYRIE:",
+          "Of Andath and all his ilk, too, have I asked thee but little:",
+          "how fare the fiddlers, how fare the jugglers",
+          "in the halls of Harold?"
+        ],
+        "placeholder": false
+      },
+      {
+        "id": "23",
+        "type": "stanza",
+        "number": "23.",
+        "lines": [
+          "THE RAVEN:",
+          "His earless dog does your Andath fondle;",
+          "the churl with his fool-tricks makes the folk-warder chuckle.",
+          "Yet be there others who about the fire",
+          "bowls of hot wine bear;",
+          "their flapping fools’-caps they tuck fast in their belts—",
+          "fellows you’re free to kick."
+        ],
+        "placeholder": false
+      }
+    ]
+  }
+}
