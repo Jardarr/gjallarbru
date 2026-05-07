@@ -43,6 +43,9 @@ yarn-error.*
 *.p12
 *.key
 *.mobileprovision
+*.keystore
+*android/app/*.keystore
+*android/app/*.jks
 
 # misc
 .kotlin/
